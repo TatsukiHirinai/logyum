@@ -1,0 +1,1 @@
+Maman qui attend son fils en vain, celui-ci étant parti à la guerre avec l'armée Moorhienne, elle apprend sa mort sur un tableau de sa ville, désespérée et déprimée elle décide de lancer une manifestation dans le palais impérial, début d'un procès impérial x peuple.

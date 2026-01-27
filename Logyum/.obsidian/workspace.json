@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Article Faune.md",
+                "file": "Idées non rangées.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article Faune"
+              "title": "Idées non rangées"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -185,10 +185,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0b9f33ea455a4c71",
+  "active": "21b8251cf653894c",
   "lastOpenFiles": [
-    "Template/Article Faune.md",
-    "Template",
-    "Welcome.md"
+    "Science et magie.md",
+    "Idées non rangées.md",
+    "Projets/Projets.md",
+    "Projets/Jeu casino Ombros.md",
+    "Projets/Demineur X City Builder.md",
+    "Projets/JDR/Jeu de rôle.md",
+    "Projets/JDR/Campagnes/Campagne n°1 La terre des esprits.md",
+    "Projets/JDR/Campagnes/Campagne α ça vole pas une ville !.md",
+    "Projets/JDR/Campagnes/Campagne β Lheiren, l’arbre sacrée.md",
+    "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
+    "Projets/JDR/Campagnes/Campagne δ On a volé notre science !.md",
+    "Projets/JDR/Campagnes/Campagne ε Une nouvelle chance.md",
+    "Projets/JDR/Campagnes/Campagne ζ Les grottes bleus.md",
+    "Projets/JDR/Personnages Joueurs/Lheiraan Velnor.md",
+    "Projets/JDR/Personnages Joueurs/Cβ Personnages Joueurs.md",
+    "Projets/JDR/Joueurs/Sans titre.md",
+    "Projets/JDR/Sorts/Soul of the Storm Giant 280f2dd69f9680b1ab4cfa9e63b7206b.md",
+    "Projets/JDR/Sorts/Telekinetic 280f2dd69f9680a7906ad284325a8120.md",
+    "Projets/JDR/Sorts/Sorts.base",
+    "Projets/JDR/Sorts/Revivify 287f2dd69f9681a5a34ec86701c58b7b.md",
+    "Projets/JDR/Sorts/Resilient 280f2dd69f9680eb9eb8caf9162b2563.md",
+    "Projets/JDR/Sorts/Lucky 280f2dd69f968095838fd0c6753d27a3.md",
+    "Projets/JDR/Sorts/Mage Slayer 280f2dd69f96808ebe76d443cbce3bff.md",
+    "Projets/JDR/Sorts/Fury of the Frost Giant 280f2dd69f96800587a4ff4e78f3afad.md",
+    "Projets/JDR/Sorts/Crossbow Expert 280f2dd69f96802982bff3903fc7cc55.md",
+    "Projets/JDR/Sorts/Athlete.md",
+    "Projets/JDR/Sorts/Actor.md",
+    "Projets/JDR/Personnages Joueurs",
+    "Images/image.png",
+    "Projets/JDR/Campagnes",
+    "Projets/JDR",
+    "Projets/JDR/Sorts",
+    "Projets/Spells 287f2dd69f968041bca8d22cefc93978_all.csv",
+    "Projets/Spells 287f2dd69f968041bca8d22cefc93978.csv",
+    "Projets/Feats 270f2dd69f9680adb82bc40cee777531_all.csv",
+    "Projets/Feats 270f2dd69f9680adb82bc40cee777531.csv",
+    "Google Keep/Assets/image.png",
+    "Google Keep/Assets",
+    "Images/AD_4nXcLWhGvkyTCWWXGeJhzCMqQiJjf6mAKmM97b13_ALyZYsL5YKWlN21DjiSrgn_ZKExdcoaCa-Mof1ADS3wLV_KAn9hyUVvr9HUphKAj0KclwvUX8R4yBKvUaRiTXl7ljU62T8SlY2r_4sPYgLxvUQQtfHCT.png",
+    "Images/AD_4nXfbafCWZP1XS8xoHbxSduj_32HocsoEEUKc236b4asH581jnZau6-ZCc-A7peHEcv7xjMtGnionsZ_Un_-diZ4SFKva2Y2eZA6QgpBqW3ZKDwUTWq8sEiHLQDwF7RnuCdhDf6VEMJSelu2yITTzanjxCYpf.png",
+    "Images/AD_4nXf6VyULiugTqKBAhGLscwfV0_9CFnrFAjMdSP6T4uw1go96nSyXnhoNsX2MwaYAXwbeYb8uLKOAFl54DhMbkpmN8K8aAbL6aR9SX2ZReniNfogxc0utoWqTx2jBkKJf2BKR08qx4QINnsOEfh9vDiAVBjE.png",
+    "Images/AD_4nXfLno5QvA5AaDEMKfgw8MX0s_1RyhhD5gh0mOEUn2Gj3Hf7vf2GHVm4k8KGu-GSxDhsxoDlAq2ZY9BesaQQLwQhAebCd-8nyDypYF4TRLr9pGv2WHuVD0RU8S4-zYzUhW1iCDzHA_mZCAKiV-_Hs1oXLSnK.png",
+    "Images/nakkardas_female.png",
+    "Images/nakkardas_male.png",
+    "Images/nokkardes_female.png",
+    "Images/nokkardes_male.png"
   ]
 }

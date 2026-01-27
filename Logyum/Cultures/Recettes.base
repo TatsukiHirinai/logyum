@@ -1,0 +1,23 @@
+filters:
+  and:
+    - note["base"] == link("Recettes.base")
+properties:
+  file.name:
+    displayName: Nom
+  Type:
+    displayName: Type
+  Apparition:
+    displayName: Apparition
+  Ingredients:
+    displayName: Ingredients
+  Origine:
+    displayName: Origine
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Type
+      - Apparition
+      - Ingredients
+      - Origine

@@ -1,0 +1,1 @@
+Un nakkardas qui devient bestiale à cause d’un produit qu’on lui injecte. Il n’arrive pas à comprendre ce qui lui arrive, Dr. Jekyll et Mr. Hyde un peu. il chasse ses proies en les fatiguant, il chasse n’importe qui. Il devient une rumeur d’une région, ce qui le rend encore plus schizophrène et paranoïaque car il pense que tout le monde sait que c’est lui.

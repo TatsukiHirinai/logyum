@@ -1,0 +1,1 @@
+Un protecteur prophète pète un câble et essaye de détruire tout les prophètes, car ils sont l'hérésie du temps, leurs objectifs étant de le manipuler pour aller dans le futur, il a mis à feu et à sang la cité principale, mais fut arrêté par sa femme qui la tua dans son sommeil, ses suiveurs furent arrêté et juger, ils seront enfermés dans les geôles éternel du temps.

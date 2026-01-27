@@ -1,0 +1,93 @@
+X kidnapping = -12 rayons avant l'ère 6
+
+X libération = +3 halos après l'ère 6
+
+X formation de la guilde = +7 halos après l'ère 6
+
+M formation du groupe = -3 rayons avant l'ère 7
+
+### **Arbre généalogique**
+
+A(d), B(d) => [X]
+
+[X], Y(d) => [Z](d), G
+
+[Z](d), R => V, B(d)
+
+G, J(d) => [T]
+
+B(d), H => U
+
+[T], I => [M]
+
+[] : chef de guilde
+
+(d) : mort avant l'ère 7
+
+A : Velma Karnam, fe, nokkardas (bp), mère de Ferhin, forgeronne
+
+B : Felken Tavimin, ho, nokkardas (bp), père de Ferhin, mineur chevronné
+
+<<<<
+
+X : Ferhin Karnaavimin, fe, nokkardas (bp), fondatrice des sabres de Yul (S6)7R
+
+<Y : Kaalor Jethon, ho, nokkardes (mp)
+
+Z : Nektan Karnaavimin, ho, nokkardes (mp), 2e chef de guilde (S6)47R, mort à 59r (S6)92R
+
+<R : Meigha Okarin, fe, nakkardas (pp)
+
+G : Milim Jethon, ho, nokkardas (bp)
+
+<J : Dhoa Belamar, fe, nokkardes (mp), mort à 88r (S6)120R
+
+V : Tevnar Karnaavimin, ho, nokkardes (mp)
+
+B : Bhossia Okarin, fe, nokkardes (mp), mort à 46r (S6)111R
+
+<H : Velnak Mothon, ho, nakkardas (pp)
+
+T : Glent Belamar, ho, nokkardes (mp), 3e chef de guilde (S6)92R => dissolution (S6)114R, détestait son père
+
+<I : Mieva Lhomak, fe, nakkardas (pp)
+
+U : Tarnel Mothon, ho, nakkardas (pp)
+
+M : Rhonam Belamar Karnaavimin, fe, nokkardas (bp), 4e chef de guilde (S6)126R, elle rajoute toujours le nom de son arrière grand mère pour la symbolique
+
+(S6) 3R   : X 23r
+
+(S6) 33R  : X 53r  -> Z 0r
+
+(S6) 35R  : X 55r  -> Z 2r                          + G 0r
+
+(S6) 65R  : X 85r  -> Z 32r (V 00r + B 00r)         + G 30r
+
+(S6) 76R  : X 96r  -> Z 43r (V 11r + B 11r)         + G 41r (T 00r)
+
+(S6) 92R  : X 112r -> Z 59r (V 37r + B 37r [u 00r]) + G 57r (T 16r)
+
+(S6) 106R : X 126r -> Z Die (V 41r + B 41r [u 14r]) + G 71r (T 30r [m 00r])
+
+(S6) 126R : X 146r -> Z Die (V 61r + B Die [u 34r]) + G 91r (T 50r [m 20r])
+
+() -> gen2, [] --> gen3
+
+Karnaavimin est le nom de famille créé par Ferhin. Quand elle fut kidnappée à ses 8r, elle portait le nom de sa mère, Karnam. Mais lorsqu'à ses 20 rayons elle se libéra, c'était le moment de choisir son nom. Alors, ne voulant pas effacer de l'histoire les noms de familles de ses parents, elle décida de fusionner les deux. Karnam pour sa mère et Tavimin pour son père, ce qui donne Karnaavimin, elle se présentera depuis toujours comme Ferhin Karnaavimin, fille de Velma Karnam et de Felken Tavimin.
+
+### L’histoire
+
+Ferhin, une femme nokkardas voit son village se faire anéantir par un groupe de sans-cornes contrôlant des esprits. Elle fut capturée et esclavagée, car son espèce est très rare. Après 12 rayons de torture et de servitude auprès des sans-cornes, elle rencontre un homme nokkardas, fraîchement capturé. Après quelques mois, ensemble, ils ébauchent un plan pour se libérer. Dans le camp, il y a une cloche protégée par deux sans-cornes 24h/24h, mais durant le roulement de garde un passage de 30 secondes est faisable. Ils ne savent pas ce qui est gardé, mais il est dit que c'est une arme.
+
+La nuit du passage à l'acte, tout ne se passe pas comme prévu, les gardes sont là plus tôt, ce qui fait que l'homme Nokkardas se fait tuer devant elle, mais dans un dernier effort, il fait tomber la cloche au sol, ce qui la fend. Les sans-cornes semblent effrayer et commencent à crier pour de l'aide. Ferhin saute sur l'occasion et s'approche de la cloche pour asséner un coup de pied qui brise la cloche. Une vague magique puissante repoussa tout le monde en arrière. Ferhin, au sol, apeurée par ce qui était devant elle. Un esprit d'un guerrier légendaire nokkardes apparut devant elle. Le guerrier semblait libéré d'une étreinte et prêt à en découdre contre ses assaillants. Il remarqua la nokkardas au sol et vint lui offrir un marché, car il ne pouvait atteindre que son plein potentiel sous forme physique. Le marché fut le suivant, il lui offrait sa force et elle devait libérer toutes ces âmes de leurs tourments. Elle accepta sans réfléchir, et commença par se déchaîner dans le camp pour venger son ami. Afin de répondre à la demande de l'esprit, elle forma une guilde : les sabres de Yul. Yul étant le nom de l'esprit guerrier.
+
+Trois générations (123 rayons) passèrent, plus de 95% des esprits furent renvoyés, il restait un groupuscule de sans-cornes traînant dans les alentours de la capitale. Ce dernier groupe pourrait permettre à Yul de remettre la main sur son frère. Les sabres de Yul s'étaient dissous il a de ça 10 rayons, mais sous la contrainte de Yul, une des descendantes de Ferhin, Rhonam Belamar Karnaavimin, reforma un tout petit groupe, avec les plus puissants guerriers de la guilde lors de sa dissolution. Après trois rayons de recherche, ils trouvèrent enfin l'île céleste et à l'aide du dernier groupuscule Sans Cornes, les sabres de Yul recomposés, passèrent un portail les menant directement sur l'île céleste.
+
+Le dernier groupuscule était éloigné des prétentions de ses prédécesseurs. Ils étaient "passif", aider les Sabres de Yul est un petit pas vers une rédemption. Un combat rude et sans merci s'engagea contre le Cercle de la sève. Rhonam s'occupa de leur leader, confirmé être le traître de frère de Yul. Le combat se termina lorsque Rhonam dans un dernier élan, brisa la goutte de sève cristallisée. L'île céleste, n'ayant plus de source d'énergie, s'écrasa, mais Yul et son frère continuèrent de se battre. Yul comprit qu'ils étaient dans les derniers esprits existant sur ce plan, ce qui n'était pas bon signe. Lorsqu'une sorte de brèche apparut à côté d'eux et qu'une main immense s'en dégagea, Yul vint tenir son frère le plus fermement possible. La main les attrapa tous les deux, les écrasant même, et s'engouffra dans la brèche comme si de rien n'était.
+
+Malgré ce qu'on pourrait penser, Rhonam est toujours vivante. Lorsqu'elle brisa la goutte de sève dans son dernier élan, elle s'effondra au sol juste à côté. Dans la chute de l'île, une petite goutte de sève tomba sur son œil. Elle se réveilla hurlant de douleur mais elle n'était plus sur l'île, son œil était devenu aveugle. En se retournant, elle pu observer l'île tomber, fendant les nuages. Par instinct de survie, elle courut loin, elle se sentait bizarrement plus rapide et plus endurante. La sève, au prix d'une brûlure, lui permit d'absorber encore plus de lumière et plus efficacement, d'où l'obsession pour le Culte de la Sève envers elle. Seulement, les effets s'estompent.
+
+### La scène en animation
+
+[[NOTION_PAGE:25bf2dd6-9f96-80a9-b4b0-db84ae82caea]] 
