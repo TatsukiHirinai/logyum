@@ -1,43 +1,24 @@
-> [!note]+ # Régions
-> ## Storz Vulkano
-> 
-> (les grandes îles volcans)
-> 
-> Archipel manhund
-> 
-> [[Storz Vulkano]]
-> 
-> ## Speita
-> 
-> Territoire des felire
-> 
-> [[Speita]]
-> 
-> ## Moorhi
-> 
-> Territoire des nakkard
-> 
-> [[Moorhi]]
-> 
-> [[Karnaa]]
-> 
-> ## Seimori
-> 
-> Territoire des ogahon
-> 
-> [[Seimori]]
-> 
-> ## Sol-Or
-> 
-> territoire des marcadur
-> 
-> passé en île céleste à cause du cercle de la sève
-> 
-> puis effondré en plein de morceau autour de son ancien trou
-> 
-> [[Sol-Or]]
-> 
-> [[Kaorim]]
+# Régions
+## Storz Vulkano
+(les grandes îles volcans)
+Archipel manhund
+[[Storz Vulkano]]
+## Speita
+Territoire des felire
+[[Speita]]
+## Moorhi
+Territoire des nakkard
+[[Moorhi]]
+[[Karnaa]]
+## Seimori
+Territoire des ogahon
+[[Seimori]]
+## Sol-Or
+territoire des marcadur
+passé en île céleste à cause du cercle de la sève
+puis effondré en plein de morceau autour de son ancien trou
+[[Sol-Or]]
+[[Kaorim]]
 
 # Océans
 

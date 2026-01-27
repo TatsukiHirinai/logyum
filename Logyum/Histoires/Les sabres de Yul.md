@@ -8,19 +8,19 @@ M formation du groupe = -3 rayons avant l'ère 7
 
 ### **Arbre généalogique**
 
-A(d), B(d) => [X]
+A(d), B(d) =>  -X
 
-[X], Y(d) => [Z](d), G
+X, Y(d) =>  -Z(d), G
 
-[Z](d), R => V, B(d)
+-Z(d), R => V, B(d)
 
-G, J(d) => [T]
+G, J(d) => -T
 
 B(d), H => U
 
-[T], I => [M]
+-T, I => M
 
-[] : chef de guilde
+"-" : chef de guilde
 
 (d) : mort avant l'ère 7
 
@@ -66,11 +66,11 @@ M : Rhonam Belamar Karnaavimin, fe, nokkardas (bp), 4e chef de guilde (S6)126R, 
 
 (S6) 76R  : X 96r  -> Z 43r (V 11r + B 11r)         + G 41r (T 00r)
 
-(S6) 92R  : X 112r -> Z 59r (V 37r + B 37r [u 00r]) + G 57r (T 16r)
+(S6) 92R  : X 112r -> Z 59r (V 37r + B 37r u 00r) + G 57r (T 16r)
 
-(S6) 106R : X 126r -> Z Die (V 41r + B 41r [u 14r]) + G 71r (T 30r [m 00r])
+(S6) 106R : X 126r -> Z Die (V 41r + B 41r u 14r) + G 71r (T 30r m 00r)
 
-(S6) 126R : X 146r -> Z Die (V 61r + B Die [u 34r]) + G 91r (T 50r [m 20r])
+(S6) 126R : X 146r -> Z Die (V 61r + B Die u 34r) + G 91r (T 50r m 20r)
 
 () -> gen2, [] --> gen3
 
@@ -89,5 +89,4 @@ Le dernier groupuscule était éloigné des prétentions de ses prédécesseurs.
 Malgré ce qu'on pourrait penser, Rhonam est toujours vivante. Lorsqu'elle brisa la goutte de sève dans son dernier élan, elle s'effondra au sol juste à côté. Dans la chute de l'île, une petite goutte de sève tomba sur son œil. Elle se réveilla hurlant de douleur mais elle n'était plus sur l'île, son œil était devenu aveugle. En se retournant, elle pu observer l'île tomber, fendant les nuages. Par instinct de survie, elle courut loin, elle se sentait bizarrement plus rapide et plus endurante. La sève, au prix d'une brûlure, lui permit d'absorber encore plus de lumière et plus efficacement, d'où l'obsession pour le Culte de la Sève envers elle. Seulement, les effets s'estompent.
 
 ### La scène en animation
-
-[[NOTION_PAGE:25bf2dd6-9f96-80a9-b4b0-db84ae82caea]] 
+[[Une dernière goutte]]

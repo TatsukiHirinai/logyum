@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookA",
       "LiLayoutTemplate",
       "LiTemplaterIcon",
       "LiBoxes",
-      "LiImages",
-      "LiNotebookText"
+      "LiImages"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,10 +43,10 @@
   "Races": "LiStar",
   "Religions": "LiScrollText",
   "Topologies": "LiMap",
-  "Glossaire.md": "LiBookA",
   "Meta.md": "LiBookmark",
   "Idées non rangées.md": "LiNotebookText",
   "Images": "LiImages",
   "Projets": "LiBoxes",
-  "Template": "LiLayoutTemplate"
+  "Template": "LiLayoutTemplate",
+  "Glossaire": "LiBookA"
 }

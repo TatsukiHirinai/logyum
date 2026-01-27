@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta.md",
+                "file": "Glossaire/Glossaire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meta"
+              "title": "Glossaire"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,38 +74,16 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "24c56c31d7599a24",
     "type": "split",
     "children": [
-      {
-        "id": "c2b5fb6be5a05d94",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c3a3a7e1c5098e8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Mots-clés"
-            }
-          }
-        ]
-      },
       {
         "id": "17b7b199f159056b",
         "type": "tabs",
@@ -116,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Glossaire/Glossaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rétrolien pour Glossaire"
             }
           },
           {
@@ -155,8 +134,7 @@
               "title": "Toutes les propriétés"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,57 +152,56 @@
       "publish:Publier les modifications": false,
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "0632e36caa0ce535",
+  "active": "6331c5f2a7f58738",
   "lastOpenFiles": [
-    "Projets/JDR/Personnages Joueurs/Yuzuki Morinochi.md",
+    "définition.md",
+    "Glossaire/Glossaire.md",
+    "Chronologies/Ère 14.md",
+    "Chronologies/Ère 15.md",
+    "Chronologies/Ère 13.md",
+    "Chronologies/Ère 11.md",
+    "Chronologies/Ère 1.md",
+    "Chronologies/Chronologies.md",
+    "Projets/JDR/Campagnes/Campagne n°1 La terre des esprits.md",
+    "Chronologies/Ère 9.md",
+    "Chronologies/Ère 8.md",
+    "Glossaire/Moorhi.md",
+    "Glossaire/Yarthum.md",
+    "Idées non rangées.md",
+    "Glossaire",
+    "[Moorhi.md",
+    "Races/Ogahon.md",
+    "Races/Nakkard.md",
+    "Races/Marcadur.md",
+    "Races/Manhund.md",
+    "Races/Felire.md",
+    "Religions/Silvaren.md",
+    "Religions/Shinseishi.md",
+    "Religions/Croyances Marcadur.md",
+    "Science et magie.md",
+    "Meta.md",
     "Images/yuzuki_morinochi.png",
     "Images/yuzuki_morinochi.png",
     "Images/Race/manhund_female.png",
     "Cultures/Recettes.base",
-    "Histoires/Histoire random n°6.md",
     "Images/Faune/nom_a_determiner_2.png",
-    "Histoires/Histoire random n°5.md",
     "Images/Faune",
     "Images/Flore",
-    "Histoires/Histoire random n°9, Le frère déserteur.md",
     "Images/Race/felire_female.png",
-    "Histoires/Histoire random n°3.md",
     "Images/Race",
     "Images/Topographie",
     "Images/Race/nakkardas_female.png",
     "Images/Flore/fl_nom_a_determiner_2.png",
-    "Histoires/Histoire random n°10, La vérité.md",
-    "Nature/Faune/Mange-gravats.md",
-    "Nature/Faune/Nom à déterminer 3.md",
-    "Nature/Faune/Nom à déterminer 4.md",
-    "Nature/Faune/Nom à déterminer 2.md",
-    "Nature/Faune/Nom à déterminer 1.md",
-    "Nature/Faune/Nom à déterminer.md",
-    "Histoires/Les sabres de Yul.md",
     "Images/Faune/nom_a_determiner_4.png",
-    "Chronologies/Chronologies.md",
-    "2026-01-27.md",
-    "Chronologies/Ère 14.md",
-    "Chronologies/Ère 9.md",
-    "Chronologies/Ère 6.md",
-    "Chronologies/Ère 1.md",
-    "Glossaire.md",
-    "Idées non rangées.md",
-    "Meta.md",
-    "Science et magie.md",
-    "Projets/Projets.md",
-    "Projets/Jeu casino Ombros.md",
-    "Projets/Demineur X City Builder.md",
     "Projets/JDR/Sorts/Sorts.base",
     "Projets/JDR/Personnages Joueurs",
     "Projets/JDR/Campagnes",
     "Projets/JDR",
-    "Projets/JDR/Sorts",
     "Google Keep/Assets/image.png",
     "Images/Faune/nom_a_determiner_3.png"
   ]
