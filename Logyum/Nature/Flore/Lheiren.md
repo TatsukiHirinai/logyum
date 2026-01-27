@@ -1,6 +1,3 @@
----
-notion-id: 26ff2dd6-9f96-8079-9b7d-d65a0fd17433
----
 ### Description
 
 Lheiren est l’arbre sacrée des nakkard. Cette arbre est à l’origine un cadeau des aeter, l’artefact de Dominium Lux, la Graine de Lumière. De cette graine a commencé à pousser un arbre dont ses racines sont un réseau immense connecté à d’autres arbres.

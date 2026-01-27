@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-80c0-9ef8-e58eaa174a66
----
 
 description d’un voyageur en arrivant à Speita
 *"Speita… C'est assez spécial. J’y suis arrivé avec un ami et on s’est demandé tout de suite si on ne s’était pas trompé dans la route. Quand on a vu un felire courir après une machine qui fusait, ça nous a rassuré. C’est assez vide, le sol est dur comme de la roche et il n’y a que très peu de verdures. Les bâtiments sont vraiment hideux, avec des briques marron et des tuiles noires. Les nombreuses cheminées crachent toutes une fumée noire épaisse, ça obscurcit complètement l’horizon. Le pire, je pense que ce sont les gens, ils n’ont pas l’habitude de voir des étrangers, c’est souvent l’inverse en termes de visites normalement. Ils te dévisagent, te servent mal et ne te parlent pas. On dirait réellement qu’ils sont tous malheureux. Par contre, on se croirait être dans le futur, il y a des machines partout et ils certifient que ce n'est pas de la magie. En plus, ils semblent vraiment ne pas aimer qu'on leur dise le contraire. Avant de partir, un gamin m’a offert cette petite babiole, c’est une sorte de prédicteur de météo, il m’a dit qu’il venait de la fabriquer, mais qu’il ne gagnerait jamais un concours avec, je n'ai rien compris, mais ç'a l’air de fonctionner.*”

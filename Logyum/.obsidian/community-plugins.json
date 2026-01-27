@@ -2,5 +2,14 @@
   "templater-obsidian",
   "obsidian-importer",
   "obsidian-icon-folder",
-  "calendarium"
+  "calendarium",
+  "obsidian-5e-statblocks",
+  "dataview",
+  "obsidian-plugin-toc",
+  "obsidian-timeline",
+  "table-editor-obsidian",
+  "editing-toolbar",
+  "obsidian-linter",
+  "obsidian-style-settings",
+  "tag-wrangler"
 ]

@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-809c-a636-e6c2591a3fbe
----
 La Chaîne de Stigel est la chaine de montagne la plus connu du continent, ici vivent les manhund continentaux.
 
 → Durant l'Ère 3, une ville à Storz Vulkano.

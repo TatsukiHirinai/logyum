@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-8090-a3a4-e1bfc49ec4a1
----
 ### Description
 
 Nommé d'après leurs cris étranges, les proms sont des petits mammifères terriens herbivores. À l'âge adulte, les femelles pèsent dans les 15 kilos tandis que les mâles dans les 30. Les deux sexes sont aussi grands qu'un bébé nakkard, les femelles sont différentes de par leurs finesses, les mâles sont plus larges et "imposant". Leurs fourrures sont plutôt dans les teintes marrons pour pouvoir se camoufler parmi les arbres. Elles sont très légères et ont des poils courts et denses. Leurs viandes sont plutôt fortes et de mauvais goûts mais elles ne sont pas mauvaises pour votre santé. Ils vivent et se nourrissent dans les forêts denses, les femelles creusent des petits terriers pendant la période de reproduction et les mâles, ne pouvant pas y rentrer, gardent l'entrée. Ils se nourrissent de diverses plantes, comme de racines d'arbres fruitiers.

@@ -39,6 +39,6 @@ Yuzuki fut, dans son enfance, l’image même de la discipline et de la droiture
 Déterminée à se venger, elle prit seule la route du campement le plus proche des Sans-Cornes. À son arrivée, les gardes l’arrêtèrent et l’emprisonnèrent, c’était une enfant après tout, qu’est ce qu’elle pouvait faire. Mais le destin prit une tournure inattendue : lors d’un rituel d’invocation, l’esprit convoqué échappa au contrôle de ses maîtres et se déchaîna, massacrant le camp. Quand il atteignit la prison, l’entité s’arrêta devant la cellule de la fillette. Yuzuki, sans hésitation, lui proposa un marché : « Donne moi ta force pour anéantir les Sans-Cornes, et je t’offrirai tout ce que tu voudras. ». L’esprit accepta. Ils scellèrent leur pacte en nouant leurs petits doigts, comme deux enfants se promettant l’impossible.
 Dès lors, Yuzuki rejoignit l’école du clan du portail, où elle apprit leurs arts et développa un lien étroit avec l’esprit, désormais caché dans son corps. Aujourd’hui, mue par son objectif, elle rejoint une guilde d’aventuriers dans les terres de Moorhi — plus précisément à Cipt — prête à franchir chaque étape qui la rapprochera de sa vengeance.
 
-![image.png](image.png)
+![yuzuki_morinochi.png](yuzuki_morinochi.png)
 
 ## Notes de session JdR

@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-801b-b32e-fff842134c11
----
 > [!note]+ # Régions
 > ## Storz Vulkano
 > 

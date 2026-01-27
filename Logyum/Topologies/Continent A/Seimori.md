@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-8030-9d86-e06b71acd28f
----
 > [!note]+ ## Géographie
 > beaucoup de forêt
 

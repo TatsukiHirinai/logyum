@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-809f-87bf-d3869ba21e04
----
 > [!note]+ # Histoire & Origines
 > Les nakkard se sont très vite retrouvé dans des territoires assez chaud, ils apprécient la chaleur du soleil. Puis, de part leur volonté de s’unir, ils créèrent le royaume de Moorhi qui fut l’alliance de multiples clan ayant formé des territoires. La suite : [[Moorhi]] 
 

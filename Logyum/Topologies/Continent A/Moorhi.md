@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-80ba-895a-ded7c5ffad7e
----
 > [!note]+ # Géographie
 > ## Les provinces :
 > 

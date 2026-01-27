@@ -1,5 +1,4 @@
 ---
-notion-id: 299f2dd6-9f96-80cf-9e2a-f3776540effb
 base: "[[Recettes.base]]"
 Type: Omnivore
 Apparition: Ère 4

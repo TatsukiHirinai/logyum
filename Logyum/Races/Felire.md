@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-80ab-9963-f45b10387fc1
----
 > [!note]+ # Histoire & Origines
 > Les felire se sont très vite détachés des autres peuples, s'organisant alors dans un petit royaume gagné non pas par la guerre mais par un traité fait avec ses voisins. Les terres n'était pas assez fertile pour faire de l'agriculture, il y avait peu d'espèces d'animaux élevable, et les paysages n'attiraient pas. Tout cet ensemble fait que le traité fut très simplement accepté et ces terres furent gardé par les felire depuis.
 > 

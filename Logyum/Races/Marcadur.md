@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-809e-bdfa-e6a56348b319
----
 > [!note]+ # Histoire & Origines
 > Ils étaient un puissant empire économique, leur éloquence naturelle et leur bonne fortune les monta au sommet de la richesse. Mais un groupe arrogant de nakkard, le Cercle de la Sève, firent de leur territoire le leur. Ainsi, étant impuissant militairement, ils perdirent leur empire. Leur pays se fait emporter dans les cieux par cette secte et par la même, l'espoir d'avenir. Cet événement bouleversa tous les peuples et royaumes, ainsi, le premier accord international eu lieu. Chaque royaume devait accueillir un nombre proportionnel de réfugiés marcadur. De plus, afin de marquer l’événement dans l’histoire, un changement d’ère fut ordonné dans tous les calendriers du monde.
 

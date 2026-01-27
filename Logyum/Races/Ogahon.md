@@ -1,6 +1,3 @@
----
-notion-id: 24cf2dd6-9f96-80a3-bf5b-d372af5320eb
----
 > [!note]+ # Histoire & Origines
 > s'installe dans les forêts car humidité et peu de soleil leur plait, sont très vite reconnu comme menace par Moorhi,
 > Moorhi rentre en guerre avec eux pour récupérer les forêts pour le bois, Seimori réussit à maintenir leur territoires car armée Moorhienne peu puissant dans la foret (pb de lumière), Seimori fortifie les alentours des forets, beaucoup de mort Ogahon après des incendies de guerre
