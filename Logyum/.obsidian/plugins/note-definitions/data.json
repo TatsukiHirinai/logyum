@@ -11,12 +11,12 @@
     "autoPlurals": false
   },
   "defPopoverConfig": {
-    "displayAliases": false,
+    "displayAliases": true,
     "displayDefFileName": false,
     "enableCustomSize": false,
     "maxWidth": 150,
     "maxHeight": 150,
-    "popoverDismissEvent": "click",
+    "popoverDismissEvent": "mouse_exit",
     "enableDefinitionLink": true
   },
   "defFolder": "Glossaire"
