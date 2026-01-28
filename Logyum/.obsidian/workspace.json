@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaire/Glossaire.md",
+                "file": "définition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossaire"
+              "title": "définition"
             }
           }
         ]
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossaire/Glossaire.md",
+                "file": "définition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Glossaire"
+              "title": "Rétrolien pour définition"
             }
           },
           {
@@ -133,6 +133,36 @@
               "icon": "lucide-archive",
               "title": "Toutes les propriétés"
             }
+          },
+          {
+            "id": "9d7d7257e0205d9d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "425e088d96820da2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "définition.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de définition"
+            }
           }
         ]
       }
@@ -159,8 +189,25 @@
   },
   "active": "6331c5f2a7f58738",
   "lastOpenFiles": [
-    "définition.md",
     "Glossaire/Glossaire.md",
+    "définition.md",
+    "Nature/Créature mythique/Les Gardiens/Yarthum, l’âme.md",
+    "Nature/Créature mythique/Les Gardiens/X, le feu.md",
+    "Nature/Créature mythique/Les Gardiens/X, la trinité.md",
+    "Nature/Créature mythique/Les Gardiens/X, la sagesse.md",
+    "Nature/Créature mythique/Les Gardiens/X, l’ombre.md",
+    "Nature/Créature mythique/Les Gardiens/X, l’amour.md",
+    "Nature/Créature mythique/Nom à déterminer.md",
+    "Nature/Créature mythique/Les Gardiens/Les Gardiens.md",
+    "Nature/Créature mythique/Les Gardiens/Kulo, le métal.md",
+    "Nature/Créature mythique/Les Gardiens/Kraklar, la foudre.md",
+    "Nature/Créature mythique/Charyx le maudit.md",
+    "Nature/Créature mythique/Créature mythique 24cf2dd69f968096b41bea6066d63fd0.md",
+    "Projets/JDR/Personnages Joueurs/Cβ Personnages Joueurs.md",
+    "Nature/Créature mythique/Les Gardiens",
+    "Nature/Créature mythique",
+    "Idées non rangées.md",
+    "Science et magie.md",
     "Chronologies/Ère 14.md",
     "Chronologies/Ère 15.md",
     "Chronologies/Ère 13.md",
@@ -170,21 +217,7 @@
     "Projets/JDR/Campagnes/Campagne n°1 La terre des esprits.md",
     "Chronologies/Ère 9.md",
     "Chronologies/Ère 8.md",
-    "Glossaire/Moorhi.md",
-    "Glossaire/Yarthum.md",
-    "Idées non rangées.md",
     "Glossaire",
-    "[Moorhi.md",
-    "Races/Ogahon.md",
-    "Races/Nakkard.md",
-    "Races/Marcadur.md",
-    "Races/Manhund.md",
-    "Races/Felire.md",
-    "Religions/Silvaren.md",
-    "Religions/Shinseishi.md",
-    "Religions/Croyances Marcadur.md",
-    "Science et magie.md",
-    "Meta.md",
     "Images/yuzuki_morinochi.png",
     "Images/yuzuki_morinochi.png",
     "Images/Race/manhund_female.png",
@@ -200,8 +233,6 @@
     "Images/Faune/nom_a_determiner_4.png",
     "Projets/JDR/Sorts/Sorts.base",
     "Projets/JDR/Personnages Joueurs",
-    "Projets/JDR/Campagnes",
-    "Projets/JDR",
     "Google Keep/Assets/image.png",
     "Images/Faune/nom_a_determiner_3.png"
   ]

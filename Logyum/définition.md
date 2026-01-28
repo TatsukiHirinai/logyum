@@ -12,10 +12,10 @@ Cipt
 Corrompus
 La course aux esprits
 cycle
-dominium
-dominium atlas
-dominium lux
-dominium oculus
+Dominium
+Dominium Atlas
+Dominium Lux
+Dominium Oculus
 dicove
 drask
 éclat
@@ -29,7 +29,7 @@ flux
 garnok
 Graine de Lux
 Greimor
-Greimorien, Greimorienne
+greimorien, greimorienne
 halo
 hatch
 Horass

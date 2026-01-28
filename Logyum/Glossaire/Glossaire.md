@@ -293,3 +293,347 @@ n. masc. (plur. : voiles)
 
 n. p. (invar.)
 3. Créature mythique envoyé par les dieux pour protéger les ogahon. Il est un fennec maîtrisant l’anemomancie.
+
+---
+# aeter
+
+n. et adj. (invar.)
+1. (n.) Race de nakkard primordial corrompus par la technologie. Leurs corps est bionique est composé à quatre-vingt-dix pourcent de technologie.
+2. (adj.) Qui est relatif à l’aeter, qui lui est propre.
+
+---
+# âme
+
+n. fém. (plur. : âmes)
+1. Identité immatérielle possédée par chaque être vivant. Lorsque l’âme n’est plus contraint par le corps physique, elle se rend dans le plan des esprits correspondant.
+
+---
+# anemomancie
+
+n. fém. (invar.)
+1. Fragment de la magie arrint regroupant toutes les magies de l’âme et sur le plan des esprits.
+
+---
+# Anneau de Corruption
+
+n. p. masc. (invar.)
+1. Artefact ombros, donné par les arrint. Il permet d’utiliser les ombros grâce à l’ombromancie.
+
+---
+# arrint
+
+n. et adj. (invar.)
+1. (n.) Race d’ombros primordial corrompus par la magie. Leurs corps s’est transformé en insecte démoniaque gigantesque.
+2. (adj.) Qui est relatif à l’arrint, qui lui est propre.
+
+---
+# begeann
+
+n. masc. (invar.)
+1. Troisième mois du calendrier ombros.
+
+---
+# Cercle de la Sève
+
+n. p. masc. (invar.)
+1. Culte de paria nakkard, apparu dans l’ère 4. À son apogée, il comptait plus de dix milles adeptes. Le culte provoqua l’ascension de Sol-Or, se suivant par un changement d’ère.
+
+---
+# Charyx le maudit
+
+n. p. (invar.)
+1. Créature régissant les plans des esprits. Il a été maudit et se doit de frapper régulièrement les parois du plan des esprits.
+
+---
+# chlorolux
+
+n. fém. (invar.)
+1. Sève sacrée de l’arbre sacrée Lheiren. Sa récolte, sa possession et son utilisation sont prohibé dans les lois moorhiennes.
+
+---
+# chock
+
+n. masc. (invar.)
+1. Cinquième mois du calendrier ombros.
+
+---
+# Cipt
+
+n. p. (invar.)
+1. Province agricole de Moorhi.
+
+---
+# Corrompus
+
+n. p. (invar.)
+1. Nom regroupant les aeter et les arrint.
+
+---
+# La course aux esprits
+
+g.n. (invar.)
+1. Période temporelle de l’ère 6 où chaque individu prouvant le renvoi d’un esprit recevait une pièce de cuivre.
+
+---
+# cycle
+
+n. masc. (plur. : cycles)
+1. Année du calendrier ombros, année qui compte 12 mois.
+2. Unité de temps ombros.
+
+---
+# Dominium
+
+n. masc. (invar.)
+1. Terme regroupant toute modification des runes grâce à une technologie.
+
+---
+# Dominium Atlas
+
+n. masc. (invar.)
+1. Changement des runes permettant une simplification de l’apprentissage et une mémoire plus élevée.
+
+---
+# Dominium Lux
+
+n. masc. (invar.)
+1. Changement des runes permettant l’utilisation de la lumière comme matière physique et malléable.
+
+---
+# Dominium Oculus
+
+n. masc. (invar.)
+1. Changement des runes permettant une empathie plus forte et une intelligence émotionnelle plus élevée.
+
+---
+# dicove
+
+n. masc. (invar.)
+1. Sixième mois du calendrier ombros.
+
+---
+# drask
+
+n. masc. (plur. : drasks)
+1. Petit couteau manhund.
+
+---
+# éclat
+
+n. masc. (plur. : éclats)
+1. Intervalle de 32 heures.
+2. Unité de temps moorhienne.
+
+---
+# Éclat de Magie
+
+n. p. masc. (invar.)
+1. Artefact ogahon, donné par les arrint. Il permet une connexion magique entre les deux races, ouvrant la possibilité aux ogahon d’utiliser l’anemomancie.
+
+---
+# edna
+
+n. masc. (invar.)
+1. Douzième et dernier mois du calendrier ombros.
+
+---
+# Encyclopédie
+
+n. p. masc. (invar.)
+1. Artefact felire, donné par les aeter. Il apporte le savoir éternel.
+
+---
+# Eneos
+
+n. p. (invar.) [[[Topologies]]]
+1. Coquille principale de Logyum, elle accueille toute la vie connu de ce monde.
+
+---
+# Eppaut
+
+n. p. (invar.)
+1. Province de Moorhi. Elle est la plus cosmopolite et accueille toutes les ambassades étrangères.
+
+---
+# felire
+
+n. et adj. (invar.)
+1. (n.) Chat humanoïdes souples et agiles, réputés pour leur discrétion et leur intelligence naturelle.
+2. (adj.) Qui est relatif au felire, qui lui est propre.
+
+---
+# flux
+
+n. masc. (invar.)
+1. Fluide/Lien (à définir) qui lient les runes entre elles.
+
+---
+# garnok
+
+n. masc. (plur. :)
+1. Petit mammifère forestier, trapu, au pelage épais et aux os particulièrement denses, insulaire des îles Storz Vulkano.
+
+---
+# Graine de Lux
+
+n. p. fém. (invar.)
+1. Artefact nakkard, donné par les aeter. Il fera pousser un arbre de lumière gigantesque, devenu religion chez les nakkard.
+
+---
+# Greimor
+
+n. p. masc. (invar.)
+1. Clan Moorhien. Ce clan prône la non utilisation du Lux. Il est le fondateur du royaume de Moorhi.
+
+---
+# greimorien
+
+*greimorienne*
+
+n. masc. (plur. : s)
+1. Membre du clan de Greimor.
+
+---
+# halo
+
+n. masc. (plur. : halos)
+1. Période de quarante-cinq éclats correspondant à la moitié d’une saison.
+2. Unité de temps moorhienne.
+
+---
+# hatch
+
+n. masc. (invar.)
+1. Quatrième mois du calendrier ombros.
+
+---
+# Horass
+
+n. p. masc. (invar.)
+1. Clan Moorhien.
+
+---
+# horloger
+
+n. et adj. (invar.)
+1. (n.) Avant l’ère 5 : Race d’elfes immortel. Connu pour ne pas avoir coopérer avec les Corrompus. Ils étudient le temps.
+2. (n.) À partir de l’ère 5 : Nom regroupant les trois espèces : scribe, reliquaire, prophète.
+3. (adj.) Qui est relatif à l’horloger, qui lui est propre.
+
+---
+# indepo
+
+n. masc. (invar.)
+1. Neuvième mois du calendrier ombros.
+
+---
+# Innomet
+
+n. p. (invar.)
+1. Province non officielle de Moorhi. Elle est à la frontière de l’ancien royaume Sol-Or. Elle est terre de pauvreté et malfaisance.
+
+---
+# irion
+
+*irian*
+
+n. (plur. : irianast) [[[Irion]]]
+1. Mammifère cervidé herbivore d’Eneos. Il possède des bois sur sa mâchoire. Ces bois lui permettent de creuser le sol afin de se nourrir.
+
+---
+# Jiina
+
+n. p. masc. (invar.)
+1. Clan Moorhien.
+
+---
+# Kaorim
+
+n. p. (invar.)
+1. Deuxième royaume marcadur. Île artificielle créé autour de l’ère 7, tournant autour d’un volcan éteint. Quartiers riches et quartiers pauvres se succèdent en fonction de l’économie.
+
+---
+# Kulo
+
+n. p. (invar.)
+1. Créature mythique artificiel créé par les felire.
+
+---
+# Kraklar
+
+n. p. (invar.)
+1. Créature mythique envoyé par les dieux pour protéger les nakkard. Il est un coyote maîtrisant la foudre.
+
+---
+# larn
+
+n. masc. (invar.)
+1. Huitième mois du calendrier ombros.
+
+---
+# Lheiren
+
+n. p. (invar.)
+1. Arbre sacrée des nakkard. Il produit de la chlorolux. Il est présent partout sur Moorhi grâce à ses racines. Son corps est planté au centre de Rhisst.
+
+---
+# liftrap
+
+n. masc. (plur. : liftraps)
+1. Serpent du grand continent. Il se camoufle en racine afin de chasser se proies.
+
+---
+# Logyum
+
+n. p. (invar.)
+1. Désigne l’univers dans lequel tout se passe.
+
+---
+# luve
+
+n. masc. (invar.)
+1. Dixième mois du calendrier ombros.
+
+---
+# lyf
+
+n. masc. (invar.)
+1. Septième mois du calendrier ombros.
+
+---
+# Magie
+
+n. fém. (invar.)
+1. Terme regroupant toutes les manipulations des runes grâce à des incantations verbales, somatiques ou matériels.
+
+---
+# mange-gravats
+
+n. masc. (invar.)
+1. Lézard qui se déplace dans le sol. Il saute sur ses proies pour les prendre par surprise. Il est très régulièrement trouvé dans des décombres ou ruines.
+
+---
+# manhund
+
+n. et adj.  (invar.)
+1. (n.) Race de loup humanoïdes, les plus grands d’Eneos, connu pour leur force physique et leur allure intimidante.
+2. (adj.) Qui est relatif au manhund, qui lui est propre.
+
+---
+# marcadur
+
+n. et adj. (invar.)
+1. (n.) Humain d’Eneos, peuple versatile et maître des économies internationales.
+2. (adj.) Qui est relatif au manhund, qui lui est propre.
+
+---
+# milissim
+
+n. masc. (plur. : milissimis)
+1. Unité de mesure de la température. Unité d’origine moorhienne, utilisée pour les communications internationales.
+
+---
+# mily
+
+n. masc. (invar.)
+1. Onzième mois du calendrier ombros.
