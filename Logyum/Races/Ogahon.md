@@ -8,11 +8,11 @@ Moorhi cherche vrai paix entre les deux royaumes à cause de l'ancienne guerre, 
 # Culture & Société
 L'Éclat d'Ombre céder aux ogahon fit un lien entre eux et les arrint.
 
-Les Sans-Cornes sont un clan ogahon, les membres de ce clan se scient les cornes afin de montrer leur appartenance. Leur objectif est de maîtriser la magie “noire”, pour cela ils organisent de nombreuses expéditions dans les anciennes terres ombros, afin d’y récolter des cristaux de corruption.
+Les Sans-Cornes sont un clan ogahon, les membres de ce clan se scient les cornes afin de montrer leur appartenance. Leur objectif est de maîtriser la Magie “noire”, pour cela ils organisent de nombreuses expéditions dans les anciennes terres ombros, afin d’y récolter des cristaux de corruption.
 
 Malgré l’adoption du système Moorhien pour leur calendrier, un évènement annuel semble être encore présent dans leur culture. Cette évènement est une ouverture sur le plan des esprits animal. L’ouverture se fait grâce à Charyx, créature maudite et régente des plans des morts. Cet événement est festive, les esprits d’animaux disparaissant aux bouts de quelques heures. Les bruits provoqué par l’ouverture sur le plan rappellent aussi des feux d’artifices, ceux-ci sont alors lancé en même temps que l’ouverture.
 
-Ils maîtrisent la magie des âmes. Leur évolution technologique s'arrête à peu près à celle du Moyen-Âge, ceux-ci effectuent des rituels et produisent beaucoup de parchemins magiques. Ils sont les premiers dans le marché de la magie, employé souvent comme soigneur ainsi que magicien dans les guildes d'aventuriers.
+Ils maîtrisent la Magie des âmes. Leur évolution technologique s'arrête à peu près à celle du Moyen-Âge, ceux-ci effectuent des rituels et produisent beaucoup de parchemins magiques. Ils sont les premiers dans le marché de la Magie, employé souvent comme soigneur ainsi que magicien dans les guildes d'aventuriers.
 
 Différents clans d’anemomancie ont vu le jour :
 
@@ -33,7 +33,7 @@ Les ogahon sont de grands et massifs humanoïde. Ils ont une peau coloré, allan
 → Peuple : ogahon
 → Ton : tragique
 → Temporalité : Ère 9
-un leader activiste ogahon contre l’utilisation de la magie du portail tué lors d’une manifestation anti magie portail
+un leader activiste ogahon contre l’utilisation de la Magie du portail tué lors d’une manifestation anti Magie portail
 # Divers
 → Forme : lettre
 → Peuple : ogahon

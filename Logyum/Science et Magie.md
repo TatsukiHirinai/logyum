@@ -1,4 +1,4 @@
-Les êtres vivants sont faits d’un mélange de science et de magie. Chaque être est composé de runes, liées par le FLUX, et d’une âme. Les runes sont la langue de Corvo et Vulpine, personne n’a réussi à les déchiffrer.
+Les êtres vivants sont faits d’un mélange de science et de Magie. Chaque être est composé de runes, liées par le FLUX, et d’une âme. Les runes sont la langue de Corvo et Vulpine, personne n’a réussi à les déchiffrer.
 
 ## Plans
 

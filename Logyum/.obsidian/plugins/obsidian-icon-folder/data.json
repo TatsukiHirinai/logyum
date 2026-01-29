@@ -34,7 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Science et magie.md": "LiAnvil",
   "Archives": "LiArchive",
   "Chronologies": "LiAlarmClock",
   "Cultures": "LiPaintbrush",
@@ -48,5 +47,6 @@
   "Images": "LiImages",
   "Projets": "LiBoxes",
   "Template": "LiLayoutTemplate",
-  "Glossaire": "LiBookA"
+  "Glossaire": "LiBookA",
+  "Science et Magie.md": "LiAnvil"
 }

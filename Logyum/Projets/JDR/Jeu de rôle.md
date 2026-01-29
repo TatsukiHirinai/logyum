@@ -133,7 +133,7 @@ darkvision, griffe d’acier (bonus pour attaque main nue)
 
 ## **Classes**
 
-Les classes peuvent être utilisées par n’importe quelle race, mais la particularité est qu’elles agissent différemment en fonction des races. Un magicien nakkard ne pourra utiliser que la lumière, tandis qu’un magicien ogahon utilisera la magie des âmes. Un guerrier manhund se battra grâce à son sang, tandis qu’un guerrier felire se battra grâce aux sciences.
+Les classes peuvent être utilisées par n’importe quelle race, mais la particularité est qu’elles agissent différemment en fonction des races. Un magicien nakkard ne pourra utiliser que la lumière, tandis qu’un magicien ogahon utilisera l'Anemomancie. Un guerrier manhund se battra grâce à son sang, tandis qu’un guerrier felire se battra grâce aux sciences.
 
 ### **Classe présente**
 
@@ -147,10 +147,10 @@ Les classes peuvent être utilisées par n’importe quelle race, mais la partic
     - rodeur
     - ingénieur
 - Mage
-    - magie réparatrice
-    - magie défensive
-    - magie offensive
-    - branche de magie…
+    - Magie réparatrice
+    - Magie défensive
+    - Magie offensive
+    - branche de Magie…
 
 ## **Le Combat**
 
@@ -262,7 +262,7 @@ donc elle est niveau générale : 15 (30paliers/2)
 
 ---
 
-## ✨ Système de magie (réserve de PM)
+## ✨ Système de Magie (réserve de PM)
 
 ### 🔥 Surcharge magique (upcast)
 
@@ -281,7 +281,7 @@ donc elle est niveau générale : 15 (30paliers/2)
     | 4 | +5d |
     | 5+ | +6d |
 
-### 🌿 Branches de magie (10 niveaux chacune)
+### 🌿 Branches de Magie (10 niveaux chacune)
 
 - Chaque **branche** (ex. Lumière destructrice, Illusion, Nécromancie, etc.) a **10 niveaux**.
 - **Bonus de branche :**
@@ -305,7 +305,7 @@ Bonus de branche = ⌊√5⌋ = **+2**.
 
 - **Coût en PM = niveau du sort D&D.**
     - Sort niv. 1 → **1 PM**, niv. 3 → **3 PM**, etc.
-- **Réserve totale de magie (PM)** = **somme des emplacements** convertis :*Exemple :* un mage avec **4 niv1, 3 niv2, 2 niv3, 1 niv4** →**4×1 + 3×2 + 2×3 + 1×4 = 20 PM**.
+- **Réserve totale de Magie (PM)** = **somme des emplacements** convertis :*Exemple :* un mage avec **4 niv1, 3 niv2, 2 niv3, 1 niv4** →**4×1 + 3×2 + 2×3 + 1×4 = 20 PM**.
 
 ---
 
@@ -328,7 +328,7 @@ Bonus de branche = ⌊√5⌋ = **+2**.
 
 ### 💥 Surcharge physique
 
-- **Règle miroir de la magie :**
+- **Règle miroir de la Magie :**
     
     +2 EN → +1 dé de dégâts
     
@@ -338,7 +338,7 @@ Bonus de branche = ⌊√5⌋ = **+2**.
 
 - Crée des **catégories d’armes** avec niveaux 1→10 :
     - armes légères, une main, deux mains, lourdes, contondantes, tranchantes, perforantes, jet, distance, arts martiaux…
-- **Bonus identique à la magie :**
+- **Bonus identique à la Magie :**
     
     Bonus = ⌊ √(niveau de branche) ⌋
     

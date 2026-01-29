@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossaire/Glossaire.md",
+                "file": "Science et Magie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossaire"
+              "title": "Science et Magie"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossaire/Glossaire.md",
+                "file": "Science et Magie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Glossaire"
+              "title": "Rétrolien pour Science et Magie"
             }
           },
           {
@@ -189,9 +189,19 @@
   },
   "active": "6331c5f2a7f58738",
   "lastOpenFiles": [
-    "Idées non rangées.md",
     "Glossaire/Glossaire.md",
-    "Science et magie.md",
+    "Projets/JDR/Jeu de rôle.md",
+    "Races/Ogahon.md",
+    "Science et Magie.md",
+    "Topologies/Continent A/Speita.md",
+    "Chronologies/Ère 14.md",
+    "Chronologies/Ère 3.md",
+    "Chronologies/Chronologies.md",
+    "Projets/JDR/Campagnes/Campagne n°1 La terre des esprits.md",
+    "Archives/Boufton.md",
+    "Archives/Anciennes infos.md",
+    "Idées non rangées.md",
+    "Meta.md",
     "Définition.md",
     "Nature/Créature mythique/Les Gardiens/Yarthum, l’âme.md",
     "Nature/Créature mythique/Les Gardiens/X, le feu.md",
@@ -205,18 +215,8 @@
     "Nature/Créature mythique/Les Gardiens/Kraklar, la foudre.md",
     "Nature/Créature mythique/Charyx le maudit.md",
     "Nature/Créature mythique/Créature mythique 24cf2dd69f968096b41bea6066d63fd0.md",
-    "Projets/JDR/Personnages Joueurs/Cβ Personnages Joueurs.md",
     "Nature/Créature mythique/Les Gardiens",
     "Nature/Créature mythique",
-    "Chronologies/Ère 14.md",
-    "Chronologies/Ère 15.md",
-    "Chronologies/Ère 13.md",
-    "Chronologies/Ère 11.md",
-    "Chronologies/Ère 1.md",
-    "Chronologies/Chronologies.md",
-    "Projets/JDR/Campagnes/Campagne n°1 La terre des esprits.md",
-    "Chronologies/Ère 9.md",
-    "Chronologies/Ère 8.md",
     "Glossaire",
     "Images/yuzuki_morinochi.png",
     "Images/yuzuki_morinochi.png",

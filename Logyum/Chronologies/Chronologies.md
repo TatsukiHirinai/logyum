@@ -36,7 +36,7 @@ Sur Eneos, une journée est composée de 32 heures.
 > [!note]+ ## Ère 3
 > ### Raison du changement d'Ère
 > 
-> Corvo et Vulpine virent leur erreur, et d'un commun accord créèrent un nouvel équilibre. Les nakkard et les ombros furent de nouveau créer, mais cette fois-ci sans magie. Pour les suppléer, les felire, les marcadur, les ogahon et les manhund furent ajoutés. Quant aux horloger, ils eurent le rôle de médium.
+> Corvo et Vulpine virent leur erreur, et d'un commun accord créèrent un nouvel équilibre. Les nakkard et les ombros furent de nouveau créer, mais cette fois-ci sans Magie. Pour les suppléer, les felire, les marcadur, les ogahon et les manhund furent ajoutés. Quant aux horloger, ils eurent le rôle de médium.
 > 
 > ### Durée de l'Ère
 > 

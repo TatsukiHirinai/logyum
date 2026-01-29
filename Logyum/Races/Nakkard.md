@@ -39,7 +39,7 @@ Des humains avec une queue et des oreilles, cette variété est la plus présent
 ![[nakkardas_male.png]] 
 ![[nakkardas_female.png]]
 # Artefact
-L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l’arbre qui en a découlé à été nommé Lheiren. Une religion s’est développé autour de lui, [[Silvaren]]. Grâce à cet artefact les nakkard ont hérité du Dominium Lux (cf. [[Science et magie]])
+L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l’arbre qui en a découlé à été nommé Lheiren. Une religion s’est développé autour de lui, [[Silvaren]]. Grâce à cet artefact les nakkard ont hérité du Dominium Lux (cf. [[Science et Magie]])
 
 # Personnalités marquantes
 → Forme : description de personnalité marquante

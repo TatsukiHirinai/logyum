@@ -29,11 +29,11 @@ Corvo et Vulpine dans l'ennui de leurs parties de cartes, créèrent deux espèc
 
 ## Ère 2 :
 
-Leurs évolutions semblaient toutes tracées, mais la cupidité de chacun les corrompit, la puissance, ils voulaient, ressembler à leurs créateurs, ils souhaitaient. Des Nakkardes naquirent les Aeters, corrompus par la technologie, et des Ombros naquirent les Arrints, corrompus par la magie.
+Leurs évolutions semblaient toutes tracées, mais la cupidité de chacun les corrompit, la puissance, ils voulaient, ressembler à leurs créateurs, ils souhaitaient. Des Nakkardes naquirent les Aeters, corrompus par la technologie, et des Ombros naquirent les Arrints, corrompus par la Magie.
 
 ## Ère 3 :
 
-Corvo et Vulpine virent leur erreur, et d'un commun accord créèrent un nouvel équilibre. Les Nakkard et les Ombros furent de nouveau de la partie, mais cette fois-ci sans magie. Pour les suppléer, les Felire, les Marcadur, les Ogahons et les Manhund furent ajoutés. Quant aux Horloger, ils eurent le rôle de médium. Les Corrompus les virent comme des nouveaux jouets, à chacun, ils donnèrent un artefact:
+Corvo et Vulpine virent leur erreur, et d'un commun accord créèrent un nouvel équilibre. Les Nakkard et les Ombros furent de nouveau de la partie, mais cette fois-ci sans Magie. Pour les suppléer, les Felire, les Marcadur, les Ogahons et les Manhund furent ajoutés. Quant aux Horloger, ils eurent le rôle de médium. Les Corrompus les virent comme des nouveaux jouets, à chacun, ils donnèrent un artefact:
 
 - La Graine de Lumière fut donnée au Nakkardes par les Aeter, cette graine se transforma en petit arbre, dont ses racines parcoururent leur territoire.
 - L'Anneau de Corruption était pour les Ombros, cet anneau leur permet de se déplacer dans les ombres.
@@ -55,7 +55,7 @@ La 5e ère fut marquée par le Cercle de la sève, envahit par leur avidité de 
 
 ## Ère 6 :
 
-Avec l'émergence des Nakkard comme espèce dominante sur Eneos, les Ogahon se perfectionnèrent dans leur art unique, la magie des âmes, l’anemomancie. Pour eux, les âmes sont sacrées, mais pour un groupe de paria, qui se sont nommés les Sans-Cornes, ce n’est pas le cas. Alors après un acte d’arrogance, les Sans-Cornes réalisèrent un rituel qui ouvrit de nombreux portails entre le plan terrestre et le plan des âmes. Des vagues de calamités chargées de l'âme de morts déferlèrent partout en Eneos. L'ensemble de la civilisation avait reculé d'un pas, avec des villes à reconstruire. S'adaptant à cette nouvelle faune, des guildes d'aventuriers se formèrent un peu partout pour répondre à une demande toujours grandissante.
+Avec l'émergence des Nakkard comme espèce dominante sur Eneos, les Ogahon se perfectionnèrent dans leur art unique, la Magie des âmes, l’anemomancie. Pour eux, les âmes sont sacrées, mais pour un groupe de paria, qui se sont nommés les Sans-Cornes, ce n’est pas le cas. Alors après un acte d’arrogance, les Sans-Cornes réalisèrent un rituel qui ouvrit de nombreux portails entre le plan terrestre et le plan des âmes. Des vagues de calamités chargées de l'âme de morts déferlèrent partout en Eneos. L'ensemble de la civilisation avait reculé d'un pas, avec des villes à reconstruire. S'adaptant à cette nouvelle faune, des guildes d'aventuriers se formèrent un peu partout pour répondre à une demande toujours grandissante.
 
 ## Ère 7 :
 

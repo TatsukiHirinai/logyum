@@ -1,12 +1,10 @@
-# Idées non rangées
-
-### **Anti page blanche :** [https://perchance.org/53yixkvwms](https://perchance.org/53yixkvwms) wC5yFaVl7MGeDIPvkii9
+**Anti page blanche :** [https://perchance.org/53yixkvwms](https://perchance.org/53yixkvwms) wC5yFaVl7MGeDIPvkii9
 
 ---
 
 → Un animal à Storz Vulkano.
 
-Un félin à pattes courtes, avec une fourrure assez épaisse. On pourrait se dire que sa petitesse l’empêcherait d’être un prédateur redoutable alors que non. Ce félin est très redouté des mange-gravats. moorhien
+Un félin à pattes courtes, avec une fourrure assez épaisse. On pourrait se dire que sa petitesse l’empêcherait d’être un prédateur redoutable alors que non. Ce félin est très redouté des mange-gravats.
 
 ---
 
