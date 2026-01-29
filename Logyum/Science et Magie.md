@@ -1,4 +1,4 @@
-Les êtres vivants sont faits d’un mélange de science et de Magie. Chaque être est composé de runes, liées par le FLUX, et d’une âme. Les runes sont la langue de Corvo et Vulpine, personne n’a réussi à les déchiffrer.
+Les êtres vivants sont faits d’un mélange de science et de Magie. Chaque être est composé de runes, liées par le flux, et d’une âme. Les runes sont la langue de Corvo et Vulpine, personne n’a réussi à les déchiffrer.
 
 ## Plans
 
@@ -10,9 +10,9 @@ Chaque artefact contient le “pouvoir” de leur espèce, si quelqu’un arrive
 
 La Magie est un art que maîtrisent les arrint. Durant l’Ère 3, les arrint offrent 3 cadeaux :
 
-- la Magie des âmes, anemomancie, pour les ogahon
-- la Magie des ombres, ombromancie, pour les ombros
-- la Magie de sang, sanguimancie, pour les manhund
+- la Magie des âmes, l'Anemomancie, pour les ogahon
+- la Magie des ombres, l'Ombromancie, pour les ombros
+- la Magie de sang, la Sanguimancie, pour les manhund
 
 Le Dominium est une manipulation des runes par une technologie, ce sont les aeter qui ont réussi à réaliser cela. Durant l’Ère 3, les aeter offrent 3 cadeaux :
 
@@ -26,11 +26,11 @@ La Magie, en dehors des arrint, est limité et propre à chaque race. Les artefa
 
 ### Anemomancie
 
-Les ogahon, au début de l’ère 5, ont réussi à contourner la restriction de l’anemomancie en créant des portails sur le plan des esprits. En combinant ces portails et la nature de certains animaux, ils peuvent, par exemple, faire un sort de jet d’acide. Pour utiliser ces sorts provenant d’animaux, une maîtrise de la projection planique est nécessaire. En projetant leur âme dans le plan des esprits, ils peuvent localiser des animaux nécessaires à ces sorts, déclencher une réaction de ces animaux et transmettre leur réaction à travers le portail. Cette manipulation de l’anemomancie est la spécialité de l’École du portail.
+Les ogahon, au début de l’ère 5, ont réussi à contourner la restriction de l’Anemomancie en créant des portails sur le plan des esprits. En combinant ces portails et la nature de certains animaux, ils peuvent, par exemple, faire un sort de jet d’acide. Pour utiliser ces sorts provenant d’animaux, une maîtrise de la projection planique est nécessaire. En projetant leur âme dans le plan des esprits, ils peuvent localiser des animaux nécessaires à ces sorts, déclencher une réaction de ces animaux et transmettre leur réaction à travers le portail. Cette manipulation de l’Anemomancie est la spécialité de l’École du portail.
 
 ### Sanguimancie
 
-La sanguimancie a eu une évolution chez les manhund. Au début utilisé seulement pour accélérer leur flux sanguin afin d’être plus fort et rapide, elle est désormais utilisé pour se soigner plus rapidement. Pour être plus précis, ils ne se soignent pas plus rapidement, mais ils coagulent plus rapidement, ce qui leur permet d’éviter de perdre beaucoup de sang lors d’entailles, de perte de membre, etc. Durant l’ère 6 un clan manhund découvrit que leur sang pouvait être manipulé en dehors de leurs corps tant qu’il était encore connecté au sang présent dans leur corps. Cette découverte leur a permis de créer des armes et outils fait à base de sang. Une des spécialités de ce clan fut alors de se battre avec son propre sang.
+La Sanguimancie a eu une évolution chez les manhund. Au début utilisé seulement pour accélérer leur flux sanguin afin d’être plus fort et rapide, elle est désormais utilisé pour se soigner plus rapidement. Pour être plus précis, ils ne se soignent pas plus rapidement, mais ils coagulent plus rapidement, ce qui leur permet d’éviter de perdre beaucoup de sang lors d’entailles, de perte de membre, etc. Durant l’ère 6 un clan manhund découvrit que leur sang pouvait être manipulé en dehors de leurs corps tant qu’il était encore connecté au sang présent dans leur corps. Cette découverte leur a permis de créer des armes et outils fait à base de sang. Une des spécialités de ce clan fut alors de se battre avec son propre sang.
 
 ### Corruptomancie
 
