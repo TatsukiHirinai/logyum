@@ -1,33 +1,17 @@
-# Tatsuki Hirinai
-
 Nom : Hirinai
-
 Prénom : Tatsuki
-
 Taille : 1m63
-
 Âge : 23 ans
-
 Sexe : Féminin
-
 Styles de combats, armes de prédilections : Plutôt càc mais à distance quand elle en a besoin, elle préfère les arcs faits de fer et ses armes composées d'un fauchon et d'un jian forgée dans le (Monde des Solars).
-
 Physique : Plutôt fin, une tête avec des oreilles de renard, un queue de renard ébouriffé, des bras plutôt musclé, des jambes rapides et puissantes, une poitrine pas trop petite ni trop moyenne, des fesses normal, des yeux @couleurs , un nez plutôt petit et des cheveux mi-longs de @couleur.
-
 Race : Nakkardes
-
 Habitude vestimentaire : souvent en armure légère ou en habits plutôt décontractés.
-
 Poids : 52 kg
-
-Histoire : #tatsuki
-
+Histoire : tatsuki
 Autre : Elle maîtrise la lumière, elle peut transcender n'importe quelle matière que de jour, son pouvoir est inutile en pleine nuit. Elle peut communiquer comme les fourmis par télépathie . Elle vit dans le village de Gingikari
-
 ### **Histoire :**
-
 Tatsuki est une jeune fille de paysans pauvres qui vivent grâce à leur animaux telle que les ?1 et les ?2. Un beau jour pendant que ses parents était à la maison en train de préparer à manger, elle était en train de jouer avec son esprit renard. Quand un grand monsieur  arriva et demanda où était ses parents. Elle lui dit qu’ils étaient dans la maison à côté d’elle. Le grand monsieur la remercia et partit en direction de celle-ci.
-
 Cela faisait plus d’une heure que le grand monsieur était rentré dans la maison, elle se demanda se que faisait ce personnage avec ses parents. Elle partit voir ce qui se passait. La jeune fille ouvrit la porte et vis le grand monsieur tout seul assis sur un tabouret en buvant une tasse d’eau chaude. Surprise, elle demanda où était passé ses parents. Il . Elle ne bougea pas. Elle était choqué, elle ne pouvait plus penser à autre chose qu’à ses parents disparus. Elle ne pleura pas, elle ne savait pas pourquoi mais c’est comme si son amour envers ses parents avait disparu avec. Sans parents et sans foyer car ne pouvant pas travailler elle ne pouvait continuer de garder cette maison et cette ferme. Elle dû partir pour trouver un refuge d’enfants orphelins. Son voyage dura des semaines, elle se nourrissait de rats morts sur le chemin, elle buvait l’eau des rivières et elle se lavait dans le cascades. Quand elle arriva au refuge elle fut accueilli par un homme assez petit, elle croyait que c’était un enfant mais c’était un nain. Elle fut accueilli avec plaisir dans ce refuge mais ce refuge était spéciale au lieu de garder les enfants jusqu’à leur majorité, il essayait de leur trouver une famille. Elle arriva au bon moment car c’était le jour des “enchères”. Les enfants était presque comme des esclaves, il
 
 Journée 112  :

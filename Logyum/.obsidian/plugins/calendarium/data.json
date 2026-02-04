@@ -167,7 +167,7 @@
               {
                 "ignore": false,
                 "exclusive": false,
-                "interval": 400
+                "interval": 4
               },
               {
                 "ignore": false,
@@ -177,7 +177,7 @@
               {
                 "ignore": false,
                 "exclusive": false,
-                "interval": 4
+                "interval": 400
               }
             ],
             "offset": 0,

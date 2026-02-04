@@ -12,5 +12,12 @@
   "obsidian-linter",
   "obsidian-style-settings",
   "tag-wrangler",
-  "note-definitions"
+  "note-definitions",
+  "obsidian-excalidraw-plugin",
+  "obsidian-tasks-plugin",
+  "image-converter",
+  "metadata-menu",
+  "pretty-properties",
+  "multi-properties",
+  "fold-properties"
 ]

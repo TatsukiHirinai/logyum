@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBookA",
-      "LiLayoutTemplate",
-      "LiTemplaterIcon",
-      "LiBoxes",
-      "LiImages"
+      "LiCoins",
+      "LiDog",
+      "LiBug",
+      "LiCat",
+      "LiTreePine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,9 @@
   "Projets": "LiBoxes",
   "Template": "LiLayoutTemplate",
   "Glossaire": "LiBookA",
-  "Science et Magie.md": "LiAnvil"
+  "Science et Magie.md": "LiAnvil",
+  "Projets/Projets.md": "LiBoxes",
+  "Nature/Flore": "LiTreePine",
+  "Nature/Faune": "LiCat",
+  "Nature/Créature mythique": "LiBug"
 }

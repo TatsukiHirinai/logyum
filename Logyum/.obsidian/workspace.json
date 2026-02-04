@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e02ea705d91b468",
+        "id": "a7811db276d0ca23",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d71b06c52c6600",
+            "id": "ea8cd09e9a5014f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoires/Les sabres de Yul.md",
+                "file": "Template/Article Faune.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Les sabres de Yul"
+              "title": "Article Faune"
             }
           }
         ]
@@ -85,16 +85,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2f9a296f946f92b",
+        "id": "c1abdc88af3f7d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "21ac85366e44b764",
+            "id": "eed6384544757b6f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoires/Les sabres de Yul.md",
+                "file": "Template/Article Faune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Les sabres de Yul"
+              "title": "Rétrolien pour Article Faune"
             }
           },
           {
-            "id": "2abd79a863ecf257",
+            "id": "913061f1fd96c21b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoires/Les sabres de Yul.md",
+                "file": "Template/Article Faune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Les sabres de Yul"
+              "title": "Liens sortants de Article Faune"
             }
           },
           {
-            "id": "2836d4cd2c6bd371",
+            "id": "87a9e1797a14af0e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,40 +137,26 @@
             }
           },
           {
-            "id": "6dada8e2eb10b2c7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Toutes les propriétés"
-            }
-          },
-          {
-            "id": "ed5dbacf333df914",
+            "id": "3de49ca0efd10fdc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoires/Les sabres de Yul.md",
+                "file": "Template/Article Faune.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Les sabres de Yul"
+              "title": "Plan de Article Faune"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,56 +172,57 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7d71b06c52c6600",
+  "active": "ea8cd09e9a5014f2",
   "lastOpenFiles": [
+    "Religions/Silvaren.md",
+    "Religions/Shinseishi.md",
+    "Religions/Croyances Marcadur.md",
+    "Races/Felire.md",
+    "Archives/Tatsuki Hirinai.md",
+    "Cultures/Recettes/Untitled.md",
+    "Template/Article Faune.md",
+    "Cultures/Recettes/Pruya des bois.md",
+    "Excalidraw/Drawing 2026-02-04 11.21.49.excalidraw.md",
+    "Sans titre.md",
+    "Excalidraw/Drawing 2026-02-04 11.52.41.excalidraw.md",
+    "Sans titre.base",
+    "Nature/Faune/Garnok.md",
+    "Idées non rangées.md",
+    "Chronologies/Chronologies.md",
+    "Excalidraw",
+    "Images/JDR",
+    "Cultures/Recettes",
+    "Projets/Projets.md",
+    "Projets/Jeu casino Ombros.md",
+    "Projets/Tower Defense.md",
+    "Projets/Vampire Survivor Peste Ombrale.md",
+    "Projets/Une dernière goutte.md",
+    "Projets/Jeu survival Manhund.md",
+    "Projets/Jeu de rythme Prophète.md",
+    "Histoires/Les Sabres de Yul/Les sabres de Yul.md",
+    "Histoires/Les Sabres de Yul/La famille Karnaavimin.md",
+    "Histoires/Les Sabres de Yul",
     "Histoires/Histoire random n°9, Le frère déserteur.md",
     "Histoires/Histoire random n°10, La vérité.md",
     "Histoires/Histoire random n°8.md",
-    "Histoires/Histoire random n°7.md",
-    "Histoires/Histoire random n°6.md",
-    "Histoires/Histoire random n°5.md",
-    "Histoires/Histoire random n°4, Famille Hirinai.md",
-    "Histoires/Histoire random n°3.md",
-    "Histoires/Histoire random n°2.md",
-    "Histoires/Histoire random n°1.md",
-    "Archives/Anciennes cartes.md",
-    "Chronologies/Chronologies.md",
-    "Chronologies/Ère 1.md",
-    "Chronologies/Ère 14.md",
-    "Chronologies/Ère 15.md",
-    "Cultures/Recettes.base",
-    "Cultures/Untitled.md",
-    "Cultures/Pruya des bois.md",
-    "Glossaire/Glossaire.md",
-    "Idées non rangées.md",
-    "Science et Magie.md",
-    "Sans titre.md",
+    "Cultures/Recettes/Recettes.base",
     "Sans titre.canvas",
-    "Projets/JDR/Jeu de rôle.md",
-    "Races/Ogahon.md",
-    "Topologies/Continent A/Speita.md",
-    "Chronologies/Ère 3.md",
-    "Projets/JDR/Campagnes/Campagne n°1 La terre des esprits.md",
     "Nature/Créature mythique/Les Gardiens",
     "Nature/Créature mythique",
     "Glossaire",
-    "Images/yuzuki_morinochi.png",
-    "Images/yuzuki_morinochi.png",
+    "Images/JDR/yuzuki_morinochi.png",
+    "Images/JDR/yuzuki_morinochi.png",
     "Images/Race/manhund_female.png",
     "Images/Faune/nom_a_determiner_2.png",
     "Images/Faune",
-    "Images/Flore",
     "Images/Race/felire_female.png",
-    "Images/Race",
-    "Images/Topographie",
     "Images/Race/nakkardas_female.png",
     "Images/Flore/fl_nom_a_determiner_2.png",
     "Images/Faune/nom_a_determiner_4.png",
-    "Projets/JDR/Sorts/Sorts.base",
-    "Projets/JDR/Personnages Joueurs",
     "Google Keep/Assets/image.png",
     "Images/Faune/nom_a_determiner_3.png"
   ]
