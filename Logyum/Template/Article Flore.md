@@ -1,6 +1,5 @@
 ---
-Type Article: Faune
-Régime:
+Type Article: Flore
 Géographie:
 ---
 ### Description

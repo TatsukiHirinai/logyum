@@ -53,12 +53,9 @@ Le Culte de la Sève > Esprits de l’ère 6 >
 ---
 
 ### Timeline software
-
 aeon timeline a test
-
 legendkeeper
-
-[https://www.reddit.com/r/worldbuilding/wiki/organizational_tools/](https://www.reddit.com/r/worldbuilding/wiki/organizational_tools/)
+https://www.reddit.com/r/worldbuilding/wiki/organizational_tools/
 
 ---
 

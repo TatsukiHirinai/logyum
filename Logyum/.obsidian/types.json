@@ -3,10 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Type": "text",
-    "Apparition": "text",
-    "Ingredients": "multitext",
-    "Origine": "multitext",
     "TQ_explain": "checkbox",
     "TQ_extra_instructions": "text",
     "TQ_short_mode": "checkbox",
@@ -27,6 +23,9 @@
     "TQ_show_tags": "checkbox",
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
-    "TQ_show_urgency": "checkbox"
+    "TQ_show_urgency": "checkbox",
+    "Type Article": "text",
+    "Temps": "multitext",
+    "Régime": "multitext"
   }
 }
