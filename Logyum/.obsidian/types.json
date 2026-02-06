@@ -24,8 +24,16 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "Type Article": "text",
+    "Type Article": "multitext",
     "Temps": "multitext",
-    "Régime": "multitext"
+    "Régime": "multitext",
+    "Type Flore": "multitext",
+    "Saison": "multitext",
+    "Type Faune": "multitext",
+    "Mode de reproduction": "multitext",
+    "Origine": "multitext",
+    "Date de naissance": "date",
+    "Date de mort": "date",
+    "Sexe": "multitext"
   }
 }

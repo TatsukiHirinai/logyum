@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idées non rangées.md",
+                "file": "Template/Article Personnage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idées non rangées"
+              "title": "Article Personnage"
+            }
+          },
+          {
+            "id": "45588cc032dcde8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,13 +177,22 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "2f64ba9ae7abdbad",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 514
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,15 +212,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "21b8251cf653894c",
+  "active": "45588cc032dcde8f",
   "lastOpenFiles": [
+    "Template/Article Flore.md",
+    "Template/Article Personnage.md",
     "Template/Article Faune.md",
     "Template/All Properties.md",
+    "Idées non rangées.md",
     "Glossaire/Glossaire.md",
     "Science et Magie.md",
-    "Template/Article Flore.md",
     "Cultures/Recettes/Recettes.base",
-    "Idées non rangées.md",
     "Sans titre.canvas",
     "Meta.md",
     "Sans titre.md",

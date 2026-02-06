@@ -46,4 +46,39 @@ Ingrédients:
   - Piom
   - Pruya
   - Viande
+Type Flore:
+  - Champignon
+  - Arbuste
+  - Plante herbacée
+  - Plante grimpante
+  - Plante aquatique
+  - Plante succulente
+  - Fougère
+  - Mousse
+  - Lichen
+  - Algue
+  - Fleur
+Saison:
+  - Été
+  - Hiver
+  - Automne
+  - Printemps
+Type Faune:
+  - Mammifère
+  - Oiseau
+  - Reptile
+  - Amphibien
+  - Poisson
+  - Invertébré
+Mode de reproduction:
+  - Ovipare
+  - Vivipare
+  - Ovovivipare
+Type Article:
+  - Faune
+  - Flore
+  - Personnage
+Sexe:
+  - Femme
+  - Homme
 ---

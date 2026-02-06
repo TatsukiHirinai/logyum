@@ -68,3 +68,4 @@ Les Kisar n’étant pas stérile, commencèrent à se reproduire, les premiers 
 Les Kisar, alors libéré de l’emprise des Felire, devinrent de terrible pirate. Ce bateau sur lequel ils avaient fuit devint leur village. En moins de 5 rayons ils avaient sut s’étendre sur une flotte de 15 navires, leur nombre passa d’un peu moins de 400 individus à un millier, leur majorité sexuelle étant atteinte en à peine un rayon.
 
 -------
+
