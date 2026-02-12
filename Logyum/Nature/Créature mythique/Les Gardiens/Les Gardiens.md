@@ -1,5 +1,4 @@
-# Les Gardiens
-
+﻿# Les Gardiens
 Envoyé par Corvo et Vulpine, leurs missions est de protéger les peuples, au fur et à mesure du temps ces gardiens sont de moins en moins vénéré et les gardiens, libre de leurs actions, se désintéresse de plus en plus de leur missions, errant alors sans fin et sans but.
 
 [Kulo, le métal](Kulo,%20le%20métal.md)

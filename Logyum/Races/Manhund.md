@@ -1,5 +1,4 @@
-# Histoire & Origines
-
+﻿# Histoire & Origines
 # Culture & Société
 La Pierre Sanguinaire octroyée aux manhund décupla leurs forces, mais en attirant le sang.
 Manhund signifie canidé de lune dans leur langue.
@@ -26,9 +25,8 @@ Chaque guerrier manhund possède un petit couteau, appelé Drask dans leur cultu
 Ce sont des canidés humanoïdes, ils sont plus grands, plus musclés, ont un meilleur odorat et une longévité deux fois plus longues (110 ans) que les Marcadurs mais ils sont beaucoup moins intelligents. Ils sont nyctalopes. Ils ont des reflex inné au combat, ce qui fait d’eux des combattants redoutables. De plus, ils ont des griffes acérées et de long crocs. Les manhund sont composés d’innombrable sous-espèces ce qui leur donnent une fourrure diversifié leurs permettant de se camoufler. Les femelles font des portés de 2 à 6 enfants. Ce sont des grands architectes, ils sont les maîtres de la pierre. Ils ont une vitesse de pointe moyenne de 70km/h. 
 ![[manhund_male.png]]
 ![[manhund_female.png]]
-
 # Personnalités marquantes
-## Hwelf Kyx
+=> Hwelf Kyx
 Nom : Kyx
 Prénom : Hwelf
 Sexe : masculin
@@ -43,8 +41,7 @@ Style de combats : il combat principalement en meute en fonçant dans le tas et 
 Histoire : ⁠Inconnu
 
 # Divers
-→ Forme : rumeur
-→ Peuple : manhund
-→ Ton : religieux
-→ Temporalité : Ère 4
+=> rumeur, religieux, Ère 4
 rumeur sur l’apparition d’un arrint qui serait à l’origine de la peste ombrale
+
+---

@@ -1,11 +1,6 @@
-# Campagne δ : On a volé notre science !
-
-## **Histoire de la Campagne γ :**
-
+﻿## **Histoire de la Campagne γ :**
 ### Personnage joueur
-
 Renata Iris (Indra) : 
-
 - **Race / Sexe / Âge :** Felire chat blanc, femme, 15 rayons
 - **Apparence :** pelage crème, taches rousses autour des yeux, toujours couverte de fines brûlures d’atelier ; yeux ambrés pleins de détermination.
 - **Caractère :** vive, orgueilleuse, passionnée. Elle veut prouver qu’une jeune inventrice peut égaler les maîtres. Parfois un peu trop sûre d’elle, elle explose vite quand son travail est remis en question.
@@ -69,27 +64,21 @@ Calista Novessia (Pauline) :
 - **Contexte :** Elle grandit dans une famille aimante et assez haut gradé militairement parlant. Calista veut devenir “Inspectrix Mechanica’, un métier très prestigieux, mélange entre ingénieur et enquêteur. Elle considère la disparition du projet comme une opportunité pour prouver son talent.
 
 ## Les projets des joueurs
-
 ## ⚗️ **Projet : *Lux Sempervia***
-
 > “La lumière qui respire.”
-> 
 
 ### 📘 **Présentation**
-
 Créé par **Renata Iris**, étudiante de 15 rayons à l’Académie des Arts Mécaniques de Speita, *Lux Sempervia* est un **dispositif d’éclairage autonome**, fonctionnant sans source d’énergie ni combustible visible.
 
 Le système condense la chaleur ambiante et la réfracte par une fine couche d’ambre amplificatrice, créant une **lueur dorée constante**, douce et vivante, qui semble “respirer” au rythme du lieu où elle se trouve.
 
 ### ⚙️ **Principe technique**
-
 - Le cœur du dispositif repose sur un **cristal d’énergie latente** (issu d’un minerai rare de Speita) enfermé dans une sphère de verre soufflé.
 - Ce cristal est entouré d’un réseau de **veines métalliques fines**, gravées à la main avec une solution conductrice de cuivre et de sève solidifiée.
 - Ces veines “captent” les variations d’énergie thermique de l’air et les restituent en photons stabilisés — une **conversion thermoluminique**.
 - L’appareil peut fonctionner **indéfiniment**, d’où son nom : *Lux Sempervia* — “lumière éternelle”.
 
 ### ✨ **Particularité mystérieuse**
-
 Les enseignants ont remarqué un phénomène anormal :
 
 - Lorsqu’un être vivant s’approche, la lumière **change d’intensité**.
@@ -101,7 +90,6 @@ Ce détail a attiré l’attention du Proviseur Cornelius, qui a fait confisqu
 D’où la disparition inexpliquée en début de scénario.
 
 ### **Personnage non joueur important**
-
 Proviseur :
 **Magister Cornelius**, 46 rayons, Felire panthère blanche
 Il est un grand érudit, flegmatique et un brin manipulateur
@@ -121,8 +109,7 @@ Il est bienveillant mais facilement distrait, il adore tout particulièrement le
 Il collectionne des outils anciens, mais cherche encore quelles pouvaient être leurs utilités.
 Témoin clé : il a aperçu quelqu’un transporter un carton étrange ce matin.
 
-Bullies
-
+Bullies :
 **Rynaldus Ferrax**, Felire jaguar
 arrogant, rhétorique parfaite
 provoque verbalement les PJ (“Les perdants cherchent des excuses”)
@@ -136,13 +123,8 @@ massif, naïf
 finit par craquer sous pression et avoue qu’ils ont juste fouillé les casiers “pour rire”
 
 ### **Résumé**
-
 À la veille du concours de science de l’année le projet de Renata est introuvable ! Vous pensez tous alors qu’il a été volé et vous partez à l’aventure pour résoudre cette disparition en moins de 24h. *Spoiler Alert : il n’était pas perdu mais récupérer par les professeurs pour analyse car il concourait pour l’une des meilleures inventions de l’année.*
-
 ## Déroulement
-
 Ils sont dans le labo de leur classe et ils parlent de leurs projets respectif, vient au tour de Renata de le présenter, mais il n’est plus dans son casier. Commence alors une enquête pour retrouver son projet d’année. Ils vont faire face à des plus grands qu’eux, des sortes de bully du collège et les bullies insulté par le faite que l’on pense que c’est eux défie le groupe à une joute d’invention. 
-
 Puis ils vont demander à des profs qui eux ne savent rien. 
-
 Puis à la fin ils vont demander au Proviseur, qui cherchait d’ailleurs Renata pour lui annoncer la nouvelle que son projet fera office du projet de l’école dans un concours national.

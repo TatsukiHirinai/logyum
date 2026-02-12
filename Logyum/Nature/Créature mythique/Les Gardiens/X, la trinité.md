@@ -1,11 +1,6 @@
-# X, la trinité
-
+﻿# X, la trinité
 ### Description
-
 X protégé horlogers
-
 ### Habitat
-
 ### Longévité
-
 ### Designs

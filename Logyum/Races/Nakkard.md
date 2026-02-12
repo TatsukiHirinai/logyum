@@ -1,6 +1,5 @@
-# Histoire & Origines
+﻿# Histoire & Origines
 Les nakkard se sont très vite retrouvé dans des territoires assez chaud, ils apprécient la chaleur du soleil. Puis, de part leur volonté de s’unir, ils créèrent le royaume de Moorhi qui fut l’alliance de multiples clan ayant formé des territoires. La suite : [[Moorhi]] 
-
 # Culture & Société
 Les nakkard forgent leurs armes dans d’archaïque forge avec leur talent de dompteur d'acier. Ils sont une nation de forgeron car seul eux peuvent maîtriser parfaitement la chaleur avec la lumière et donc permet au métal qu’ils utilisent d’arriver au point de fusion. De plus, sur leurs territoires, beaucoup de gisements de fer sont présents.
 
@@ -16,7 +15,6 @@ La langue la plus parlés parmi les nakkard est le Moorhien ([[Moorhi]] ), la la
 
 tabou enfreint d’un nakkard et la sève
 Plusieurs individus ont essayé de voler de la sève de Lheiren, cette sève sacrée possède de grands pouvoirs lumineux. Seulement, la protection de l’arbre fait qu’il est presque impossible de récolter de la sève. Alors, si un individu possède de la sève, une sanction terrible l’attend. Il est forcé d’ingérer la sève qu’il possède, ce qui le brûle de l’intérieur. Lorsque l’individu meure il est enterré proche d’une racine de Lheiren pour que la sève lui soit restituer.
-
 # Anatomie & Design
 Les nakkard ont des os et des yeux de cristal leur permettant de transférer et manipuler la lumière. Ces cristaux stockent la lumière, cette lumière peut être artificielle ou venant directement/indirectement du Noyau.
 
@@ -40,35 +38,25 @@ Des humains avec une queue et des oreilles, cette variété est la plus présent
 ![[nakkardas_female.png]]
 # Artefact
 L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l’arbre qui en a découlé à été nommé Lheiren. Une religion s’est développé autour de lui, [[Silvaren]]. Grâce à cet artefact les nakkard ont hérité du Dominium Lux (cf. [[Science et Magie]])
-
 # Personnalités marquantes
-→ Forme : description de personnalité marquante
-→ Peuple : nakkard
-→ Ton : dramatique
-→ Temporalité : Ère 4
+=> description de personnalité marquante, dramatique, Ère 4
 plus grand mage nakkardas depuis des siècles assassiné par un de ses anciens élèves. Son assassin ne fut jamais retrouvé bien qu’il soit identifié comme étant le fils d’une famille de la haute classe. Cette famille fut d’ailleurs harcelé par les nombreux adeptes du mage. Même la haute classe finit par les rejeter, devenant alors des sortes de paria. La petite dernière fut l’une des fondatrices du culte de la sève. Sa haine envers la société actuelle la poussa à réfléchir à une autre proposition qui fut le culte de la sève.
 
 # Divers
-→ Forme : description de lieu
-→ Peuple : nakkard
-→ Ton : dramatique
-→ Temporalité : Ère 6 
+=> description de lieu, dramatique, Ère 6
 mémorial de Moorhi. Ce monument est une plaque immense en cuivre, où chaque personne morte directement par la catastrophe des esprits est inscrite. Malgré les nombreux noms, beaucoup n’y retrouve pas les siens cars les morts étant trop nombreux, un seul membre par famille pouvait être inscrit. 
 
-→ Forme : lettre
-→ Peuple : nakkard
-→ Ton : guerrier
-→ Temporalité : Ère 5
+---
+
+=> lettre, guerrier, Ère 5
 lettre sur la guerre contre le culte de la sève,  action à mettre en place. terrain et espion.
 
-→ Forme : description de lieu
-→ Peuple : nakkard
-→ Ton : populaire
-→ Temporalité : Ère 4
+---
+
+=> description de lieu, populaire, Ère 4
 au sein d’un village, un bâtiment était toujours présent. Un bâtiment souvent fait de verre, carré et avec de grandes arches. En son milieu une statue de l’aeter ayant apporté la graine de lumière. Un arbre du réseau Lheiren pouvait être aussi présent à côté de la statue. C’était un lieu de rassemblement, des mariages, des enterrements, des rites et même des fêtes de village était effectué au sein de ce bâtiment ouvert. Lorsque la pluie tombait cela servait d’abris pour les enfants qui jouaient dehors. Il pouvait même accueillir les itinérants n’ayant pas d’endroit où logé.
 
-→ Forme : description d'objet
-→ Peuple : nakkard
-→ Ton : guerrier
-→ Temporalité : Ère 3
+---
+
+=> description d'objet, guerrier, Ère 3
 L’une des première arme rudimentaire des nakkard fut une lance muni d’une pointe en cristal. Cette pointe était infusé de lumière pour qu’à l’impact elle se libère d’une énergie conséquente.

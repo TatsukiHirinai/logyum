@@ -1,7 +1,7 @@
-# Projets
+﻿# Projets
 [Jeu de rôle](Jeu%20de%20rôle.md)
 [Une dernière goutte](Une%20dernière%20goutte.md)
-# **Jeux**
+# Jeux
 - Nakkard
 	- Total War Shogun
 - Ombros

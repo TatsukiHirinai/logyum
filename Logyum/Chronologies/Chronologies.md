@@ -1,45 +1,30 @@
 # Temps
-
 Le temps est découpé en Ère, la 1ère étant celle où Corvo et Vulpine ont créé la vie.
 Le changement d'ère s’amorce à travers un événement qui bouleverse l’existence. Par exemple, la transition de l’ère 3 vers l’ère 4 fut déclenchée par la peste ombrale.
-
 Sur Eneos, une journée est composée de 32 heures.
-
 # Ères
-
 ## Ère 1
 ### Raison du changement d'Ère
-
 Corvo et Vulpine créèrent les nakkard et les ombros primordiaux. Les ombros, façonné par Corvo et à son image, maitrisent l’ombre. Les nakkard, façonné par Vulpine et à son image, maitrisent la lumière.
 
 ### Durée de l'Ère
-
 ~7 000 année
 
 ### Ce qui s’y passe
-
 [[Ère 1]]
 
 ## Ère 2
 ### Raison du changement d'Ère
-
 Les nakkard et les ombros primordiaux ont chacun évolué en une corruption d’eux même. Les ombros primordiaux corrompu par la Magie se transformèrent en Arrint. Les nakkard primordiaux corrompu par la technologie se modifièrent en Aeter. Toutes deux assoiffées de puissance se firent la guerre.
-
 ### Durée de l'Ère
-
 ~200 année
-
 ### Ce qui s’y passe
-
 [[Ère 2]]
 
 ## Ère 3
 ### Raison du changement d'Ère
-
 Corvo et Vulpine virent leur erreur, et d'un commun accord créèrent un nouvel équilibre. Les nakkard et les ombros furent de nouveau créer, mais cette fois-ci sans Magie. Pour les suppléer, les felire, les marcadur, les ogahon et les manhund furent ajoutés. Quant aux horloger, ils eurent le rôle de médium.
-
 ### Durée de l'Ère
-
 ~700 année
 
 ### Ce qui s’y passe
