@@ -1,3 +1,10 @@
+### Description
+
+### Habitat
+
+### Longévité
+
+### Designs
 Comment écrire mon univers :
 
 ## **1. Guide des conventions d’écriture**
