@@ -24,18 +24,12 @@ Fobert
 
 ---
 
-→ Forme : rumeur
-→ Peuple : felire
-→ Ton : humour
-→ Temporalité : Ère 
+=> rumeur, humour, Ère 5
 une rumeur circule sur le président de l’école de chimie, il aurait été rejeté par une femme, la fille d’un haut dirigeant, lorsqu’il avait 11 ans et que encore à l’heure actuelle rien que d’y penser il peut se mettre à pleurer.
 
 ---
 
-→ Forme : description d'objet
-→ Peuple : felire
-→ Ton : religieux
-→ Temporalité : Ère 5
+=> description d'objet, religieux, Ère 5 
 les felire ne sont que très peu religieux, mais une relique est considéré comme envoyer des dieux. Une sphère fait d’un métal inconnu, incassable et semblant ne pas être modifié par le temps. Il est mis en suspension gravitationnelle dans une chambre sous vide, des dizaines de capteurs sont mis en place pour capter un moindre changement.
 
 ---

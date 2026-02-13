@@ -1,4 +1,4 @@
-﻿# Histoire & Origines
+# Histoire & Origines
 Les nakkard se sont très vite retrouvé dans des territoires assez chaud, ils apprécient la chaleur du soleil. Puis, de part leur volonté de s’unir, ils créèrent le royaume de Moorhi qui fut l’alliance de multiples clan ayant formé des territoires. La suite : [[Moorhi]] 
 # Culture & Société
 Les nakkard forgent leurs armes dans d’archaïque forge avec leur talent de dompteur d'acier. Ils sont une nation de forgeron car seul eux peuvent maîtriser parfaitement la chaleur avec la lumière et donc permet au métal qu’ils utilisent d’arriver au point de fusion. De plus, sur leurs territoires, beaucoup de gisements de fer sont présents.
@@ -11,7 +11,7 @@ Les Rishtoriens, du clan Risshtor, fondèrent la ville de Rissht, devenu si gran
 
 Lors d'une union entre deux nakkard, chacun garde son nom de famille, les enfants prennent le nom de la mère.  À l'âge adulte, l'enfant peut décider du nom de famille qu'il portera le reste de sa vie.
 
-La langue la plus parlés parmi les nakkard est le Moorhien ([[Moorhi]] ), la langue équivalent du commun.
+La langue la plus parlés parmi les nakkard est le moorhien ([[Moorhi]]), la langue équivalent du commun.
 
 tabou enfreint d’un nakkard et la sève
 Plusieurs individus ont essayé de voler de la sève de Lheiren, cette sève sacrée possède de grands pouvoirs lumineux. Seulement, la protection de l’arbre fait qu’il est presque impossible de récolter de la sève. Alors, si un individu possède de la sève, une sanction terrible l’attend. Il est forcé d’ingérer la sève qu’il possède, ce qui le brûle de l’intérieur. Lorsque l’individu meure il est enterré proche d’une racine de Lheiren pour que la sève lui soit restituer.

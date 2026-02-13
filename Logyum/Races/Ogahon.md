@@ -1,4 +1,8 @@
-﻿# Histoire & Origines
+> [!info]
+> ![[image.png|200]]
+> **Nom :** Exemple 
+> **Catégorie :** [Catégorie::Histoire]
+# Histoire & Origines
 s'installe dans les forêts car humidité et peu de soleil leur plait, sont très vite reconnu comme menace par Moorhi,
 Moorhi rentre en guerre avec eux pour récupérer les forêts pour le bois, Seimori réussit à maintenir leur territoires car armée Moorhienne peu puissant dans la foret (pb de lumière), Seimori fortifie les alentours des forets, beaucoup de mort Ogahon après des incendies de guerre
 Période de paix, Seimori évoluent lentement, nombreuses villes apparaissent, prennent via une négociation avec Speita quelques terres non forêt, Speita aide Seimori à évoluer avec découverte de mine de charbon, ouverture au commerce internationale

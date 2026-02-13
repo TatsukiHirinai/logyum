@@ -67,19 +67,5 @@ les marcadur se réunirent assez vite ensemble. La première chose que les marca
 
 ---
 
-=> recette, Ere 3
-tourte aux mitnars farci aux champignons : 
--préparer votre base de tourte comme d’habitude
--en attendant que votre base soit prête, découper en cube les mitnars choisi (1kg max)
--faites les légèrement revenir dans votre poêle avec du gras. 
--Les enlever du feu et les intégrer dans un bol avec trois œufs, mélanger et ajouter épices et sel.
--Préparer les champignons de votre choix (éviter les champignons donnant trop d’eau), les nettoyer, les coupé sen rondelles. Les faire cuire à moitié de cuisson dans la poêle du mitnar. 
--Récupérer votre base de tourte. Y intégrer la viande et les champignons, égaliser.
--Avant d’enfourner, poser le chapeau et frotter le avec de l’ail
--Enfourner 15min à moyenne flamme, puis sortir et faire la cheminée.
--Servir 10min après.
-
----
-
 => dessin, Ere 4
 un artiste marcadur très célèbre grâce à son style si particulier dévoile une peinture sur l’attaque des Cultistes sur Sol-Or. Il fut observateur de tout l’évènement étant en amont d’une petite colline donnant une vue plongeante sur toute la ville. Lorsqu’il comprit ce qui se passait il fit un croquis en vitesse afin d’immortaliser cet évènement. Son style très symbolique montre aussi l’inaction de Moorhi face à l’évènement. Il fut exposé moins de 5 éclats, Moorhi interdisant sa diffusion. La toile fut racheté par un riche collectionneur Moorhien.

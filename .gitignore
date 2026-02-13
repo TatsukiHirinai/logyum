@@ -1,0 +1,12 @@
+﻿# Visual Studio (cache/metadata local)
+.vs/
+**/.vs/
+Logyum/.vs
+
+# (optionnel) fichiers utilisateur VS/VSCode
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+``

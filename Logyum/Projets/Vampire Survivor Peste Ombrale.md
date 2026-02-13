@@ -1,4 +1,4 @@
-﻿## Idées de nom
+## Idées de nom
 - Logyum Survivor
 - Zombie Swarm
 - Undead Swarm
@@ -12,7 +12,7 @@
 Vampire survivor, isométrique, style graphique : diablo1, fallout 1, vieux rpg PC 
 
 pour obtenir l'ombros en perso il faut avoir un certains combo d'armes avec certaines fusions et le nakkard, se déplacer sur un certain lvl à un certain endroit et activer un skill (skill de lumière). => l'ombros sort de l'ombre aveuglé par la lumière, te fait une moral puis tu peux discuter avec lui avoir des choix, si tu te débrouilles bien tu peux le chopper direct sinon il faudra retry dans un autre lvl avec d'autre dialogue
-### **Armes principal
+### Armes principal
 **Lance**
 - Mi-distance
 - Plutôt rapide
