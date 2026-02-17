@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Nakkard.md",
-                "mode": "source",
+                "file": "Template/Article Flore.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nakkard"
+              "title": "Article Flore"
             }
           }
         ]
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Nakkard.md",
+                "file": "Template/Article Flore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nakkard"
+              "title": "Outline of Article Flore"
             }
           },
           {
@@ -219,9 +219,13 @@
   },
   "active": "95627b92d0dde8cd",
   "lastOpenFiles": [
+    "Template/Article Faune.md",
+    "Religions/Silvaren.md",
+    "Religions/Shinseishi.md",
+    "Template/All Properties.md",
+    "Races/Nakkard.md",
     "Idées non rangées.md",
     "Races/Ogahon.md",
-    "Races/Nakkard.md",
     "Races/Marcadur.md",
     "Races/Manhund.md",
     "Races/Felire.md",
@@ -241,10 +245,6 @@
     "Projets/JDR/Campagnes/Campagne ζ Les grottes bleus.md",
     "Projets/JDR/Campagnes/Campagne ε Une nouvelle chance.md",
     "Projets/JDR/Campagnes/Campagne δ On a volé notre science !.md",
-    "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
-    "Projets/JDR/Campagnes/Campagne β Lheiren, l’arbre sacrée.md",
-    "Projets/JDR/Campagnes/Campagne α ça vole pas une ville !.md",
-    "Projets/Jeu casino Ombros.md",
     "Logyum.json",
     "Chronologies/Evenements",
     "Cultures/Recettes/Recettes.base",
