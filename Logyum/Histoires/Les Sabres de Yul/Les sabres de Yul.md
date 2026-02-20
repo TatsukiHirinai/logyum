@@ -1,10 +1,10 @@
-﻿Ferhin kidnapping = -12 rayons avant l'ère 6
+Ferhin kidnapping = -12 rayons avant l'[[ère 6]]
 
 Ferhin libération = +3 halos après l'ère 6
 
 Ferhin formation de la guilde = +7 halos après l'ère 6
 
-Rhonam formation du groupe = -3 rayons avant l'ère 7
+Rhonam formation du groupe = -3 rayons avant l'[[ère 7]]
 
 ### **Arbre généalogique**
 [[La famille Karnaavimin]]

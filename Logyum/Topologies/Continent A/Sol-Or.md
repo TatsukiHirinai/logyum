@@ -1,4 +1,4 @@
-﻿# Géographie
+# Géographie
 plaines + désert
 # Architecture
 style médieval classique fantasy shit 

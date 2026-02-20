@@ -1,4 +1,4 @@
-﻿# Histoire & Origines
+# Histoire & Origines
 # Culture & Société
 La Pierre Sanguinaire octroyée aux manhund décupla leurs forces, mais en attirant le sang.
 Manhund signifie canidé de lune dans leur langue.
@@ -9,13 +9,13 @@ Lors d’une naissance chez les manhund tout un rite est réalisé. La cheffe du
 manhund tribus
 
 ⇒ 5 tribus majeures règnent sur toutes les terres manhund
-(1) Cet tribu, très proche de la nature, est caché dans les forêts profonde de Storz Vulkano. C’est la plus petite tribu majeure mais grâce à sa connaissance parfaites des forêts ils se défendent très bien et ne s’étendent pas plus loin.
+(1) Cet tribu, très proche de la nature, est caché dans les forêts profonde de [[Storz Vulkano]]. C’est la plus petite tribu majeure mais grâce à sa connaissance parfaites des forêts ils se défendent très bien et ne s’étendent pas plus loin.
 (2) Cet tribu occupe l’entièreté de la partie continentale de Storz Vulkano. À l’origine, cet tribu ne voulait pas partir sur la mer à la recherche de terres. Elle se sentait en sécurité sur ce bout de terre. La chaine de Stigel la protégeant des autres nations. Cet population est la plus en contact avec les autres nations de part sa proximité avec elles.
-(3) 
+(3) d
 (4) 
 (5) 
 
-Chaque guerrier manhund possède un petit couteau, appelé Drask dans leur culture. Ce couteau multifonction, véritable « couteau suisse » des manhund, leur est remis à l’âge de cinq ans. Dès lors, l’enfant peut commencer à s’initier aux arts guerriers ou à la sculpture sur bois. Le Drask est fabriqué à partir des os du Garnok, un petit mammifère reconnu pour sa robustesse. Traditionnellement, c’est la mère qui chasse ce mammifère, lequel est ensuite cuisiné en ragoût. Lors du repas, l’enfant récupère le premier os flottant dans la marmite : c’est ce fragment qui servira de matière première pour forger son couteau.
+Chaque guerrier manhund possède un petit couteau, appelé Drask dans leur culture. Ce couteau multifonction, véritable « couteau suisse » des manhund, leur est remis à l’âge de cinq ans. Dès lors, l’enfant peut commencer à s’initier aux arts guerriers ou à la sculpture sur bois. Le Drask est fabriqué à partir des os du [[Garnok]], un petit mammifère reconnu pour sa robustesse. Traditionnellement, c’est la mère qui chasse ce mammifère, lequel est ensuite cuisiné en ragoût. Lors du repas, l’enfant récupère le premier os flottant dans la marmite : c’est ce fragment qui servira de matière première pour forger son couteau.
 - **Aspect** : Le Drask arbore une teinte blanche éclatante à sa création, reflet de la pureté et de la jeunesse. Avec les années, il se ternit, prenant une patine grise ou ivoire, témoignant du vécu de son porteur.
 - **Lame** : Toujours différente d’un individu à l’autre, la lame est façonnée selon les préférences du forgeron tribal. Elle rapetisse au fil des affûtages, devenant plus fine mais aussi plus chargée d’histoire.
 - **Poignée** : Enroulée de lamelles de cuir tanné, souvent issues de bêtes chassées par la famille, elle offre une prise solide et chaleureuse. Le cuir est parfois teinté avec des pigments naturels.
@@ -41,7 +41,7 @@ Style de combats : il combat principalement en meute en fonçant dans le tas et 
 Histoire : ⁠Inconnu
 
 # Divers
-=> rumeur, religieux, Ère 4
-rumeur sur l’apparition d’un arrint qui serait à l’origine de la peste ombrale
+=> rumeur, religieux, [[Ère 4]]
+rumeur sur l’apparition d’un [[arrint]] qui serait à l’origine de la peste ombrale
 
 ---

@@ -1,4 +1,4 @@
-﻿# Géographie
+# Géographie
 beaucoup de forêt
 # Architecture
 style architectural japonais edo : bois 

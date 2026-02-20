@@ -1,9 +1,7 @@
 [
   "templater-obsidian",
-  "obsidian-importer",
   "obsidian-icon-folder",
   "calendarium",
-  "obsidian-5e-statblocks",
   "dataview",
   "obsidian-plugin-toc",
   "obsidian-timeline",
@@ -14,9 +12,7 @@
   "tag-wrangler",
   "note-definitions",
   "obsidian-excalidraw-plugin",
-  "obsidian-tasks-plugin",
   "image-converter",
-  "metadata-menu",
   "pretty-properties",
   "multi-properties",
   "fold-properties"

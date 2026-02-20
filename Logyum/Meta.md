@@ -1,4 +1,4 @@
-﻿### Description
+### Description
 ### Habitat
 ### Longévité
 ### Designs
@@ -6,7 +6,7 @@ Comment écrire mon univers :
 ## 1. Guide des conventions d’écriture
 ### Temps à utiliser
 - **Présentation générale** : **présent**
-→ « Le royaume de Moorhi est situé au nord des montagnes d’Argor. »
+→ « Le royaume de [[Moorhi]] est situé au nord des montagnes d’Argor. »
 - **Histoire / événements passés** : **passé simple + imparfait**
 → « Il fut fondé il y a trois siècles par Argan Ier. »
 - **Chronologie future / prophéties** : **futur simple**
@@ -30,8 +30,8 @@ Comment écrire mon univers :
     - Dans chaque article de **royaume** : “Cultures présentes”.
 - **Exemple** :
     - Article **Culture Ogahonienne** :
-        - Origine : Race Ogahon.
-        - Actuellement : Royaumes Moorhi, Seimori.
+        - Origine : Race [[Ogahon]].
+        - Actuellement : Royaumes Moorhi, [[Seimori]].
     - Article **Royaume de Moorhi** :
         - Cultures présentes : Ogahonienne, Moorhienne.
     - Article **Race Ogahon** :

@@ -1,1 +1,1 @@
-Un horloger prophète devient immortel après être allé dans le futur et avoir contracté une maladie du voyage temporel, il sait ce qu'il se passe à la fin du temps et devient tout vide, pour lui la vie n'a pas de sens => tout est absorbé par le Noyau, et c'est inévitable.
+Un [[horloger]] [[prophète]] devient immortel après être allé dans le futur et avoir contracté une maladie du voyage temporel, il sait ce qu'il se passe à la fin du temps et devient tout vide, pour lui la vie n'a pas de sens => tout est absorbé par le Noyau, et c'est inévitable.

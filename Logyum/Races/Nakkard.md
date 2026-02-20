@@ -3,7 +3,7 @@ Les nakkard se sont très vite retrouvé dans des territoires assez chaud, ils a
 # Culture & Société
 Les nakkard forgent leurs armes dans d’archaïque forge avec leur talent de dompteur d'acier. Ils sont une nation de forgeron car seul eux peuvent maîtriser parfaitement la chaleur avec la lumière et donc permet au métal qu’ils utilisent d’arriver au point de fusion. De plus, sur leurs territoires, beaucoup de gisements de fer sont présents.
 
-La Graine de Lumière, artefact donnée par les aeter durant l’ère 3, s’est transformée en un gigantesque arbre. Celui-ci est devenu sacré de par sa beauté et sa grandeur. Depuis le début de son évolution, l’arbre, de part ses racines, fait prospérer la nation de Moorhi avec sa lumière. Le chlorolux désigne la sève de l’arbre sacrée.
+La Graine de Lumière, artefact donnée par les [[aeter]] durant l’[[ère 3]], s’est transformée en un gigantesque arbre. Celui-ci est devenu sacré de par sa beauté et sa grandeur. Depuis le début de son évolution, l’arbre, de part ses racines, fait prospérer la nation de Moorhi avec sa lumière. Le chlorolux désigne la sève de l’arbre sacrée.
 
 Les Greimoriens sont une famille de clan qui prône la méritocratie et la loi du plus fort, mais seulement par la voie du sabre, ils n’utilisent pas la lumière, la jugeant. 
 
@@ -14,7 +14,7 @@ Lors d'une union entre deux nakkard, chacun garde son nom de famille, les enfant
 La langue la plus parlés parmi les nakkard est le moorhien ([[Moorhi]]), la langue équivalent du commun.
 
 tabou enfreint d’un nakkard et la sève
-Plusieurs individus ont essayé de voler de la sève de Lheiren, cette sève sacrée possède de grands pouvoirs lumineux. Seulement, la protection de l’arbre fait qu’il est presque impossible de récolter de la sève. Alors, si un individu possède de la sève, une sanction terrible l’attend. Il est forcé d’ingérer la sève qu’il possède, ce qui le brûle de l’intérieur. Lorsque l’individu meure il est enterré proche d’une racine de Lheiren pour que la sève lui soit restituer.
+Plusieurs individus ont essayé de voler de la sève de [[Lheiren]], cette sève sacrée possède de grands pouvoirs lumineux. Seulement, la protection de l’arbre fait qu’il est presque impossible de récolter de la sève. Alors, si un individu possède de la sève, une sanction terrible l’attend. Il est forcé d’ingérer la sève qu’il possède, ce qui le brûle de l’intérieur. Lorsque l’individu meure il est enterré proche d’une racine de Lheiren pour que la sève lui soit restituer.
 # Anatomie & Design
 Les nakkard ont des os et des yeux de cristal leur permettant de transférer et manipuler la lumière. Ces cristaux stockent la lumière, cette lumière peut être artificielle ou venant directement/indirectement du Noyau.
 
@@ -39,16 +39,16 @@ Des humains avec une queue et des oreilles, cette variété est la plus présent
 # Artefact
 L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l’arbre qui en a découlé à été nommé Lheiren. Une religion s’est développé autour de lui, [[Silvaren]]. Grâce à cet artefact les nakkard ont hérité du Dominium Lux (cf. [[Science et Magie]])
 # Personnalités marquantes
-=> description de personnalité marquante, dramatique, Ère 4
+=> description de personnalité marquante, dramatique, [[Ère 4]]
 plus grand mage nakkardas depuis des siècles assassiné par un de ses anciens élèves. Son assassin ne fut jamais retrouvé bien qu’il soit identifié comme étant le fils d’une famille de la haute classe. Cette famille fut d’ailleurs harcelé par les nombreux adeptes du mage. Même la haute classe finit par les rejeter, devenant alors des sortes de paria. La petite dernière fut l’une des fondatrices du culte de la sève. Sa haine envers la société actuelle la poussa à réfléchir à une autre proposition qui fut le culte de la sève.
 
 # Divers
-=> description de lieu, dramatique, Ère 6
+=> description de lieu, dramatique, [[Ère 6]]
 mémorial de Moorhi. Ce monument est une plaque immense en cuivre, où chaque personne morte directement par la catastrophe des esprits est inscrite. Malgré les nombreux noms, beaucoup n’y retrouve pas les siens cars les morts étant trop nombreux, un seul membre par famille pouvait être inscrit. 
 
 ---
 
-=> lettre, guerrier, Ère 5
+=> lettre, guerrier, [[Ère 5]]
 lettre sur la guerre contre le culte de la sève,  action à mettre en place. terrain et espion.
 
 ---

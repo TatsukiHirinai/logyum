@@ -1,7 +1,7 @@
-﻿# Géographie
+# Géographie
 
 ## Les provinces
-Moorhi est un royaume gouverné et habité principalement par des nakkard. Ce royaume est découpé en 5 provinces :
+Moorhi est un royaume gouverné et habité principalement par des [[nakkard]]. Ce royaume est découpé en 5 provinces :
 ### Rhisst
 (prononcé richt, veut dire richesse en ancien)
 
@@ -15,7 +15,7 @@ XX est une ville capitale, celle de la province de Cipt. La ville est reconnu co
 ### Innomet
 (prononcé inomète)
 
-Une sorte de province, il est à la frontière avec l'ancien royaume des marcadur. Des pêcheurs s'y sont installés, l'énorme étendue d'eau étant profitable pour le marché. Des cabanes s'agglutinent autour des morceaux de l'île. Avant ça, c’était une zone très marchande, mais subissant régulièrement l’attaque de groupes de bandits ou de barbares manhund, elle s’est peu à peu dépeuplée pour laisser place à des terres pauvres et mal famées.
+Une sorte de province, il est à la frontière avec l'ancien royaume des [[marcadur]]. Des pêcheurs s'y sont installés, l'énorme étendue d'eau étant profitable pour le marché. Des cabanes s'agglutinent autour des morceaux de l'île. Avant ça, c’était une zone très marchande, mais subissant régulièrement l’attaque de groupes de bandits ou de barbares [[manhund]], elle s’est peu à peu dépeuplée pour laisser place à des terres pauvres et mal famées.
 ### Eppaut
 (prononcé épote)
 
@@ -44,7 +44,7 @@ style architectural romane : pierre claire, tuiles orangé
 - suffixe -ren = royaume de (poétique)
 ### Exemple
 - Province, Ville, Village : Rhisst, Innomet, Cipt, Eppaut, Kalm, Malnoi, Folad, Kaamrot, Nihrunne, Telden, Gepalort, Ordelmon, Hamana, Juran, Purat, Labort, Celika, Veorian (très vieille ville), Pruyaren, Promak,
-- Nom complet (Prénom + Nom de famille) : Chaaks Manii, Tatsuki Hirinai, Kaalor Jethon, Meigha Okarin, Mieva Lhomak, Velnak Mothon, Dhoa Belamar, Ferhin Kornaavimin, Felken Tavimin, Velma Karnam
+- Nom complet (Prénom + Nom de famille) : Chaaks Manii, [[Tatsuki Hirinai]], Kaalor Jethon, Meigha Okarin, Mieva Lhomak, Velnak Mothon, Dhoa Belamar, Ferhin Kornaavimin, Felken Tavimin, Velma Karnam
 - Prénom : Nektan, Tevnar, Bhossia, Glent, Tarnel, Rhonam
 
 f4a65670fbe976ae359ecfff6cb1f02a
@@ -54,7 +54,7 @@ f4a65670fbe976ae359ecfff6cb1f02a
 => utilisé pour dire que le danger vient souvent de l'intérieur, ou que les apparences sont trompeuses.
 
 *"Mieux vaut en brûler un halo que suivre une ombre.”*
-=> plutôt faire une erreur et perdre du temps que de suivre quelqu'un de douteux. (remplacé ombre par Ombros pour de l'ancien temps (avant exil))
+=> plutôt faire une erreur et perdre du temps que de suivre quelqu'un de douteux. (remplacé ombre par [[Ombros]] pour de l'ancien temps (avant exil))
 
 *"Quand les cristaux fuient, le cœur ment.”*
 => manière de dire que si on évite du regard l’interlocuteur, cela révèle les intentions cachées.
@@ -84,48 +84,48 @@ Le 4ème Soleil avec son 85ème Rayon et ses 8 Halos nous offre son 32ème Écla
 	Extrait du *Livre des Flux*, écrit par Gorfon Belamar, historien du 11ème Soleil.
 *> "Ce ne sont pas les rayons qui marquent le temps, mais les bifurcations. L'histoire ne se compte pas - elle se vit."*
   
-## 1er Soleil (Ère 3)
+## 1er Soleil ([[Ère 3]])
 ### Raison du changement de Soleil
 Création du royaume de Moorhi
 ### Durée du Soleil
 603 rayons
 ### Ce qui s’y passe
 Le clan Greimorien prend contrôle d’une très grande partie des Nakkard, organisant ainsi les premières villes et aidant la population à survivre dans ce monde encore sauvage.
-## 2nd Soleil (Ère 4)
+## 2nd Soleil ([[Ère 4]])
 ### Raison du changement de Soleil
 Ère 4
 ### Durée du Soleil
 379 rayons
 ### Ce qui s’y passe
 La peste ombrale fit s'effondrer le clan Greimorien, infection et trahison prirent le dessus dans ce clan, au plus faible de sa forme un nouveau clan prit le dessus, lors d’un pacte inter clan, il fut décidé que le clan Rhisstor ait le contrôle du royaume. Malgré la perte de nombreuses villes et d’une partie de la population, leur début fut salvateur.
-## 3ème Soleil (Ère 5)
+## 3ème Soleil ([[Ère 5]])
 ### Raison du changement de Soleil
 Ère 5
 ### Durée du Soleil
 327 rayons
 ### Ce qui s’y passe
 Après que le cercle de la sève eut réalisé leur affront, le peuple se révolta, le clan Risshtor était presque passif face à la secte. Des multiples grèves et descentes sur la capitale par la population fit s’effondrer la bonne tenue du clan. Un clan choisit par le peuple fit alors surface.
-## 4ème Soleil (Ère 6)
+## 4ème Soleil ([[Ère 6]])
 ### Raison du changement de Soleil
 Ère 6
 ### Durée du Soleil
 130 rayons
 ### Ce qui s’y passe
 À écrire.
-## 5ème Soleil (Ère 7)
+## 5ème Soleil ([[Ère 7]])
 ### Raison du changement de Soleil
-L’île céleste, ancien royaume de Sol-Or, qui tombe sur les terres de Moorhi, provoquant catastrophes et morts.
+L’île céleste, ancien royaume de [[Sol-Or]], qui tombe sur les terres de Moorhi, provoquant catastrophes et morts.
 ### Durée du Soleil
 456 rayons
 ### Ce qui s’y passe
 À écrire.
-## 6ème Soleil (Ère 7)
+## 6ème Soleil ([[Ère 7]])
 ### Raison du changement de Soleil
 création des machines Hirinai
 ### Durée du Soleil
 269 rayons
 ### Ce qui s’y passe
-Découverte d'un matériau mat (restes + ruines du minerai mat Aeter)Matériau mat, qui, utilisé avec des cristaux permet de stocker de l'énergie, début des piles et des générateurs à courant
+Découverte d'un matériau mat (restes + ruines du minerai mat [[Aeter]])Matériau mat, qui, utilisé avec des cristaux permet de stocker de l'énergie, début des piles et des générateurs à courant
 ## 7ème Soleil (Ère 7)
 ### Raison du changement de Soleil
 Arbre sacrée tombé
@@ -139,7 +139,7 @@ Découverte de la pousse du nouvelle arbre sacrée
 ### Durée du Soleil
 238 rayons
 ### Ce qui s’y passe
-Un explorateur découvre que l'arbre sacrée repousse depuis sa souche mais que les felire sont en train de l'étudier; l'armée de New-Moorhi reprends les alentours de la souche et force les felire à coopérer et à leur donner leur recherche; reprise des recherches du matériau mat avec les cristaux avec l'aide des felire
+Un explorateur découvre que l'arbre sacrée repousse depuis sa souche mais que les [[felire]] sont en train de l'étudier; l'armée de New-Moorhi reprends les alentours de la souche et force les felire à coopérer et à leur donner leur recherche; reprise des recherches du matériau mat avec les cristaux avec l'aide des felire
 ## 9ème Soleil (Ère 7)
 ### Raison du changement de Soleil
 Découverte d'une cité Aeter enterré
@@ -147,7 +147,7 @@ Découverte d'une cité Aeter enterré
 55 rayons
 ### Ce qui s’y passe
 La découverte de cette cité apporte prospérité et dangers aux terres proches, très vite contrôlé par l'armée, le site fut abandonné par celle-ci après moins de 10 rayons, il n'y restait plus que des babioles sans valeur militaire mais une valeur monétaire
-## 10ème Soleil (Ère 8)
+## 10ème Soleil ([[Ère 8]])
 ### Raison du changement de Soleil
 Découverte des nouvelles terres
 ### Durée du Soleil
@@ -163,6 +163,6 @@ Première ville dans une nouvelle terre
 Création du port le plus grand de tout Eneos; création d'une route maritime sécurisée avec des plateformes flottantes servant de point de ravitaillement ou de secours, elle relie le port avec les terres originelles;
 # Autres
 → Durant l'Ère 3, un évènement religieux à Moorhi.
-La réception de la graine de lumière par le peuple Nakkard fut marqué d’une pierre blanche. Ce jour devint un jour de fête où personne n’avait le droit travailler. Les fêtes tournaient autour de l’entraide et de la bienveillance, tout en étant autour de la thématique de la nature et de Lheiren. Ce jour est facile à retenir car il est le premier jour de l’été, soit le 47ème jour de chaque rayon.
+La réception de la graine de lumière par le peuple Nakkard fut marqué d’une pierre blanche. Ce jour devint un jour de fête où personne n’avait le droit travailler. Les fêtes tournaient autour de l’entraide et de la bienveillance, tout en étant autour de la thématique de la nature et de [[Lheiren]]. Ce jour est facile à retenir car il est le premier jour de l’été, soit le 47ème jour de chaque rayon.
 
 ---
