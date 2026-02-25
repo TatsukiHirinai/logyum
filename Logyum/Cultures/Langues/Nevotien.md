@@ -1,0 +1,1 @@
+﻿langue officielle de Nevot, mélange de trois langues : le Moorhien, le Monayeur et le Speilin. Son apprentissage est simple est il devient très vite la norme dans le nouveau monde. Il se rapproche du français(irl).

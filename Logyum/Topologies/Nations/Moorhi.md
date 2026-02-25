@@ -27,9 +27,12 @@
 > ###### Divers
 > **:** 
 
+Moorhi, le Royaume de Moorhi ou en encore X est un État clanique dont le territoire s'étend sur le [[Continent A]]. Il est en frontière avec [[Seimori]], [[Speita]] ainsi que [[Sol-Or]]. 
+Moorhi a pour capitale Voive, qui succède à Rhisst. Elle a pour langue officielle le [[Moorhien]] depuis sa création durant l'ère 3.
+Première puissance mondiale, elle s'impose militairement comme culturellement auprès de ses voisins. Le moorhien est devenu la langue internationale et il est presque impossible de ne pas croiser l'influence Moorhienne dans la vie de tout les jours. Sa force militaire venant de sa manipulation de la lumière ainsi que de son nombre.
 # Géographie
 ## Les provinces
-Moorhi est un royaume gouverné et habité principalement par des [[nakkard]]. Ce royaume est découpé en 5 provinces :
+Moorhi est un royaume gouverné et habité principalement par des [[nakkard]]. Ce royaume est découpé en 5 provinces non indépendante et non souverraine.
 ### Rhisst
 (prononcé richt, veut dire richesse en ancien)
 
@@ -39,7 +42,7 @@ Villes : Kalm, Malnoi
 (prononcé sipt)
 
 Une province principalement agricole, quelques villes artisanales, c'est là où les racines de l'arbre sacré y prolifèrent, aidant alors à la bonne tenue des champs et des bons produits. Cette province est très aimée. Un énorme festival occupant chaque village de la province se déroule chaque début de cycle de saison. Il attire de nombreux visiteurs, les récoltes y sont vendues, des jeux y sont organisés, une sorte de foire immense. Elle dure 4 rayons, en tout cas pour la très grande majorité des villages, certains peuvent aller jusqu'à 7 rayons.
-XX est une ville capitale, celle de la province de Cipt. La ville est reconnu comme étant très aidante et aimante. L’un de ses quartiers les plus connu est le quartier de YY. YY est assez aéré, pavé sur tous ses chemins. Une place centrale accueille les marchands itinérants et les artisans tous les jours. C’est ici que les gens se donnent rendez-vous, c’est un point important du quartier, car il y concentre tout ce dont une famille a besoin. La place arbore une fontaine sculpture en son milieu. Une odeur douce est présente dans toutes les rues, grâce à des arbres fruitiers, leurs récoltes sont gratuites et sont souvent laissées au moins chanceux de la vie. Les habitants de ce quartier sont souriants et généreux, la bonne ambiance générale fait que tout le monde se sent heureux. Le point le plus négatif serait l’architecture, rien d’extravagant ni même d’impressionnant, les maisons et boutiques sont très classique de Moorhi, des briques beiges avec des tuiles orangées. La forge du quartier rythme les pas des passants, ses clings sonnent comme une musique au loin. Les brouhahas de la place ainsi que le bruit des oiseaux servent de bruits ambiants. On peut entendre une fois par semaine la troupe de troubadours de Cipt, amenant les nouvelles du royaume. 
+ est une ville capitale, celle de la province de Cipt. La ville est reconnu comme étant très aidante et aimante. L’un de ses quartiers les plus connu est le quartier de Col. Col est assez aéré, pavé sur tous ses chemins. Une place centrale accueille les marchands itinérants et les artisans tous les jours. C’est ici que les gens se donnent rendez-vous, c’est un point important du quartier, car il y concentre tout ce dont une famille a besoin. La place arbore une fontaine sculpture en son milieu. Une odeur douce est présente dans toutes les rues, grâce à des arbres fruitiers, leurs récoltes sont gratuites et sont souvent laissées au moins chanceux de la vie. Les habitants de ce quartier sont souriants et généreux, la bonne ambiance générale fait que tout le monde se sent heureux. Le point le plus négatif serait l’architecture, rien d’extravagant ni même d’impressionnant, les maisons et boutiques sont très classique de Moorhi, des briques beiges avec des tuiles orangées. La forge du quartier rythme les pas des passants, ses clings sonnent comme une musique au loin. Les brouhahas de la place ainsi que le bruit des oiseaux servent de bruits ambiants. On peut entendre une fois par semaine la troupe de troubadours de Cipt, amenant les nouvelles du royaume. 
 ### Innomet
 (prononcé inomète)
 
