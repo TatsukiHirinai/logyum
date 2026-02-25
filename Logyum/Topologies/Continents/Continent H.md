@@ -1,0 +1,1 @@
+﻿C'est le continent le plus dense en terme de forêts, il est peuplé d'une multitude d'espèces insulaire, il est après le [[Continent G]], le continent le plus chaud d'Eneos, avec une température avoisinant les 40 milissim en journée et les 25 milissim la nuit.

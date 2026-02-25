@@ -1,0 +1,1 @@
+﻿Cette terre est assez spéciale, elle fait le tour de la coquille, ce sont les restes les plus intacts des feus nakkard et ombros primordiaux, ainsi que des [[aeter]] et arrint. Seulement, leur approche est difficile dû aux très nombreuses tempêtes qui la protègent, la mer y est très agitée car on se rapproche du Noyau.

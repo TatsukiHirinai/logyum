@@ -1,5 +1,33 @@
-# Géographie
+﻿> [!info]
+> ![[drapeau.png|220]]
+> ![[emblême.png|220]]
+> ###### Moorhi
+> **Devise :** XXXX
+> **Hymne :** XXXX
+> **Fête nationale :** XXXX
+> ![[carte.png|220]]
+> ###### Administration
+> **Forme de l'état :** XXXX
+> **Dirigeant(s) :** XXXX
+> **Langue(s) officielle :** XXXX
+> **Capitale :** XXXX
+> ###### Géographie
+> **Plus grandes villes :** XXXX
+> **Superficie totale :** XXXX
+> **Superficie en eau :** XXXX
+> ###### Histoire
+> **Ère 7 :** X-X
+> ###### Démographie
+> **Gentilé :** XX
+> **Population totale :** X
+> **Densité :** X habitant/km²
+> ###### Économie
+> **PIB :** XX
+> **Monnaie :** XX
+> ###### Divers
+> **:** 
 
+# Géographie
 ## Les provinces
 Moorhi est un royaume gouverné et habité principalement par des [[nakkard]]. Ce royaume est découpé en 5 provinces :
 ### Rhisst
@@ -22,64 +50,11 @@ Une sorte de province, il est à la frontière avec l'ancien royaume des [[marca
 La province la plus normale que vous pouvez visiter. Quelques villes, quelques campagnes, de l'agriculture, de l'élevage, c'est le territoire le plus cosmopolite malgré la capitale. Sa simplicité de vie attire. Presque pas de pauvreté, une province idéale.
 ### èF#E5f/jq-4
 Une province gardée cachée de toute carte, l'armée de Moorhi y résident, on suppose qu'il y a aussi des complexes scientifiques et magiques, car des civiles disparaissent lorsqu'ils vivent proches ou traversent ce bout de terre.
-# Architecture
-style architectural romane : pierre claire, tuiles orangé
-# Écriture Moorhienne
-### Règles
-- pas d'utilisation des lettres : w, x, q, y, z
-- pas de double consonne en début et/ou en fin de mot
-- pas plus de 2 voyelles à la suite
-- pas plus de 2 consonnes à la suite
-### Prononciation
-- ss => "ch" (plus présent dans les noms anciens que dans les nouveaux noms)
-- en fin de mot 'et' => "ète" (plus présent dans les noms nouveaux)
-- h non muet si suivi d'une voyelle et est la première lettre du mot
-- c suivi d'une voyelle => "ss" + voyelle
-- j suivi d'une voyelle => "dj" + voyelle
-- voyelle + n => prononcé voyelle + nne
-- double voyelle => prononcé voyelleVOYELLE distinctement, excepté double i prononcé ï
-- eo => "eu" (très ancien, très peu présent)
-### Suffixe/préfixe
-- suffixe -ak = territoire de passage
-- suffixe -ren = royaume de (poétique)
-### Exemple
-- Province, Ville, Village : Rhisst, Innomet, Cipt, Eppaut, Kalm, Malnoi, Folad, Kaamrot, Nihrunne, Telden, Gepalort, Ordelmon, Hamana, Juran, Purat, Labort, Celika, Veorian (très vieille ville), Pruyaren, Promak,
-- Nom complet (Prénom + Nom de famille) : Chaaks Manii, [[Tatsuki Hirinai]], Kaalor Jethon, Meigha Okarin, Mieva Lhomak, Velnak Mothon, Dhoa Belamar, Ferhin Kornaavimin, Felken Tavimin, Velma Karnam
-- Prénom : Nektan, Tevnar, Bhossia, Glent, Tarnel, Rhonam
-
-f4a65670fbe976ae359ecfff6cb1f02a
-[https://perchance.org/hndremh0hb#edit](https://perchance.org/hndremh0hb#edit)
-### Expressions Moorhiennes
-*"Tout pousse sous l'écorce, même la trahison.”*
-=> utilisé pour dire que le danger vient souvent de l'intérieur, ou que les apparences sont trompeuses.
-
-*"Mieux vaut en brûler un halo que suivre une ombre.”*
-=> plutôt faire une erreur et perdre du temps que de suivre quelqu'un de douteux. (remplacé ombre par [[Ombros]] pour de l'ancien temps (avant exil))
-
-*"Quand les cristaux fuient, le cœur ment.”*
-=> manière de dire que si on évite du regard l’interlocuteur, cela révèle les intentions cachées.
-
-*"La cendre ne ment pas."*
-=> fatalisme, peu importe les récits, le résultat (ruines, etc) est réel
-## L’écriture du temps
-Une ère est un Soleil.
-Une année est un Rayon.
-Un mois est un Halo.
-Une journée est un éclat.
-1 Rayon = 10 Halos
-=> cela correspond à un cycle complet des saisons, 5 saisons, hiver printemps été automne hiver
-1 Halo = 45 Éclats
-=> cela correspond à une récolte de *légume connu*, de sa plantation à sa récolte.
-### Comment écrire le temps
-Version courte :
-(Soleil) Rayon-Halo-Éclat, *ex.* : (4) 85-8-32
-Version habituelle :
-(Soleil 4) 85ème Rayon 8 Halos Éclat 32
-Version codex :
-(S4) 85R 8H E32
-Version poétique :
-Le 4ème Soleil avec son 85ème Rayon et ses 8 Halos nous offre son 32ème Éclat
-# Les Soleils Moorhiens
+## Géologie, topographie et hydrographie
+## Climat
+## Paysages et environnement
+# Histoire
+## Les Soleils Moorhiens
 *> "Car la lumière ne chute jamais d'un seul coup; elle se plie, vacille, éclate, se condense, puis renaît. Ainsi vont les Soleils des Nakkardes."*
 	Extrait du *Livre des Flux*, écrit par Gorfon Belamar, historien du 11ème Soleil.
 *> "Ce ne sont pas les rayons qui marquent le temps, mais les bifurcations. L'histoire ne se compte pas - elle se vit."*
@@ -161,7 +136,25 @@ Première ville dans une nouvelle terre
 ??? rayons
 ### Ce qui s’y passe
 Création du port le plus grand de tout Eneos; création d'une route maritime sécurisée avec des plateformes flottantes servant de point de ravitaillement ou de secours, elle relie le port avec les terres originelles;
-# Autres
+# Politique et administration
+# Population et société
+## Démographie
+## Langues
+Les principales langues parlé sont le [[Moorhien]] ainsi que le [[Monayeur]]
+## Religion
+# Économie
+# Culture
+## Architecture
+style architectural romane : pierre claire, tuiles orangé
+## Arts visuels et plastiques
+## Litérature et poésie
+## Arts du spectacle
+## Musique
+## Mode
+## Gastronomie
+## Philosophie et science
+## Influence internationale
+# Notes et références
 → Durant l'Ère 3, un évènement religieux à Moorhi.
 La réception de la graine de lumière par le peuple Nakkard fut marqué d’une pierre blanche. Ce jour devint un jour de fête où personne n’avait le droit travailler. Les fêtes tournaient autour de l’entraide et de la bienveillance, tout en étant autour de la thématique de la nature et de [[Lheiren]]. Ce jour est facile à retenir car il est le premier jour de l’été, soit le 47ème jour de chaque rayon.
 

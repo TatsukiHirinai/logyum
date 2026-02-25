@@ -1,0 +1,1 @@
+﻿Langue marcadur parlé principalement à Sol-Or et Kaorim, bien que Moorhi l'utilise régulièrement.
