@@ -1,6 +1,46 @@
-# Histoire & Origines
+﻿> [!info]
+> ![[illustration_race.png|220]]
+> ###### Marcadur
+> **Nom endonyme :** Marcadur
+> **Nom(s) exonyme(s) :** Marcadur
+> **Classification :** XXXX
+> **Origine mythologique :** XXXX
+> **Langue(s) parlée(s) :** XXXX
+> **Symboles culturels :** XXXX
+> ###### Apparence & Biologie
+> **Taille moyenne :** XXXX
+> **Morphologie :** XXXX
+> **Couleurs caractéristiques :** XXXX
+> **Cycle de vie :** XXXX
+> **Longévité :** XXXX
+> **Capacités particulières :** XXXX
+> ###### Société
+> **Traditions majeures :** XXXX
+> **Religion & croyances :** XXXX
+> **Arts & artisanat :** XXXX
+> ###### Territoire
+> ![[carte_territoire.png|220]]
+> **Région(s) d'origine :** XXXX
+> **Territoires actuels :** XXXX
+> **Environnement préféré :** XXXX
+> **Principales cités :** XXXX
+> ###### Histoire
+> **Âges mythiques :** XXXX
+> **Événement fondateur :** XXXX
+> **Alliances historiques :** XXXX
+> **Ennemis traditionnels :** XXXX
+> ###### Démographie
+> **Population totale :** XXXX
+> **Dispersion :** XXXX
+
+# Histoire
 Ils étaient un puissant empire économique, leur éloquence naturelle et leur bonne fortune les monta au sommet de la richesse. Mais un groupe arrogant de [[nakkard]], le Cercle de la Sève, firent de leur territoire le leur. Ainsi, étant impuissant militairement, ils perdirent leur empire. Leur pays se fait emporter dans les cieux par cette secte et par la même, l'espoir d'avenir. Cet événement bouleversa tous les peuples et royaumes, ainsi, le premier accord international eu lieu. Chaque royaume devait accueillir un nombre proportionnel de réfugiés marcadur. De plus, afin de marquer l’événement dans l’histoire, un changement d’ère fut ordonné dans tous les calendriers du monde.
-# Culture & Société
+# Culture
+## Arts
+## Artefact
+## Langues
+## Religion
+## Croyances
 [[Kaorim]], nom de leur nouvelle île/capitale, une île (à la Monaco) sans espace “naturelle”, ville des importations et des plus grands ports du monde. Ville huppée, les plus grands des contrées proches ou lointaines y ont une résidence, ville dans une forme d’une fontaine à 3 étages, dernier étage chambre des commerces et chambre des ventes. Kaorim est une île artificielle créé après l’[[Ère 6]].
 L'Œil de Cristal fut offert aux marcadur, leur permettant de comprendre parfaitement les émotions.
 C’est une race très honnête envers elle-même, car aucune utilité de mentir face à des gens qui peuvent le voir.

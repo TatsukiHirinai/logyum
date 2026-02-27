@@ -1,11 +1,51 @@
-# Histoire & Origines
+﻿> [!info]
+> ![[illustration_race.png|220]]
+> ###### Ogahon
+> **Nom endonyme :** Ogahon
+> **Nom(s) exonyme(s) :** Ogahon
+> **Classification :** XXXX
+> **Origine mythologique :** XXXX
+> **Langue(s) parlée(s) :** XXXX
+> **Symboles culturels :** XXXX
+> ###### Apparence & Biologie
+> **Taille moyenne :** XXXX
+> **Morphologie :** XXXX
+> **Couleurs caractéristiques :** XXXX
+> **Cycle de vie :** XXXX
+> **Longévité :** XXXX
+> **Capacités particulières :** XXXX
+> ###### Société
+> **Traditions majeures :** XXXX
+> **Religion & croyances :** XXXX
+> **Arts & artisanat :** XXXX
+> ###### Territoire
+> ![[carte_territoire.png|220]]
+> **Région(s) d'origine :** XXXX
+> **Territoires actuels :** XXXX
+> **Environnement préféré :** XXXX
+> **Principales cités :** XXXX
+> ###### Histoire
+> **Âges mythiques :** XXXX
+> **Événement fondateur :** XXXX
+> **Alliances historiques :** XXXX
+> **Ennemis traditionnels :** XXXX
+> ###### Démographie
+> **Population totale :** XXXX
+> **Dispersion :** XXXX
+> **Gentilé :** XXXX
+
+# Histoire
 s'installe dans les forêts car humidité et peu de soleil leur plait, sont très vite reconnu comme menace par [[Moorhi]],
 Moorhi rentre en guerre avec eux pour récupérer les forêts pour le bois, [[Seimori]] réussit à maintenir leur territoires car armée Moorhienne peu puissant dans la foret (pb de lumière), Seimori fortifie les alentours des forets, beaucoup de mort Ogahon après des incendies de guerre
 Période de paix, Seimori évoluent lentement, nombreuses villes apparaissent, prennent via une négociation avec [[Speita]] quelques terres non forêt, Speita aide Seimori à évoluer avec découverte de mine de charbon, ouverture au commerce internationale
 Moorhi cherche vrai paix entre les deux royaumes à cause de l'ancienne guerre, tabouret d'argent offert, amitié se noue, échange fructueux de biens et économie entre les deux royaumes apparait
 
 ⇒ Les ogahon s’établirent dans les forêts humides d’Eneos et fondèrent le royaume de Seimori. Rapidement considérés comme une menace par Moorhi qui convoitait leur bois, une guerre éclata. Malgré de lourdes pertes causées par les incendies de guerre, les Seimoriens parvinrent à défendre leurs terres grâce à leur maîtrise du terrain. Vint ensuite une paix progressive : les ogahon fondèrent des villes, obtinrent des terres par traité avec Speita et évoluèrent grâce au commerce du charbon. Finalement, la réconciliation avec Moorhi fut scellée par le tabouret d’argent, ouvrant une ère d’amitié et d’échanges fructueux entre les deux.
-# Culture & Société
+# Culture
+## Arts
+## Langues
+## Religion
+## Croyances
 L'Éclat d'Ombre céder aux ogahon fit un lien entre eux et les [[arrint]].
 
 Les Sans-Cornes sont un clan ogahon, les membres de ce clan se scient les cornes afin de montrer leur appartenance. Leur objectif est de maîtriser la Magie “noire”, pour cela ils organisent de nombreuses expéditions dans les anciennes terres [[ombros]], afin d’y récolter des cristaux de corruption.
@@ -31,7 +71,7 @@ Les ogahon sont de grands et massifs humanoïde. Ils ont une peau coloré, allan
 # Personnalités marquantes
 => description de personnalité marquante, tragique, [[Ère 9]]
 un leader activiste ogahon contre l’utilisation de la Magie du portail tué lors d’une manifestation anti Magie portail
-# Divers
+# Notes et références
 => lettre, politique, [[Ère 8]]
 Lettre d’un dirigeant seimorien à un baron moorhien, lettre prouvant la corruption de l’état seimorien, car la guerre qu’il y a lieu entre les deux nations est purement économique. La lettre demande au baron d’envoyer des troupes sur une frontière non protégée pour forcer le débat et le budget sur une fortification de cet endroit. Cette lettre fut interceptée par un autre baron moorhien, il l’a rendue publique. Le gouvernement moorhien, ayant pris connaissance des méfaits de ce baron, décide de bannir l'intégralité de sa famille des terres de Moorhi, les condamnant ainsi à l'exil. Cette lettre a provoqué de nombreuses révoltes parmi le peuple Ogahon, poussant même l'armée à intervenir et à destituer les dirigeants. De nouveaux dirigeants furent élus, ils venaient du « peuple », d'une haute classe bien éduquée, mais proche du peuple.
 

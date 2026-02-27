@@ -1,6 +1,47 @@
-# Histoire & Origines
+﻿> [!info]
+> ![[illustration_race.png|220]]
+> ###### Nakkard
+> **Nom endonyme :** Nakkard
+> **Nom(s) exonyme(s) :** Nakkard
+> **Classification :** XXXX
+> **Origine mythologique :** XXXX
+> **Langue(s) parlée(s) :** XXXX
+> **Symboles culturels :** XXXX
+> ###### Apparence & Biologie
+> **Taille moyenne :** XXXX
+> **Morphologie :** XXXX
+> **Couleurs caractéristiques :** XXXX
+> **Cycle de vie :** XXXX
+> **Longévité :** XXXX
+> **Capacités particulières :** XXXX
+> ###### Société
+> **Traditions majeures :** XXXX
+> **Religion & croyances :** XXXX
+> **Arts & artisanat :** XXXX
+> ###### Territoire
+> ![[carte_territoire.png|220]]
+> **Région(s) d'origine :** XXXX
+> **Territoires actuels :** XXXX
+> **Environnement préféré :** XXXX
+> **Principales cités :** XXXX
+> ###### Histoire
+> **Âges mythiques :** XXXX
+> **Événement fondateur :** XXXX
+> **Alliances historiques :** XXXX
+> **Ennemis traditionnels :** XXXX
+> ###### Démographie
+> **Population totale :** XXXX
+> **Dispersion :** XXXX
+
+# Histoire
 Les nakkard se sont très vite retrouvé dans des territoires assez chaud, ils apprécient la chaleur du soleil. Puis, de part leur volonté de s’unir, ils créèrent le royaume de Moorhi qui fut l’alliance de multiples clan ayant formé des territoires. La suite : [[Moorhi]] 
-# Culture & Société
+# Culture
+## Arts
+## Artefact
+L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l’arbre qui en a découlé à été nommé Lheiren. Une religion s’est développé autour de lui, [[Silvaren]]. Grâce à cet artefact les nakkard ont hérité du Dominium Lux (cf. [[Science et Magie]])
+## Langues
+## Religion
+## Croyances
 Les nakkard forgent leurs armes dans d’archaïque forge avec leur talent de dompteur d'acier. Ils sont une nation de forgeron car seul eux peuvent maîtriser parfaitement la chaleur avec la lumière et donc permet au métal qu’ils utilisent d’arriver au point de fusion. De plus, sur leurs territoires, beaucoup de gisements de fer sont présents.
 
 La Graine de Lumière, artefact donnée par les [[aeter]] durant l’[[ère 3]], s’est transformée en un gigantesque arbre. Celui-ci est devenu sacré de par sa beauté et sa grandeur. Depuis le début de son évolution, l’arbre, de part ses racines, fait prospérer la nation de Moorhi avec sa lumière. Le chlorolux désigne la sève de l’arbre sacrée.
@@ -36,8 +77,6 @@ Des mi- humains mi- renards, qui possèdent de nombreuses ressemblances avec les
 Des humains avec une queue et des oreilles, cette variété est la plus présente dans cette race. Cependant elle ne possède pas cette rapidité de course marquante des autres variétés.
 ![[nakkardas_male.png]] 
 ![[nakkardas_female.png]]
-# Artefact
-L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l’arbre qui en a découlé à été nommé Lheiren. Une religion s’est développé autour de lui, [[Silvaren]]. Grâce à cet artefact les nakkard ont hérité du Dominium Lux (cf. [[Science et Magie]])
 # Personnalités marquantes
 => description de personnalité marquante, dramatique, [[Ère 4]]
 plus grand mage nakkardas depuis des siècles assassiné par un de ses anciens élèves. Son assassin ne fut jamais retrouvé bien qu’il soit identifié comme étant le fils d’une famille de la haute classe. Cette famille fut d’ailleurs harcelé par les nombreux adeptes du mage. Même la haute classe finit par les rejeter, devenant alors des sortes de paria. La petite dernière fut l’une des fondatrices du culte de la sève. Sa haine envers la société actuelle la poussa à réfléchir à une autre proposition qui fut le culte de la sève.

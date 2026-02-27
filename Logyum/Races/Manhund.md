@@ -1,5 +1,45 @@
-# Histoire & Origines
-# Culture & Société
+﻿> [!info]
+> ![[illustration_race.png|220]]
+> ###### Manhund
+> **Nom endonyme :** Manhund
+> **Nom(s) exonyme(s) :** Manhund
+> **Classification :** XXXX
+> **Origine mythologique :** XXXX
+> **Langue(s) parlée(s) :** XXXX
+> **Symboles culturels :** XXXX
+> ###### Apparence & Biologie
+> **Taille moyenne :** XXXX
+> **Morphologie :** XXXX
+> **Couleurs caractéristiques :** XXXX
+> **Cycle de vie :** XXXX
+> **Longévité :** XXXX
+> **Capacités particulières :** XXXX
+> ###### Société
+> **Traditions majeures :** XXXX
+> **Religion & croyances :** XXXX
+> **Arts & artisanat :** XXXX
+> ###### Territoire
+> ![[carte_territoire.png|220]]
+> **Région(s) d'origine :** XXXX
+> **Territoires actuels :** XXXX
+> **Environnement préféré :** XXXX
+> **Principales cités :** XXXX
+> ###### Histoire
+> **Âges mythiques :** XXXX
+> **Événement fondateur :** XXXX
+> **Alliances historiques :** XXXX
+> **Ennemis traditionnels :** XXXX
+> ###### Démographie
+> **Population totale :** XXXX
+> **Dispersion :** XXXX
+
+# Histoire
+# Culture
+## Arts
+## Artefact
+## Langues
+## Religion
+## Croyances
 La Pierre Sanguinaire octroyée aux manhund décupla leurs forces, mais en attirant le sang.
 Manhund signifie canidé de lune dans leur langue.
 Ce sont des grands architectes, ils sont les maîtres de la pierre.
@@ -11,7 +51,7 @@ manhund tribus
 ⇒ 5 tribus majeures règnent sur toutes les terres manhund
 (1) Cet tribu, très proche de la nature, est caché dans les forêts profonde de [[Storz Vulkano]]. C’est la plus petite tribu majeure mais grâce à sa connaissance parfaites des forêts ils se défendent très bien et ne s’étendent pas plus loin.
 (2) Cet tribu occupe l’entièreté de la partie continentale de Storz Vulkano. À l’origine, cet tribu ne voulait pas partir sur la mer à la recherche de terres. Elle se sentait en sécurité sur ce bout de terre. La chaine de Stigel la protégeant des autres nations. Cet population est la plus en contact avec les autres nations de part sa proximité avec elles.
-(3) d
+(3) 
 (4) 
 (5) 
 
@@ -40,7 +80,7 @@ Armes de prédilections : hache de guerre, ses poings, ses griffes, ses pattes, 
 Style de combats : il combat principalement en meute en fonçant dans le tas et frappant tout ce qui bouge tel un barbare, ses coups sont plutôt lent mais sont dévastateur
 Histoire : ⁠Inconnu
 
-# Divers
+# Notes & références
 => rumeur, religieux, [[Ère 4]]
 rumeur sur l’apparition d’un [[arrint]] qui serait à l’origine de la peste ombrale
 

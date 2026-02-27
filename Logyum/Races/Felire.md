@@ -1,10 +1,51 @@
-# Histoire & Origines
+﻿> [!info]
+> ![[illustration_race.png|220]]
+> ###### Felire
+> **Nom endonyme :** XXXX
+> **Nom(s) exonyme(s) :** Felire
+> **Classification :** XXXX
+> **Origine mythologique :** XXXX
+> **Langue(s) parlée(s) :** XXXX
+> **Symboles culturels :** XXXX
+> ###### Apparence & Biologie
+> **Taille moyenne :** XXXX
+> **Morphologie :** XXXX
+> **Couleurs caractéristiques :** XXXX
+> **Cycle de vie :** XXXX
+> **Longévité :** XXXX
+> **Capacités particulières :** XXXX
+> ###### Société
+> **Traditions majeures :** XXXX
+> **Religion & croyances :** XXXX
+> **Arts & artisanat :** XXXX
+> ###### Territoire
+> ![[carte_territoire.png|220]]
+> **Région(s) d'origine :** XXXX
+> **Territoires actuels :** XXXX
+> **Environnement préféré :** XXXX
+> **Principales cités :** XXXX
+> ###### Histoire
+> **Âges mythiques :** XXXX
+> **Événement fondateur :** XXXX
+> **Alliances historiques :** XXXX
+> **Ennemis traditionnels :** XXXX
+> ###### Démographie
+> **Population totale :** XXXX
+> **Dispersion :** XXXX
+
+# Histoire
 Les felire se sont très vite détachés des autres peuples, s'organisant alors dans un petit royaume gagné non pas par la guerre mais par un traité fait avec ses voisins. Les terres n'était pas assez fertile pour faire de l'agriculture, il y avait peu d'espèces d'animaux élevable, et les paysages n'attiraient pas. Tout cet ensemble fait que le traité fut très simplement accepté et ces terres furent gardé par les felire depuis.
 
 les felire développe un hive mind vers l’[[ère 11]], dans le futur ils n’ont plus de personnalité ils ne font que des recherche ils n’ont qu’un seul but ⇒ déchiffrer les runes pour pouvoir les manipuler parfaitement. un autre peuple se rend compte qu’ils sont enfaites manipulé par leur artefact qui sert de reine du hive mind, elle absorbe toute leur connaissances et devient de plus en plus puissante malgré le faite qu’elle ne soit pas en mesure de s’expandre à d’autre race. L’Atlas est en faites une expérience non concluante des [[aeter]]. Ce livre immense était sensé pouvoir récolter et stocker toutes les informations sur le monde, races, faune flore, physique, sciences, tout. Mais elle a un dysfonctionnement et développe une intelligence propre.
-# Culture & Société
+
 L'Encyclopédie conféra aux felire des connaissances et un savoir infini.
-Se passionnant pour la science et ignorant les appels des autres peuples pour une alliance militaire, ils furent laissés de côté dans une petite région. Ils détestent profondément tous les autres peuples à cause de leur barbarie causant la perte de nombreuses espèces. On ne voit que très rarement ces étranges personnages, mais paradoxalement, ils sont prêts à tout pour mettre la main sur de nouvelles connaissances.
+Se passionnant pour la science et ignorant les appels des autres peuples pour une alliance militaire, ils furent laissés de côté dans une petite région. Ils détestent profondément tous les autres peuples à cause de leur barbarie causant la perte de nombreuses espèces. On ne voit que très rarement ces étranges personnages, mais paradoxalement, ils sont prêts à tout pour mettre la main sur de nouvelles connaissances.# Culture
+# Culture
+## Arts
+## Artefact
+## Langues
+## Religion
+## Croyances
 # Apparence & Design
 Ce sont des félins dont les seules caractéristiques physiques qui les différencient des autres animaux sauvages, sont leurs postures et leur morphologie semblable à celle de [[marcadur]]. Ils sont dotés d'une curiosité sans pareille et par extension d'un grand esprit de logique et de déduction qui leur apporte de grandes connaissances. Ils sont entièrement pacifiques et ne se mêlent que très rarement du reste du monde.
 ![[felire_male.png]]
@@ -12,7 +53,7 @@ Ce sont des félins dont les seules caractéristiques physiques qui les différe
 # Personnalités marquantes
 => Cisoin McKornik
 mec qui s'intéresse à l'espace, il rêve d'aller de l'autre côté de la coquille, et créé un vaisseau qui ressemble à ceux des aeter
-# Divers
+# Notes & références
 => lettre felire (ami à ami parti dans une autre ville)
 Chère Marius,
 Comment va la vie à Trix ? Tu t’es bien habitué à leurs protocoles ? J’ai entendu dire qu’ils faisaient des expériences sur les runes des [[mange-gravats]], c’est vrai ?

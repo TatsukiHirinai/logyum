@@ -1,7 +1,47 @@
-# Histoire & Origines
+﻿> [!info]
+> ![[illustration_race.png|220]]
+> ###### Ombros
+> **Nom endonyme :** XXXX
+> **Nom(s) exonyme(s) :** Ombros
+> **Classification :** XXXX
+> **Origine mythologique :** XXXX
+> **Langue(s) parlée(s) :** XXXX
+> **Symboles culturels :** XXXX
+> ###### Apparence & Biologie
+> **Taille moyenne :** XXXX
+> **Morphologie :** XXXX
+> **Couleurs caractéristiques :** XXXX
+> **Cycle de vie :** XXXX
+> **Longévité :** XXXX
+> **Capacités particulières :** XXXX
+> ###### Société
+> **Traditions majeures :** XXXX
+> **Religion & croyances :** XXXX
+> **Arts & artisanat :** XXXX
+> ###### Territoire
+> ![[carte_territoire.png|220]]
+> **Région(s) d'origine :** XXXX
+> **Territoires actuels :** XXXX
+> **Environnement préféré :** XXXX
+> **Principales cités :** XXXX
+> ###### Histoire
+> **Âges mythiques :** XXXX
+> **Événement fondateur :** XXXX
+> **Alliances historiques :** XXXX
+> **Ennemis traditionnels :** XXXX
+> ###### Démographie
+> **Population totale :** XXXX
+> **Dispersion :** XXXX
+
+# Histoire
 Les ombros de sont apparues à l’[[ère 3]] et se virent remettre par leur ancêtre un anneau qui permit à toute leur espèce d’utiliser l’Ombromancie. Les premiers colons, lors du voile primaire et cycle premier en 1 de neast, fondèrent Corriptus en référence au fardeau confié par les [[arrint]].
 
-# Culture & Société
+# Culture
+## Arts
+## Artefact
+## Langues
+## Religion
+## Croyances
 Après la peste ombrale, leur royaume devient perdu (à la Fallout), zone morte écologiquement, terre très sèche, beaucoup d'écroulements et de trou dans le sol. Des cristaux se sont formés dans le sol dû à la corruption, des clans [[ogahon]] essayent de mettre la main sur ces pierres pour les utiliser comme une sorte de magie noire.
 
 Depuis la peste ombrale, les ombros vivent dans un monde de poche, une île, perdu dans une mer sombre et dans une nuit éternelle. Des montagnes d’ardoises, des villes industrielles.
@@ -36,4 +76,4 @@ Leur peuple est vil, sournois et sans scrupule. Ils ne se préoccupent que de le
 
 # Personnalités marquantes
 
-# Divers
+# Notes et références
