@@ -15,5 +15,6 @@
   "image-converter",
   "pretty-properties",
   "multi-properties",
-  "fold-properties"
+  "fold-properties",
+  "obsidian-leaflet-plugin"
 ]

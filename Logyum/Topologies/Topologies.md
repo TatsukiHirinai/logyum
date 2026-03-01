@@ -1,4 +1,4 @@
-﻿# Le Monde
+# Le Monde
 ## Le Noyau
 Le Noyau est une boule qui a une face sombre et une autre éclairée, ces deux faces servent respectivement de soleil et de lune. Un nuage de gaz englobe les alentours du noyau, il est apparu depuis la fission de la coquille. L’image ci dessous est une potentiel représentation du noyau :
 

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "11edf2b2b65a760e",
+        "id": "86d9eae419a261e0",
         "type": "tabs",
         "children": [
           {
-            "id": "95627b92d0dde8cd",
+            "id": "7404902183292d41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Science et Magie.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Topographie/logyum_noyau.png"
               },
-              "icon": "lucide-file",
-              "title": "Science et Magie"
+              "icon": "lucide-image",
+              "title": "logyum_noyau"
             }
           }
         ]
@@ -44,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -126,8 +124,8 @@
                 },
                 "id": "ID_bb89a858a898"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -136,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science et Magie.md",
+                "file": "Images/Topographie/logyum_noyau.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Science et Magie"
+              "title": "Liens sortants de logyum_noyau"
             }
           },
           {
@@ -201,33 +199,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "markdown-importer:Ouvrir l'importateur Markdown": false,
+      "publish:Publier les modifications": false,
+      "bases:Créer une nouvelle base": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "95627b92d0dde8cd",
+  "active": "7404902183292d41",
   "lastOpenFiles": [
+    "Images/Topographie/eneos_map_3d.png",
+    "Images/Topographie/eneos_map.png",
+    "Images/Race/ogahon_male.png",
+    "Images/Race/ogahon_fiche.png",
+    "Images/Race/ogahon_female.png",
+    "Images/Race/nokkardes_male.png",
+    "Images/Race/nokkardes_female.png",
+    "Images/Race/nokkardas_male.png",
+    "Images/Race/nokkardas_female.png",
+    "Images/Race/nakkardas_male.png",
+    "Images/Race/nakkardas_female.png",
+    "Races/Felire.md",
+    "Races/Horloger.md",
+    "Races/Manhund.md",
+    "Races/Marcadur.md",
+    "Topologies/Nations/Kaorim.md",
+    "Topologies/Nations/Karnaa.md",
+    "Topologies/Topologies.md",
+    "Idées non rangées.md",
+    "Meta.md",
+    "Science et Magie.md",
     "Topologies/Nations/Nox Speita Domina.md",
     "carte.png.md",
-    "Meta.md",
     "Cultures/Langues/Nevotien.md",
     "Cultures/Langues/Nevotien",
     "Topologies/Nations/Nox Speita Domina",
     "Topologies/Nations/Nevot.md",
     "Topologies/Nations/Nevot",
-    "Idées non rangées.md",
-    "Science et Magie.md",
-    "Topologies/Topologies.md",
     "Topologies/Continents/Continent J.md",
     "Topologies/Continents/Continent G.md",
     "Topologies/Continents/Continent F.md",
@@ -239,13 +255,6 @@
     "Topologies/Continents/Continent K.md",
     "Topologies/Continents/Continent I.md",
     "Topologies/Continents/Continent H.md",
-    "Topologies/Continents/Continent G (8).md",
-    "Topologies/Continents/Continent G (7).md",
-    "Topologies/Continents/Continent G (6).md",
-    "Topologies/Continents/Continent G (5).md",
-    "Topologies/Continents/Continent G (4).md",
-    "Topologies/Continents/Continent G (3).md",
-    "Topologies/Continents/Continent G (2).md",
     "Topologies/Nations",
     "Topologies/Continents",
     "Cultures/Langues",
@@ -253,16 +262,6 @@
     "Races/Horloger",
     "Logyum.json",
     "Chronologies/Evenements",
-    "Sans titre.canvas",
-    "Images/JDR/yuzuki_morinochi.png",
-    "Images/JDR/yuzuki_morinochi.png",
-    "Images/Race/manhund_female.png",
-    "Images/Faune/nom_a_determiner_2.png",
-    "Images/Race/felire_female.png",
-    "Images/Race/nakkardas_female.png",
-    "Images/Flore/fl_nom_a_determiner_2.png",
-    "Images/Faune/nom_a_determiner_4.png",
-    "Google Keep/Assets/image.png",
-    "Images/Faune/nom_a_determiner_3.png"
+    "Sans titre.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-﻿**Anti page blanche :** [https://perchance.org/53yixkvwms](https://perchance.org/53yixkvwms) wC5yFaVl7MGeDIPvkii9
+**Anti page blanche :** [https://perchance.org/53yixkvwms](https://perchance.org/53yixkvwms) wC5yFaVl7MGeDIPvkii9
 
 ---
 

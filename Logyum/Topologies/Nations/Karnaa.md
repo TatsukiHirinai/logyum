@@ -1,4 +1,4 @@
-﻿> [!info]
+> [!info]
 > ![[drapeau.png|220]]
 > ![[emblême.png|220]]
 > ###### Karnaa

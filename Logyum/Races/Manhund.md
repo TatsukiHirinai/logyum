@@ -1,4 +1,4 @@
-﻿> [!info]
+> [!info]
 > ![[illustration_race.png|220]]
 > ###### Manhund
 > **Nom endonyme :** Manhund

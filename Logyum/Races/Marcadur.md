@@ -1,4 +1,4 @@
-﻿> [!info]
+> [!info]
 > ![[illustration_race.png|220]]
 > ###### Marcadur
 > **Nom endonyme :** Marcadur
@@ -56,6 +56,8 @@ banquet marcadur on boit quoi on mange quoi
 Alcool d’un fruit arbre anciennement commun à [[Sol-Or]], l’alcool est vert et il est très sec ce qui le marie très bien avec un [[pruya]] fourré aux champignons, qui accompagne très régulièrement ces repas.
 # Apparence & Design
 Des humains rien de plus simple.
+![[marcadur_male.png]]
+![[marcadur_female.png]]
 # Personnalités marquantes
 => Jean Eud la pierre
 fils de son père Pascal Diamant et sa mère Marina Cristal, il part à l'aventure dans le but d'en savoir plus sur les créateurs du tabouret d'argent (tabouret qui permet d’être entre les deux mondes (celui des [[ogahon]])) fait de la matière du mur, gardé pendant des siècles car mit beaucoup de temps à sculpter. Fait par les marcadur mais commandé par [[Moorhi]], objectif = couronne mais ogahon a vu ça comme un tabouret. Infusé par les ogahon, garder car symbole de réconciliation des deux nations. Jean eud la pierre veut voir Pépé Pierrick c’est pour ça qu’il cherche ce tabouret. Pépé à fait crack crack avec une horlogère, pépé est en faite pas mort.
