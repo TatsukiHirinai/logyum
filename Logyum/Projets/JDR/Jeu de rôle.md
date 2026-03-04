@@ -1,4 +1,4 @@
-# Le jeu de rôle et ses mécaniques
+﻿# Le jeu de rôle et ses mécaniques
 ## Personnage et statistiques
 ### Personnage
 Pour créer une fiche de personnage il faut réunir les informations suivantes :
@@ -110,20 +110,29 @@ darkvision, griffe d’acier (bonus pour attaque main nue)
 ## Classes
 Les classes peuvent être utilisées par n’importe quelle race, mais la particularité est qu’elles agissent différemment en fonction des races. Un magicien nakkard ne pourra utiliser que la lumière, tandis qu’un magicien ogahon utilisera l'Anemomancie. Un guerrier manhund se battra grâce à son sang, tandis qu’un guerrier felire se battra grâce aux sciences.
 ### Classe présente
-- Clerc
+- [[Spiritualiste]]
+	- clerc
     - moine
     - prêtre
-- Guerrier
+- [[Agent]]
+	- voleur
+	- rodeur
+	- saboteur
+- [[Martiale]]
+	- guerrier
     - paladin
     - barbare
-    - voleur
-    - rodeur
-    - ingénieur
-- Mage
-    - Magie réparatrice
-    - Magie défensive
-    - Magie offensive
-    - branche de Magie…
+- [[Ingénieur]]
+	- artificier
+	- alchimiste
+	- technomancien
+- [[Mage]]
+    - réparateur
+    - défenseur
+    - offenseur
+- [[Errant]] (pas de classe mais des bonus très libre)
+	- magique
+	- non magique
 ## Le Combat
 Le combat fonctionne comme dans DnD 5e, du tour par tour. 
 
