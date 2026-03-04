@@ -1,4 +1,4 @@
-﻿## **Histoire de la Campagne β :**
+## **Histoire de la Campagne β :**
 ### Personnage joueur
 [Cβ Personnages Joueurs](Cβ%20Personnages%20Joueurs.md)
 ### **Personnage non joueur important**
@@ -9,7 +9,6 @@ Description Mentale :
 Autres : chef de quête
 
 ---
-
 **#2 Galanor le sage**
 Civilité : nokkardas, 51r, masc.
 Description Physique : 
@@ -17,7 +16,6 @@ Description Mentale :
 Autres : le chef cultiste recherché (boss final de la quête)
 
 ---
-
 **#3 Bhessa Moel**
 Civilité : nokkardes, 38r, fem.
 Description Physique : 
@@ -25,7 +23,6 @@ Description Mentale :
 Autres : aubergiste cultiste
 
 ---
-
 **#4 Negan l’effronté**
 Civilité : 
 Description Physique : 
@@ -33,7 +30,6 @@ Description Mentale :
 Autres : chef du premier camp cultiste rencontré
 
 ---
-
 **#5 Cecile Douma**
 Civilité : nakkardas
 Description Physique : 
@@ -41,7 +37,6 @@ Description Mentale :
 Autres :  espionne de l’armée Moorhienne
 
 ---
-
 **#6 Prénom Nom**
 Civilité : 
 Description Physique : 
@@ -49,7 +44,6 @@ Description Mentale :
 Autres : lieutenant de l’armée Moorhienne
 
 ---
-
 ### **Résumé**
 Les joueurs sont un groupe de combat composé de deux paladins, d’un soldat et d’un prêtre. Leur but est de localiser et d’arrêter un membre important du Culte de la Sève. Pour ça, comme première piste ils possèdent la position d’un camp du Culte de la Sève. Lorsqu’ils identifieront une position exact du cherché il sera sur un plan de voler de la sève et donc combat
 ## Maps

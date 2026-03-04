@@ -1,4 +1,4 @@
-﻿# Le jeu de rôle et ses mécaniques
+# Le jeu de rôle et ses mécaniques
 ## Personnage et statistiques
 ### Personnage
 Pour créer une fiche de personnage il faut réunir les informations suivantes :
@@ -33,7 +33,7 @@ Pour créer une fiche de personnage il faut réunir les informations suivantes :
 - Maîtrises
 
 ## Races
-Les races communes de Logyum sont disponibles, seuls les aeter, les arrint, les horloger et les ombros ne sont pas disponibles au jeu, étant des races soit disparu soit mythiques. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
+Les races communes de Logyum sont disponibles, seuls les aeter, les arrint, les horloger (ainsi que leurs sous-races) et les ombros ne sont pas disponibles au jeu, étant des races soit disparu soit mythiques. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
 
 Acid > Ogahon, Felire, (Manhund)
 Poison > Ogahon, Felire, (Manhund)
@@ -135,7 +135,6 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 
 [Spells](Spells%20287f2dd69f968041bca8d22cefc93978.csv)
 [Feats](Feats%20270f2dd69f9680adb82bc40cee777531.csv)
-
 # Les Campagnes
 [Campagne α : ça vole pas une ville !](Campagne%20α%20ça%20vole%20pas%20une%20ville%20!.md)
 [Campagne β : Lheiren, l’arbre sacrée.](Campagne%20β%20Lheiren,%20l’arbre%20sacrée.md)
@@ -146,7 +145,6 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 [Campagne n°1 : La terre des esprits](Campagne%20n°1%20La%20terre%20des%20esprits.md)
 
 [https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024](https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024)
-
 # Système de JdR Logyum :
 Test de compétence sur un dé 30 (d20+d10)
 1-2 échec critique, 29-30 réussite critique
@@ -212,7 +210,6 @@ Ferhin, une nakkardas utilisant la lumière pour se battre, a la fiche de niveau
 donc elle est niveau générale : 15 (30paliers/2)
 
 ---
-
 ## ✨ Système de Magie (réserve de PM)
 ### 🔥 Surcharge magique (upcast)
 - Le lanceur peut **dépenser plus de PM que le coût du sort** pour **ajouter des dés** à l’effet.
@@ -245,7 +242,6 @@ Bonus de branche = ⌊√5⌋ = **+2**.
 - **Réserve totale de Magie (PM)** = **somme des emplacements** convertis :*Exemple :* un mage avec **4 niv1, 3 niv2, 2 niv3, 1 niv4** →**4×1 + 3×2 + 2×3 + 1×4 = 20 PM**.
 
 ---
-
 ## 🛡️ Système d’endurance (EN)
 ### 🎛 Ressource physique parallèle aux PM
 - Les classes martiales ont une **réserve d’Endurance (EN)** qui **se régénère au repos long** (parfois partielle au repos court selon classe).
@@ -273,7 +269,6 @@ Bonus de branche = **+2**.
 **Total : 3d8 + 2**.
 
 ---
-
 ## Branche d’Arme (10 niveaux chacune)
 Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
 
@@ -283,7 +278,6 @@ Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
 4. Armes de Jet — mobilité, agressivité.
 5. Arts Martiaux — vitesse, esquive.
 6. Armes Improvisé — surprise, contendant.
-
 ### ⚔️ **1. Armes à Une Main**
 **Exemples :** épée longue, hache, masse, rapière.
 **Style :** polyvalence, précision, posture stable.
@@ -319,7 +313,7 @@ Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
 - Niv. 3 : +1 initiative
 - Niv. 5 : attaque bonus gratuite si EN dépensée ce tour
 - Niv. 10 : 1 esquive gratuite par tour (réaction)
-### 🪑 6**. Armes improvisés**
+### 🪑 6. Armes improvisés
 **Exemples :** Tabouret, table, bouteille, caillou.
 **Style :** surprise, dégât contondant.
 **Effets de niveau :**
@@ -328,10 +322,8 @@ Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
 - Niv. 10 : +1d de dégâts
 
 ---
-
 ## Branche de Magie (10 niveaux chacune)
 Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
-
 1. Lumière
     1. de Greimorien (amélioration physique et intérieur)
     2. de Rhisstor (feu et explosion)

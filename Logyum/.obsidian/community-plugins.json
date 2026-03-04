@@ -16,5 +16,9 @@
   "pretty-properties",
   "multi-properties",
   "fold-properties",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "mousewheel-image-zoom",
+  "image-picker",
+  "obsidian-image-toolkit",
+  "quickadd"
 ]
