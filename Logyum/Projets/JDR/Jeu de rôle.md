@@ -33,7 +33,7 @@ Pour créer une fiche de personnage il faut réunir les informations suivantes :
 - Maîtrises
 
 ## Races
-Les races communes de Logyum sont disponibles, seuls les aeter, les arrint, les horloger (ainsi que leurs sous-races) et les ombros ne sont pas disponibles au jeu, étant des races soit disparu soit mythiques. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
+Les races communes de Logyum sont disponibles, seuls les [[aeter]], les [[arrint]], les [[horloger]] (ainsi que leurs sous-races) et les [[ombros]] ne sont pas disponibles au jeu, étant des races soit disparu soit mythiques. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
 
 Acid > Ogahon, Felire, (Manhund)
 Poison > Ogahon, Felire, (Manhund)
@@ -53,7 +53,7 @@ Clan Greimor > lumière "intérieur"
 Clan Rhisstor > lumière "feu"
 Clan Horass > lumière extérieur pure
 Clan Jiina > lumière utile, heal et detect
-### Nakkard
+### [[Nakkard]]
 - Les nokkardas
     - +1 constitution
     - armure lourde, moyenne = -1 dextérité
@@ -72,7 +72,7 @@ Clans et sorts spécifiques :
 
 traits raciaux :
 darkvision, pas de renard (peu de bruit avantage discrétion), lumière aveuglante (capacité de blind les gens un court instant)
-### Ogahon
+### [[Ogahon]]
 - +2 sagesse, +1 intelligence
 
 Plusieurs clan différents avec “école” de sous-magie différentes mais qui tourne autour de l'âme
@@ -82,12 +82,12 @@ Plusieurs clan différents avec “école” de sous-magie différentes mais qui
 
 traits raciaux :
 endurance d’ogahon (plus de constitution), 
-### Marcadur
+### [[Marcadur]]
 - Peuvent déceler les émotions plus facilement, +3 sur leur jet pour deviner une émotion
 - +1 charisme
 
 traits raciaux :
-### Felire
+### [[Felire]]
 - +2 intelligence
 
 Spécificité sur la branche de la science que tu choisis
@@ -96,7 +96,7 @@ Spécificité sur la branche de la science que tu choisis
 
 traits raciaux :
 darkvision, griffe d’acier (bonus pour attaque main nue)
-### Manhund
+### [[Manhund]]
 - +2 force
 - +1 constitution
 
@@ -156,9 +156,9 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 [https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024](https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024)
 # Système de JdR Logyum :
 Test de compétence sur un dé 30 (d20+d10)
-1-2 échec critique, 29-30 réussite critique
-Réussite = jet de dés ≥ seuil
-Échec = jet de dés < seuil
+    → 1-2 échec critique, 29-30 réussite critique
+    → Réussite = jet de dés ≥ seuil
+    → Échec = jet de dés < seuil
 ## Combats
 tour par tout à initiative (base dex).
 ### Tableau des niveaux :
@@ -195,16 +195,16 @@ tour par tout à initiative (base dex).
 | Niveau 29 | 36 | 582 |  |  |
 | Niveau 30 | 37 | 619 |  |  |
 ## Notes
-## 🎯 Progression par caractéristiques (6 stats, niveaux 1→30)
-- **Chaque caractéristique** (FOR, DEX, CON, INT, SAG, CHA) a **30 niveaux**.
-- **Gain d’XP par test de compétence :**
-    - Réussite : **+1 XP**
-    - Échec : **+0,5 XP**
-    - Compétence **maîtrisée** : **+2 XP** (si réussite), **+1 XP** (si échec)
-- **L’XP va à la stat principale** liée à la sous‑compétence (ex : Arcane → INT).
-- **Niveau “adulte lambda”** : généralement **niv. 8 à 13** par l’expérience de la vie.
-- **Niveau général :** le niveau générale du personnage est calculé d’après les caractéristiques. Niveau Générale = nombre de paliers passé ou égalé dans les caractéristique / 2
-- **Palier de niveau de caractéristiques :** les paliers ont les suivants : 2, 5, 8, 11, 14, 17, 20, 23, 26, 29
+## Progression par caractéristiques (6 stats, niveaux 1→30)
+Chaque caractéristique (FOR, DEX, CON, INT, SAG, CHA) a 30 niveaux.
+Gain d’XP par test de compétence :
+    - Réussite : +1 XP
+    - Échec : +0,5 XP
+    - Compétence maîtrisée : +2 XP (si réussite), +1 XP (si échec)
+L’XP va à la stat principale liée à la sous‑compétence (ex : Arcane → INT).
+Niveau “adulte lambda” : généralement niv. 8 à 13 par l’expérience de la vie.
+Niveau général : le niveau générale du personnage est calculé d’après les caractéristiques. Niveau Générale = nombre de paliers passé ou égalé dans les charactéristique / 2
+Palier de niveau de caractéristiques : 2, 5, 8, 11, 14, 17, 20, 23, 26, 29
 
 Exemple : 
 Ferhin, une nakkardas utilisant la lumière pour se battre, a la fiche de niveaux suivante :
@@ -219,116 +219,114 @@ Ferhin, une nakkardas utilisant la lumière pour se battre, a la fiche de niveau
 donc elle est niveau générale : 15 (30paliers/2)
 
 ---
-## ✨ Système de Magie (réserve de PM)
-### 🔥 Surcharge magique (upcast)
-- Le lanceur peut **dépenser plus de PM que le coût du sort** pour **ajouter des dés** à l’effet.
-    +2 PM → +1 dé
-- **Cap de surcharge** (pour éviter les “nukes” sur des sorts bas niveau) :
-    | Niveau du sort | Surcharge max (dés) |
-    | --- | --- |
-    | 1 | +2d |
-    | 2 | +3d |
-    | 3 | +4d |
-    | 4 | +5d |
-    | 5+ | +6d |
+## Système de Magie (réserve de PM)
+### Surcharge magique (upcast)
+Le lanceur peut dépenser plus de PM que le coût du sort pour ajouter des dés à l’effet.
+    → +2 PM = +1 dé dégâts
+Cap de surcharge (pour éviter les “nukes” sur des sorts bas niveau) :
 
-### 🌿 Branches de Magie (10 niveaux chacune)
-- Chaque **branche** (ex. Lumière destructrice, Illusion, Nécromancie, etc.) a **10 niveaux**.
-- **Bonus de branche :**
-    Bonus = ⌊ √(niveau de branche) ⌋
-    - niv. 1 → +0
-    - niv. 2 → +1
-    - niv. 4 → +2
-    - niv. 9 → +3
+| Niveau du sort | Surcharge max (dés) |
+| --- | --- |
+| Niveau 1 | +1d |
+| Niveau 2 | +2d |
+| Niveau 3 | +3d |
+| Niveau 4 | +4d |
+| Niveau 5+ | +4d |
 
-**Exemple (Kal, mage de lumière niv. 5 en “Lumière destructrice”)**
-Sort coût **2 PM**, fait **2d4**. Kal dépense **4 PM** → +2 PM de surcharge → **+1d4**.
-Bonus de branche = ⌊√5⌋ = **+2**.
-**Total : 3d4 + 2**.
-### 🔧 Conversion des sorts de D&D 5e
-- **Coût en PM = niveau du sort D&D.**
-    - Sort niv. 1 → **1 PM**, niv. 3 → **3 PM**, etc.
-- **Réserve totale de Magie (PM)** = **somme des emplacements** convertis :*Exemple :* un mage avec **4 niv1, 3 niv2, 2 niv3, 1 niv4** →**4×1 + 3×2 + 2×3 + 1×4 = 20 PM**.
+### Branches de Magie (10 niveaux chacune)
+Chaque branche (ex. : Illusion, Nécromancie, etc.) a 10 niveaux.
+Bonus de branche :
+    → Bonus = ⌊ √(niveau de branche) ⌋
 
+**Exemple :**
+Kal, mage de lumière niv. 5 en “Lumière destructrice”
+Sort coût 2 PM, fait 2d4. Kal dépense 4 PM → +2 PM de surcharge = +1d4
+Bonus de branche = ⌊√5⌋ = +2
+Total : 3d4 + 2
+### Conversion des sorts de D&D 5e
+Coût en PM = niveau du sort D&D
+    → Sort niv. 1 → 1 PM, niv. 3 → 3 PM, etc.
+Réserve totale de Magie (PM) = somme des emplacements co nvertis :
+    → Ex. : un mage avec 4 niv1, 3 niv2, 2 niv3, 1 niv4 ⇒ 4×1 + 3×2 + 2×3 + 1×4 = 20 PM.
+    
 ---
-## 🛡️ Système d’endurance (EN)
-### 🎛 Ressource physique parallèle aux PM
-- Les classes martiales ont une **réserve d’Endurance (EN)** qui **se régénère au repos long** (parfois partielle au repos court selon classe).
-- **Techniques martiales** : actions spéciales coûtant **EN** (équivalent des sorts).
-    - Niveau technique 1→5 avec **coût = niveau** :
-        | Niveau | Coût EN |
-        | --- | --- |
-        | 1 | 1 |
-        | 2 | 2 |
-        | 3 | 3 |
-        | 4 | 4 |
-        | 5 | 5 |
-### 💥 Surcharge physique
-- **Règle miroir de la Magie :**
-    +2 EN → +1 dé de dégâts
-- Permet aux guerriers de **frapper plus fort** ponctuellement, avec la même élégance que la surcharge magique.
-### ⚔️ Branches d’armes (10 niveaux)
-- Crée des **catégories d’armes** avec niveaux 1→10 :
-    - armes légères, une main, deux mains, lourdes, contondantes, tranchantes, perforantes, jet, distance, arts martiaux…
-- **Bonus identique à la Magie :**
-    Bonus = ⌊ √(niveau de branche) ⌋
-**Exemple (Rognar, guerrier niv. 5 en “armes lourdes”)**
-Attaque de base **1d8**, technique coût **2 EN**. Surcharge **+4 EN** → **+2d8**.
-Bonus de branche = **+2**.
-**Total : 3d8 + 2**.
+## Système d’endurance (EN)
+### Surcharge physique
+Les classes martiales ont une réserve d’Endurance (EN) qui se régénère au repos long (parfois partielle au repos court selon classe).
+Techniques martiales : actions spéciales coûtant des points EN. Chaque technique à une technicité noté de 1 à 5, ayant un coût en point EN équivalent à leur technicité.
+Les classes martiales peuvent dépenser des points EN en plus lors d'attaque pour ajouter des dés à l'attaque.
+    → +2 EN = +1 dé de dégâts
+
+| Niveau de technicité | Surcharge max (dés) |
+| --- | --- |
+| Niveau 1 | +1d |
+| Niveau 2 | +3d |
+| Niveau 3 | +3d |
+| Niveau 4 | +4d |
+| Niveau 5 | +4d |
+
+### Branches d’armes (10 niveaux)
+Catégories d’armes avec niveaux 1→10 (armes légères, une main, deux mains, ...)
+    → Bonus = ⌊ √(niveau de branche) ⌋
+
+**Exemple :** 
+Rognar, guerrier niv. 5 en “armes à deux mains”
+Attaque de base 1d8, technique coût 2 EN. Rognar surcharge +4 EN → +2d8
+Bonus de branche = ⌊√5⌋ = +2
+Total : 3d8 + 2.
 
 ---
 ## Branche d’Arme (10 niveaux chacune)
 Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
 
-1. Armes à Une Main — polyvalence, précision.
-2. Armes à Deux Mains — puissance brute, portée.
-3. Armes à Distance — précision, tactique.
-4. Armes de Jet — mobilité, agressivité.
-5. Arts Martiaux — vitesse, esquive.
-6. Armes Improvisé — surprise, contendant.
-### ⚔️ **1. Armes à Une Main**
-**Exemples :** épée longue, hache, masse, rapière.
-**Style :** polyvalence, précision, posture stable.
-**Effets de niveau :**
+1. Armes à une main
+2. Armes à deux mains
+3. Armes à distance
+4. Armes de jet
+5. Arts martiaux
+6. Armes improvisé
+### 1. Arme à une main
+Exemples : épée longue, hache, masse, rapière.
+Style : polyvalence, précision, posture stable.
+Effets de niveau :
 - Niv. 3 : +1 à la parade
 - Niv. 6 : relance des 1 sur les dégâts
-- Niv. 10 : attaques à une main ignorent 1 point d’armure
-### 🔨 **2. Armes à Deux Mains**
-**Exemples :** espadon, marteau lourd, hallebarde.
-**Style :** puissance brute, portée élevée.
-**Effets de niveau :**
-- Niv. 3 : +1 dé sur charge (1×/tour si tu veux)
-- Niv. 6 : +1 m de portée (optionnel)
+- Niv. 10 : attaques à une main +1 sur le jet d'attaque
+### 2. Arme à deux mains
+Exemples : espadon, marteau lourd, hallebarde.
+Style : puissance brute, portée élevée.
+Effets de niveau :
+- Niv. 3 : +1 dé sur une charge
+- Niv. 6 : +1 m de portée
 - Niv. 10 : les attaques lourdes ne peuvent plus être interrompues
-### 🏹 **3. Armes à Distance**
-**Exemples :** arc, arbalète.
-**Style :** précision, tactique, supériorité de position.
-**Effets de niveau:**
+### 3. Armes à distance
+Exemples : arc, arbalète.
+Style : précision, tactique, supériorité de position.
+Effets de niveau :
 - Niv. 3 : +1 m de portée courte
 - Niv. 6 : ignore demi couvert
 - Niv. 10 : tir chargé gagne +1d6 (coût EN)
-### 🪃 **4. Armes de Jet**
-**Exemples :** javelot, hachette, couteaux de lancer.
-**Style :** mobilité, agressivité rapide.
-**Effets de niveau :**
-- Niv. 3 : +1 au dégât si l’ennemi est à plus de 5 m
-- Niv. 7 : récupération gratuite d’une arme lancée après combat
+### 4. Armes de jet
+Exemples : javelot, hachette, couteaux de lancer.
+Style : mobilité, agressivité rapide.
+Effets de niveau :
+- Niv. 3 : +1 dégât si l’ennemi est à plus de 5 m
+- Niv. 6 : récupération gratuite d’une arme lancée après combat
 - Niv. 10 : une fois par tour : lancer + attaque de mêlée possible
-### 🥋 **5. Arts Martiaux / Mains nues**
-**Exemples :** moine, pugiliste, escrime au corps à corps.
-**Style :** vitesse, combos, technique.
-**Effets de niveau :**
+### 5. Arts martiaux / mains nues
+Exemples : moine, pugiliste, escrime au corps à corps.
+Style : vitesse, combos, technique.
+Effets de niveau :
 - Niv. 3 : +1 initiative
-- Niv. 5 : attaque bonus gratuite si EN dépensée ce tour
+- Niv. 6 : attaque bonus gratuite si EN dépensée ce tour
 - Niv. 10 : 1 esquive gratuite par tour (réaction)
-### 🪑 6. Armes improvisés
-**Exemples :** Tabouret, table, bouteille, caillou.
-**Style :** surprise, dégât contondant.
-**Effets de niveau :**
-- Niv. 3 : +1 initiative
-- Niv. 5 : attaque bonus gratuite si EN dépensée ce tour
-- Niv. 10 : +1d de dégâts
+### 6. Armes improvisés
+Exemples : Tabouret, table, bouteille, caillou.
+Style : surprise, dégât contondant.
+Effets de niveau :
+- Niv. 3 : les matières les plus fragiles gagnent 10 de durabilité
+- Niv. 6 : +1d de dégâts
+- Niv. 10 : récupérer une arme improvisé est gratuit.
 
 ---
 ## Branche de Magie (10 niveaux chacune)
