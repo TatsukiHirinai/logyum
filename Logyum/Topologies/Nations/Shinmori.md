@@ -28,6 +28,7 @@
 > **:** 
 
 # Géographie
+beaucoup de forêt
 ## Géologie, topographie et hydrographie
 ## Climat
 ## Paysages et environnement
@@ -49,18 +50,3 @@
 ## Philosophie et science
 ## Influence internationale
 # Notes et références
-
-# Géographie
-beaucoup de forêt
-# Architecture
-# Écriture seimorienne
-## Règles
-## Prononciation
-## Suffixe/préfixe
-## Exemple
-- Province, Ville, Village : 
-- Nom complet (Prénom + Nom de famille) : 
-- Prénom : 
-## Expressions seimoriennes
-## L’écriture du temps
-### Comment écrire le temps

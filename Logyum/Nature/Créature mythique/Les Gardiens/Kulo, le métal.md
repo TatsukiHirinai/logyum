@@ -1,5 +1,4 @@
-﻿# Kulo, le métal
-### Description
+﻿### Description
 Kulo est un loup fait de métal et de chair. Celui-ci a été créé pour pouvoir s'approcher des autres canidés élémentaires. Conçu par les felire, il a été construit avec des pièces d'un métal unique et de la chair d'animal divers. Il a la capacité d'avoir une intelligence très développée. En effet son cerveau n'est pas fait que de binaires, il possède aussi de vrai neurones de certains des Felire morts à des expériences. Il était expérimenté dans le Laboratoire Kzo5, mais malgré un programme qui leur permettait d'avoir une totale obéissance sur lui, une défaillance de Kulo lui fit comprendre qu'il était manipulé à des fins de connaissance cupides. Il fuit donc cet antre en détruisant tout sur son passage. Le laboratoire, aujourd'hui, est complètement en ruine et est enfermé dans le sol. Kulo, quant à lui, se balade dans les champs des territoires Nakkardes. On ne sait toujours pas depuis combien d'années il vit, mais on sait qu'il est immortel car tout se régénère ou se répare chez lui.
 ### Habitat
 ### Longévité

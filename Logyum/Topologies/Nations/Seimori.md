@@ -28,6 +28,7 @@
 > **:** 
 
 # Géographie
+beaucoup de forêt
 ## Géologie, topographie et hydrographie
 ## Climat
 ## Paysages et environnement
@@ -40,6 +41,7 @@
 # Économie
 # Culture
 ## Architecture
+style architectural japonais edo : bois 
 ## Arts visuels et plastiques
 ## Litérature et poésie
 ## Arts du spectacle
@@ -49,19 +51,3 @@
 ## Philosophie et science
 ## Influence internationale
 # Notes et références
-
-# Géographie
-beaucoup de forêt
-# Architecture
-style architectural japonais edo : bois 
-# Écriture seimorienne
-## Règles
-## Prononciation
-## Suffixe/préfixe
-## Exemple
-- Province, Ville, Village : 
-- Nom complet (Prénom + Nom de famille) : 
-- Prénom : 
-## Expressions seimoriennes
-## L’écriture du temps
-### Comment écrire le temps

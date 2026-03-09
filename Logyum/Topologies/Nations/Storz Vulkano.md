@@ -1,7 +1,7 @@
 ﻿> [!info]
 > ![[drapeau.png|220]]
 > ![[emblême.png|220]]
-> ###### TerritoireNom
+> ###### Storz Vulkano
 > **Devise :** XXXX
 > **Hymne :** XXXX
 > **Fête nationale :** XXXX

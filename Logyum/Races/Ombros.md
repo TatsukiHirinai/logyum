@@ -53,7 +53,7 @@ L'Anneau de Corruption était pour les Ombros.
 Calendrier Ombros :
 - _Janvier_ : Neast
 - _Février_ : Ryft
-- Mars : Begeann
+- _Mars_ : Begeann
 - _Avril_ : Hatch
 - _Mai_ : Chock
 - _Juin_ : Dicove

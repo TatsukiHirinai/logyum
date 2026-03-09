@@ -1,7 +1,3 @@
-### Description
-### Habitat
-### Longévité
-### Designs
 Comment écrire mon univers :
 ## 1. Guide des conventions d’écriture
 ### Temps à utiliser
@@ -44,13 +40,13 @@ Comment écrire mon univers :
     2. polythéiste
     3. animiste
 2. Politique de la religion :
-    4. dieu existant
+    1. dieu existant
         1. mort
         2. vivant
-    5. dieu non existant
-    6. hiérarchie
-    7. pas de hiérarchie
+    2. dieu non existant
+    3. hiérarchie
+    4. pas de hiérarchie
 3. Importance de la religion dans le cours de la vie
 4. Visualisation de la religion
-    8. vêtements
-    9. arts
+    1. vêtements
+    2. arts

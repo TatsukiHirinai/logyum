@@ -1,4 +1,4 @@
-﻿La classe Errant est la seule classe n'ayant aucune fonction réelle dans le système. Cette classe est une sorte de page blanche qui permet une liberté dans les choix d'améliorations de compétences ou d'apprentissage de compétences.
+﻿L'Errant est la seule classe n'ayant aucune fonction réelle dans le système. Cette classe est une sorte de page blanche qui permet une liberté dans les choix d'améliorations de compétences ou d'apprentissage de compétences.
 
 Plusieurs bonus se gagnent en fonction du niveau de la classe Errant :
 Niv. Errant 1 : +1 niv. sur une compétence au choix ; Ajout de l'Adaptation (2 points)
