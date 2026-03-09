@@ -1,4 +1,4 @@
-﻿La classe Agent est une classe lié à une utilité de support. Ce ne sont pas des grands combattants mais leurs utilités est dans le hors combat.
+La classe Agent est une classe lié à une utilité de support. Ce ne sont pas des grands combattants mais leurs utilités est dans le hors combat.
 
 Plusieurs bonus se gagnent en fonction du niveau de la classe Agent :
 Niv. Agent 1 :

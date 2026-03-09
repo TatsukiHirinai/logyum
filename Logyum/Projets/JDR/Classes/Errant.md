@@ -1,4 +1,4 @@
-﻿L'Errant est la seule classe n'ayant aucune fonction réelle dans le système. Cette classe est une sorte de page blanche qui permet une liberté dans les choix d'améliorations de compétences ou d'apprentissage de compétences.
+L'Errant est la seule classe n'ayant aucune fonction réelle dans le système. Cette classe est une sorte de page blanche qui permet une liberté dans les choix d'améliorations de compétences ou d'apprentissage de compétences.
 
 Plusieurs bonus se gagnent en fonction du niveau de la classe Errant :
 Niv. Errant 1 : +1 niv. sur une compétence au choix ; Ajout de l'Adaptation (2 points)
@@ -13,7 +13,7 @@ Niv. Errant 9 : Relancer un jet de compétence raté, utilisable une fois par re
 Niv. Errant 10 : +1 niv. sur une compétence au choix ; Choisir une compétence maîtrisée, double les bonus de cette compétence hors combat
 
 L'Adaptation est une compétence spéciale de l'Errant, cela lui permet de réagir avec justesse dans beaucoup de situation sans pour autant être maître dedans. 
-En dépensant un Point d'Adapation, un Errant pourra choisir de faire une des actions suivantes :
+En dépensant un Point d'Adaptation, un Errant pourra choisir de faire une des actions suivantes :
 - ajouter un +2 à un jet de compétence
 - transformer un échec mineur en réussite partielle
 - refaire un jet de compétence (choisir le meilleur)

@@ -1,4 +1,4 @@
-﻿Le Spiritualiste est une classe se basant sur les divinités et sur la foi. 
+Le Spiritualiste est une classe se basant sur les divinités et sur la foi. 
 
 Plusieurs bonus se gagnent en fonction du niveau de la classe Spritualiste :
 Niv. Spritualiste 1 :

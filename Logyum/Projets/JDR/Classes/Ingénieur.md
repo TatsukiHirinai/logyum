@@ -1,23 +1,23 @@
-﻿
+L'Ingénieur est une classe se basant sur l'intelligence et sur l'ingéniosité. 
+
 Plusieurs bonus se gagnent en fonction du niveau de la classe Ingénieur :
-Niv. Ingénieur 1 :
-Tu obtiens :
-- Outils d’Ingénierie (croquis, mini‑tournevis, pinces, catalyseurs simples)
-- Maîtrises : Analyse Technique, Mécanismes, Runes simples
-- Si tu cherches, tu détecte faiclement les dispositifs mécaniques & runiques à 6m.
+Niv. Ingénieur 1 : 
+- Obtention des outils d'Ingénieur (croquis, mini tournevis, pinces, catalyseurs simples). 
+- Ajout des maîtrises : Analyse Technique, Mécanismes et Runes simples. 
+- Ajout de l'Instinct d'Ingénieur. (détection facile des dispositifs mécaniques et runiques à moins de 6m de soi)
 Niv. Ingénieur 2 :
-Une fois par combat : Tu peux transformer un objet du décor en outil, arme légère, ou gadget improvisé (effet mineur).
+- Une fois par combat : Possibilité de transformer un objet du décor en outil, arme légère ou gadget improvisé (effet mineur).
 Niv. Ingénieur 3 :
 Tu conçois un petit module permanent (choix 1) :
-- Servo‑bras : +1 manipulation, action bonus pour tenir un petit objet
+- Servo bras : +1 manipulation, action bonus pour tenir un petit objet
 - Scanner runique : détecte runes cachées & énergie (Avantage Analyse)
-- Micro‑forge : répare instantanément un petit objet non magique
+- Microforge : répare instantanément un petit objet non magique
 Niv. Ingénieur 4 :
 Tu peux pousser un gadget ou module aux limites : +1d4 à son effet mais à la fin → risque d’usure (jet INT pour éviter)
 Niv. Ingénieur 5 :
 Tu gagnes 2 Plans d’Invention (petites machines utilisables 1/jour) :
 Exemples :
-- Tourelle courte‑portée (un tir automatique 1d6)
+- Tourelle courte portée (un tir automatique 1d6)
 - Bouclier rotatif (+2 AC 1 tour)
 - Mine adhésive (ralentit 1 créature)
 Rien de magique : uniquement technicité.
@@ -47,7 +47,7 @@ Exemples :
 - exosquelette d’effort
 
 # Spécificité : Artificier
-Un artificier.
+L'artificier est l'ingénieur pure, il est celui qui créé et modifie des machines.
 
 Plusieurs bonus se gagnent en fonction du niveau sur la spécificité :
 Niv. Ingénieur 6 :
@@ -70,7 +70,7 @@ Niv. Ingénieur 10 :
 Tu surcharge une arme (1/jour) : +2d6 dégâts mais jet INT ou l’arme explose
 
 # Spécificité : Alchimiste
-Un alchimisite. Potion à boire et à jeter, poison.
+L'Alchimiste est l'ingénieur de la chimie, mélange chimique et poudre exotique n'ont pas de secret pour lui.
 
 Plusieurs bonus se gagnent en fonction du niveau sur la spécificité :
 Niv. Ingénieur 6 :
@@ -86,7 +86,7 @@ Tu peux récupérer des essences sur :
 - matériaux rares
 → donnant des bonus à d’autres flacons.
 Niv. Ingénieur 8 :
-1/rencontre, tu peux transformer un flacon en super‑réactif : double effet mais risque d’explosion (jet DEX ou 1d4 dégâts)
+1/rencontre, tu peux transformer un flacon en super réactif : double effet mais risque d’explosion (jet DEX ou 1d4 dégâts)
 Niv. Ingénieur 9 :
 Tu peux préparer 3 flacons spéciaux par jour, dont :
 - corrosif
@@ -101,7 +101,7 @@ Création d’un grand élixir (1/jour) au choix :
 - Tonique de réparation (full heal + régénération 2 tours)
 
 # Spécificité : Technomancien
-Une spécificité qui porte sur la maîtrise du mélange Magie + technologie.
+Le Technomancien est l'ingénierie au profit de la Magie, il connaît les runes comme sa poche, et avec de la maîtrise il peut en utiliser.
 
 Plusieurs bonus se gagnent en fonction du niveau sur la spécificité :
 Niv. Ingénieur 6 :

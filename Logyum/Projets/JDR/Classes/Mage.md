@@ -1,4 +1,4 @@
-﻿
+
 Plusieurs bonus se gagnent en fonction du niveau de la classe Mage :
 Niv. Mage 1 :
 Niv. Mage 2 :
