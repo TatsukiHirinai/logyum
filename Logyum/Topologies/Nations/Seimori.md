@@ -41,7 +41,7 @@ beaucoup de forêt
 # Économie
 # Culture
 ## Architecture
-style architectural japonais edo : bois 
+L’architecture de Seimori est intimement liée au bois, à la pierre forestière et à une logique de continuité avec la nature. Les bâtiments ogahon sont souvent construits autour d’un tronc existant ou d’un arbre partiellement creusé, jamais déraciné. Le style privilégie les structures larges, aux toits épais recouverts de mousse ou d’écorces superposées, permettant d’amortir les pluies denses. Les temples shinseishi sont construits sur des plateformes circulaires de planches sombres, encerclées de piliers gravés de runes funéraires — non pour les utiliser, mais pour “se souvenir” des racines du monde. Les habitations ont des façades sculptées de motifs d’âme ou de flux, et les ouvertures sont grandes, introduisant la lumière indirecte filtrée par les canopées. Les villages s’étendent horizontalement, avec peu d’étages, privilégiant la densité végétale aux murs massifs, et organisant les espaces autour de clairières centrales servant aux rituels et à l'agriculture. Des murailes de pierres blanches et de bois séparent les temples, maisons et lieux politiques.
 ## Arts visuels et plastiques
 ## Litérature et poésie
 ## Arts du spectacle

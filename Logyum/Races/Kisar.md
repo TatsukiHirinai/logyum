@@ -34,7 +34,7 @@
 > **Dispersion :** XXXX
 
 # Histoire
-Lors de l’ère 8 et de l’exploration du nouveau monde, le conseil de Speita eut une idée : Créer une race d’un animal intelligent capable d’explorer efficacement le nouveau monde. Leurs expériences dans le domaine de la manipulation runique leur permit de modifier une race existante en une toute nouvelle. Ces singes, très utiles, furent nommé “Kisar”. Les Kisar se sont alors développés très rapidement, en moins de 3 rayons ils avaient déjà les basiques de l’exploration et étaient prêt pour leurs premières missions.
+Lors de l’ère 8 et de l’exploration du Nov-Isel, le conseil de Speita eut une idée : Créer une race d’un animal intelligent capable d’explorer efficacement le Nov-Isel. Leurs expériences dans le domaine de la manipulation runique leur permit de modifier une race existante en une toute nouvelle. Ces singes, très utiles, furent nommé “Kisar”. Les Kisar se sont alors développés très rapidement, en moins de 3 rayons ils avaient déjà les basiques de l’exploration et étaient prêt pour leurs premières missions.
 
 Les Kisar n’étant pas stérile, commencèrent à se reproduire, les premiers bébés furent récupéré par les scientifiques Felire, ce qui ne manqua pas d’énerver les Kisar. C’est alors que durant une expédition banale du nouveau monde, le groupe de Kisar tomba sur une relique Aeter. *découverte relique Aeter par groupe de Kisar menant à avantage militaire et “mutinerie”.*
 

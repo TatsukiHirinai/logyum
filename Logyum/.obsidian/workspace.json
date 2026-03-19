@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projets/JDR/Classes/Ingénieur.md",
+                "file": "Topologies/Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingénieur"
+              "title": "Topologies"
             }
           }
         ]
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projets/JDR/Classes/Ingénieur.md",
+                "file": "Topologies/Topologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Ingénieur"
+              "title": "Liens sortants de Topologies"
             }
           },
           {
@@ -201,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "image-picker:Open Image Picker": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -218,9 +219,15 @@
   },
   "active": "7404902183292d41",
   "lastOpenFiles": [
+    "Topologies/Continents/Continent C.md",
+    "Topologies/Topologies.md",
+    "Chronologies/Ère 4.md",
+    "Topologies/Continents/exsxv4dz.cyp~",
+    "ezr3qzzx.te3~",
+    "Chronologies/k3z0m2x5.urb~",
+    "Projets/JDR/Classes/Ingénieur.md",
     "Projets/JDR/Classes/Agent.md",
     "Projets/JDR/Classes/Errant.md",
-    "Projets/JDR/Classes/Ingénieur.md",
     "Projets/JDR/Classes/Mage.md",
     "Projets/JDR/Classes/Spiritualiste.md",
     "Topologies/Nations/Karnaa.md",
@@ -248,22 +255,16 @@
     "Races/Horloger.md",
     "Races/Manhund.md",
     "Races/Marcadur.md",
-    "Topologies/Topologies.md",
     "Idées non rangées.md",
     "Meta.md",
     "Science et Magie.md",
     "Topologies/Nations/Nox Speita Domina.md",
     "carte.png.md",
-    "Cultures/Langues/Nevotien.md",
     "Cultures/Langues/Nevotien",
     "Topologies/Nations/Nox Speita Domina",
-    "Topologies/Nations/Nevot.md",
     "Topologies/Nations/Nevot",
     "Topologies/Nations",
     "Topologies/Continents",
-    "Cultures/Langues",
-    "Cultures/Recettes/Recettes.base",
-    "Races/Horloger",
     "Sans titre.canvas"
   ]
 }

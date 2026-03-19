@@ -41,7 +41,7 @@ La Chaîne de Stigel est la chaine de montagne la plus connu du continent, ici v
 # Économie
 # Culture
 ## Architecture
-style celte shit like nordique 
+L’architecture manhund est minérale, massive, taillée directement dans la montagne ou bâtie à l’aide de blocs colossaux. Les villages sont souvent installés dans des cavités naturelles agrandies, dont les entrées sont marquées par des crocs de pierre triangulaires indiquant le nom du clan ou le niveau de danger de la région. Les habitations sont rectangulaires, voûtées, et utilisent un mélange de pierre sombre et de mortier épais infusé d’éclats volcaniques. Les grandes salles communes possèdent des piliers gravés de stries verticales qui représentent la lignée familiale. Les toits extérieurs, rares, sont souvent plats et renforcés pour résister à la chute de pierres. Les ateliers de forge sont ouverts, ventilés par des conduits naturels qui redirigent la chaleur vers les zones d’habitation. Les infrastructures plus anciennes, datant des premières habitations, possèdent des ponts de pierre monolithiques et des escaliers abrupts sculptés à même la paroi, témoignant d’une tradition d’endurance et de verticalité.
 ## Arts visuels et plastiques
 ## Litérature et poésie
 ## Arts du spectacle

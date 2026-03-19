@@ -42,7 +42,8 @@ La langue officielle est le [[Monayeur]] mais le [[Moorhien]] est enseigné trè
 # Économie
 # Culture
 ## Architecture
-style médieval classique fantasy shit 
+Sol-Or présente une architecture fonctionnelle et élégante, construite pour refléter le statut commercial et relationnel des Marcadur. Les bâtiments sont bas, rectangulaires, souvent en pierre beige et en bois léger. Les places de marché sont immenses, disposées en cercles concentriques, avec des arches fines reliant les quartiers comme des nerfs d’une même entité. Les maisons privées sont sobres, composées de salles étroites autour d’une cour intérieure. 
+Après les évènements de l'Ère 6, l’arrachement de la moitié du royaume a laissé des falaises verticales lisses, témoignant de la violence de la séparation ; les rares bâtiments encore debout au bord de cette cicatrice présentent des murs renforcés par des plaques métalliques posées après coup, faisant aujourd’hui partie du paysage historique.
 ## Arts visuels et plastiques
 ## Litérature et poésie
 ## Arts du spectacle

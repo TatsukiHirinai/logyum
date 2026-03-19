@@ -1,6 +1,8 @@
 Nevot, cette nouvelle nation, est un État démocratique formé par les 5 peuples primaires. Il apparaît après qu’un conseil décide que désormais ils peuvent se séparer des nations et royaumes exploitant les terres du Continent D. Dans la paix la plus totale tout les exploitants acceptèrent la formation de cette nouvelle nation, à condition qu’un représentant de chaque nation se trouve dans chaque nation, création des ambassades.
 
-→ ère 9 : déclaration de la nation de Nevot
+---
+
+→ Ère 9 ; déclaration de la nation de Nevot
 
 Nevot, cette nouvelle nation, est un État démocratique formé par les 5 peuples primaires. Il apparaît après qu’un conseil décide que désormais ils peuvent se séparer des nations et royaumes exploitant les terres du Continent D. Dans la paix la plus totale, tout les exploitants acceptèrent la formation de cette nouvelle nation, à condition qu’un représentant de chaque nation se trouve dans chaque nation, création des ambassades.
 

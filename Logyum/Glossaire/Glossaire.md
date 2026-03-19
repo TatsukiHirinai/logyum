@@ -419,6 +419,12 @@
 2. <font color="#a5a5a5"><i>(adj.)</i></font> Qui est relatif au nokkardes, qui lui est propre.
 
 ---
+# Nov-Isel
+
+<font color="#4f81bd">nom propre</font>
+1. Terme moorhien désignant l’ensemble des terres situées au‑delà de l’Anneau Argin, présumées uniques lors des premières traversées puis reconnues multiples après la diffusion de la technologie navale semi‑volante.
+
+---
 # Noyau
 
 <font color="#4f81bd">nom propre</font>

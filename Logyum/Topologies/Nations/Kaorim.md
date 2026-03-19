@@ -52,7 +52,7 @@ style médieval classique fantasy shit + style léger steampunk + style très lu
 ## Philosophie et science
 ## Influence internationale
 # Notes et références
-=> description de lieu, politique, [[Ère 8]]
+→ [[Ère 8]] ; lieu politique 
 Sur Kaorim, en surplomb de tout, sur la place la plus haute du monde se trouve le parlement [[marcadur]]. Ce bâtiment, si grand qu’il cache le soleil pendant quelques heures, accueille les dirigeants marcadur et les dirigeants des plus grands royaumes d’Eneos. Le bâtiment est si haut que l’oxygène commencent à se faire rare, alors les débats se font rapidement et sont souvent plus réfléchi et construit que dans d’autres royaumes.
 
 ---

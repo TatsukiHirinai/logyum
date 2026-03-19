@@ -28,7 +28,6 @@
 > **:** 
 
 # Géographie
-plaines + désert
 ## Géologie, topographie et hydrographie
 ## Climat
 ## Paysages et environnement
@@ -41,7 +40,7 @@ plaines + désert
 # Économie
 # Culture
 ## Architecture
-style médieval classique fantasy shit 
+L'architecture de NSD est très spécifique. Bien qu'elle ne soit pas uniforme dans la nation, dans l'ancien Speita tout se ressemble. Grands immeubles et usines lugubres arborent le paysage. Les briques noires et salies par la suie, marque de fabrique de Speita, sont encore présent. De nombreuses routes pleines à craquer de véhicule font office de coupe dans le plan des quartiers des villes principales. 
 ## Arts visuels et plastiques
 ## Litérature et poésie
 ## Arts du spectacle

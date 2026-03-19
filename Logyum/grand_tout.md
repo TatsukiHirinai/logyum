@@ -994,7 +994,7 @@ voyage en mer : impression d’un marin passant près de l’anneau Argin pour l
 
 
 === Continent D.md ===
-Elle est la première terre nouvelle découverte lors des expéditions du Nouveau Monde 
+Elle est la première terre découverte lors des expéditions du Nov-Isel
 [[Nevot]]
 
 
@@ -1605,9 +1605,9 @@ rumeur sur l’apparition d’un [[arrint]] qui serait à l’origine de la pest
 > **Dispersion :** XXXX
 
 # Histoire
-Lors de l’ère 8 et de l’exploration du nouveau monde, le conseil de Speita eut une idée : Créer une race d’un animal intelligent capable d’explorer efficacement le nouveau monde. Leurs expériences dans le domaine de la manipulation runique leur permit de modifier une race existante en une toute nouvelle. Ces singes, très utiles, furent nommé “Kisar”. Les Kisar se sont alors développés très rapidement, en moins de 3 rayons ils avaient déjà les basiques de l’exploration et étaient prêt pour leurs premières missions.
+Lors de l’ère 8 et de l’exploration du Nov-Isel, le conseil de Speita eut une idée : Créer une race d’un animal intelligent capable d’explorer efficacement ce nouveau monde. Leurs expériences dans le domaine de la manipulation runique leur permit de modifier une race existante en une toute nouvelle. Ces singes, très utiles, furent nommé “Kisar”. Les Kisar se sont alors développés très rapidement, en moins de 3 rayons ils avaient déjà les basiques de l’exploration et étaient prêt pour leurs premières missions.
 
-Les Kisar n’étant pas stérile, commencèrent à se reproduire, les premiers bébés furent récupéré par les scientifiques Felire, ce qui ne manqua pas d’énerver les Kisar. C’est alors que durant une expédition banale du nouveau monde, le groupe de Kisar tomba sur une relique Aeter. *découverte relique Aeter par groupe de Kisar menant à avantage militaire et “mutinerie”.*
+Les Kisar n’étant pas stérile, commencèrent à se reproduire, les premiers bébés furent récupéré par les scientifiques Felire, ce qui ne manqua pas d’énerver les Kisar. C’est alors que durant une expédition banale des Nov-Isel, le groupe de Kisar tomba sur une relique Aeter. *découverte relique Aeter par groupe de Kisar menant à avantage militaire et “mutinerie”.*
 
 Les Kisar, alors libéré de l’emprise des Felire, devinrent de terrible pirate. Ce bateau sur lequel ils avaient fuit devint leur village. En moins de 5 rayons ils avaient sut s’étendre sur une flotte de 15 navires, leur nombre passa d’un peu moins de 400 individus à un millier, leur majorité sexuelle étant atteinte en à peine un rayon.
 
@@ -2708,7 +2708,7 @@ langue scientifique originaire de speita et parlé par les felire
 
 
 === Nevotien.md ===
-langue officielle de Nevot, mélange de trois langues : le Moorhien, le Monayeur et le Speilin. Son apprentissage est simple est il devient très vite la norme dans le nouveau monde. Il se rapproche du français (irl). Pendant l'ère 11 il remplace officielement le Moorhien en tant que langue internationale officiel.
+langue officielle de Nevot, mélange de trois langues : le Moorhien, le Monayeur et le Speilin. Son apprentissage est simple est il devient très vite la norme dans le Nov-Isel. Il se rapproche du français (irl). Pendant l'ère 11 il remplace officielement le Moorhien en tant que langue internationale officiel.
 
 
 === Morihon.md ===
@@ -2845,7 +2845,7 @@ X année
 
 ## Ère 8
 ### Raison du changement d'Ère
-Découverte d’un nouveau monde
+Découverte du Nov-Isel
 ### Durée de l'Ère
 X année
 ### Ce qui s’y passe
