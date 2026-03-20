@@ -333,6 +333,12 @@
 2. <font color="#a5a5a5"><i>(adj.)</i></font> Qui est relatif au manhund, qui lui est propre.
 
 ---
+# manhunge
+
+<font color="#4f81bd">nom masculin</font>
+1. <font color="#a5a5a5"><i></i></font> Langue principalement parlé à Storz Vulkano. Son éthymologie vient de ses locuteurs, les manhund.
+
+---
 # marcadur
 
 <font color="#4f81bd">nom invariable et adjectif invariable</font>
@@ -354,6 +360,12 @@
 1. Onzième mois du calendrier ombros.
 
 ---
+# monayeur
+
+<font color="#4f81bd">nom masculin</font>
+1. <font color="#a5a5a5"><i></i></font> Langue principalement parlé à Sol-Or ainsi qu'à Kaorim. Langue officielle pour la communication économique entre les nations.
+
+---
 # Moorhi
 
 <font color="#4f81bd">nom propre</font>
@@ -368,6 +380,12 @@
 1. <font color="#a5a5a5"><i>(adj.)</i></font> Qui est relatif à Moorhi, qui lui est propre.
 2. <font color="#a5a5a5"><i>(n. m.)</i></font> Langue principalement parlée à Moorhi. Langue officielle pour la communication internationale.
 3. <font color="#a5a5a5"><i>(n.)</i></font> Habitant de Moorhi.
+
+---
+# morihon
+
+<font color="#4f81bd">nom masculin</font>
+1. <font color="#a5a5a5"><i></i></font> Langue principalement parlé à Seimori.
 
 ---
 # nakkard
@@ -403,6 +421,12 @@
 
 <font color="#4f81bd">nom masculin invariable</font>
 1. Premier mois du calendrier ombros.
+
+---
+# nevotien
+
+<font color="#4f81bd">nom masculin</font>
+1. <font color="#a5a5a5"><i></i></font> Langue principalement parlé à Nevot et dans les Nov-Isle. Langue devenu officielle pour la communication internationale depuis l'ère 10.
 
 ---
 # nokkardas
@@ -625,6 +649,12 @@
 
 <font color="#4f81bd">nom propre</font>
 1. Royaume des felire. Sols pauvres et peu fertiles. Territoire acquis par traité international plutôt que par conquêtes.
+
+---
+# speilin
+
+<font color="#4f81bd">nom masculin</font>
+1. <font color="#a5a5a5"><i></i></font> Langue principalement parlé à Speita. Langue officiellement reconnu comme langue scientifique.
 
 ---
 # Storz Vulkano
