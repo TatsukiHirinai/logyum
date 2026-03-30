@@ -4,25 +4,25 @@
 > [!note]+ Fin
 > Le Cercle de la Sève commencent à faire parler de lui avec des actions de propagande et des actions illégales. Ce culte nakkard prône l’utilisation de la Chlorolux, sève sacré de l’arbre Lheiren.
 
-→ Ère 4 ; graffiti héroïque d'une légende ; réalisation Marcadur ; Speita
+→ graffiti héroïque d'une légende ; réalisation Marcadur ; Speita
 
 La légende marcadur de l’homme le plus riche aurait été tué par la peste ombrale, créer par Speita. Une partisane de cette croyante fit un graffiti sur un des plus importants bâtiments scientifique de la capitale de Speita. Le graffiti représente cette légende de façon héroïque, son portrait presque divin était présenté comme aidant tous les peuples à vivre. Le graffiti fut effacé au bout de quelques jours, car sa grandeur et son imposant symbolisme n’était pas apprécié des gouvernant de Speita.
 
 ---
 
-→ Ère 4 ; objet militaire ; Seimori
+→ objet militaire ; Seimori
 
 L’une des armes principales de l’armée Seimorienne est le glaive, une arme pratique pour se mouvoir dans la forêt avec ses hautes herbes et pouvoir se défendre contre des ennemis ou des animaux. Ce glaive est fait d’un métal assez rare sur les terres de Seimori, il est importé depuis les marchés marcaduriens. Son manche est très souvent personnalisé par son utilisateur ou sa famille. Du cuir, des lanières de cordes, des emblèmes, tout est utilisé. 
 
 ---
 
-→ Ère 4 ; rapport de découverte sur une ressource rare ; Speita
+→ rapport de découverte sur une ressource rare ; Speita
 
 Un rapport fait par un grand scientifique felire, il pense avoir découvert un filon d’un minéral unique jamais trouvé auparavant, ses essais pour atteindre le filon ont réussit et il peut désormais réaliser tous ses tests sur le minéral. Le minéral est en fait très peu utile, car il n’est ni joli ni utile industriellement parlant. Pour lui, c’est un cauchemar, mais au dernier moment, il découvre que le minéral est en fait ultrarésistant et malléable lorsqu’il est chauffé, comme une sorte de pâte à pain. Il teste alors d’en faire une arme et il pense alors avoir trouvé le prochain minerai pour la fabrication en masse avec des douilles et des moules.
 
 ---
 
-→ Ère 4 ; lettre de remerciement d'une Ogahon à une Nakkard
+→ lettre de remerciement d'une Ogahon à une Nakkard
 
 Malgré la guerre entre le royaume de Moorhi et de Seimori, de nombreux business continuaient entre les deux royaumes. L’entreprise de verrerie du nakkard Bert continua de s’approvisionner chez les récolteurs de sable Ogahon. Le patron ogahon enverra d’ailleurs une lettre de remerciement. La voici :
 
@@ -32,6 +32,6 @@ Avec cette lettre se trouvait une petite boite en bois, sertie de pierres préci
 
 ---
 
-→ Ère 4 ; traité secret entre Moorhi et une faction rebelle Nakkard
+→ traité secret entre Moorhi et une faction rebelle Nakkard
 
 Un document récemment découvert révèle qu'une faction rebelle Nakkard avait signé un accord secret avec Moorhi pour fournir des informations militaires en échange de l'autonomie d'une province après la guerre. Ce traité ne fut jamais honoré, déclenchant une rébellion qui dura 5 rayons.

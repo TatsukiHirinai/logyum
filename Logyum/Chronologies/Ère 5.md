@@ -2,7 +2,7 @@ Les marcadur se font accueillir par les royaumes de Seimori et de Moorhi. N’ay
 
 ---
 
-→ Ère 5 ; quotidien d'un Manhund ; Moorhi
+→ quotidien d'un Manhund ; Moorhi
 
 6h - préparation de la forge.
 7h - livraison des matières premières et stockage de celles-ci
@@ -21,28 +21,28 @@ Les marcadur se font accueillir par les royaumes de Seimori et de Moorhi. N’ay
 
 ---
 
-→ Ère 5 ; graffiti de guerre d'un animal ; réalisation Nakkard ; Seimori
+→ graffiti de guerre d'un animal ; réalisation Nakkard ; Seimori
 
 Durant la guerre du bois, certains soldat nakkard aimait peindre un renard sur les bâtiments seimorien conquit.
 
 ---
 
-→ Ère 5 ; quotidien d'un forgeron Felire à Seimori
+→ quotidien d'un forgeron Felire à Seimori
 
 On connaît tous les forgerons Nakkard, connu pour leur maîtrise parfaite de cet art. Mais l’on connaît moins bien les forgeron felire, qui ne jure pas par la lumière, mais par les machines. Aujourd’hui, nous allons suivre une journée entière d’un forgeron Felire, installé à Seimori pendant la guerre du bois.
 
 ---
 
-→ Ère 5 ; marché noir d'artefacts à la frontière entre Seimori et Moorhi
+→ marché noir d'artefacts à la frontière entre Seimori et Moorhi
 
 Malgré la guerre, un marché noir florissant s'était établi dans la zone neutre entre les deux royaumes. On y vendait des artefacts de l'ère pré-Fission, des reliques supposément bénies par les dieux, et même des fragments du Mur de Vulpine. Les prix atteignaient des sommets vertigineux.
 
 ---
 
-→ Ère 5 ; rumeur d’un 4ème artefact dominium
+→ rumeur d’un 4ème artefact dominium
 Durant l’ère 5 une rumeur circulait comme quoi un groupe survivant de marcadur avait découvert un artefact ancien, l’artefact aurait rendu fou un des membres du groupe et il les aurait tuées dans leur sommeil. On ne sait pas aujourd’hui où est l’artefact ni même si son détenteur est survécu. (L’artefact est en fait l’artefact Aeter qui était destiné aux Horlogers, je n'ai pas encore trouvé son pouvoir.)
 
 ---
 
-→ Ère 5 ; chanson de taverne moorhienne
+→ chanson de taverne moorhienne
 une chanson sur les races et leur clichés

@@ -12,19 +12,19 @@ La colère de Corvo et Vulpine se fit entendre, pour punir les races et les corr
 
 ---
 
-→ Ère 3 ; vêtement homme commun ; Speita
+→ vêtement homme commun ; Speita
 
 Pantalon couleur terne, fait de tissu tressé à la main, très peu esthétique mais pratique et protecteur des différents essais chimique. ça ressemble à du lin non raffiné
 
 ---
 
-→ Ère 3 ; légende liée à une malédiction ; Storz Vulkano
+→ légende liée à une malédiction ; Storz Vulkano
 
 Au début, les peuples ne connaissaient pas les artefacts de chacun. L’artefact des Manhund fut alors prit comme une malédiction, les manhund se transformant en bête féroce lorsque certaines lunes arrivaient.
 
 ---
 
-→ Ère 3 ; bâtiment atelier ; Moorhi
+→ bâtiment atelier ; Moorhi
 
 Les ateliers de menuisier étaient toujours dans le même état, peu importe les villes. Un atelier rempli de sciure de bois, des bouts de bois dans une réserve et dehors des troncs immenses.
 
