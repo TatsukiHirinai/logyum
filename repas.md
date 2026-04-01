@@ -14,7 +14,7 @@ Tout les plats / recettes que j'ai déjà fait :
 - Chili con carne
 - Croque-monsieur / madame
 - Filet mignon à la moutarde
-- Mont d'or avec des mouillettes et des pomes de terres
+- Mont d'or avec des mouillettes et des pommes de terres
 - Tartiflette
 - Soupe de pomme de terre
 - Ramen
@@ -28,7 +28,7 @@ Sucrée :
 - Fondant au chocolat
 
 Repas de la semaine (12 r) :
-poulet purée 2  dimanche
-Ramen 1 vendredi soir
-donburi carotte sauce tomate katsudon 3
-soupe de patate fromage 4
+Chilli con carne 3r
+Riz + carottes tomate (donburi) 2r
+Mont d'or avec mouilettes et patate 2r
+Poisson patate haricot 1r

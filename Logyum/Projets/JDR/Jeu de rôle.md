@@ -14,7 +14,7 @@ Pour créer une fiche de personnage il faut réunir les informations suivantes :
         - Personnalité
         - Idéaux / rêves
         - Qualités / Défauts
-    - Langues connus (parlé et écrit)
+    - Langues connus (parlé et/ou écrit)
     - Histoire
 - Stats
     - Force
@@ -33,7 +33,7 @@ Pour créer une fiche de personnage il faut réunir les informations suivantes :
 - Maîtrises
 
 ## Races
-Les races communes de Logyum sont disponibles, seuls les [[aeter]], les [[arrint]], les [[horloger]] (ainsi que leurs sous-races) et les [[ombros]] ne sont pas disponibles au jeu, étant des races soit disparu soit mythiques. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
+Les races communes de Logyum sont disponibles, seuls les [[aeter]], les [[arrint]], les [[horloger]] (ainsi que leurs sous-races) et les [[ombros]] ne sont pas disponibles au jeu, étant des races disparu, mythiques ou éteinte. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
 
 Acid > Ogahon, Felire, (Manhund)
 Poison > Ogahon, Felire, (Manhund)
@@ -57,10 +57,10 @@ Clan Jiina > lumière utile, heal et detect
 - Les nokkardas
     - +1 constitution
     - armure lourde, moyenne = -1 dextérité
-    - griffe d’acier (bonus pour attaque main nue)
+    - griffes acérées (+2 dégâts, bonus pour attaque main nue)
 - Les nokkardes
     - +1 intelligence
-    - griffe d’acier (bonus pour attaque main nue)
+    - griffes acérées (+2 dégâts, bonus pour attaque main nue)
 - Les nakkardas
     - +1 dextérité
 
@@ -142,8 +142,6 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 - Manhund en plus de sorts de sang peut sacrifier des pvs pour faire plus de dégâts
 - Felire, préparation de “sorts” technologique, réaction physique/chimique (ex : bombe aveuglante, bombe d’acide, bombe de feu)
 
-[Spells](Spells%20287f2dd69f968041bca8d22cefc93978.csv)
-[Feats](Feats%20270f2dd69f9680adb82bc40cee777531.csv)
 # Les Campagnes
 [Campagne α : ça vole pas une ville !](Campagne%20α%20ça%20vole%20pas%20une%20ville%20!.md)
 [Campagne β : Lheiren, l’arbre sacrée.](Campagne%20β%20Lheiren,%20l’arbre%20sacrée.md)
