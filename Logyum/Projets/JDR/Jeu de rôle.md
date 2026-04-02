@@ -4,32 +4,32 @@
 Pour créer une fiche de personnage il faut réunir les informations suivantes :
 
 - Basique :
-    - Nom / Prénom
-    - Âge
-    - Race
-    - Classe
-    - Caractéristiques physique
-        - Taille / Poids
-    - Caractéristiques psychiques
-        - Personnalité
-        - Idéaux / rêves
-        - Qualités / Défauts
-    - Langues connus (parlé et/ou écrit)
-    - Histoire
+- Nom / Prénom
+- Âge
+- Race
+- Classe
+- Caractéristiques physique
+- Taille / Poids
+- Caractéristiques psychiques
+- Personnalité
+- Idéaux / rêves
+- Qualités / Défauts
+- Langues connus (parlé et/ou écrit)
+- Histoire
 - Stats
-    - Force
-    - Dextérité
-    - Constitution
-    - Sagesse
-    - Intelligence
-    - Charisme
+- Force
+- Dextérité
+- Constitution
+- Sagesse
+- Intelligence
+- Charisme
 - Magie
-    - Sorts
+- Sorts
 - Équipements
-    - Arme(s)
-    - Armure(s)
-    - Outil(s)
-    - Autre(s)
+- Arme(s)
+- Armure(s)
+- Outil(s)
+- Autre(s)
 - Maîtrises
 
 ## Races
@@ -55,14 +55,14 @@ Clan Horass > lumière extérieur pure
 Clan Jiina > lumière utile, heal et detect
 ### [[Nakkard]]
 - Les nokkardas
-    - +1 constitution
-    - armure lourde, moyenne = -1 dextérité
-    - griffes acérées (+2 dégâts, bonus pour attaque main nue)
+- +1 constitution
+- armure lourde, moyenne = -1 dextérité
+- griffes acérées (+2 dégâts, bonus pour attaque main nue)
 - Les nokkardes
-    - +1 intelligence
-    - griffes acérées (+2 dégâts, bonus pour attaque main nue)
+- +1 intelligence
+- griffes acérées (+2 dégâts, bonus pour attaque main nue)
 - Les nakkardas
-    - +1 dextérité
+- +1 dextérité
 
 Clans et sorts spécifiques :
 - Clan Greimorien : bagarre pure pas d’utilisation de sort de lumière extérieur, seulement lumière intérieur (accélération, force décuplé)
@@ -112,24 +112,24 @@ Les classes peuvent être utilisées par n’importe quelle race, mais la partic
 ### Classe présente
 - [[Spiritualiste]]
 	- clerc
-    - moine
-    - prêtre
+- moine
+- prêtre
 - [[Agent]]
 	- voleur
 	- rodeur
 	- saboteur
 - [[Martiale]]
 	- guerrier
-    - paladin
-    - barbare
+- paladin
+- barbare
 - [[Ingénieur]]
 	- artificier
 	- alchimiste
 	- technomancien
 - [[Mage]]
-    - réparateur
-    - défenseur
-    - offenseur
+- réparateur
+- défenseur
+- offenseur
 - [[Errant]] (pas de classe mais des bonus très libre)
 	- magique
 	- non magique
@@ -154,9 +154,9 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 [https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024](https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024)
 # Système de JdR Logyum :
 Test de compétence sur un dé 30 (d20+d10)
-    → 1-2 échec critique, 29-30 réussite critique
-    → Réussite = jet de dés ≥ seuil
-    → Échec = jet de dés < seuil
+→ 1-2 échec critique, 29-30 réussite critique
+→ Réussite = jet de dés ≥ seuil
+→ Échec = jet de dés < seuil
 ## Combats
 tour par tout à initiative (base dex).
 ### Tableau des niveaux :
@@ -169,36 +169,36 @@ tour par tout à initiative (base dex).
 | Niveau 5 | 8 | 30 | 24 | 90 |
 | Niveau 6 | 9 | 39 | 27 | 117 |
 | Niveau 7 | 10 | 49 | 30 | 147 |
-| Niveau 8 | 11 | 60 |  |  |
-| Niveau 9 | 12 | 72 |  |  |
-| Niveau 10 | 15 | 87 |  |  |
-| Niveau 11 | 16 | 103 |  |  |
-| Niveau 12 | 17 | 120 |  |  |
-| Niveau 13 | 18 | 138 |  |  |
-| Niveau 14 | 19 | 157 |  |  |
-| Niveau 15 | 20 | 177 |  |  |
-| Niveau 16 | 21 | 198 |  |  |
-| Niveau 17 | 22 | 220 |  |  |
-| Niveau 18 | 23 | 243 |  |  |
-| Niveau 19 | 24 | 267 |  |  |
-| Niveau 20 | 27 | 294 |  |  |
-| Niveau 21 | 28 | 322 |  |  |
-| Niveau 22 | 29 | 351 |  |  |
-| Niveau 23 | 30 | 381 |  |  |
-| Niveau 24 | 31 | 412 |  |  |
-| Niveau 25 | 32 | 444 |  |  |
-| Niveau 26 | 33 | 477 |  |  |
-| Niveau 27 | 34 | 511 |  |  |
-| Niveau 28 | 35 | 546 |  |  |
-| Niveau 29 | 36 | 582 |  |  |
-| Niveau 30 | 37 | 619 |  |  |
+| Niveau 8 | 11 | 60 |||
+| Niveau 9 | 12 | 72 |||
+| Niveau 10 | 15 | 87 |||
+| Niveau 11 | 16 | 103 |||
+| Niveau 12 | 17 | 120 |||
+| Niveau 13 | 18 | 138 |||
+| Niveau 14 | 19 | 157 |||
+| Niveau 15 | 20 | 177 |||
+| Niveau 16 | 21 | 198 |||
+| Niveau 17 | 22 | 220 |||
+| Niveau 18 | 23 | 243 |||
+| Niveau 19 | 24 | 267 |||
+| Niveau 20 | 27 | 294 |||
+| Niveau 21 | 28 | 322 |||
+| Niveau 22 | 29 | 351 |||
+| Niveau 23 | 30 | 381 |||
+| Niveau 24 | 31 | 412 |||
+| Niveau 25 | 32 | 444 |||
+| Niveau 26 | 33 | 477 |||
+| Niveau 27 | 34 | 511 |||
+| Niveau 28 | 35 | 546 |||
+| Niveau 29 | 36 | 582 |||
+| Niveau 30 | 37 | 619 |||
 ## Notes
 ## Progression par caractéristiques (6 stats, niveaux 1→30)
 Chaque caractéristique (FOR, DEX, CON, INT, SAG, CHA) a 30 niveaux.
 Gain d’XP par test de compétence :
-    - Réussite : +1 XP
-    - Échec : +0,5 XP
-    - Compétence maîtrisée : +2 XP (si réussite), +1 XP (si échec)
+- Réussite : +1 XP
+- Échec : +0,5 XP
+- Compétence maîtrisée : +2 XP (si réussite), +1 XP (si échec)
 L’XP va à la stat principale liée à la sous‑compétence (ex : Arcane → INT).
 Niveau “adulte lambda” : généralement niv. 8 à 13 par l’expérience de la vie.
 Niveau général : le niveau générale du personnage est calculé d’après les caractéristiques. Niveau Générale = nombre de paliers passé ou égalé dans les charactéristique / 2
@@ -220,7 +220,7 @@ donc elle est niveau générale : 15 (30paliers/2)
 ## Système de Magie (réserve de PM)
 ### Surcharge magique (upcast)
 Le lanceur peut dépenser plus de PM que le coût du sort pour ajouter des dés à l’effet.
-    → +2 PM = +1 dé dégâts
+→ +2 PM = +1 dé dégâts
 Cap de surcharge (pour éviter les “nukes” sur des sorts bas niveau) :
 
 | Niveau du sort | Surcharge max (dés) |
@@ -234,7 +234,7 @@ Cap de surcharge (pour éviter les “nukes” sur des sorts bas niveau) :
 ### Branches de Magie (10 niveaux chacune)
 Chaque branche (ex. : Illusion, Nécromancie, etc.) a 10 niveaux.
 Bonus de branche :
-    → Bonus = ⌊ √(niveau de branche) ⌋
+→ Bonus = ⌊ √(niveau de branche) ⌋
 
 **Exemple :**
 Kal, mage de lumière niv. 5 en “Lumière destructrice”
@@ -243,17 +243,17 @@ Bonus de branche = ⌊√5⌋ = +2
 Total : 3d4 + 2
 ### Conversion des sorts de D&D 5e
 Coût en PM = niveau du sort D&D
-    → Sort niv. 1 → 1 PM, niv. 3 → 3 PM, etc.
+→ Sort niv. 1 → 1 PM, niv. 3 → 3 PM, etc.
 Réserve totale de Magie (PM) = somme des emplacements co nvertis :
-    → Ex. : un mage avec 4 niv1, 3 niv2, 2 niv3, 1 niv4 ⇒ 4×1 + 3×2 + 2×3 + 1×4 = 20 PM.
-    
+→ Ex. : un mage avec 4 niv1, 3 niv2, 2 niv3, 1 niv4 ⇒ 4×1 + 3×2 + 2×3 + 1×4 = 20 PM.
+
 ---
 ## Système d’endurance (EN)
 ### Surcharge physique
 Les classes martiales ont une réserve d’Endurance (EN) qui se régénère au repos long (parfois partielle au repos court selon classe).
 Techniques martiales : actions spéciales coûtant des points EN. Chaque technique à une technicité noté de 1 à 5, ayant un coût en point EN équivalent à leur technicité.
 Les classes martiales peuvent dépenser des points EN en plus lors d'attaque pour ajouter des dés à l'attaque.
-    → +2 EN = +1 dé de dégâts
+→ +2 EN = +1 dé de dégâts
 
 | Niveau de technicité | Surcharge max (dés) |
 | --- | --- |
@@ -265,7 +265,7 @@ Les classes martiales peuvent dépenser des points EN en plus lors d'attaque pou
 
 ### Branches d’armes (10 niveaux)
 Catégories d’armes avec niveaux 1→10 (armes légères, une main, deux mains, ...)
-    → Bonus = ⌊ √(niveau de branche) ⌋
+→ Bonus = ⌊ √(niveau de branche) ⌋
 
 **Exemple :** 
 Rognar, guerrier niv. 5 en “armes à deux mains”
@@ -330,17 +330,17 @@ Effets de niveau :
 ## Branche de Magie (10 niveaux chacune)
 Toutes appliquent : Bonus = ⌊√niveau⌋ (max +3).
 1. Lumière
-    1. de Greimorien (amélioration physique et intérieur)
-    2. de Rhisstor (feu et explosion)
-    3. d’Horass (objectification)
-    4. de Jiina (soin)
+1. de Greimorien (amélioration physique et intérieur)
+2. de Rhisstor (feu et explosion)
+3. d’Horass (objectification)
+4. de Jiina (soin)
 2. Émotion 
-    1. négative
-    2. positive
+1. négative
+2. positive
 3. Sang
-    1. Dravnak (extérieur)
-    2. Solvren (intérieur)
+1. Dravnak (extérieur)
+2. Solvren (intérieur)
 4. Âme
-    1. de la duperie (illusion et influence)
-    2. du contrôle (possession)
-    3. du portail (animal)
+1. de la duperie (illusion et influence)
+2. du contrôle (possession)
+3. du portail (animal)

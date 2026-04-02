@@ -89,7 +89,7 @@ Déclaration de la nation de Nevot
 ### Déclenchement
 
 ### Dates
- -  ( ans)
+ -( ans)
 ### Détails
 [[Ère 11]]
 
@@ -97,7 +97,7 @@ Déclaration de la nation de Nevot
 ### Déclenchement
 
 ### Dates
- -  ( ans)
+ -( ans)
 ### Détails
 [[Ère 12]]
 
@@ -105,7 +105,7 @@ Déclaration de la nation de Nevot
 ### Déclenchement
 
 ### Dates
- -  ( ans)
+ -( ans)
 ### Détails
 [[Ère 13]]
 
@@ -113,7 +113,7 @@ Déclaration de la nation de Nevot
 ### Déclenchement
 
 ### Dates
- -  ( ans)
+ -( ans)
 ### Détails
 [[Ère 14]]
 
@@ -121,6 +121,6 @@ Déclaration de la nation de Nevot
 ### Déclenchement
 
 ### Dates
- -  ( ans)
+ -( ans)
 ### Détails
 [[Ère 15]]

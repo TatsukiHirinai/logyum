@@ -1,215 +1,187 @@
-# Personnage et Statistiques — Version MJ (Logyum)
+# Personnage et Statistiques — Version MJ 
 
 ## 1. Structure d’une fiche de personnage
 Une fiche de personnage Logyum doit obligatoirement contenir les informations suivantes.
 
----
-
 ## 1.1 Informations basiques
-- Nom / Prénom  
-- Âge  
-- Race  
-- Classe  
-- Caractéristiques physiques  
-  - Taille  
-  - Poids  
-- Caractéristiques psychologiques  
-  - Personnalité  
-  - Idéaux / Objectifs  
-  - Qualités  
-  - Défauts  
-- Langues connues  
-  - Parlé  
-  - Écrit  
+- Nom / Prénom
+- Âge
+- Race
+- Classe
+- Caractéristiques physiques
+- Taille
+- Poids
+- Caractéristiques psychologiques
+- Personnalité
+- Idéaux / Objectifs
+- Qualités
+- Défauts
+- Langues connues
+- Parlé
+- Écrit
 - Histoire (résumé ou détaillée selon préférence du MJ)
-
----
 
 ## 1.2 Statistiques principales
 Les six caractéristiques fondamentales d’un personnage sont :
 
-- **FOR** — Force  
-- **DEX** — Dextérité  
-- **CON** — Constitution  
-- **SAG** — Sagesse  
-- **INT** — Intelligence  
-- **CHA** — Charisme  
+- **FOR** — Force
+- **DEX** — Dextérité
+- **CON** — Constitution
+- **SAG** — Sagesse
+- **INT** — Intelligence
+- **CHA** — Charisme
 
 Chaque caractéristique possède **30 niveaux**, influencés exclusivement par l’utilisation en jeu.
 
----
-
 ## 1.3 Magie
 Le personnage liste ici :
-- ses **sorts** connus ou préparés  
-- ses **branches de magie** et leur niveau  
+- ses **sorts** connus ou préparés
+- ses **branches de magie** et leur niveau
 - ses valeurs de **PM**, si applicable
 
----
-
 ## 1.4 Équipement
-- Armes  
-- Armures  
-- Outils  
+- Armes
+- Armures
+- Outils
 - Objets divers (consommables, kits, ressources)
-
----
 
 ## 1.5 Maîtrises
 Le joueur indique :
-- les **compétences maîtrisées**,  
+- les **compétences maîtrisées**,
 - les spécialisations éventuelles (outil, savoir, technique).
 
 Les maîtrises influencent **uniquement les gains d’XP** sur la caractéristique liée.
 
-# Races — Version MJ (Logyum)
+---
+
+# Races — Version MJ 
 
 ## 1. Présentation générale
-Cette section regroupe les races jouables de Logyum ainsi que leurs attributs mécaniques.  
-Les races **Aeter**, **Arrint**, **Horloger** (et leurs sous‑races) et **Ombros** sont **indisponibles** en jeu.  
+Cette section regroupe les races jouables de Logyum ainsi que leurs attributs mécaniques.
+Les races **Aeter**, **Arrint**, **Horloger** (et leurs sous‑races) et **Ombros** sont **indisponibles** en jeu.
 Elles sont considérées comme **mythiques, disparues ou éteintes**.
 
 Les races jouables disposent de caractéristiques physiques, magiques et psychiques propres.
 
----
-
 ## 2. Affinités élémentaires (répartition des sensibilités)
 Les éléments suivants indiquent quelles races possèdent une affinité ou une résistance naturelle :
 
-- **Acid** : Ogahon, Felire, (Manhund)
+- **Acide** : Ogahon, Felire, (Manhund)
 - **Poison** : Ogahon, Felire, (Manhund)
 - **Lightning** : Ogahon, Felire
 - **Thunder** : Ogahon, Felire
-- **Fire** : Ogahon, Felire, (Nakkard)
-- **Cold** : Ogahon, Felire
-- **Radiant** : Nakkard, (Felire)
-- **Necrotic** : Ogahon, Felire, (Manhund)
-- **Psychic** : Ogahon, Marcadur
-- **Heal** : Felire, Marcadur, (Ogahon)
+- **Feu** : Ogahon, Felire, (Nakkard)
+- **Gel** : Ogahon, Felire
+- **Lumière** : Nakkard, (Felire)
+- **Necrotique** : Ogahon, Felire, (Manhund)
+- **Psychique** : Ogahon, Marcadur
+- **Soin** : Felire, Marcadur, (Ogahon)
 - **Air** : Felire, Ogahon
 - **Force** : Felire, Ogahon, Manhund, Nakkard, Marcadur
-- **Energy** : Felire, Ogahon, Manhund, Nakkard, Marcadur
+- **Energie** : Felire, Ogahon, Manhund, Nakkard, Marcadur
 
 Ces affinités influencent uniquement les interactions avec la magie, les capacités raciales ou les résistances narratives.
 
----
+## 3. Races jouables
 
-# 3. Races jouables
-
----
-
-## 3.1 Nakkard
-
+### 3.1 Nakkard
 Les Nakkard sont le peuple central de Logyum. Ils sont organisés en plusieurs morphotypes et clans, chacun influençant leurs aptitudes.
 
-### 3.1.1 Bonus raciaux
+#### 3.1.1 Bonus raciaux
 - **Nokkardas**
-  - +1 Constitution  
-  - Armure lourde/moyenne : –1 Dextérité  
-  - Griffes acérées (+2 dégâts, main nue)
-  
-- **Nokkardes**
-  - +1 Intelligence  
-  - Griffes acérées (+2 dégâts)
-  
-- **Nakkardas**
-  - +1 Dextérité
+ - +1 Constitution
+ - Armure lourde/moyenne : –1 Dextérité
+ - Griffes acérées (+2 dégâts, main nue)
 
-### 3.1.2 Clans de Lumière
+- **Nokkardes**
+ - +1 Intelligence
+ - Griffes acérées (+2 dégâts)
+
+- **Nakkardas**
+ - +1 Dextérité
+
+#### 3.1.2 Clans
 Chaque clan reflète une branche magique :
 
-- **Greimorien**  
-  *Lumière intérieure* : augmentation physique, accélération, force amplifiée.
+- **Greimorien**
+*Lumière intérieure* : augmentation physique, accélération, force amplifiée.
 
-- **Rhisstor**  
-  *Lumière explosive* : feu, impact, projections.
+- **Rhisstor**
+*Lumière explosive* : feu, impact, projections.
 
-- **Jiina**  
-  *Lumière utile* : soins, détections, stabilisation.
+- **Jiina**
+*Lumière utile* : soins, détections, stabilisation.
 
-- **Horass**  
-  *Lumière matérialisée* : formes lumineuses offensives/défensives.
+- **Horass**
+*Lumière matérialisée* : formes lumineuses offensives/défensives.
 
-### 3.1.3 Traits raciaux
-- Vision dans le noir  
-- “Pas de renard” : déplacements silencieux  
-- “Lumière aveuglante” : flash aveuglant court (capacité raciale)
+#### 3.1.3 Traits raciaux
+- Vision dans le noir
+- "Pas de renard" : déplacements silencieux
+- "Lumière aveuglante" : flash aveuglant court (capacité raciale)
 
----
-
-## 3.2 Ogahon
-
+### 3.2 Ogahon
 Les Ogahon sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur les clans spirituels.
 
-### 3.2.1 Bonus raciaux
-- **+2 Sagesse**  
+#### 3.2.1 Bonus raciaux
+- **+2 Sagesse**
 - **+1 Intelligence**
 
-### 3.2.2 Clans de l’Âme
-- **Duperie** : illusions, influence psychique  
-- **Contrôle** : possession, domination spirituelle  
+#### 3.2.2 Clans
+- **Duperie** : illusions, influence psychique
+- **Contrôle** : possession, domination spirituelle
 - **Portail** : utilisation du plan des esprits animaux
 
-### 3.2.3 Traits raciaux
+#### 3.2.3 Traits raciaux
 - Endurance élevée (bonus fonctionnel de Constitution)
 
----
-
-## 3.3 Marcadur
-
+### 3.3 Marcadur
 Les Marcadur sont reconnus pour leur sensibilité émotionnelle et leur adaptabilité sociale.
 
-### 3.3.1 Bonus raciaux
+#### 3.3.1 Bonus raciaux
 - **+1 Charisme**
 
-### 3.3.2 Affect particulier
+#### 3.3.2 Traits raciaux
 - Lecture des émotions : **+3** aux jets pour deviner une émotion
 
-### 3.3.3 Trait racial
-Aucun trait physique unique, mais de fortes dispositions psychiques.
-
----
-
-## 3.4 Felire
+### 3.4 Felire
 
 Les Felire basent leur puissance sur la logique, la science et l’observation.
 
-### 3.4.1 Bonus raciaux
+#### 3.4.1 Bonus raciaux
 - **+2 Intelligence**
 
-### 3.4.2 Écoles scientifiques
+#### 3.4.2 Écoles scientifiques
 Le joueur choisit un axe scientifique :
-- **Ingénieur** (artificier) : propriétés physiques, mécanique légère  
-- **Chimiste** (alchimiste) : réactions chimiques, catalyseurs  
+- **Ingénieur** (artificier) : propriétés physiques, mécanique légère
+- **Chimiste** (alchimiste) : réactions chimiques, catalyseurs
 
-### 3.4.3 Traits raciaux
-- Vision dans le noir  
+#### 3.4.3 Traits raciaux
+- Vision dans le noir
 - Griffes d’acier (bonus main nue)
+
+### 3.5 Manhund
+Guerriers robustes liés à la Sanguimancie instinctive.
+
+#### 3.5.1 Bonus raciaux
+- **+2 Force**
+- **+1 Constitution**
+
+#### 3.5.2 Tribus de sang
+- **Dravnak** : usage externe du sang (armes, projectiles)
+- **Solvren** : usage interne (renfort musculaire, réflexes, endurance)
+
+#### 3.5.3 Traits raciaux
+- Vision dans le noir
+- Griffes d’acier (bonus mêlée)
 
 ---
 
-## 3.5 Manhund
-
-Guerriers robustes liés à la Sanguimancie instinctive.
-
-### 3.5.1 Bonus raciaux
-- **+2 Force**  
-- **+1 Constitution**
-
-### 3.5.2 Tribus de sang
-- **Dravnak** : usage externe du sang (armes, projectiles)  
-- **Solvren** : usage interne (renfort musculaire, réflexes, endurance)
-
-### 3.5.3 Traits raciaux
-- Vision dans le noir  
-- Griffes d’acier (bonus mêlée)
-
-# Classes — Version MJ (Logyum)
+# Classes — Version MJ 
 
 ## 1. Structure générale des classes
-
-Les classes déterminent l’apprentissage institutionnel, ésotérique ou technique d’un personnage.  
-Elles progressent de **niveau 1 à 10**, indépendamment du niveau général basé sur les caractéristiques.
+Les classes déterminent l’apprentissage institutionnel, ésotérique ou technique d’un personnage.
+Elles progressent du **niveau 1 à 10**, indépendamment du niveau général basé sur les caractéristiques.
 
 ### 1.1 Caractéristiques d’une classe
 Chaque classe dispose :
@@ -217,29 +189,27 @@ Chaque classe dispose :
 - d’un ensemble de capacités débloquées aux niveaux 1→10,
 - d’une **Spécificité** choisie au niveau 6,
 - d’un rapport particulier avec les ressources du système :
-  - **PM** (pour la magie et l’énergie spirituelle),
-  - **EN** (pour l’effort physique et les techniques martiales),
-  - ou un mélange des deux.
+ - **PM** (pour la magie et l’énergie spirituelle),
+ - **EN** (pour l’effort physique et les techniques martiales),
+ - ou un mélange des deux.
 
 ### 1.2 Influence de la race
-La classe ne détermine pas seule la forme de magie ou de technique.  
+La classe ne détermine pas seule la forme de magie ou de technique.
 La race influence directement :
 - le type de magie utilisable,
 - la nature de certaines compétences ou branches,
 - les capacités physiques uniques.
 
 Exemples :
-- Un **Nakkard Mage** → magie de lumière (selon son clan).  
-- Un **Ogahon Mage** → Anemomancie uniquement.  
-- Un **Manhund Guerrier** → techniques basées sur le sang.  
+- Un **Nakkard Mage** → Dominium Lux (selon son clan).
+- Un **Ogahon Mage** → Anemomancie uniquement.
+- Un **Manhund Guerrier** → techniques Sanguinomancie.
 - Un **Felire Guerrier** → techniques d’ingénierie ou de chimie.
 
----
+## 2. Spiritualiste
 
-# 2. Spiritualiste
-
-## 2.1 Identité générale
-Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans X/Y).  
+### 2.1 Identité générale
+Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans X/Y).
 Sa magie dépend souvent de :
 - la spiritualité nakkarde (Lheiren),
 - la culture ogahon (âme, illusions, portails),
@@ -247,132 +217,254 @@ Sa magie dépend souvent de :
 
 Réserve principale : **PM**.
 
-## 2.2 Progression (Niv. 1 → 10)
-- **1 – Initié** : rituels mineurs, prières simples.  
-- **2 – Liturgie mineure** : 2 nouveaux effets spirituels.  
-- **3 – Canalisation** : +1d4 1/ combat sur un sort spirituel.  
-- **4 – Vision spirituelle** : détection limitée des phénomènes d’âme.  
-- **5 – Psychopompe mineur** : dialoguer avec une âme non hostile (1/ repos).  
-- **6 – Spécificité** : Clerc, Moine, Pactiste.  
-- **7 – Aura spirituelle** : réduction 1d6 dégâts spirituels/psychiques.  
-- **8 – Grand rituel** : accès à un rituel majeur.  
-- **9 – Double-Voix** : réduction du coût PM d’un sort spirituel.  
-- **10 – Transe hiérophante** : mode exalté 1 minute.
+### 2.2 Progression (Niv. 1 → 10)
+- **1 – Initié** : Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient du plan X ou Y.
+- **2 – Liturgie mineure** : Tu apprends 2 rituels mineurs au choix (action rituelle, coût 1 PM) :
+	- Apaisement (esprit non hostile : neutralise peur mineure / -1d4 dégâts psychiques 1 tour)
+	- Fil de voix (chuchoter au défunt : 1 question factuelle courte)
+- **3 – Canalisation** : 1/rencontre : ajoute +1d4 à un jet de sort/rituel de soutien/contrôle. Hors combat : purifie une zone minime de miasmes (corruption légère). (Anti‑Corruptomancie douce)
+- **4 – Vision spirituelle** : Tu vois les silhouettes éthérées, traces de sceaux Sans‑Cornes, illusions d’âme ; Avantage pour détecter un esprit lié plutôt que libre.
+- **5 – Psychopompe mineur** : Tu dialogues avec une âme non hostile (1/ repos) pendant 10 min.
+- **6 – Spécificité** : Clerc, Moine, Pactiste.
+- **7 – Aura spirituelle** : Réduction 1d6 dégâts spirituels/psychiques. Tu obtiens une résistance (réduction 1d6) aux dégâts nécrotiques/spirituels/psychiques et un Avantage contre la peur d’origine spirituelle. (Foi comme armure)
+- **8 – Grand rituel** : Tu apprends 1 grand rituel (coût 3 PM, 1 action rituelle prolongée) au choix :
+	- Ancrage sacré (bloque portails/teleports spirituels mineurs dans 9 m, 10 min)
+	- Voile funèbre (dissimule le groupe des esprits/ombres, 1 min)
+	- Relâchement (libère une âme d’un sceau non‑divin, test opposé)
+- **9 – Double-Voix** : Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans X/Y et des vivants (RP fort, enquêtes).
+- **10 – Transe hiérophante** : Tu entres en transe liturgique : +2 à tes jets de magie, tes rituels d’âme gagnent +1d6 d’effet, vision parfaite à travers illusions/éthéré/ombres. En fin de transe, tu peux apaiser définitivement un esprit tourmenté (bannissement pacifié).
 
----
+### 2.3 Spécificités
 
-## 2.3 Spécificités
-
-### Clerc
-- **6 – Domaine** : Choix (Vie, Mémoire, Lumière utile, Mort sacrée).  
-- **7 – Liturgie majeure** : bonus aux sauvegardes spirituelles.  
-- **8 – Reliquaire** : talisman améliorant les rituels.  
-- **9 – Intercession** : annule un effet spirituel corrompu.  
+#### Clerc
+- **6 – Domaine** : Choix (Vie, Mémoire, Lumière utile, Mort sacrée).
+- **7 – Liturgie majeure** : bonus aux sauvegardes spirituelles.
+- **8 – Reliquaire** : talisman améliorant les rituels.
+- **9 – Intercession** : annule un effet spirituel corrompu.
 - **10 – Épiphanie** : manifestation sacrée majeure.
 
-### Moine
-- **6 – Kata du souffle** : techniques économiques en PM.  
-- **7 – Corps-mantra** : bonus défensif tant que PM ≥ 1.  
-- **8 – Sceau vivant** : renvoi d’attaques spirituelles.  
-- **9 – Chapelet de fer** : attaques non armées deviennent “spirituelles”.  
+#### Moine
+- **6 – Kata du souffle** : techniques économiques en PM.
+- **7 – Corps-mantra** : bonus défensif tant que PM ≥ 1.
+- **8 – Sceau vivant** : renvoi d’attaques spirituelles.
+- **9 – Chapelet de fer** : attaques non armées deviennent “spirituelles”.
 - **10 – Ascèse parfaite** : immunités, déplacements exaltés.
 
-### Pactiste
-- **6 – Lien pactuel** : compagnon spirituel.  
-- **7 – Clause de secours** : survie à 1 PV.  
-- **8 – Fusion d’âme** : bonus physiques/magiques.  
-- **9 – Clause révélée** : pouvoir évolué du compagnon.  
+#### Pactiste
+- **6 – Lien pactuel** : compagnon spirituel.
+- **7 – Clause de secours** : survie à 1 PV.
+- **8 – Fusion d’âme** : bonus physiques/magiques.
+- **9 – Clause révélée** : pouvoir évolué du compagnon.
 - **10 – Totem majeur** : transformation 1 minute.
 
----
+## 3. Agent
 
-# 3. Agent
-
-## 3.1 Identité générale
-Classe dédiée à l’infiltration, l’observation, l’analyse, et les opérations tactiques.  
+### 3.1 Identité générale
+Classe dédiée à l’infiltration, l’observation, l’analyse, et les opérations tactiques.
 Réserve principale : légère utilisation d’**EN**.
 
-## 3.2 Progression (Niv. 1 → 10)
-- **1 – Instinct opérationnel**  
-- **2 – Action rusée** (Foncer / Se cacher / Désengager en action bonus)  
-- **3 – Œil du professionnel** (terrain préféré)  
-- **4 – Réflexes de survie**  
-- **5 – Frappe précise** (+1d6 / tour)  
-- **6 – Spécificité** : Voleur, Rôdeur, Saboteur  
-- **7 – Silence parfait**  
-- **8 – Double manœuvre** (2 actions bonus)  
-- **9 – Sixième sens** (ne peut être surpris)  
+### 3.2 Progression (Niv. 1 → 10)
+- **1 – Instinct opérationnel**
+- **2 – Action rusée** (Foncer / Se cacher / Désengager en action bonus)
+- **3 – Œil du professionnel** (terrain préféré)
+- **4 – Réflexes de survie**
+- **5 – Frappe précise** (+1d6 / tour)
+- **6 – Spécificité** : Voleur, Rôdeur, Saboteur
+- **7 – Silence parfait**
+- **8 – Double manœuvre** (2 actions bonus)
+- **9 – Sixième sens** (ne peut être surpris)
 - **10 – Maître opérateur**
 
-## 3.3 Spécificités
+### 3.3 Spécificités
 
-### Voleur
-- 6 – Mains fantômes  
-- 7 – Frappe précise +1d8  
-- 8 – Disparition instantanée  
-- 9 – Esquive totale  
-- 10 – Ombre vivante  
+#### Voleur
+- 6 – Mains fantômes
+- 7 – Frappe précise +1d8
+- 8 – Disparition instantanée
+- 9 – Esquive totale
+- 10 – Ombre vivante
 
-### Rôdeur
-- 6 – Terrain de chasse  
-- 7 – Prédateur silencieux  
-- 8 – Lecture des traces  
-- 9 – Compagnon animal  
-- 10 – Chasseur alpha  
+#### Rôdeur
+- 6 – Terrain de chasse
+- 7 – Prédateur silencieux
+- 8 – Lecture des traces
+- 9 – Compagnon animal
+- 10 – Chasseur alpha
 
-### Saboteur
-- 6 – Expert en mécanismes  
-- 7 – Bombe artisanale  
-- 8 – Court‑circuit  
-- 9 – Défaillance programmée  
-- 10 – Chaos silencieux  
+#### Saboteur
+- 6 – Expert en mécanismes
+- 7 – Bombe artisanale
+- 8 – Court‑circuit
+- 9 – Défaillance programmée
+- 10 – Chaos silencieux
 
----
+## 4. Martiale
 
-# 4. Martiale
-
-## 4.1 Identité générale
-Combattants physiques utilisant principalement **EN**.  
+### 4.1 Identité générale
+Combattants physiques utilisant principalement **EN**.
 Rôle de frontliner ou damage dealer.
 
-## 4.2 Progression (Niv. 1 → 10)
-- 1 – Techniques simples  
-- 2 – EN + récupération  
-- 3 – Posture  
-- 4 – Bonus physique  
-- 5 – Frappe renforcée  
-- 6 – Spécificité : Guerrier, Paladin, Barbare  
-- 7 – Contre‑attaque  
-- 8 – Résilience  
-- 9 – Maîtrise d’arme  
-- 10 – Exécution  
+### 4.2 Progression (Niv. 1 → 10)
+- 1 – Techniques simples
+- 2 – EN + récupération
+- 3 – Posture
+- 4 – Bonus physique
+- 5 – Frappe renforcée
+- 6 – Spécificité : Guerrier, Paladin, Barbare
+- 7 – Contre‑attaque
+- 8 – Résilience
+- 9 – Maîtrise d’arme
+- 10 – Exécution
 
-## 4.3 Spécificités
+### 4.3 Spécificités
 
-### Guerrier
-- 6 – Discipline  
-- 7 – Fente  
-- 8 – Défense améliorée  
-- 9 – Initiative guerrière  
-- 10 – Maître d’armes  
+#### Guerrier
+- 6 – Discipline
+- 7 – Fente
+- 8 – Défense améliorée
+- 9 – Initiative guerrière
+- 10 – Maître d’armes
 
-### Paladin
-- 6 – Serment  
-- 7 – Protection sacrée  
+#### Paladin
+- 6 – Discipline
+- 7 – Fente
+- 8 – Défense améliorée
+- 9 – Initiative guerrière
+- 10 – Maître d’armes
 
-# Combat — Version MJ (Logyum)
+#### Barbare
+- 6 – Discipline
+- 7 – Fente
+- 8 – Défense améliorée
+- 9 – Initiative guerrière
+- 10 – Maître d’armes
 
-## 1. Structure générale du combat
-Le système de combat de Logyum fonctionne en **tour par tour**, de manière similaire aux structures classiques (comme DnD5).  
-Chaque combat alterne entre :
+## 5. Mage
 
-1. **Phase d’initiative**  
-2. **Tours individuels**  
-3. **Fin de round**  
+### 5.1 Identité générale
+XX
 
-L’ordre d’action reste fixe jusqu'à la fin du combat, sauf capacité particulière.
+### 5.2 Progression (Niv. 1 → 10)
+- 1 – X
+- 2 – X
+- 3 – X
+- 4 – X
+- 5 – X
+- 6 – Spécificité : Réparateur, Défenseur, Offenseur
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+### 5.3 Spécificités
+
+#### Réparateur
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+#### Défenseur
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+#### Offenseur
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+ 
+## 6. Ingénieur
+
+### 6.1 Identité générale
+XX
+
+### 6.2 Progression (Niv. 1 → 10)
+- 1 – X
+- 2 – X
+- 3 – X
+- 4 – X
+- 5 – X
+- 6 – Spécificité : Alchimiste, Artificier, Technomancien
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+### 6.3 Spécificités
+
+#### Alchimiste
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+#### Artificier
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+#### Technomancien
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+## 7. Errant
+
+### 7.1 Identité générale
+L'Errant est la seule classe n'ayant aucune fonction réelle dans le système. Cette classe est une sorte de page blanche qui permet une liberté dans les choix d'améliorations de compétences ou d'apprentissage de compétences.
+
+### 7.2 Progression (Niv. 1 → 10)
+- 1 – X
+- 2 – X
+- 3 – X
+- 4 – X
+- 5 – X
+- 6 – Spécificité : Magique, Technique
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+### 7.3 Spécificités
+
+#### Technique
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
+
+#### Magique
+- 6 – X
+- 7 – X
+- 8 – X
+- 9 – X
+- 10 – X
 
 ---
+
+# Combat — Version MJ 
+
+## 1. Structure générale du combat
+Le système de combat de Logyum fonctionne en tour par tour, de manière similaire aux structures classiques (comme DnD5).
+Chaque combat alterne entre :
+
+1. Phase d’initiative
+2. Tours individuels
+3. Fin de round
+
+L’ordre d’action reste fixe jusqu'à la fin du combat, sauf capacité particulière.
 
 ## 2. Initiative
 Chaque créature effectue un jet basé sur :
@@ -380,102 +472,86 @@ Chaque créature effectue un jet basé sur :
 **Initiative = Jet de DEX**
 
 Le MJ peut appliquer des modificateurs :
-- Position initiale  
-- Surprise  
-- Conditions environnementales  
-
----
+- Position initiale
+- Surprise
+- Conditions environnementales
 
 ## 3. Déroulement d’un tour
 Chaque tour d’un personnage comprend :
 
-- **1 Action** (attaque, lancer de sort, technique, interaction importante)  
-- **1 Déplacement** (selon la vitesse de la créature)  
-- **1 Action Bonus** (si la classe, la race ou l’effet le permet)  
-- **1 Réaction** (généralement entre les tours)
+- **1 Action** (attaque, lancer de sort, technique, interaction importante)
+- **1 Déplacement** (selon la vitesse de la créature)
+- **1 Action Bonus** (si la classe, la race ou l’effet le permet)
+- **1 Réaction** (généralement entre les tours ou après une action adverse / alliée)
 
 Les règles d’économie d’action peuvent être modifiées par :
-- Classes (Agent, Martiale, Errant…)  
-- Sorts  
-- Capacités raciales  
-
----
+- Classes (Agent, Martiale, Errant…)
+- Sorts
+- Capacités raciales
 
 ## 4. Types d’actions courantes
-- **Attaquer**  
-- **Lancer un sort**  
-- **Utiliser une technique (EN)**  
-- **Utiliser un objet**  
-- **Esquiver / Se cacher / Aider / Se désengager**  
-- **Activer une capacité raciale**
+- Attaquer
+- Lancer un sort
+- Utiliser une technique (EN)
+- Utiliser un objet
+- Esquiver / Se cacher / Aider / Se désengager
+- Activer une capacité raciale
 
 Les actions spéciales (charge, projection, combo, etc.) dépendent :
-- des branches d’armes,  
-- des capacités de classe,  
+- des branches d’armes,
+- des capacités de classe,
 - ou du MJ.
-
----
 
 ## 5. Règles raciales en combat
 Certaines races possèdent des interactions directes avec leurs mécaniques internes.
 
 ### 5.1 Ogahon
 **Récupération de PM :**
-- +0.5 PM par tour (ou +0.25 selon état, fatigue ou contexte fixé par le MJ).  
+- +0.5 PM par tour (ou +0.25 selon état, fatigue ou contexte fixé par le MJ).
 
 Cette récupération soutient leur magie d’âme.
 
----
-
 ### 5.2 Nakkard
-**Amplification de la lumière :**  
+**Amplification de la lumière :**
 Tant que le Nakkard est en **contact direct** avec la lumière du Noyau, **les sorts de lumière gagnent +1d4 dégâts**.
 
-Notes MJ :  
-- “Contact direct” dépend du contexte : extérieur, ligne de vue claire, zones intérieures éclairées par lumière naturelle du Noyau.  
+Notes MJ :
+- “Contact direct” dépend du contexte : extérieur, ligne de vue claire, zones intérieures éclairées par lumière naturelle du Noyau.
 - Ce bonus ne s’applique pas aux effets non offensifs (sauf décision MJ).
-
----
 
 ### 5.3 Marcadur
 **Perception émotionnelle avancée :**
-- Ignore résistances mentales adverses.  
+- Ignore résistances mentales adverses.
 - Bonus narratifs ou mécaniques sur les **sorts d’émotion / ressenti**.
 
-Utilisation typique :  
-- Détection d’intention, mensonge, émotion, instabilité.  
+Utilisation typique :
+- Détection d’intention, mensonge, émotion, instabilité.
 - Facilité à toucher psychiquement l’esprit adverse.
-
----
 
 ### 5.4 Manhund
 Les Manhund utilisent naturellement la **Sanguimancie**.
 
-En combat :  
-- Peuvent **sacrifier des PV** pour augmenter les dégâts d’une attaque (hors système d’EN).  
+En combat :
+- Peuvent **sacrifier des PV** pour augmenter les dégâts d’une attaque (hors système d’EN).
 - Le MJ décide du coût (exemple : sacrifier 2 PV → +1d6 dégâts, selon la dangerosité).
 
-Notes MJ :  
-- À manier prudemment, car très puissant.  
+Notes MJ :
+- À manier prudemment, car très puissant.
 - Cette mécanique représente la Rage sanguine tribale, différente des techniques physiques classiques.
-
----
 
 ### 5.5 Felire
 Les Felire préparent des “**sorts technologiques**”, basés sur la science.
 
 Exemples courants :
-- Bombe aveuglante  
-- Bombe acide  
-- Bombe de chaleur / explosion  
-- Réactifs chimiques à effet immédiat  
+- Bombe aveuglante
+- Bombe acide
+- Bombe de chaleur / explosion
+- Réactifs chimiques à effet immédiat
 
 Règles :
-- Ces effets **consomment du matériel**, pas des PM.  
-- Le MJ peut imposer des tests d’INT / Analyse en cas d’usage risqué.  
+- Ces effets **consomment du matériel**, pas des PM.
+- Le MJ peut imposer des tests d’INT / Analyse en cas d’usage risqué.
 - Le temps de préparation dépend de la scène (action simple → action longue).
-
----
 
 ## 6. Résolution d’attaque et dégâts
 Chaque attaque suit la règle :
@@ -488,66 +564,59 @@ Les dégâts dépendent :
 - de la surcharge EN éventuelle,
 - des capacités raciales ou de classe.
 
----
-
 ## 7. Échecs et réussites critiques
 Comme dans les tests de compétences :
 
-- **1–2** : Échec critique  
-  - Effet négatif narratif ou mécanique  
-- **29–30** : Réussite critique  
-  - Augmentation narrative de l’effet  
-  - Bonus de dégâts selon MJ
+- **1–2** : Échec critique
+- Effet négatif narratif ou mécanique
+- **29–30** : Réussite critique
+- Augmentation narrative de l’effet
+- Bonus de dégâts selon MJ
 
 (Le combat utilise un d20 pour toucher, mais certains systèmes de compétences utilisent d20+d10.)
 
----
-
 ## 8. Sorts, PM et combat
-- Le coût d’un sort est payé **en PM**.  
-- La surcharge magique est possible en combat :  
-  **+2 PM = +1 dé** (jusqu’au cap selon niveau du sort).  
+- Le coût d’un sort est payé **en PM**.
+- La surcharge magique est possible en combat :
+**+2 PM = +1 dé** (jusqu’au cap selon niveau du sort).
 - Le Mage, l’Ingénieur (technique), le Spiritualiste et l’Errant magique utilisent le PM différemment, selon leurs branches.
 
 Les restrictions raciales s’appliquent toujours :
-- Nakkard → Lumière  
-- Ogahon → Âme  
-- Manhund → Sang  
-- Felire → Science (alchimie/artifice)  
-- Marcadur → Émotions  
-
----
+- Nakkard → Lumière
+- Ogahon → Âme
+- Manhund → Sang
+- Felire → Science (alchimie/artifice)
+- Marcadur → Émotions
 
 ## 9. Techniques martiales (EN)
-Les actions martiales coûtent **EN** selon leur technicité (1 à 5).  
+Les actions martiales coûtent **EN** selon leur technicité (1 à 5).
 Surcharge possible :
 - **+2 EN = +1 dé de dégâts**
 
 Les caps sont indiqués dans ton système (selon technicité 1 à 5).
 
 EN se récupère :
-- entièrement au repos long,  
+- entièrement au repos long,
 - partiellement selon classes (Martiale) au repos court.
-
----
 
 ## 10. Gestion MJ
 Le MJ doit tenir compte :
-- du positionnement,  
-- des actions simultanées,  
-- du décor et des obstacles,  
-- des bonus/malus narratifs,  
-- de l’utilisation des ressources (PM / EN)  
+- du positionnement,
+- des actions simultanées,
+- du décor et des obstacles,
+- des bonus/malus narratifs,
+- de l’utilisation des ressources (PM / EN)
 - des capacités raciales spécifiques.
 
 Le système est conçu pour :
-- une grande fluidité,  
-- des adaptations fréquentes,  
+- une grande fluidité,
+- des adaptations fréquentes,
 - une cohérence très forte avec la race, la classe et le style du personnage.
 
-# Systèmes du JDR Logyum — Version MJ
+---
 
-Ce bloc regroupe toutes les mécaniques fondamentales du système Logyum.  
+# Systèmes du JDR Logyum — Version MJ
+Ce bloc regroupe toutes les mécaniques fondamentales du système Logyum.
 Il couvre :
 - Le système de tests
 - Les caractéristiques (1→30)
@@ -558,32 +627,27 @@ Il couvre :
 - Les branches (armes / magie)
 - Les tables et paliers
 
----
+## 1. Système de tests
 
-# 1. Système de tests
-
-## 1.1 Jet de compétence
+### 1.1 Jet de compétence
 Un test de compétence se résout avec un **jet sur 30**, obtenu via :
 
 **d20 + d10**
 
 Valeur finale : 2 → 30.
 
-### 1.1.1 Seuils
-- **Réussite** : jet ≥ seuil défini par le MJ  
-- **Échec** : jet < seuil  
+#### 1.1.1 Seuils
+- **Réussite** : jet ≥ seuil défini par le MJ
+- **Échec** : jet < seuil
 
-### 1.1.2 Critiques
-- **1–2** → Échec critique  
+#### 1.1.2 Critiques
+- **1–2** → Échec critique
 - **29–30** → Réussite critique
 
 Le MJ applique les conséquences selon contexte :
 - Perte d’avantage, casse d’objet, aggravation, rebond, etc.
 
----
-
-# 2. Caractéristiques (FOR, DEX, CON, SAG, INT, CHA)
-
+## 2. Caractéristiques (FOR, DEX, CON, SAG, INT, CHA)
 Chaque caractéristique possède **30 niveaux**.
 
 Elles déterminent :
@@ -592,51 +656,42 @@ Elles déterminent :
 - ses capacités physiques ou psychiques,
 - et participent au calcul final du **niveau général**.
 
----
-
-# 3. Gain d’XP (caractéristiques)
-
+## 3. Gain d’XP (caractéristiques)
 Chaque action augmente l’XP de la **caractéristique utilisée**.
 
-## 3.1 Table d’XP par test
-- Réussite : **+1 XP**  
-- Échec : **+0,5 XP**  
-- Compétence maîtrisée :  
-  - Réussite : **+2 XP**  
-  - Échec : **+1 XP**
+### 3.1 Table d’XP par test
+- Réussite : **+1 XP**
+- Échec : **+0,5 XP**
+- Compétence maîtrisée :
+- Réussite : **+2 XP**
+- Échec : **+1 XP**
 
-**Important :**  
-L’XP ne monte qu’une **seule caractéristique**, celle liée à la compétence testée.  
-Exemple :  
-- Crochetage → DEX  
-- Analyse → INT  
-- Persuasion → CHA  
-- Arcane → INT  
+**Important :**
+L’XP ne monte qu’une **seule caractéristique**, celle liée à la compétence testée.
+Exemple :
+- Crochetage → DEX
+- Analyse → INT
+- Persuasion → CHA
+- Arcane → INT
 - Survie → CON ou SAG (au choix du MJ selon contexte)
 
----
-
-# 4. Paliers de caractéristiques
-
+## 4. Paliers de caractéristiques
 Les **paliers** définissent la montée en puissance du niveau général.
 
-### 4.1 Paliers officiels  
+#### 4.1 Paliers officiels
 Caractéristique atteignant ou dépassant :
 
 **2, 5, 8, 11, 14, 17, 20, 23, 26, 29**
 
 Chaque palier compte pour 1 point.
 
----
-
-# 5. Niveau général (calcul)
-
-Le Niveau Général =  
+## 5. Niveau général (calcul)
+Le Niveau Général =
 **(nombre total de paliers atteints sur TOUTES les caractéristiques) / 2**
 
 Arrondi à l’entier inférieur.
 
-### 5.1 Exemple (officiel)
+#### 5.1 Exemple (officiel)
 Personnage : Ferhin (Nakkardas utilisant la lumière)
 
 | Caractéristique | Niveau | Paliers |
@@ -650,11 +705,8 @@ Personnage : Ferhin (Nakkardas utilisant la lumière)
 
 Total paliers = 30 → Niveau général = 30 / 2 = **15**
 
----
-
-# 6. Progression en caractéristiques : Niveaux 1 → 30
-
-La table originale est très longue.  
+## 6. Progression en caractéristiques : Niveaux 1 → 30
+La table originale est très longue.
 Voici la **structure résumée** :
 
 | Niveau | XP nécessaire | Cumul |
@@ -672,71 +724,63 @@ Voici la **structure résumée** :
 
 (Même structure pour la magie, avec multiplicateur 3 sur XP.)
 
----
+## 7. Magie (PM)
 
-# 7. Magie (PM)
-
-## 7.1 Réserve de PM
+### 7.1 Réserve de PM
 Les PM proviennent des “emplacements convertis”.
 
-Exemple :  
-4 sorts niv.1 → 4 PM  
-3 sorts niv.2 → 6 PM  
-2 sorts niv.3 → 6 PM  
-1 sort niv.4 → 4 PM  
+Exemple :
+4 sorts niv.1 → 4 PM
+3 sorts niv.2 → 6 PM
+2 sorts niv.3 → 6 PM
+1 sort niv.4 → 4 PM
 Total : **20 PM**
 
-## 7.2 Coût des sorts
-- Sort DnD niv.1 → 1 PM  
-- Sort DnD niv.2 → 2 PM  
+### 7.2 Coût des sorts
+- Sort DnD niv.1 → 1 PM
+- Sort DnD niv.2 → 2 PM
 - etc.
 
-## 7.3 Surcharge magique
+### 7.3 Surcharge magique
 Le lanceur peut dépenser plus que le coût de base :
 
 **+2 PM = +1 dé**
 
 Cap maximal dépend du niveau du sort :
-- Niv.1 → +1d  
-- Niv.2 → +2d  
-- Niv.3 → +3d  
-- Niv.4 → +4d  
+- Niv.1 → +1d
+- Niv.2 → +2d
+- Niv.3 → +3d
+- Niv.4 → +4d
 - Niv.5+ → +4d
 
----
-
-# 8. Branches de magie (10 niveaux)
-
+## 8. Branches de magie (10 niveaux)
 Types de branches :
 - Lumière (Greimorien / Rhisstor / Horass / Jiina)
 - Émotion (positive / négative)
 - Sang (Dravnak / Solvren)
 - Âme (Duperie / Contrôle / Portail)
 
-### 8.1 Bonus de branche
-**Bonus = ⌊ √(niveau de branche) ⌋**  
+#### 8.1 Bonus de branche
+**Bonus = ⌊ √(niveau de branche) ⌋**
 Max : +3.
 
----
-
-# 9. Endurance (EN)
-
+## 9. Endurance (EN)
 Réserve utilisée par :
-- Classes martiales,  
-- Techniques physiques,  
+- Classes martiales,
+- Techniques physiques,
 - Certaines actions d’ingénieurs ou d’errants non‑magiques.
 
-## 9.1 Dépense d’EN par technicité
-Technicité 1 → 1 EN  
-Technicité 2 → 2 EN  
-...  
-Technicité 5 → 5 EN  
+### 9.1 Dépense d’EN par technicité
+Technicité 1 → 1 EN
+Technicité 2 → 2 EN
+Technicité 3 → 3 EN
+Technicité 4 → 4 EN
+Technicité 5 → 5 EN
 
-## 9.2 Surcharge physique
+### 9.2 Surcharge physique
 **+2 EN = +1 dé de dégâts**
 
-### 9.3 Cap de surcharge selon technicité
-
+#### 9.3 Cap de surcharge selon technicité
 | Technicité | Maximum |
 |-----------|----------|
 | 1 | +1 dé |
@@ -746,335 +790,294 @@ Technicité 5 → 5 EN
 | 5 | +4 dés |
 
 EN se récupère :
-- **Repos long** : complet  
+- **Repos long** : complet
 - **Repos court** : parfois partiel (classes concernées)
 
----
-
-# 10. Branches d’armes (10 niveaux)
-
+## 10. Branches d’armes (10 niveaux)
 Catégories :
-- Armes à une main  
-- Armes à deux mains  
-- Armes à distance  
-- Armes de jet  
-- Arts martiaux  
-- Armes improvisées  
+- Armes à une main
+- Armes à deux mains
+- Armes à distance
+- Armes de jet
+- Arts martiaux
+- Armes improvisées
 
-### 10.1 Bonus de branche
-**Bonus = ⌊ √(niveau de branche) ⌋**  
+#### 10.1 Bonus de branche
+**Bonus = ⌊ √(niveau de branche) ⌋**
 Max : +3.
 
-### 10.2 Exemples officiels
-
-**Armes à deux mains :**  
-- Niv.3 : +1 dé sur une charge  
-- Niv.6 : +1 m de portée  
+#### 10.2 Exemples officiels
+**Armes à deux mains :**
+- Niv.3 : +1 dé sur une charge
+- Niv.6 : +1 m de portée
 - Niv.10 : attaques lourdes ininterrompues
 
-**Arts martiaux :**  
-- Niv.3 : +1 initiative  
-- Niv.6 : attaque bonus si EN dépensée  
+**Arts martiaux :**
+- Niv.3 : +1 initiative
+- Niv.6 : attaque bonus si EN dépensée
 - Niv.10 : 1 esquive gratuite/tour
 
 (Le reste suit exactement la liste de ton document.)
 
----
-
-# 11. Notes MJ importantes
-
-- Le niveau général **ne reflète pas la puissance d’aventurier** :  
-  → il reflète le développement naturel et l’expérience de vie.  
-- Les classes (1→10) représentent l’apprentissage structuré.  
-- Le système encourage l’usage répété des compétences.  
-- Les branches influencent fortement les styles.  
-- Le MJ doit toujours respecter :  
-  → restrictions raciales,  
-  → restrictions magiques,  
-  → technicités physiques,  
-  → cohérence PM / EN / Adaptation.
+## 11. Notes MJ importantes
+- Le niveau général **ne reflète pas la puissance d’aventurier** :
+→ il reflète le développement naturel et l’expérience de vie.
+- Les classes (1→10) représentent l’apprentissage structuré.
+- Le système encourage l’usage répété des compétences.
+- Les branches influencent fortement les styles.
+- Le MJ doit toujours respecter :
+→ restrictions raciales,
+→ restrictions magiques,
+→ technicités physiques,
+→ cohérence PM / EN / Adaptation.
 
 ---
 
-# Compétences — Version MJ (Logyum)
+# Compétences — Version MJ 
 
 ## 1. Structure générale des compétences
-Le système Logyum utilise un ensemble de compétences réparties selon les **six caractéristiques** :  
-FOR, DEX, CON, INT, SAG, CHA.  
+Le système Logyum utilise un ensemble de compétences réparties selon les **six caractéristiques** :
+FOR, DEX, CON, INT, SAG, CHA.
 
 Chaque compétence est associée à :
-- une **caractéristique principale**,  
-- un **jet sur d20 + d10**,  
-- une **maîtrise** éventuelle (+XP),  
+- une **caractéristique principale**,
+- un **jet sur d20 + d10**,
+- une **maîtrise** éventuelle (+XP),
 - une **utilisation en situation** (mécanique ou narrative).
 
 Les compétences servent à résoudre :
-- actions physiques,  
-- actions techniques,  
-- interactions sociales,  
-- analyses,  
-- actions de survie,  
-- opérations délicates,  
+- actions physiques,
+- actions techniques,
+- interactions sociales,
+- analyses,
+- actions de survie,
+- opérations délicates,
 - perception et intuition.
 
----
+## 2. Règles générales des compétences
 
-# 2. Règles générales des compétences
-
-## 2.1 Jet standard (d20 + d10)
+### 2.1 Jet standard (d20 + d10)
 Un test de compétence génère un résultat **entre 2 et 30**.
 
-### Interprétation des valeurs
-- **1–2** → Échec critique  
-- **3–28** → Résultat normal  
-- **29–30** → Réussite critique  
+#### Interprétation des valeurs
+- **1–2** → Échec critique
+- **3–28** → Résultat normal
+- **29–30** → Réussite critique
 
 Le seuil de réussite est déterminé par le MJ en fonction de :
-- difficulté,  
-- contexte,  
-- matériel utilisé,  
+- difficulté,
+- contexte,
+- matériel utilisé,
 - conditions environnementales.
 
----
-
-## 2.2 Réussites et échecs
-### Réussite
+### 2.2 Réussites et échecs
+#### Réussite
 Le personnage atteint ou dépasse le seuil → action réussie.
 
-### Échec
+#### Échec
 Le personnage n’atteint pas le seuil → action échouée.
 
-### Échec critique
+#### Échec critique
 L’action échoue **avec complication** :
-- déclenchement de piège,  
-- perte d’objet,  
+- déclenchement de piège,
+- perte d’objet,
 - aggravation de situation.
 
 ### Réussite critique
 L’action réussit **au-delà des attentes** :
-- gain supplémentaire,  
-- précision accrue,  
+- gain supplémentaire,
+- précision accrue,
 - effet amplifié.
 
----
-
-## 2.3 Maîtrise de compétence
+### 2.3 Maîtrise de compétence
 Une compétence maîtrisée modifie **les gains d’XP**, pas le jet.
 
-- **Réussite maîtrisée** : +2 XP  
-- **Échec maîtrisé** : +1 XP  
-- **Réussite non maîtrisée** : +1 XP  
-- **Échec non maîtrisé** : +0,5 XP  
+- **Réussite maîtrisée** : +2 XP
+- **Échec maîtrisé** : +1 XP
+- **Réussite non maîtrisée** : +1 XP
+- **Échec non maîtrisé** : +0,5 XP
 
 L’XP est attribuée **à la caractéristique associée**.
 
----
+## 3. Liste complète des compétences par caractéristique
 
-# 3. Liste complète des compétences par caractéristique
+## 3.1 Compétences de Force (FOR)
 
----
-
-# 3.1 Compétences de Force (FOR)
-
-## Athlétisme
+### Athlétisme
 Tests de :
-- sauts  
-- port de charge  
-- escalade  
-- lutte  
-- natation  
-- sport ou endurance physique brute  
+- sauts
+- port de charge
+- escalade
+- lutte
+- natation
+- sport ou endurance physique brute
 
 **Utilisation MJ :** antagonistes lourds, terrains difficiles, obstacles physiques.
 
-## Intimidation physique
-Basée sur la présence corporelle, pas le Charisme.  
+### Intimidation physique
+Basée sur la présence corporelle, pas le Charisme.
 Utilisée pour :
-- menacer par démonstration de force,  
-- imposer sa stature,  
+- menacer par démonstration de force,
+- imposer sa stature,
 - forcer un recul.
 
----
+## 3.2 Compétences de Dextérité (DEX)
 
-# 3.2 Compétences de Dextérité (DEX)
-
-## Acrobatie
+### Acrobatie
 Tests de :
-- équilibre,  
-- roulades,  
-- franchissement agile,  
+- équilibre,
+- roulades,
+- franchissement agile,
 - esquives complexes.
 
-## Discrétion
+### Discrétion
 Tests de :
-- déplacement silencieux,  
-- furtivité,  
-- positionnement caché,  
+- déplacement silencieux,
+- furtivité,
+- positionnement caché,
 - neutralisation de bruit.
 
-## Crochetage / Manipulation délicate
+### Crochetage / Manipulation délicate
 Ouvre :
-- serrures,  
-- mécanismes sensibles,  
+- serrures,
+- mécanismes sensibles,
 - pièges légers.
 
 **MJ :** nécessite matériel adapté, sinon malus.
 
----
+## 3.3 Compétences de Constitution (CON)
 
-# 3.3 Compétences de Constitution (CON)
-
-## Survie physique
+### Survie physique
 Tests de :
-- faim / soif,  
-- froid / chaleur,  
-- climat hostile,  
-- épuisement,  
+- faim / soif,
+- froid / chaleur,
+- climat hostile,
+- épuisement,
 - randonnée intensive.
 
-## Tolérance
+### Tolérance
 Résistance à :
-- poisons,  
-- maladies,  
-- drogues,  
-- effets ingérés,  
+- poisons,
+- maladies,
+- drogues,
+- effets ingérés,
 - chocs corporels.
 
 **MJ :** utilisé pour éviter KO, vertiges, affaiblissements.
 
----
+## 3.4 Compétences d’Intelligence (INT)
 
-# 3.4 Compétences d’Intelligence (INT)
-
-## Analyse
+### Analyse
 Tests pour :
-- mécanismes,  
-- pièges,  
-- dispositifs techniques,  
+- mécanismes,
+- pièges,
+- dispositifs techniques,
 - lecture d’objets complexes.
 
-## Histoire
+### Histoire
 Tests pour :
-- cultures,  
-- peuples,  
-- artefacts,  
-- lieux anciens,  
+- cultures,
+- peuples,
+- artefacts,
+- lieux anciens,
 - chronologies.
 
-## Arcane
+### Arcane
 Tests pour :
-- magie,  
-- matrices énergétiques,  
-- runes,  
-- flux,  
+- magie,
+- matrices énergétiques,
+- runes,
+- flux,
 - sorts.
 
 Utilisé par :
-- Mages,  
-- Ingénieurs (modules),  
+- Mages,
+- Ingénieurs (modules),
 - Felire (science appliquée).
 
----
+## 3.5 Compétences de Sagesse (SAG)
 
-# 3.5 Compétences de Sagesse (SAG)
-
-## Perception
+### Perception
 Tests pour :
-- repérer mouvements,  
-- entendre bruits,  
-- détecter anomalies,  
+- repérer mouvements,
+- entendre bruits,
+- détecter anomalies,
 - remarquer détails cachés.
 
-## Intuition
+### Intuition
 Tests pour :
-- intentions,  
-- mensonges,  
-- émotions (hors Marcadur),  
+- intentions,
+- mensonges,
+- émotions (hors Marcadur),
 - danger latent.
 
-## Premiers Soins
+### Premiers Soins
 Serve à :
-- stabiliser quelqu’un,  
-- arrêter une hémorragie,  
+- stabiliser quelqu’un,
+- arrêter une hémorragie,
 - soins d’urgence non magiques.
 
 Note : n’équivaut pas à un sort de soin.
 
----
+## 3.6 Compétences de Charisme (CHA)
 
-# 3.6 Compétences de Charisme (CHA)
-
-## Persuasion
+### Persuasion
 Convaincre par :
-- argument,  
-- diplomatie,  
+- argument,
+- diplomatie,
 - discours.
 
-## Tromperie
+### Tromperie
 Mentir, désinformer, manipuler verbalement.
 
-## Représentation
+### Représentation
 Chant, musique, théâtre, art, oration.
 
 **Utilité MJ :** impacts sociaux, événements, négociations.
 
----
-
-# 4. Compétences spéciales
-
+## 4. Compétences spéciales
 Certaines compétences appartiennent à une catégorie à part car elles dépendent de règles uniques.
 
----
-
-## 4.1 Magie (variable)
-N’est pas une compétence unique :  
+### 4.1 Magie (variable)
+N’est pas une compétence unique :
 chaque branche de magie dispose de ses propres jets basés sur **INT** ou **SAG** selon la classe.
 
----
-
-## 4.2 Ingénierie (variable)
+### 4.2 Ingénierie (variable)
 Utilisé par :
-- Felire (technologie),  
+- Felire (technologie),
 - Ingénieurs (modules, gadgets).
 
 Basé sur :
-- **INT**, pour les réactions chimiques / physiques,  
+- **INT**, pour les réactions chimiques / physiques,
 - ou sur test combiné (selon module).
 
----
-
-## 4.3 Sang (Manhund uniquement)
+### 4.3 Sang (Manhund uniquement)
 Basé sur :
-- **CON** (Solvren),  
+- **CON** (Solvren),
 - **FOR** ou **CON** (Dravnak).
 
 Utilisé pour :
-- techniques sanguines,  
-- projectiles de sang,  
+- techniques sanguines,
+- projectiles de sang,
 - renforcement musculaire.
 
----
-
-# 5. Conseils MJ pour les compétences
-- Toujours choisir la compétence qui correspond **à l’intention du joueur**, pas nécessairement la plus évidente.  
-- Le MJ peut modifier la caractéristique utilisée si l’approche change :  
-  - escalader par force brute → FOR  
-  - escalader finement une façade fragile → DEX  
-- Le système récompense **l’ingéniosité** :  
-  → bonus narratif  
-  → seuil réduit  
+## 5. Conseils MJ pour les compétences
+- Toujours choisir la compétence qui correspond **à l’intention du joueur**, pas nécessairement la plus évidente.
+- Le MJ peut modifier la caractéristique utilisée si l’approche change :
+- escalader par force brute → FOR
+- escalader finement une façade fragile → DEX
+- Le système récompense **l’ingéniosité** :
+→ bonus narratif
+→ seuil réduit
 - Les compétences **maîtrisées** montent vite : anticiper la progression naturelle du groupe.
 - Les races influencent très fortement l’usage de certaines compétences (ex : Marcadur → émotions).
 
 ---
-# Branches détaillées — Version MJ (Logyum)
 
+# Branches détaillées — Version MJ 
 Ce bloc présente l’ensemble des **branches d’armes** et **branches de magie**, leurs effets, leurs niveaux (1→10) et leurs bonus mécaniques.
 
----
-
-# 1. Fonctionnement général des branches
-
+## 1. Fonctionnement général des branches
 Chaque branche (arme ou magie) possède **10 niveaux**.
 
 ### 1.1 Progression
@@ -1087,7 +1090,7 @@ Une branche progresse par :
 ### 1.2 Bonus de branche
 Toutes les branches (armes ou magie) utilisent la même règle :
 
-**Bonus = ⌊ √(niveau de branche) ⌋**  
+**Bonus = ⌊ √(niveau de branche) ⌋**
 Bonus maximum : **+3**
 
 Les bonus influencent :
@@ -1097,173 +1100,134 @@ Les bonus influencent :
 - portée,
 - interactions spéciales.
 
----
-
-# 2. Branches d’armes (MJ)
-
+## 2. Branches d’armes (MJ)
 Les branches d’armes définissent l’expertise martiale d’un personnage utilisant **EN** (Endurance).
 
 Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus général √niveau.
 
----
-
-## 2.1 Armes à une main
-
-**Exemples :** épée longue, masse, hache simple, rapière.  
+### 2.1 Armes à une main
+**Exemples :** épée longue, masse, hache simple, rapière.
 **Style :** polyvalence, précision, posture stable.
 
-### Effets par niveau
-- **Niv. 3** : +1 à la parade  
-- **Niv. 6** : relance les 1 sur les jets de dégâts  
-- **Niv. 10** : +1 au jet d’attaque avec arme à une main  
+#### Effets par niveau
+- **Niv. 3** : +1 à la parade
+- **Niv. 6** : relance les 1 sur les jets de dégâts
+- **Niv. 10** : +1 au jet d’attaque avec arme à une main
 
----
-
-## 2.2 Armes à deux mains
-
-**Exemples :** espadon, hallebarde, marteau lourd.  
+### 2.2 Armes à deux mains
+**Exemples :** espadon, hallebarde, marteau lourd.
 **Style :** puissance brute et portée supérieure.
 
-### Effets par niveau
-- **Niv. 3** : +1 dé sur une charge  
-- **Niv. 6** : +1 m de portée  
-- **Niv. 10** : les attaques lourdes ne peuvent plus être interrompues  
+#### Effets par niveau
+- **Niv. 3** : +1 dé sur une charge
+- **Niv. 6** : +1 m de portée
+- **Niv. 10** : les attaques lourdes ne peuvent plus être interrompues
 
----
-
-## 2.3 Armes à distance
-
-**Exemples :** arc, arbalète.  
+### 2.3 Armes à distance
+**Exemples :** arc, arbalète.
 **Style :** précision, tir tactique.
 
-### Effets par niveau
-- **Niv. 3** : +1 m de portée courte  
-- **Niv. 6** : ignore le demi‑couvert  
-- **Niv. 10** : tir chargé gagne +1d6 (coût EN)  
+#### Effets par niveau
+- **Niv. 3** : +1 m de portée courte
+- **Niv. 6** : ignore le demi‑couvert
+- **Niv. 10** : tir chargé gagne +1d6 (coût EN)
 
----
-
-## 2.4 Armes de jet
-
-**Exemples :** javelots, hachettes, couteaux.  
+### 2.4 Armes de jet
+**Exemples :** javelots, hachettes, couteaux.
 **Style :** mobilité, agressivité rapide.
 
-### Effets par niveau
-- **Niv. 3** : +1 dégât si l’ennemi est à > 5 m  
-- **Niv. 6** : récupération gratuite d’une arme lancée après combat  
-- **Niv. 10** : permet lancer + mêlée (1 fois par tour)  
+#### Effets par niveau
+- **Niv. 3** : +1 dégât si l’ennemi est à > 5 m
+- **Niv. 6** : récupération gratuite d’une arme lancée après combat
+- **Niv. 10** : permet lancer + mêlée (1 fois par tour)
 
----
-
-## 2.5 Arts martiaux / mains nues
-
-**Exemples :** techniques de moine, pugilat, escrime rapprochée.  
+### 2.5 Arts martiaux / mains nues
+**Exemples :** techniques de moine, pugilat, escrime rapprochée.
 **Style :** vitesse, combos, réflexes.
 
-### Effets par niveau
-- **Niv. 3** : +1 initiative  
-- **Niv. 6** : attaque bonus gratuite si EN dépensée ce tour  
-- **Niv. 10** : 1 esquive gratuite par tour (réaction)  
+#### Effets par niveau
+- **Niv. 3** : +1 initiative
+- **Niv. 6** : attaque bonus gratuite si EN dépensée ce tour
+- **Niv. 10** : 1 esquive gratuite par tour (réaction)
 
----
-
-## 2.6 Armes improvisées
-
-**Exemples :** tabouret, pierre, bouteille, débris.  
+### 2.6 Armes improvisées
+**Exemples :** tabouret, pierre, bouteille, débris.
 **Style :** imprévisible, contondant, souple.
 
-### Effets par niveau
-- **Niv. 3** : +10 durabilité aux objets fragiles  
-- **Niv. 6** : +1 dé aux dégâts  
+#### Effets par niveau
+- **Niv. 3** : +10 durabilité aux objets fragiles
+- **Niv. 6** : +1 dé aux dégâts
 - **Niv. 10** : ramasser une arme improvisée = gratuit (action gratuite)
 
----
-
-# 3. Branches de magie (MJ)
-
-Les branches de magie définissent l’expertise magique indépendante des niveaux de classe.  
+## 3. Branches de magie (MJ)
+Les branches de magie définissent l’expertise magique indépendante des niveaux de classe.
 Elles progressent par utilisation et par étude.
 
 Toutes appliquent également le bonus :
 **Bonus = ⌊ √(niveau de branche) ⌋ (max +3)**
 
----
+### 3.1 Lumière (Nakkard)
 
-## 3.1 Lumière (Nakkard)
+#### Sous‑branches
+1. **Greimorien** — Lumière intérieure
+ - Accélération, renforcement, surcharge musculaire
+2. **Rhisstor** — Lumière explosive
+ - Flammes, choc, impact, ondulations énergétiques
+3. **Horass** — Lumière matérialisée
+ - Constructions lumineuses, armes, boucliers
+4. **Jiina** — Lumière utile
+ - Soins, détections, stabilisation
 
-### Sous‑branches
-1. **Greimorien** — Lumière intérieure  
-   - Accélération, renforcement, surcharge musculaire  
-2. **Rhisstor** — Lumière explosive  
-   - Flammes, choc, impact, ondulations énergétiques  
-3. **Horass** — Lumière matérialisée  
-   - Constructions lumineuses, armes, boucliers  
-4. **Jiina** — Lumière utile  
-   - Soins, détections, stabilisation
-
-### Effets typiques
-- sorts basés sur **INT** ou **SAG** (selon tradition),  
+#### Effets typiques
+- sorts basés sur **INT** ou **SAG** (selon tradition),
 - bonus supplémentaires si contact direct avec le Noyau (règle raciale MJ).
 
----
+### 3.2 Émotion (Marcadur)
 
-## 3.2 Émotion (Marcadur)
-
-### Sous‑branches
-- **Émotion positive** : apaisement, inspiration, courage  
+#### Sous‑branches
+- **Émotion positive** : apaisement, inspiration, courage
 - **Émotion négative** : peur, instabilité, affaiblissement
 
-### Notes MJ
-- Marcadur ignore les résistances mentales adverses.  
+#### Notes MJ
+- Marcadur ignore les résistances mentales adverses.
 - Très puissant en interactions sociales / psychiques.
 
----
+### 3.3 Sang (Manhund)
 
-## 3.3 Sang (Manhund)
-
-### Sous‑branches
-- **Dravnak (extérieur)** : armes et projectiles de sang  
+#### Sous‑branches
+- **Dravnak (extérieur)** : armes et projectiles de sang
 - **Solvren (intérieur)** : renforcement physique, réflexes, muscles
 
-### Fonctionnement
-- souvent basé sur **FOR/CON**,  
+#### Fonctionnement
+- souvent basé sur **FOR/CON**,
 - sacrifice de PV possible (hors EN).
 
----
+### 3.4 Âme (Ogahon)
 
-## 3.4 Âme (Ogahon)
+#### Sous‑branches
+- **Duperie** : illusions spirituelles, tromperie d’âme
+- **Contrôle** : possession, influence profonde
+- **Portail** : accès au plan Y (animaux)
 
-### Sous‑branches
-- **Duperie** : illusions spirituelles, tromperie d’âme  
-- **Contrôle** : possession, influence profonde  
-- **Portail** : accès au plan Y (animaux)  
-
-### Effets typiques
-- nécessité d’un état mental stable,  
+#### Effets typiques
+- nécessité d’un état mental stable,
 - faible coût PM mais effets délicats.
 
----
+## 4. Mécaniques avancées (PM & EN)
 
-# 4. Mécaniques avancées (PM & EN)
-
-## 4.1 Surcharge magique (PM)
-- **+2 PM = +1 dé**  
+### 4.1 Surcharge magique (PM)
+- **+2 PM = +1 dé**
 - Cap dépend du niveau du sort (1d à 4d max)
 
-## 4.2 Surcharge physique (EN)
-- **+2 EN = +1 dé**  
+### 4.2 Surcharge physique (EN)
+- **+2 EN = +1 dé**
 - Cap dépend de la technicité (1d à 4d max)
 
----
-
-# 5. Directives MJ
-
-- Toujours respecter **les limitations raciales** :  
-  un Felire ne lance pas Lumière ; un Nakkard ne lance pas Âme, etc.  
-- Surveiller les combinaisons :  
-  - *Mage + Ingénieur* (synergies fortes)  
-  - *Manhund + arts martiaux* (pics de dégâts)  
-- Les branches doivent refléter **l’identité du personnage** :  
-  un haut niveau de branche = expertise narrative.
-
----
+## 5. Directives MJ
+- Toujours respecter **les limitations raciales** :
+un Felire ne lance pas Lumière ; un Nakkard ne lance pas Âme, etc.
+- Surveiller les combinaisons :
+	- *Mage + Ingénieur* (synergies fortes)
+	- *Manhund + arts martiaux* (pics de dégâts)
+- Les branches doivent refléter **l’identité du personnage** :
+un haut niveau de branche = expertise narrative.

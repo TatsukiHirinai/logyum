@@ -50,7 +50,7 @@ Les Greimoriens sont une famille de clan qui prône la méritocratie et la loi d
 
 Les Rishtoriens, du clan Risshtor, fondèrent la ville de Rissht, devenu si grande qu’elle se transforma en province.
 
-Lors d'une union entre deux nakkard, chacun garde son nom de famille, les enfants prennent le nom de la mère.  À l'âge adulte, l'enfant peut décider du nom de famille qu'il portera le reste de sa vie.
+Lors d'une union entre deux nakkard, chacun garde son nom de famille, les enfants prennent le nom de la mère. À l'âge adulte, l'enfant peut décider du nom de famille qu'il portera le reste de sa vie.
 
 La langue la plus parlés parmi les nakkard est le moorhien ([[Moorhi]]), la langue équivalent du commun.
 
@@ -88,7 +88,7 @@ mémorial de Moorhi. Ce monument est une plaque immense en cuivre, où chaque pe
 ---
 
 => lettre, guerrier, [[Ère 5]]
-lettre sur la guerre contre le culte de la sève,  action à mettre en place. terrain et espion.
+lettre sur la guerre contre le culte de la sève, action à mettre en place. terrain et espion.
 
 ---
 

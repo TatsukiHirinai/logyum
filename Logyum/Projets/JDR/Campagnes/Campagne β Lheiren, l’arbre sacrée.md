@@ -3,7 +3,7 @@
 [Cβ Personnages Joueurs](Cβ%20Personnages%20Joueurs.md)
 ### **Personnage non joueur important**
 **#1 Tarno Lopin**
-Civilité :  nokkardes, 42 r, masc.
+Civilité : nokkardes, 42 r, masc.
 Description Physique : fière allure
 Description Mentale : 
 Autres : chef de quête
@@ -34,7 +34,7 @@ Autres : chef du premier camp cultiste rencontré
 Civilité : nakkardas
 Description Physique : 
 Description Mentale : 
-Autres :  espionne de l’armée Moorhienne
+Autres : espionne de l’armée Moorhienne
 
 ---
 **#6 Prénom Nom**

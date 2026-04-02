@@ -65,7 +65,7 @@ Une province gardée cachée de toute carte, l'armée de Moorhi y résident, on 
 *> "Car la lumière ne chute jamais d'un seul coup; elle se plie, vacille, éclate, se condense, puis renaît. Ainsi vont les Soleils des Nakkardes."*
 	Extrait du *Livre des Flux*, écrit par Gorfon Belamar, historien du 11ème Soleil.
 *> "Ce ne sont pas les rayons qui marquent le temps, mais les bifurcations. L'histoire ne se compte pas - elle se vit."*
-  
+
 ## 1er Soleil ([[Ère 3]])
 ### Raison du changement de Soleil
 Création du royaume de Moorhi

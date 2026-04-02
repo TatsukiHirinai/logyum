@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Langues/Manhunge.md",
+                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manhunge"
+              "title": "MJ - Livre du MJ"
             }
           }
         ]
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cultures/Langues/Manhunge.md",
+                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Manhunge"
+              "title": "Liens sortants de MJ - Livre du MJ"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "7404902183292d41",
   "lastOpenFiles": [
+    "Cultures/Langues/Manhunge.md",
     "Topologies/Topologies.md",
     "Topologies/Continents/Continent C.md",
     "Chronologies/Ère 4.md",
@@ -259,7 +260,6 @@
     "Meta.md",
     "Science et Magie.md",
     "Topologies/Nations/Nox Speita Domina.md",
-    "carte.png.md",
     "Cultures/Langues/Nevotien",
     "Topologies/Nations/Nox Speita Domina",
     "Topologies/Nations/Nevot",
