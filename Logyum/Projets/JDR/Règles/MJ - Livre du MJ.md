@@ -524,16 +524,13 @@ Notes MJ :
 - Ignore résistances mentales adverses.
 - Bonus narratifs ou mécaniques sur les **sorts d’émotion / ressenti**.
 
-Utilisation typique :
+Notes MJ :
 - Détection d’intention, mensonge, émotion, instabilité.
 - Facilité à toucher psychiquement l’esprit adverse.
 
 ### 5.4 Manhund
-Les Manhund utilisent naturellement la **Sanguimancie**.
-
-En combat :
-- Peuvent **sacrifier des PV** pour augmenter les dégâts d’une attaque (hors système d’EN).
-- Le MJ décide du coût (exemple : sacrifier 2 PV → +1d6 dégâts, selon la dangerosité).
+Les Manhund utilisent naturellement la **Sanguimancie**. 
+En combat ils peuvent **sacrifier des PV** pour augmenter les dégâts d’une attaque (hors système d’EN). Le MJ décide du coût (exemple : sacrifier 2 PV → +1d6 dégâts, selon la dangerosité).
 
 Notes MJ :
 - À manier prudemment, car très puissant.
@@ -564,22 +561,15 @@ Les dégâts dépendent :
 - de la surcharge EN éventuelle,
 - des capacités raciales ou de classe.
 
-## 7. Échecs et réussites critiques
-Comme dans les tests de compétences :
-
-- **1–2** : Échec critique
-- Effet négatif narratif ou mécanique
-- **29–30** : Réussite critique
-- Augmentation narrative de l’effet
-- Bonus de dégâts selon MJ
-
-(Le combat utilise un d20 pour toucher, mais certains systèmes de compétences utilisent d20+d10.)
-
 ## 8. Sorts, PM et combat
-- Le coût d’un sort est payé **en PM**.
+- Le coût d’un sort est payé **en Point Magie (PM)**.
 - La surcharge magique est possible en combat :
 **+2 PM = +1 dé** (jusqu’au cap selon niveau du sort).
 - Le Mage, l’Ingénieur (technique), le Spiritualiste et l’Errant magique utilisent le PM différemment, selon leurs branches.
+
+Les PM se récupèrent :
+- entièrement au repos long,
+- partiellement selon classes et races au repos court.
 
 Les restrictions raciales s’appliquent toujours :
 - Nakkard → Lumière
@@ -589,15 +579,13 @@ Les restrictions raciales s’appliquent toujours :
 - Marcadur → Émotions
 
 ## 9. Techniques martiales (EN)
-Les actions martiales coûtent **EN** selon leur technicité (1 à 5).
+Les actions martiales coûtent **des points ENdurance (EN)** selon leur technicité (1 à 5).
 Surcharge possible :
 - **+2 EN = +1 dé de dégâts**
 
-Les caps sont indiqués dans ton système (selon technicité 1 à 5).
-
-EN se récupère :
+Les points EN se récupèrent :
 - entièrement au repos long,
-- partiellement selon classes (Martiale) au repos court.
+- partiellement selon classes et races au repos court.
 
 ## 10. Gestion MJ
 Le MJ doit tenir compte :
@@ -634,7 +622,7 @@ Un test de compétence se résout avec un **jet sur 30**, obtenu via :
 
 **d20 + d10**
 
-Valeur finale : 2 → 30.
+Valeur finale : 1 → 30.
 
 #### 1.1.1 Seuils
 - **Réussite** : jet ≥ seuil défini par le MJ
@@ -663,8 +651,8 @@ Chaque action augmente l’XP de la **caractéristique utilisée**.
 - Réussite : **+1 XP**
 - Échec : **+0,5 XP**
 - Compétence maîtrisée :
-- Réussite : **+2 XP**
-- Échec : **+1 XP**
+ - Réussite : **+2 XP**
+ - Échec : **+1 XP**
 
 **Important :**
 L’XP ne monte qu’une **seule caractéristique**, celle liée à la compétence testée.
@@ -679,20 +667,15 @@ Exemple :
 Les **paliers** définissent la montée en puissance du niveau général.
 
 #### 4.1 Paliers officiels
-Caractéristique atteignant ou dépassant :
-
-**2, 5, 8, 11, 14, 17, 20, 23, 26, 29**
-
+Caractéristique atteignant ou dépassant : **2, 5, 8, 11, 14, 17, 20, 23, 26, 29**
 Chaque palier compte pour 1 point.
 
 ## 5. Niveau général (calcul)
-Le Niveau Général =
-**(nombre total de paliers atteints sur TOUTES les caractéristiques) / 2**
-
+Le Niveau Général = **(nombre total de paliers atteints sur les caractéristiques principales) / 2**
 Arrondi à l’entier inférieur.
 
 #### 5.1 Exemple (officiel)
-Personnage : Ferhin (Nakkardas utilisant la lumière)
+Personnage : Ferhin
 
 | Caractéristique | Niveau | Paliers |
 |----------------|--------|---------|
@@ -706,23 +689,38 @@ Personnage : Ferhin (Nakkardas utilisant la lumière)
 Total paliers = 30 → Niveau général = 30 / 2 = **15**
 
 ## 6. Progression en caractéristiques : Niveaux 1 → 30
-La table originale est très longue.
-Voici la **structure résumée** :
-
-| Niveau | XP nécessaire | Cumul |
-|--------|----------------|--------|
-| 1 | 4 | 4 |
-| 2 | 5 | 9 |
-| 3 | 6 | 15 |
-| 4 | 7 | 22 |
-| 5 | 8 | 30 |
-| ... | ... | ... |
-| 15 | 20 | 177 |
-| 20 | 27 | 294 |
-| 25 | 32 | 444 |
-| 30 | 37 | 619 |
-
-(Même structure pour la magie, avec multiplicateur 3 sur XP.)
+| Niveau | XP nécessaire | Cumul d’XP | XP Magie | Cumul d’XP Magie |
+| --- | --- | --- | --- | --- |
+| Niveau 1 | 4 | 4 | 12 | 12 |
+| Niveau 2 | 5 | 9 | 15 | 27 |
+| Niveau 3 | 6 | 15 | 18 | 45 |
+| Niveau 4 | 7 | 22 | 21 | 66 |
+| Niveau 5 | 8 | 30 | 24 | 90 |
+| Niveau 6 | 9 | 39 | 27 | 117 |
+| Niveau 7 | 10 | 49 | 30 | 147 |
+| Niveau 8 | 11 | 60 |||
+| Niveau 9 | 12 | 72 |||
+| Niveau 10 | 15 | 87 |||
+| Niveau 11 | 16 | 103 |||
+| Niveau 12 | 17 | 120 |||
+| Niveau 13 | 18 | 138 |||
+| Niveau 14 | 19 | 157 |||
+| Niveau 15 | 20 | 177 |||
+| Niveau 16 | 21 | 198 |||
+| Niveau 17 | 22 | 220 |||
+| Niveau 18 | 23 | 243 |||
+| Niveau 19 | 24 | 267 |||
+| Niveau 20 | 27 | 294 |||
+| Niveau 21 | 28 | 322 |||
+| Niveau 22 | 29 | 351 |||
+| Niveau 23 | 30 | 381 |||
+| Niveau 24 | 31 | 412 |||
+| Niveau 25 | 32 | 444 |||
+| Niveau 26 | 33 | 477 |||
+| Niveau 27 | 34 | 511 |||
+| Niveau 28 | 35 | 546 |||
+| Niveau 29 | 36 | 582 |||
+| Niveau 30 | 37 | 619 |||
 
 ## 7. Magie (PM)
 
@@ -736,22 +734,17 @@ Exemple :
 1 sort niv.4 → 4 PM
 Total : **20 PM**
 
-### 7.2 Coût des sorts
-- Sort DnD niv.1 → 1 PM
-- Sort DnD niv.2 → 2 PM
-- etc.
+### 7.2 Surcharge magique
+Le lanceur peut dépenser plus que le coût de base : **+2 PM = +1 dé**
+Un cap ne peut pas être franchis sur le nombre de dés bonus en fonction du niveau du sort lancé.
 
-### 7.3 Surcharge magique
-Le lanceur peut dépenser plus que le coût de base :
-
-**+2 PM = +1 dé**
-
-Cap maximal dépend du niveau du sort :
-- Niv.1 → +1d
-- Niv.2 → +2d
-- Niv.3 → +3d
-- Niv.4 → +4d
-- Niv.5+ → +4d
+| Niveau Sort | Maximum |
+|-----------|----------|
+| 1 | +1 dé |
+| 2 | +2 dés |
+| 3 | +2 dés |
+| 4 | +3 dés |
+| 5 | +3 dés |
 
 ## 8. Branches de magie (10 niveaux)
 Types de branches :
@@ -762,7 +755,7 @@ Types de branches :
 
 #### 8.1 Bonus de branche
 **Bonus = ⌊ √(niveau de branche) ⌋**
-Max : +3.
+Max. : +3.
 
 ## 9. Endurance (EN)
 Réserve utilisée par :
@@ -770,24 +763,18 @@ Réserve utilisée par :
 - Techniques physiques,
 - Certaines actions d’ingénieurs ou d’errants non‑magiques.
 
-### 9.1 Dépense d’EN par technicité
-Technicité 1 → 1 EN
-Technicité 2 → 2 EN
-Technicité 3 → 3 EN
-Technicité 4 → 4 EN
-Technicité 5 → 5 EN
+Niveau de Technicité => point EN dépensé
 
 ### 9.2 Surcharge physique
-**+2 EN = +1 dé de dégâts**
+Le combattant peut dépenser plus que le coût de base : **+2 EN = +1 dé**
 
-#### 9.3 Cap de surcharge selon technicité
-| Technicité | Maximum |
+| Niveau Technicité | Maximum |
 |-----------|----------|
 | 1 | +1 dé |
-| 2 | +3 dés |
+| 2 | +1 dé |
 | 3 | +3 dés |
-| 4 | +4 dés |
-| 5 | +4 dés |
+| 4 | +3 dés |
+| 5 | +5 dés |
 
 EN se récupère :
 - **Repos long** : complet
@@ -816,8 +803,6 @@ Max : +3.
 - Niv.3 : +1 initiative
 - Niv.6 : attaque bonus si EN dépensée
 - Niv.10 : 1 esquive gratuite/tour
-
-(Le reste suit exactement la liste de ton document.)
 
 ## 11. Notes MJ importantes
 - Le niveau général **ne reflète pas la puissance d’aventurier** :
@@ -1064,11 +1049,11 @@ Utilisé pour :
 ## 5. Conseils MJ pour les compétences
 - Toujours choisir la compétence qui correspond **à l’intention du joueur**, pas nécessairement la plus évidente.
 - Le MJ peut modifier la caractéristique utilisée si l’approche change :
-- escalader par force brute → FOR
-- escalader finement une façade fragile → DEX
+	→ escalader par force brute → FOR
+	→ escalader finement une façade fragile → DEX
 - Le système récompense **l’ingéniosité** :
-→ bonus narratif
-→ seuil réduit
+    → bonus narratif
+    → seuil réduit
 - Les compétences **maîtrisées** montent vite : anticiper la progression naturelle du groupe.
 - Les races influencent très fortement l’usage de certaines compétences (ex : Marcadur → émotions).
 
