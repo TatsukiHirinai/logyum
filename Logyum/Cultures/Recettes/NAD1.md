@@ -1,5 +1,4 @@
 ---
-base: "[[Recettes.base]]"
 Régime: Carnivore
 Temps: Ère 6
 Ingrédients:

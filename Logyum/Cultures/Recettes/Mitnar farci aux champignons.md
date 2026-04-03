@@ -1,5 +1,4 @@
 ---
-base: "[[Recettes.base]]"
 Régime: Omnivore
 Temps: Ère 4
 Ingrédients:

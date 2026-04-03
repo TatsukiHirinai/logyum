@@ -1,4 +1,4 @@
-﻿# Le jeu de rôle et ses mécaniques
+# Le jeu de rôle et ses mécaniques
 ## Personnage et statistiques
 ### Personnage
 Pour créer une fiche de personnage il faut réunir les informations suivantes :
@@ -139,7 +139,7 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 - Ogahon regagne 0.5/0.25 de pm par tour
 - Nakkard tant que contact direct avec Noyau sorts de lumière plus efficace rajouter 1d4 de dégâts
 - Marcadur passe les résistances mentales, + sorts émotions / ressenti
-- Manhund en plus de sorts de sang peut sacrifier des pvs pour faire plus de dégâts
+- Manhund en plus de sorts de sang peut sacrifier des PVs pour faire plus de dégâts
 - Felire, préparation de “sorts” technologique, réaction physique/chimique (ex : bombe aveuglante, bombe d’acide, bombe de feu)
 
 # Les Campagnes
@@ -151,7 +151,7 @@ Le combat fonctionne comme dans DnD 5e, du tour par tour.
 [Campagne ζ : Les grottes bleus](Campagne%20ζ%20Les%20grottes%20bleus.md)
 [Campagne n°1 : La terre des esprits](Campagne%20n°1%20La%20terre%20des%20esprits.md)
 
-[https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024](https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024)
+[modules foundry vtt](https://www.rogershobbycenter.com/ttrpg-blog/essential-dd5e-modules-for-foundry-vtt-2024)
 # Système de JdR Logyum :
 Test de compétence sur un dé 30 (d20+d10)
 → 1-2 échec critique, 29-30 réussite critique

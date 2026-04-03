@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topologies/Continent A/Sol-Or.md",
+                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sol-Or"
+              "title": "Plan de MJ - Livre du MJ"
             }
           },
           {
@@ -126,8 +126,8 @@
                 },
                 "id": "ID_bb89a858a898"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronologies/Ère 15.md",
+                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ère 15"
+              "title": "Rétrolien pour MJ - Livre du MJ"
             }
           },
           {
@@ -174,7 +174,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Toutes les propriétés"
             }
           },
           {
@@ -189,11 +189,10 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,10 +216,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7404902183292d41",
+  "active": "3de49ca0efd10fdc",
   "lastOpenFiles": [
-    "Cultures/Langues/Manhunge.md",
+    "Races/Aeter.md",
+    "Projets/JDR/Jeu de rôle.md",
+    "Projets/Projets.md",
     "Topologies/Topologies.md",
+    "Cultures/Recettes/Pruya des bois.md",
+    "Projets/JDR/Règles/MJ - Livre du MJ.md",
+    "Cultures/Langues/Manhunge.md",
     "Topologies/Continents/Continent C.md",
     "Chronologies/Ère 4.md",
     "Topologies/Continents/exsxv4dz.cyp~",
@@ -233,7 +237,6 @@
     "Projets/JDR/Classes/Spiritualiste.md",
     "Topologies/Nations/Karnaa.md",
     "Topologies/Nations/Kaorim.md",
-    "Races/Aeter.md",
     "Images/Topographie/logyum_noyau.png",
     "grand_tout.md",
     "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs/Yuzuki Morinochi.md",
@@ -256,10 +259,6 @@
     "Races/Horloger.md",
     "Races/Manhund.md",
     "Races/Marcadur.md",
-    "Idées non rangées.md",
-    "Meta.md",
-    "Science et Magie.md",
-    "Topologies/Nations/Nox Speita Domina.md",
     "Cultures/Langues/Nevotien",
     "Topologies/Nations/Nox Speita Domina",
     "Topologies/Nations/Nevot",

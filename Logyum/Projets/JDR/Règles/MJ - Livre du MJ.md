@@ -1,4 +1,4 @@
-# Personnage et Statistiques — Version MJ 
+# I. Personnage et Statistiques — Version MJ 
 
 ## 1. Structure d’une fiche de personnage
 Une fiche de personnage Logyum doit obligatoirement contenir les informations suivantes.
@@ -54,7 +54,7 @@ Les maîtrises influencent **uniquement les gains d’XP** sur la caractéristiq
 
 ---
 
-# Races — Version MJ 
+# II. Races — Version MJ 
 
 ## 1. Présentation générale
 Cette section regroupe les races jouables de Logyum ainsi que leurs attributs mécaniques.
@@ -177,7 +177,7 @@ Guerriers robustes liés à la Sanguimancie instinctive.
 
 ---
 
-# Classes — Version MJ 
+# III. Classes — Version MJ 
 
 ## 1. Structure générale des classes
 Les classes déterminent l’apprentissage institutionnel, ésotérique ou technique d’un personnage.
@@ -236,21 +236,21 @@ Réserve principale : **PM**.
 
 ### 2.3 Spécificités
 
-#### Clerc
+#### 2.3.1 Clerc
 - **6 – Domaine** : Choix (Vie, Mémoire, Lumière utile, Mort sacrée).
 - **7 – Liturgie majeure** : bonus aux sauvegardes spirituelles.
 - **8 – Reliquaire** : talisman améliorant les rituels.
 - **9 – Intercession** : annule un effet spirituel corrompu.
 - **10 – Épiphanie** : manifestation sacrée majeure.
 
-#### Moine
+#### 2.3.2 Moine
 - **6 – Kata du souffle** : techniques économiques en PM.
 - **7 – Corps-mantra** : bonus défensif tant que PM ≥ 1.
 - **8 – Sceau vivant** : renvoi d’attaques spirituelles.
 - **9 – Chapelet de fer** : attaques non armées deviennent “spirituelles”.
 - **10 – Ascèse parfaite** : immunités, déplacements exaltés.
 
-#### Pactiste
+#### 2.3.3 Pactiste
 - **6 – Lien pactuel** : compagnon spirituel.
 - **7 – Clause de secours** : survie à 1 PV.
 - **8 – Fusion d’âme** : bonus physiques/magiques.
@@ -277,21 +277,21 @@ Réserve principale : légère utilisation d’**EN**.
 
 ### 3.3 Spécificités
 
-#### Voleur
+#### 3.3.1 Voleur
 - 6 – Mains fantômes
 - 7 – Frappe précise +1d8
 - 8 – Disparition instantanée
 - 9 – Esquive totale
 - 10 – Ombre vivante
 
-#### Rôdeur
+#### 3.3.2 Rôdeur
 - 6 – Terrain de chasse
 - 7 – Prédateur silencieux
 - 8 – Lecture des traces
 - 9 – Compagnon animal
 - 10 – Chasseur alpha
 
-#### Saboteur
+#### 3.3.3 Saboteur
 - 6 – Expert en mécanismes
 - 7 – Bombe artisanale
 - 8 – Court‑circuit
@@ -318,21 +318,21 @@ Rôle de frontliner ou damage dealer.
 
 ### 4.3 Spécificités
 
-#### Guerrier
+#### 4.3.1 Guerrier
 - 6 – Discipline
 - 7 – Fente
 - 8 – Défense améliorée
 - 9 – Initiative guerrière
 - 10 – Maître d’armes
 
-#### Paladin
+#### 4.3.2 Paladin
 - 6 – Discipline
 - 7 – Fente
 - 8 – Défense améliorée
 - 9 – Initiative guerrière
 - 10 – Maître d’armes
 
-#### Barbare
+#### 4.3.3 Barbare
 - 6 – Discipline
 - 7 – Fente
 - 8 – Défense améliorée
@@ -358,21 +358,21 @@ XX
 
 ### 5.3 Spécificités
 
-#### Réparateur
+#### 5.3.1 Réparateur
 - 6 – X
 - 7 – X
 - 8 – X
 - 9 – X
 - 10 – X
 
-#### Défenseur
+#### 5.3.2 Défenseur
 - 6 – X
 - 7 – X
 - 8 – X
 - 9 – X
 - 10 – X
 
-#### Offenseur
+#### 5.3.3 Offenseur
 - 6 – X
 - 7 – X
 - 8 – X
@@ -398,21 +398,21 @@ XX
 
 ### 6.3 Spécificités
 
-#### Alchimiste
+#### 6.3.1 Alchimiste
 - 6 – X
 - 7 – X
 - 8 – X
 - 9 – X
 - 10 – X
 
-#### Artificier
+#### 6.3.2 Artificier
 - 6 – X
 - 7 – X
 - 8 – X
 - 9 – X
 - 10 – X
 
-#### Technomancien
+#### 6.3.3 Technomancien
 - 6 – X
 - 7 – X
 - 8 – X
@@ -438,14 +438,14 @@ L'Errant est la seule classe n'ayant aucune fonction réelle dans le système. C
 
 ### 7.3 Spécificités
 
-#### Technique
+#### 7.3.1 Technique
 - 6 – X
 - 7 – X
 - 8 – X
 - 9 – X
 - 10 – X
 
-#### Magique
+#### 7.3.2 Magique
 - 6 – X
 - 7 – X
 - 8 – X
@@ -454,7 +454,7 @@ L'Errant est la seule classe n'ayant aucune fonction réelle dans le système. C
 
 ---
 
-# Combat — Version MJ 
+# IV. Combat — Version MJ 
 
 ## 1. Structure générale du combat
 Le système de combat de Logyum fonctionne en tour par tour, de manière similaire aux structures classiques (comme DnD5).
@@ -561,7 +561,7 @@ Les dégâts dépendent :
 - de la surcharge EN éventuelle,
 - des capacités raciales ou de classe.
 
-## 8. Sorts, PM et combat
+## 7. Sorts, PM et combat
 - Le coût d’un sort est payé **en Point Magie (PM)**.
 - La surcharge magique est possible en combat :
 **+2 PM = +1 dé** (jusqu’au cap selon niveau du sort).
@@ -578,7 +578,7 @@ Les restrictions raciales s’appliquent toujours :
 - Felire → Science (alchimie/artifice)
 - Marcadur → Émotions
 
-## 9. Techniques martiales (EN)
+## 8. Techniques martiales (EN)
 Les actions martiales coûtent **des points ENdurance (EN)** selon leur technicité (1 à 5).
 Surcharge possible :
 - **+2 EN = +1 dé de dégâts**
@@ -587,7 +587,7 @@ Les points EN se récupèrent :
 - entièrement au repos long,
 - partiellement selon classes et races au repos court.
 
-## 10. Gestion MJ
+## 9. Gestion MJ
 Le MJ doit tenir compte :
 - du positionnement,
 - des actions simultanées,
@@ -603,7 +603,7 @@ Le système est conçu pour :
 
 ---
 
-# Systèmes du JDR Logyum — Version MJ
+# V. Systèmes du JDR Logyum — Version MJ
 Ce bloc regroupe toutes les mécaniques fondamentales du système Logyum.
 Il couvre :
 - Le système de tests
@@ -666,7 +666,7 @@ Exemple :
 ## 4. Paliers de caractéristiques
 Les **paliers** définissent la montée en puissance du niveau général.
 
-#### 4.1 Paliers officiels
+### 4.1 Paliers officiels
 Caractéristique atteignant ou dépassant : **2, 5, 8, 11, 14, 17, 20, 23, 26, 29**
 Chaque palier compte pour 1 point.
 
@@ -674,7 +674,7 @@ Chaque palier compte pour 1 point.
 Le Niveau Général = **(nombre total de paliers atteints sur les caractéristiques principales) / 2**
 Arrondi à l’entier inférieur.
 
-#### 5.1 Exemple (officiel)
+### 5.1 Exemple (officiel)
 Personnage : Ferhin
 
 | Caractéristique | Niveau | Paliers |
@@ -753,7 +753,7 @@ Types de branches :
 - Sang (Dravnak / Solvren)
 - Âme (Duperie / Contrôle / Portail)
 
-#### 8.1 Bonus de branche
+### 8.1 Bonus de branche
 **Bonus = ⌊ √(niveau de branche) ⌋**
 Max. : +3.
 
@@ -789,11 +789,11 @@ Catégories :
 - Arts martiaux
 - Armes improvisées
 
-#### 10.1 Bonus de branche
+### 10.1 Bonus de branche
 **Bonus = ⌊ √(niveau de branche) ⌋**
 Max : +3.
 
-#### 10.2 Exemples officiels
+### 10.2 Exemples officiels
 **Armes à deux mains :**
 - Niv.3 : +1 dé sur une charge
 - Niv.6 : +1 m de portée
@@ -818,7 +818,7 @@ Max : +3.
 
 ---
 
-# Compétences — Version MJ 
+# VI. Compétences — Version MJ 
 
 ## 1. Structure générale des compétences
 Le système Logyum utilise un ensemble de compétences réparties selon les **six caractéristiques** :
@@ -844,7 +844,7 @@ Les compétences servent à résoudre :
 ### 2.1 Jet standard (d20 + d10)
 Un test de compétence génère un résultat **entre 2 et 30**.
 
-#### Interprétation des valeurs
+#### 2.1.1 Interprétation des valeurs
 - **1–2** → Échec critique
 - **3–28** → Résultat normal
 - **29–30** → Réussite critique
@@ -856,19 +856,19 @@ Le seuil de réussite est déterminé par le MJ en fonction de :
 - conditions environnementales.
 
 ### 2.2 Réussites et échecs
-#### Réussite
+#### 2.2.1 Réussite
 Le personnage atteint ou dépasse le seuil → action réussie.
 
-#### Échec
+#### 2.2.2 Échec
 Le personnage n’atteint pas le seuil → action échouée.
 
-#### Échec critique
+#### 2.2.3 Échec critique
 L’action échoue **avec complication** :
 - déclenchement de piège,
 - perte d’objet,
 - aggravation de situation.
 
-### Réussite critique
+#### 2.2.4 Réussite critique
 L’action réussit **au-delà des attentes** :
 - gain supplémentaire,
 - précision accrue,
@@ -886,9 +886,9 @@ L’XP est attribuée **à la caractéristique associée**.
 
 ## 3. Liste complète des compétences par caractéristique
 
-## 3.1 Compétences de Force (FOR)
+### 3.1 Compétences de Force (FOR)
 
-### Athlétisme
+#### 3.1.1 Athlétisme
 Tests de :
 - sauts
 - port de charge
@@ -899,30 +899,30 @@ Tests de :
 
 **Utilisation MJ :** antagonistes lourds, terrains difficiles, obstacles physiques.
 
-### Intimidation physique
+#### 3.1.2 Intimidation physique
 Basée sur la présence corporelle, pas le Charisme.
 Utilisée pour :
 - menacer par démonstration de force,
 - imposer sa stature,
 - forcer un recul.
 
-## 3.2 Compétences de Dextérité (DEX)
+### 3.2 Compétences de Dextérité (DEX)
 
-### Acrobatie
+#### 3.2.1 Acrobatie
 Tests de :
 - équilibre,
 - roulades,
 - franchissement agile,
 - esquives complexes.
 
-### Discrétion
+#### 3.2.2 Discrétion
 Tests de :
 - déplacement silencieux,
 - furtivité,
 - positionnement caché,
 - neutralisation de bruit.
 
-### Crochetage / Manipulation délicate
+#### 3.2.3 Crochetage / Manipulation délicate
 Ouvre :
 - serrures,
 - mécanismes sensibles,
@@ -930,9 +930,9 @@ Ouvre :
 
 **MJ :** nécessite matériel adapté, sinon malus.
 
-## 3.3 Compétences de Constitution (CON)
+### 3.3 Compétences de Constitution (CON)
 
-### Survie physique
+#### 3.3.1 Survie physique
 Tests de :
 - faim / soif,
 - froid / chaleur,
@@ -940,7 +940,7 @@ Tests de :
 - épuisement,
 - randonnée intensive.
 
-### Tolérance
+#### 3.3.2 Tolérance
 Résistance à :
 - poisons,
 - maladies,
@@ -950,16 +950,16 @@ Résistance à :
 
 **MJ :** utilisé pour éviter KO, vertiges, affaiblissements.
 
-## 3.4 Compétences d’Intelligence (INT)
+### 3.4 Compétences d’Intelligence (INT)
 
-### Analyse
+#### 3.4.1 Analyse
 Tests pour :
 - mécanismes,
 - pièges,
 - dispositifs techniques,
 - lecture d’objets complexes.
 
-### Histoire
+#### 3.4.2 Histoire
 Tests pour :
 - cultures,
 - peuples,
@@ -967,7 +967,7 @@ Tests pour :
 - lieux anciens,
 - chronologies.
 
-### Arcane
+#### 3.4.3 Arcane
 Tests pour :
 - magie,
 - matrices énergétiques,
@@ -980,23 +980,23 @@ Utilisé par :
 - Ingénieurs (modules),
 - Felire (science appliquée).
 
-## 3.5 Compétences de Sagesse (SAG)
+### 3.5 Compétences de Sagesse (SAG)
 
-### Perception
+#### 3.5.1 Perception
 Tests pour :
 - repérer mouvements,
 - entendre bruits,
 - détecter anomalies,
 - remarquer détails cachés.
 
-### Intuition
+#### 3.5.2 Intuition
 Tests pour :
 - intentions,
 - mensonges,
 - émotions (hors Marcadur),
 - danger latent.
 
-### Premiers Soins
+#### 3.5.3 Premiers Soins
 Serve à :
 - stabiliser quelqu’un,
 - arrêter une hémorragie,
@@ -1004,18 +1004,18 @@ Serve à :
 
 Note : n’équivaut pas à un sort de soin.
 
-## 3.6 Compétences de Charisme (CHA)
+### 3.6 Compétences de Charisme (CHA)
 
-### Persuasion
+#### 3.6.1 Persuasion
 Convaincre par :
 - argument,
 - diplomatie,
 - discours.
 
-### Tromperie
+### 3.6.2 Tromperie
 Mentir, désinformer, manipuler verbalement.
 
-### Représentation
+#### 3.6.3 Représentation
 Chant, musique, théâtre, art, oration.
 
 **Utilité MJ :** impacts sociaux, événements, négociations.
@@ -1059,7 +1059,7 @@ Utilisé pour :
 
 ---
 
-# Branches détaillées — Version MJ 
+# VII. Branches détaillées — Version MJ 
 Ce bloc présente l’ensemble des **branches d’armes** et **branches de magie**, leurs effets, leurs niveaux (1→10) et leurs bonus mécaniques.
 
 ## 1. Fonctionnement général des branches
@@ -1085,7 +1085,7 @@ Les bonus influencent :
 - portée,
 - interactions spéciales.
 
-## 2. Branches d’armes (MJ)
+## 2. Branches d’armes
 Les branches d’armes définissent l’expertise martiale d’un personnage utilisant **EN** (Endurance).
 
 Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus général √niveau.
@@ -1094,7 +1094,7 @@ Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus g
 **Exemples :** épée longue, masse, hache simple, rapière.
 **Style :** polyvalence, précision, posture stable.
 
-#### Effets par niveau
+#### 2.1.1 Effets par niveau
 - **Niv. 3** : +1 à la parade
 - **Niv. 6** : relance les 1 sur les jets de dégâts
 - **Niv. 10** : +1 au jet d’attaque avec arme à une main
@@ -1103,7 +1103,7 @@ Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus g
 **Exemples :** espadon, hallebarde, marteau lourd.
 **Style :** puissance brute et portée supérieure.
 
-#### Effets par niveau
+#### 2.2.1 Effets par niveau
 - **Niv. 3** : +1 dé sur une charge
 - **Niv. 6** : +1 m de portée
 - **Niv. 10** : les attaques lourdes ne peuvent plus être interrompues
@@ -1112,7 +1112,7 @@ Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus g
 **Exemples :** arc, arbalète.
 **Style :** précision, tir tactique.
 
-#### Effets par niveau
+#### 2.3.1 Effets par niveau
 - **Niv. 3** : +1 m de portée courte
 - **Niv. 6** : ignore le demi‑couvert
 - **Niv. 10** : tir chargé gagne +1d6 (coût EN)
@@ -1121,7 +1121,7 @@ Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus g
 **Exemples :** javelots, hachettes, couteaux.
 **Style :** mobilité, agressivité rapide.
 
-#### Effets par niveau
+#### 2.4.1 Effets par niveau
 - **Niv. 3** : +1 dégât si l’ennemi est à > 5 m
 - **Niv. 6** : récupération gratuite d’une arme lancée après combat
 - **Niv. 10** : permet lancer + mêlée (1 fois par tour)
@@ -1130,7 +1130,7 @@ Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus g
 **Exemples :** techniques de moine, pugilat, escrime rapprochée.
 **Style :** vitesse, combos, réflexes.
 
-#### Effets par niveau
+#### 2.5.1 Effets par niveau
 - **Niv. 3** : +1 initiative
 - **Niv. 6** : attaque bonus gratuite si EN dépensée ce tour
 - **Niv. 10** : 1 esquive gratuite par tour (réaction)
@@ -1139,12 +1139,12 @@ Chaque branche possède des **effets de niveaux** (3, 6, 10), en plus du bonus g
 **Exemples :** tabouret, pierre, bouteille, débris.
 **Style :** imprévisible, contondant, souple.
 
-#### Effets par niveau
+#### 2.6.1 Effets par niveau
 - **Niv. 3** : +10 durabilité aux objets fragiles
 - **Niv. 6** : +1 dé aux dégâts
 - **Niv. 10** : ramasser une arme improvisée = gratuit (action gratuite)
 
-## 3. Branches de magie (MJ)
+## 3. Branches de magie
 Les branches de magie définissent l’expertise magique indépendante des niveaux de classe.
 Elles progressent par utilisation et par étude.
 
@@ -1153,7 +1153,7 @@ Toutes appliquent également le bonus :
 
 ### 3.1 Lumière (Nakkard)
 
-#### Sous‑branches
+#### 3.1.1 Sous‑branches
 1. **Greimorien** — Lumière intérieure
  - Accélération, renforcement, surcharge musculaire
 2. **Rhisstor** — Lumière explosive
@@ -1163,38 +1163,38 @@ Toutes appliquent également le bonus :
 4. **Jiina** — Lumière utile
  - Soins, détections, stabilisation
 
-#### Effets typiques
+#### 3.1.2 Effets typiques
 - sorts basés sur **INT** ou **SAG** (selon tradition),
 - bonus supplémentaires si contact direct avec le Noyau (règle raciale MJ).
 
 ### 3.2 Émotion (Marcadur)
 
-#### Sous‑branches
+#### 3.2.1 Sous‑branches
 - **Émotion positive** : apaisement, inspiration, courage
 - **Émotion négative** : peur, instabilité, affaiblissement
 
-#### Notes MJ
+#### 3.2.2 Notes MJ
 - Marcadur ignore les résistances mentales adverses.
 - Très puissant en interactions sociales / psychiques.
 
 ### 3.3 Sang (Manhund)
 
-#### Sous‑branches
+#### 3.3.1 Sous‑branches
 - **Dravnak (extérieur)** : armes et projectiles de sang
 - **Solvren (intérieur)** : renforcement physique, réflexes, muscles
 
-#### Fonctionnement
+#### 3.3.2 Fonctionnement
 - souvent basé sur **FOR/CON**,
 - sacrifice de PV possible (hors EN).
 
 ### 3.4 Âme (Ogahon)
 
-#### Sous‑branches
+#### 3.4.1 Sous‑branches
 - **Duperie** : illusions spirituelles, tromperie d’âme
 - **Contrôle** : possession, influence profonde
 - **Portail** : accès au plan Y (animaux)
 
-#### Effets typiques
+#### 3.4.2 Effets typiques
 - nécessité d’un état mental stable,
 - faible coût PM mais effets délicats.
 
