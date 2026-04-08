@@ -11,7 +11,7 @@ Autres : chef de quête
 ---
 **#2 Galanor le sage**
 Civilité : nokkardas, 51r, masc.
-Description Physique : 
+Description Physique : Galanor n'est pas si grand pour un nokkardas, il atteint à peine les 1m70. Il est assez embonpoint, voir même obèse, et son énorme ventre proéminent est d'ailleurs son plus grand atout. Son poil roux n'est pas très épais, il a même une zone sans poils au niveau de son dos. Il n'est vraiment pas élégant et son style vestimentaire particulier n'aide pas. Il porte, la plupart du temps, une longue robe verte brodé de fil d'argent.
 Description Mentale : 
 Autres : le chef cultiste recherché (boss final de la quête)
 

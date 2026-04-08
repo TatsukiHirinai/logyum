@@ -3,7 +3,6 @@ Le temps est découpé en Ère, la 1ère étant celle où Corvo et Vulpine ont c
 Le changement d'ère s’amorce à travers un événement qui bouleverse l’existence. Par exemple, la transition de l’ère 3 vers l’ère 4 fut déclenchée par la peste ombrale qui changea les interactions internationalles.
 Sur Eneos, une journée est composée de 32 heures.
 
-
 # Ères
 ## Ère 1
 ### Déclenchement
