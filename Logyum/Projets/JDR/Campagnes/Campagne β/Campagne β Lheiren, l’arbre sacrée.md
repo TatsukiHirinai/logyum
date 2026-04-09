@@ -18,8 +18,8 @@ Autres : le chef cultiste recherché (boss final de la quête)
 ---
 **#3 Bhessa Moel**
 Civilité : nokkardes, 38r, fem.
-Description Physique : Bhessa est une nokkardes avec beaucoup de charme. Beaucoup viennent dans son auberge juste pour la voir.
-Description Mentale : attentionné, drole, 
+Description Physique : La première fois que l'on pose ses yeux sur Bhessa, on y voit une nokkardes avec du charme, ses formes avantageuses et son regard en amende aidant à cette impression. Lorsqu'on y apporte plus de détails, on dinstingue ce roux si particulier de ses poils, ce pâle qui fait fondre les coeurs. Ses membres sont un peu plus renard que d'autres nokkardes, ils remontent au dessus du coude et du genou, offrant alors un corps si particulier mais très hypnotisant.
+Description Mentale : Bhessa est une aubergiste attentionné, elle reconnaît ses habitués et arrivent même à deviner les commandes des gens avant qu'ils ne parlent. Son charme physique est accentué par son comportement gentil et innocent. Alors qu'on pourrait penser à quelqu'un de fragile, elle est forte et sait se défendre contre les remarques désobligeantes et menaces qu'elle peut recevoir. Tout son comportement change radicalement lorsqu'elle a affaire avec une autre race, elle est profondément raciste et déteste au plus haut point les ogahon, même si elle essaye de le cacher le plus possible. 
 Autres : aubergiste cultiste
 
 ---
