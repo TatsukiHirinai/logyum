@@ -4,43 +4,43 @@
 ### **Personnage non joueur important**
 **#1 Tarno Lopin**
 Civilité : nokkardes, 42 r, masc.
-Description Physique : fière allure
-Description Mentale : 
+Description physique : fière allure
+Description mentale : 
 Autres : chef de quête
 
 ---
 **#2 Galanor le sage**
 Civilité : nokkardas, 51r, masc.
-Description Physique : Galanor n'est pas si grand pour un nokkardas, il atteint à peine les 1m70. Il est assez embonpoint, voire obèse, et son énorme ventre proéminent est d'ailleurs son plus grand atout. Son poil roux n'est pas très épais, il a même une zone sans poils au niveau de son dos. Il n'est vraiment pas élégant et son style vestimentaire particulier ne l'aide pas à avoir de la prestance. Il porte, la plupart du temps, une longue robe verte brodée de fil d'argent mais avec des motifs étranges et farfelus.
-Description Mentale : Galanor n'est pas un combattant, il est plutôt du style érudit. Mais même dans ce domaine il est médiocre, ce qui l'a réussi, c'est d'être né dans une famille importante et riche. Rejoindre le Culte de la Sève fut pour lui une opportunité de montrer à ses détracteurs qu'il est un nakkard puissant et intelligent. Très prétentieux, cela ne le réussit pas, mais grâce à l'argent et à la notoriété, il obtient tout ce qu'il désire.
+Description physique : Galanor n'est pas si grand pour un nokkardas, il atteint à peine les 1m70. Il est assez embonpoint, voire obèse, et son énorme ventre proéminent est d'ailleurs son plus grand atout. Son poil roux n'est pas très épais, il a même une zone sans poils au niveau de son dos. Il n'est vraiment pas élégant et son style vestimentaire particulier ne l'aide pas à avoir de la prestance. Il porte, la plupart du temps, une longue robe verte brodée de fil d'argent mais avec des motifs étranges et farfelus.
+Description mentale : Galanor n'est pas un combattant, il est plutôt du style érudit. Mais même dans ce domaine il est médiocre, ce qui l'a réussi, c'est d'être né dans une famille du haut clergé. Rejoindre le Culte de la Sève fut pour lui une opportunité de montrer à ses détracteurs qu'il est un nakkard puissant et intelligent. Très prétentieux, cela ne le réussit pas, mais grâce à l'argent et à la notoriété, il obtient tout ce qu'il désire.
 Autres : le chef cultiste recherché (boss final de la quête)
 
 ---
 **#3 Bhessa Moel**
 Civilité : nokkardes, 38r, fem.
-Description Physique : La première fois que l'on pose ses yeux sur Bhessa, on y voit une nokkardes avec du charme, ses formes avantageuses et son regard en amende aidant à cette impression. Lorsqu'on y apporte plus de détails, on dinstingue ce roux si particulier de ses poils, ce pâle qui fait fondre les coeurs. Ses membres sont un peu plus renard que d'autres nokkardes, ils remontent au dessus du coude et du genou, offrant alors un corps si particulier mais très hypnotisant.
-Description Mentale : Bhessa est une aubergiste attentionné, elle reconnaît ses habitués et arrivent même à deviner les commandes des gens avant qu'ils ne parlent. Son charme physique est accentué par son comportement gentil et innocent. Alors qu'on pourrait penser à quelqu'un de fragile, elle est forte et sait se défendre contre les remarques désobligeantes et menaces qu'elle peut recevoir. Tout son comportement change radicalement lorsqu'elle a affaire avec une autre race, elle est profondément raciste et déteste au plus haut point les ogahon, même si elle essaye de le cacher le plus possible. 
+Description physique : La première fois que l'on pose ses yeux sur Bhessa, on y voit une nokkardes avec du charme, ses formes avantageuses et son regard en amande aidant à cette impression. Lorsqu'on y apporte plus de détails, on distingue ce roux si particulier de ses poils, ce pâle qui fait fondre les cœurs. Ses membres sont un peu plus renard que d'autres nokkardes, ils remontent au-dessus du coude et du genou, offrant alors un corps si particulier mais très hypnotisant.
+Description mentale : Bhessa est une aubergiste attentionnée, elle reconnaît ses habitués et arrive même à deviner les commandes des gens avant qu'ils ne parlent. Son charme physique est accentué par son comportement gentil et innocent. Alors qu'on pourrait penser à quelqu'un de fragile, elle est forte et sait se défendre contre les remarques désobligeantes et les menaces qu'elle peut recevoir. Tout son comportement change radicalement lorsqu'elle a affaire à une autre race, elle est profondément raciste et déteste au plus haut point les ogahon, même si elle essaye de le cacher le plus possible pour éviter de perdre de la clientèle. 
 Autres : aubergiste cultiste
 
 ---
 **#4 Negan l’effronté**
-Civilité : 
-Description Physique : 
-Description Mentale : 
+Civilité : nakkardas, 28r, masc.
+Description physique : Negan est un nakkardas très musclé, il passe d'ailleurs la plupart de son temps torse nu pour se vanter de son corps. De nombreux impacts de guerre parcourent son corps, peu sont en réalité des marques de combat, la plupart étant auto-infligées.
+Description mentale : Negan est égocentrique et narcissique, ce qui ne l'aide pas du tout à gérer des troupes. Il est déprécié par son régiment et pourtant son attitude héroïque et honorable vient contredire cette première impression. Fin stratège, cela ne l'empêche pas de commettre de grosses erreurs de novice.
 Autres : chef du premier camp cultiste rencontré
 
 ---
-**#5 Cecile Douma**
-Civilité : nakkardas
-Description Physique : 
-Description Mentale : 
+**#5 Kecile Douma**
+Civilité : marcadur, 22r, fem.
+Description physique : Kecile est une femme frêle, discrète, et agile. Son corps élancé mesurant à peine 1m52 lui permet de se faufiler partout facilement, Sa chevelure blonde est son trait physique ressortant le plus sur son visage, son visage étant banale sinon.
+Description mentale : Kecile est une femme très discrète, qui aime être seul et ne pas être remarqué.
 Autres : espionne de l’armée Moorhienne
 
 ---
 **#6 Prénom Nom**
 Civilité : 
-Description Physique : 
-Description Mentale : 
+Description physique : 
+Description mentale : 
 Autres : lieutenant de l’armée Moorhienne
 
 ---
