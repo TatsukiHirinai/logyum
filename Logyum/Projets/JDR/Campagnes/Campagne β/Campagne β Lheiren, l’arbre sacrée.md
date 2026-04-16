@@ -4,7 +4,7 @@
 ### Personnage non joueur important
 **#1 Tarno Lopin**
 Civilité : nokkardes, 42 r, masc.
-Description physique : Tarno est quelqu'un 
+Description physique : Tarno a une carrure dure et carré. Ses épaules imposantes 
 Description mentale : 
 Autres : chef de quête
 
