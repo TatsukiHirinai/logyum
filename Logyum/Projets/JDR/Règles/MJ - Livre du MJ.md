@@ -644,6 +644,15 @@ Elles déterminent :
 - ses capacités physiques ou psychiques,
 - et participent au calcul final du **niveau général**.
 
+Ces caractéristiques apporte aussi une idée des appétences du personnage dans un domaine. On peut le généraliser de cette manière ;
+0-5 : Nourisson, aucune compétence ni aucune connaissance du domaine.
+5-10 : Enfant, acquises par imitation ou instruction simple.
+10-15 : Initié du domaine, quelques compétences et connaissances basique du domaine.
+15-20 : Confirmé du domaine, des compétences et connaissances classiques et moyenne du domaine.
+20-25 : Expérimenté du domaine, comprend les subtilités, anticipe les erreurs courantes et recconu par ses pairs.
+25-28 : Maître du domaine, référence vivante, capable d’enseigner, d’innover et de repousser les limites connues.
+28-30 : Pillier du domaine, parmi les meilleurs jamais existé.
+
 ## 3. Gain d’XP (caractéristiques)
 Chaque action augmente l’XP de la **caractéristique utilisée**.
 

@@ -6,7 +6,7 @@ Ferhin formation de la guilde = +7 halos après l'ère 6
 
 Rhonam formation du groupe = -3 rayons avant l'[[ère 7]]
 
-### **Arbre généalogique**
+### Arbre généalogique
 [[La famille Karnaavimin]]
 Karnaavimin est le nom de famille créé par Ferhin. Quand elle fut kidnappée à ses 8r, elle portait le nom de sa mère, Karnam. Mais lorsqu'à ses 20 rayons elle se libéra, c'était le moment de choisir son nom. Alors, ne voulant pas effacer de l'histoire les noms de familles de ses parents, elle décida de fusionner les deux. Karnam pour sa mère et Tavimin pour son père, ce qui donne Karnaavimin, elle se présentera depuis toujours comme Ferhin Karnaavimin, fille de Velma Karnam et de Felken Tavimin.
 ### L’histoire
