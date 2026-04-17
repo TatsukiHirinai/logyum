@@ -33,13 +33,13 @@ Autres : chef du premier camp cultiste rencontré
 **#5 Kecile Douma**
 Civilité : marcadur, 22r, fem.
 Description physique : Kecile est une femme frêle, discrète, et agile. Son corps élancé mesurant à peine 1m52 lui permet de se faufiler partout facilement, Sa chevelure blonde est son trait physique ressortant le plus sur son visage, son visage étant banale sinon.
-Description mentale : Kecile est une femme très discrète, qui aime être seul et ne pas être remarqué.
+Description mentale : Kecile est une femme très discrète, qui aime être seul et ne pas être remarqué. Elle est toujours dans l'efficacité et est très direct. Elle est l'une des meilleurs espionne de l'armée Moorhienne.
 Autres : espionne de l’armée Moorhienne
 
 ---
-**#6 Prénom Nom**
-Civilité : 
-Description physique : 
+**#6 Korven Hadalar**
+Civilité : nokkardes, 63r, masc.
+Description physique : Korven est un nakkard âgé, et cela se voit. Ses poils blanchissent, ses os grinçent, ses yeux deviennent moins bon, il vieillit.
 Description mentale : 
 Autres : lieutenant de l’armée Moorhienne
 
