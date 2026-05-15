@@ -68,7 +68,7 @@
 1. Province agricole de Moorhi.
 
 ---
-# Corrompus
+# Les Corrompus
 
 <font color="#4f81bd">nom propre</font>
 1. Nom regroupant les aeter et les arrint.
@@ -77,7 +77,7 @@
 # La Course aux Esprits
 
 <font color="#4f81bd">groupe nominale</font>
-1. Période temporelle de l’ère 6 où chaque individu prouvant le renvoi d’un esprit recevait une pièce de cuivre.
+1. Période temporelle de l’ère 6, pendant la catastrophe des esprits, où chaque individu prouvant le renvoi d’un esprit recevait une pièce de cuivre.
 
 ---
 # cycle

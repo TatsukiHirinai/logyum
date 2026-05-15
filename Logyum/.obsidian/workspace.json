@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
+                "file": "Chronologies/Chronologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MJ - Livre du MJ"
+              "title": "Chronologies"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
+                "file": "Chronologies/Chronologies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de MJ - Livre du MJ"
+              "title": "Plan de Chronologies"
             }
           },
           {
@@ -216,14 +216,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3de49ca0efd10fdc",
+  "active": "7404902183292d41",
   "lastOpenFiles": [
+    "Projets/JDR/Règles/MJ - Livre du MJ.md",
+    "Chronologies/Chronologies.md",
+    "Chronologies/Ère 3.md",
+    "Races/Nakkard.md",
     "Races/Aeter.md",
     "Projets/JDR/Jeu de rôle.md",
     "Projets/Projets.md",
     "Topologies/Topologies.md",
     "Cultures/Recettes/Pruya des bois.md",
-    "Projets/JDR/Règles/MJ - Livre du MJ.md",
     "Cultures/Langues/Manhunge.md",
     "Topologies/Continents/Continent C.md",
     "Chronologies/Ère 4.md",
@@ -256,9 +259,6 @@
     "Images/Race/nokkardas_male.png",
     "Images/Race/nokkardas_female.png",
     "Races/Felire.md",
-    "Races/Horloger.md",
-    "Races/Manhund.md",
-    "Races/Marcadur.md",
     "Cultures/Langues/Nevotien",
     "Topologies/Nations/Nox Speita Domina",
     "Topologies/Nations/Nevot",

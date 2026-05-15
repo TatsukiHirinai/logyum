@@ -8,7 +8,7 @@ Les Corrompus virent ces nouvelles races comme des nouveaux jouets, à chacun, i
 - L'**Encyclopédie** conféra aux felire des connaissances et un savoir infini.
 - Seuls les horlogers virent le piège, chacun d'eux refusant les cadeaux des Corrompus.
 
-La colère de Corvo et Vulpine se fit entendre, pour punir les races et les corrompus ils brisèrent en deux Eneos. Les arrint se virent séparé des autres, les aeter fuirent dans les cieux afin d'éviter une colère plus féroce. Ils ne restaient alors plus que nos nouvelles races sur Eneos. Corvo et Vulpine voyant que les horlogers n’avaient rien accepter des Corrompus, ils les gracièrent de l'immortalité afin de les encourager à jouer leur rôle de medium.
+La colère de Corvo et Vulpine se fit entendre, pour punir les races et les corrompus ils brisèrent en deux Eneos. Les arrint se virent séparé des autres, les aeter fuirent dans les cieux afin d'éviter une colère plus féroce. Ils ne restaient alors plus que nos nouvelles races sur Eneos. Corvo et Vulpine voyant que les horlogers n’avaient rien accepter des Corrompus, les gracièrent de l'immortalité afin de les encourager à jouer leur rôle de medium.
 
 ---
 

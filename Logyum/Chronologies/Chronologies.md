@@ -1,12 +1,12 @@
 # Temps
 Le temps est découpé en Ère, la 1ère étant celle où Corvo et Vulpine ont créé la vie.
-Le changement d'ère s’amorce à travers un événement qui bouleverse l’existence. Par exemple, la transition de l’ère 3 vers l’ère 4 fut déclenchée par la peste ombrale qui changea les interactions internationalles.
+Le changement d'ère s’amorce à travers un événement qui bouleverse l’existence. Par exemple, la transition de l’ère 3 vers l’ère 4 fut déclenchée par la peste ombrale qui changea les interactions internationales.
 Sur Eneos, une journée est composée de 32 heures.
 
 # Ères
 ## Ère 1
 ### Déclenchement
-Corvo et Vulpine créèrent les [[nakkard]] et les [[ombros]] primordiaux. Les ombros, façonné par Corvo et à son image, maitrisent l’ombre. Les nakkard, façonné par Vulpine et à son image, maitrisent la lumière.
+Corvo et Vulpine créèrent les nakkard et les ombros primordiaux. Les ombros, façonné par Corvo et à son image, maitrisent l’ombre. Les nakkard, façonné par Vulpine et à son image, maitrisent la lumière.
 ### Dates
 ~7 000 AVS - 351 AVS (+6500 ans)
 ### Détails
