@@ -5,7 +5,7 @@ Tout ça sous fond de mystère/d'énigme, menant à une histoire finale.
 
 Le jeu est séparé en deux parties, l'histoire avec les mini jeux et un mode infini pour jouer au mini jeu sans contrainte
 ## Style graphique
-Une animation polaroids vieux cinéma et style graphique ps2 (clover pit, jeux d’horreur de Michael)
+Une animation polaroids vieux cinéma et style graphique ps2 (clover pit, jeux d’horreur de Michael, ou alors The Room 1, 3d pas ultra propre)
 ## Histoire
 Intro : "Changement d'image comme vieux cinéma (intro fallout 3), histoire de l'anneau depuis son obtention, voleur sur voleur, meurtre sur meurtre. Joueur range grenier, trouve clé avec symbole d'un endroit connu, intrigué cherche.
 
