@@ -4,8 +4,7 @@
 # Jeux
 - Nakkard
 	- Total War Shogun
-- Ombros
-	- [Jeu casino Ombros](Jeu%20casino%20Ombros.md)
+- Ombr[The Clawsino, The Big Fair & The Old Pub](The%20Clawsino,%20The%20Big%20Fair%20&%20The%20Old%20Pub.md)))))))
 	- Styx/Thief
 - Ogahon
 	- Potion craft

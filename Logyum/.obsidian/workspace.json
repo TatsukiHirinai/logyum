@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronologies/Chronologies.md",
+                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chronologies"
+              "title": "The Clawsino, The Big Fair & The Old Pub"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chronologies/Chronologies.md",
+                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Chronologies"
+              "title": "Plan de The Clawsino, The Big Fair & The Old Pub"
             }
           },
           {
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +218,8 @@
   },
   "active": "7404902183292d41",
   "lastOpenFiles": [
-    "Projets/JDR/Règles/MJ - Livre du MJ.md",
     "Chronologies/Chronologies.md",
+    "Projets/JDR/Règles/MJ - Livre du MJ.md",
     "Chronologies/Ère 3.md",
     "Races/Nakkard.md",
     "Races/Aeter.md",
