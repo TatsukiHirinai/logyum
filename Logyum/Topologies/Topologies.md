@@ -3,7 +3,7 @@
 Le Noyau est une boule qui a une face sombre et une autre éclairée, ces deux faces servent respectivement de soleil et de lune. Un nuage de gaz englobe les alentours du noyau, il est apparu depuis la fission de la coquille. L’image ci dessous est une potentiel représentation du noyau :
 
 ![[logyum_noyau.png]]
-## La coquille principale
+## Eneos
 La coquille principale, appelé Eneos est composé de plusieurs continents et d’une multitude d’îles plus ou moins grandes, en voici la liste non exhaustive de ces territoires :
 ### Continent A
 Nos terres, ici résident les races intelligentes d'Eneos, [[ogahon]], [[marcadur]], [[manhund]], [[nakkard]] et [[felire]] s'y développent, même les horlogers, bien qu'ils se cachent, se trouvent ici.
@@ -44,3 +44,7 @@ Cette terre est assez spéciale, elle fait le tour de la coquille, ce sont les r
 
 ![[eneos_map.png]]
 ![[eneos_map_3d.png]]
+
+## Soene
+Soene est la prison des arrint
+Soene est une terre désolée, rien n'y pousse, rien n'y vit. Les arrint, seul être vivant sur cette coquille, y v

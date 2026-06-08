@@ -198,8 +198,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -228,19 +228,9 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "750c2ab4afe7aa4f",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -261,12 +251,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "copilot:Open Copilot Chat": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "0ae44bc01d8d6c7a",
