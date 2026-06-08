@@ -5,9 +5,9 @@ Tout ça sous fond de mystère/d'énigme, menant à une histoire finale.
 
 Le jeu est séparé en deux parties, l'histoire avec les mini jeux et un mode infini pour jouer aux mini jeux sans contrainte.
 
-Lorsque le joueur n'a plus de sous il peut gagner de l'argent en travaillant dans un bar. Il alterne entre des minis jeux : faire la vaiselle, servir une boisson au client, rendre la monnaie. Il peut aussi, avec de la chance, voler dans la caisse, plus il vole gros et souvent plus il peut se faire voir, et si jamais il se fait remarquer, son patron retire l'argent volé x2 de sa paie et il n'obtient pas de paie.
+Lorsque le joueur n'a plus de sous il peut gagner de l'argent en travaillant dans un bar. Il alterne entre des minis jeux : faire la vaisselle, servir une boisson au client, rendre la monnaie. Il peut aussi, avec de la chance, voler dans la caisse, plus il vole gros et souvent plus il peut se faire voir, et si jamais il se fait remarquer, son patron retire l'argent volé x2 de sa paie et il n'obtient pas de paie.
 
-Lorsque le joueur est endetté, il peut demander à un prêteur sur gage de l'argent pour rembourser sa dette, il doit alors la somme x1.5 en un X nombre de game. Le joueur lui donne alors des indices qu'il a ramassé. il pourra les retrouver dans la machine à pinces de la fête forraine.
+Lorsque le joueur est endetté, il peut demander à un prêteur sur gage de l'argent pour rembourser sa dette, il doit alors la somme x1.5 en un X nombre de game. Le joueur lui donne alors des indices qu'il a ramassé. il pourra les retrouver dans la machine à pinces de la fête foraine.
 ## Style graphique
 Les cutscenes animation vieux cinéma
 Style psx (clover pit, Mike Klubnika)

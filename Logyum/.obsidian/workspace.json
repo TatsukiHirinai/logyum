@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86d9eae419a261e0",
+        "id": "7952eba890e65350",
         "type": "tabs",
         "children": [
           {
-            "id": "7404902183292d41",
+            "id": "0ae44bc01d8d6c7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
+                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de MJ - Livre du MJ"
+              "title": "Liens sortants de The Clawsino, The Big Fair & The Old Pub"
             }
           },
           {
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
+                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour MJ - Livre du MJ"
+              "title": "Rétrolien pour The Clawsino, The Big Fair & The Old Pub"
             }
           },
           {
@@ -191,12 +191,60 @@
               "icon": "lucide-tags",
               "title": "Mots-clés"
             }
+          },
+          {
+            "id": "fe4dfd084b02edfb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "676052c75ae69117",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b808daab28da",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 1
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": ""
+                },
+                "id": "ID_caabca5b2819"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "750c2ab4afe7aa4f",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 203.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,11 +261,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "copilot:Open Copilot Chat": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "7404902183292d41",
+  "active": "0ae44bc01d8d6c7a",
   "lastOpenFiles": [
+    "Projets/Jeux Vidéos/Tower Defense.md",
+    "Projets/JDR/Campagnes/Campagne δ On a volé notre science !.md",
+    "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Chronologies/Chronologies.md",
     "Projets/JDR/Règles/MJ - Livre du MJ.md",
     "Chronologies/Ère 3.md",
@@ -226,28 +299,11 @@
     "Projets/JDR/Jeu de rôle.md",
     "Projets/Projets.md",
     "Topologies/Topologies.md",
-    "Cultures/Recettes/Pruya des bois.md",
-    "Cultures/Langues/Manhunge.md",
-    "Topologies/Continents/Continent C.md",
-    "Chronologies/Ère 4.md",
     "Topologies/Continents/exsxv4dz.cyp~",
     "ezr3qzzx.te3~",
     "Chronologies/k3z0m2x5.urb~",
-    "Projets/JDR/Classes/Ingénieur.md",
-    "Projets/JDR/Classes/Agent.md",
-    "Projets/JDR/Classes/Errant.md",
-    "Projets/JDR/Classes/Mage.md",
-    "Projets/JDR/Classes/Spiritualiste.md",
-    "Topologies/Nations/Karnaa.md",
-    "Topologies/Nations/Kaorim.md",
     "Images/Topographie/logyum_noyau.png",
-    "grand_tout.md",
-    "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs/Yuzuki Morinochi.md",
-    "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs/Theral Vomaiien.md",
-    "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs/Paul.md",
-    "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs/Lheiraan Velnor.md",
     "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs",
-    "Projets/JDR/Classes/Martiale.md",
     "Projets/JDR/Classes",
     "Images/Topographie/eneos_map_3d.png",
     "Images/Topographie/eneos_map.png",
@@ -258,12 +314,9 @@
     "Images/Race/nokkardes_female.png",
     "Images/Race/nokkardas_male.png",
     "Images/Race/nokkardas_female.png",
-    "Races/Felire.md",
     "Cultures/Langues/Nevotien",
     "Topologies/Nations/Nox Speita Domina",
     "Topologies/Nations/Nevot",
-    "Topologies/Nations",
-    "Topologies/Continents",
     "Sans titre.canvas"
   ]
 }
