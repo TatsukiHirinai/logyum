@@ -160,38 +160,38 @@ Test de compétence sur un dé 30 (d20+d10)
 ## Combats
 tour par tout à initiative (base dex).
 ### Tableau des niveaux :
-| Niveau | XP nécessaire | Cumul d’XP | XP Magie | Cumul d’XP Magie |
-| --- | --- | --- | --- | --- |
-| Niveau 1 | 4 | 4 | 12 | 12 |
-| Niveau 2 | 5 | 9 | 15 | 27 |
-| Niveau 3 | 6 | 15 | 18 | 45 |
-| Niveau 4 | 7 | 22 | 21 | 66 |
-| Niveau 5 | 8 | 30 | 24 | 90 |
-| Niveau 6 | 9 | 39 | 27 | 117 |
-| Niveau 7 | 10 | 49 | 30 | 147 |
-| Niveau 8 | 11 | 60 |||
-| Niveau 9 | 12 | 72 |||
-| Niveau 10 | 15 | 87 |||
-| Niveau 11 | 16 | 103 |||
-| Niveau 12 | 17 | 120 |||
-| Niveau 13 | 18 | 138 |||
-| Niveau 14 | 19 | 157 |||
-| Niveau 15 | 20 | 177 |||
-| Niveau 16 | 21 | 198 |||
-| Niveau 17 | 22 | 220 |||
-| Niveau 18 | 23 | 243 |||
-| Niveau 19 | 24 | 267 |||
-| Niveau 20 | 27 | 294 |||
-| Niveau 21 | 28 | 322 |||
-| Niveau 22 | 29 | 351 |||
-| Niveau 23 | 30 | 381 |||
-| Niveau 24 | 31 | 412 |||
-| Niveau 25 | 32 | 444 |||
-| Niveau 26 | 33 | 477 |||
-| Niveau 27 | 34 | 511 |||
-| Niveau 28 | 35 | 546 |||
-| Niveau 29 | 36 | 582 |||
-| Niveau 30 | 37 | 619 |||
+| Niveau    | XP nécessaire | Cumul d’XP | XP Magie | Cumul d’XP Magie |
+| --------- | ------------- | ---------- | -------- | ---------------- |
+| Niveau 1  | 4             | 4          | 12       | 12               |
+| Niveau 2  | 5             | 9          | 15       | 27               |
+| Niveau 3  | 6             | 15         | 18       | 45               |
+| Niveau 4  | 7             | 22         | 21       | 66               |
+| Niveau 5  | 8             | 30         | 24       | 90               |
+| Niveau 6  | 9             | 39         | 27       | 117              |
+| Niveau 7  | 10            | 49         | 30       | 147              |
+| Niveau 8  | 11            | 60         |          |                  |
+| Niveau 9  | 12            | 72         |          |                  |
+| Niveau 10 | 15            | 87         |          |                  |
+| Niveau 11 | 16            | 103        |          |                  |
+| Niveau 12 | 17            | 120        |          |                  |
+| Niveau 13 | 18            | 138        |          |                  |
+| Niveau 14 | 19            | 157        |          |                  |
+| Niveau 15 | 20            | 177        |          |                  |
+| Niveau 16 | 21            | 198        |          |                  |
+| Niveau 17 | 22            | 220        |          |                  |
+| Niveau 18 | 23            | 243        |          |                  |
+| Niveau 19 | 24            | 267        |          |                  |
+| Niveau 20 | 27            | 294        |          |                  |
+| Niveau 21 | 28            | 322        |          |                  |
+| Niveau 22 | 29            | 351        |          |                  |
+| Niveau 23 | 30            | 381        |          |                  |
+| Niveau 24 | 31            | 412        |          |                  |
+| Niveau 25 | 32            | 444        |          |                  |
+| Niveau 26 | 33            | 477        |          |                  |
+| Niveau 27 | 34            | 511        |          |                  |
+| Niveau 28 | 35            | 546        |          |                  |
+| Niveau 29 | 36            | 582        |          |                  |
+| Niveau 30 | 37            | 619        |          |                  |
 ## Notes
 ## Progression par caractéristiques (6 stats, niveaux 1→30)
 Chaque caractéristique (FOR, DEX, CON, INT, SAG, CHA) a 30 niveaux.
