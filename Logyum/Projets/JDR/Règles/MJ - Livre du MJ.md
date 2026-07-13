@@ -9,16 +9,17 @@ Une fiche de personnage Logyum doit obligatoirement contenir les informations su
 - Race
 - Classe
 - Caractéristiques physiques
-- Taille
-- Poids
+	- Taille
+	- Poids
+	- Description
 - Caractéristiques psychologiques
-- Personnalité
-- Idéaux / Objectifs
-- Qualités
-- Défauts
+	- Personnalité
+	- Idéaux / Objectifs
+	- Qualités
+	- Défauts
 - Langues connues
-- Parlé
-- Écrit
+	- Parlé
+	- Écrit
 - Histoire (résumé ou détaillée selon préférence du MJ)
 
 ## 1.2 Statistiques principales
@@ -39,20 +40,18 @@ Le personnage liste ici :
 - ses **branches de magie** et leur niveau
 - ses valeurs de **PM**, si applicable
 
-## 1.4 Équipement
-- Armes
-- Armures
-- Outils
-- Objets divers (consommables, kits, ressources)
-
-## 1.5 Maîtrises
+## 1.4 Maîtrises
 Le joueur indique :
 - les **compétences maîtrisées**,
 - les spécialisations éventuelles (outil, savoir, technique).
 
 Les maîtrises influencent **uniquement les gains d’XP** sur la caractéristique liée.
 
----
+## 1.5 Équipements
+- Armes
+- Armures
+- Outils
+- Objets divers (consommables, kits, ressources)
 
 # II. Races — Version MJ 
 
@@ -68,24 +67,23 @@ Les éléments suivants indiquent quelles races possèdent une affinité ou une 
 
 - **Acide** : Ogahon, Felire, (Manhund)
 - **Poison** : Ogahon, Felire, (Manhund)
-- **Lightning** : Ogahon, Felire
-- **Thunder** : Ogahon, Felire
+- **Electricité** : Ogahon, Felire
 - **Feu** : Ogahon, Felire, (Nakkard)
 - **Gel** : Ogahon, Felire
 - **Lumière** : Nakkard, (Felire)
-- **Necrotique** : Ogahon, Felire, (Manhund)
+- **Nécrotique** : Ogahon, Felire, (Manhund)
 - **Psychique** : Ogahon, Marcadur
 - **Soin** : Felire, Marcadur, (Ogahon)
 - **Air** : Felire, Ogahon
 - **Force** : Felire, Ogahon, Manhund, Nakkard, Marcadur
-- **Energie** : Felire, Ogahon, Manhund, Nakkard, Marcadur
+- **Énergie** : Felire, Ogahon, Manhund, Nakkard, Marcadur
 
 Ces affinités influencent uniquement les interactions avec la magie, les capacités raciales ou les résistances narratives.
 
 ## 3. Races jouables
 
 ### 3.1 Nakkard
-Les Nakkard sont le peuple central de Logyum. Ils sont organisés en plusieurs morphotypes et clans, chacun influençant leurs aptitudes.
+Les nakkard sont le peuple central de Logyum. Ils sont organisés en plusieurs morphotypes et clans, chacun influençant leurs aptitudes.
 
 #### 3.1.1 Bonus raciaux
 - **Nokkardas**
@@ -100,7 +98,12 @@ Les Nakkard sont le peuple central de Logyum. Ils sont organisés en plusieurs m
 - **Nakkardas**
  - +1 Dextérité
 
-#### 3.1.2 Clans
+#### 3.1.2 Traits raciaux
+- Vision dans le noir
+- "Pas de renard" : déplacements silencieux
+- "Lumière aveuglante" : flash aveuglant court (capacité raciale)
+
+#### 3.1.3 Clans
 Chaque clan reflète une branche magique :
 
 - **Greimorien**
@@ -114,11 +117,6 @@ Chaque clan reflète une branche magique :
 
 - **Horass**
 *Lumière matérialisée* : formes lumineuses offensives/défensives.
-
-#### 3.1.3 Traits raciaux
-- Vision dans le noir
-- "Pas de renard" : déplacements silencieux
-- "Lumière aveuglante" : flash aveuglant court (capacité raciale)
 
 ### 3.2 Ogahon
 Les Ogahon sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur les clans spirituels.
@@ -203,7 +201,7 @@ La race influence directement :
 Exemples :
 - Un **Nakkard Mage** → Dominium Lux (selon son clan).
 - Un **Ogahon Mage** → Anemomancie uniquement.
-- Un **Manhund Guerrier** → techniques Sanguinomancie.
+- Un **Manhund Guerrier** → techniques Sanguimancie.
 - Un **Felire Guerrier** → techniques d’ingénierie ou de chimie.
 
 ## 2. Spiritualiste
@@ -211,7 +209,7 @@ Exemples :
 ### 2.1 Identité générale
 Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans X/Y).
 Sa magie dépend souvent de :
-- la spiritualité nakkarde (Lheiren),
+- la spiritualité nakkard (Lheiren),
 - la culture ogahon (âme, illusions, portails),
 - ou d’autres traditions selon le peuple.
 
@@ -513,7 +511,7 @@ Cette récupération soutient leur magie d’âme.
 
 ### 5.2 Nakkard
 **Amplification de la lumière :**
-Tant que le Nakkard est en **contact direct** avec la lumière du Noyau, **les sorts de lumière gagnent +1d4 dégâts**.
+Si le Nakkard est en **contact direct** pendants deux tours consécutifs, avec la lumière du Noyau, **les sorts de lumière gagnent +1d4 dégâts temporaires**.
 
 Notes MJ :
 - “Contact direct” dépend du contexte : extérieur, ligne de vue claire, zones intérieures éclairées par lumière naturelle du Noyau.
@@ -521,7 +519,7 @@ Notes MJ :
 
 ### 5.3 Marcadur
 **Perception émotionnelle avancée :**
-- Ignore résistances mentales adverses.
+- Ignore résistances mentales adverses sauf sur Marcadur.
 - Bonus narratifs ou mécaniques sur les **sorts d’émotion / ressenti**.
 
 Notes MJ :
@@ -651,7 +649,7 @@ Ces caractéristiques apporte aussi une idée des appétences du personnage dans
 15-20 : Confirmé du domaine, des compétences et connaissances classiques et moyenne du domaine.
 20-25 : Expérimenté du domaine, comprend les subtilités, anticipe les erreurs courantes et recconu par ses pairs.
 25-28 : Maître du domaine, référence vivante, capable d’enseigner, d’innover et de repousser les limites connues.
-28-30 : Pillier du domaine, parmi les meilleurs jamais existé.
+28-30 : Pilier du domaine, parmi les meilleurs jamais existé.
 
 ## 3. Gain d’XP (caractéristiques)
 Chaque action augmente l’XP de la **caractéristique utilisée**.

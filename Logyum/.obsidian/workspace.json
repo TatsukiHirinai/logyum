@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7264e55417d9878b",
+    "id": "024007ca86082de4",
     "type": "split",
     "children": [
       {
-        "id": "7952eba890e65350",
+        "id": "1c9748590df81f20",
         "type": "tabs",
         "children": [
           {
-            "id": "0ae44bc01d8d6c7a",
+            "id": "61175b1adbafa77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projets/Jeux Vidéos/Match-3 Logyum.md",
+                "file": "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Match-3 Logyum"
+              "title": "Cβ Personnages Joueurs"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "83c4c54727b59cc0",
+    "id": "2f95960af95051c6",
     "type": "split",
     "children": [
       {
-        "id": "8f80a823e72daf8b",
+        "id": "855c5917bb71acec",
         "type": "tabs",
         "children": [
           {
-            "id": "21b8251cf653894c",
+            "id": "be9065e06de1d61f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "0632e36caa0ce535",
+            "id": "ba16a0fa66e320f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,96 +61,39 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
-            "id": "5896ca26c54952c8",
+            "id": "3cd430c5ba38f4dd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "24c56c31d7599a24",
+    "id": "940a944e102d379f",
     "type": "split",
     "children": [
       {
-        "id": "c1abdc88af3f7d8c",
+        "id": "eb5d8df9e584700d",
         "type": "tabs",
         "children": [
           {
-            "id": "3de49ca0efd10fdc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Plan de The Clawsino, The Big Fair & The Old Pub"
-            }
-          },
-          {
-            "id": "afa862ad9e57886d",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_b808daab28da",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 1
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_bb89a858a898"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "43fe6d00d4e29e6b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Liens sortants de The Clawsino, The Big Fair & The Old Pub"
-            }
-          },
-          {
-            "id": "eed6384544757b6f",
+            "id": "dcdadcb8bdc9d4c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour The Clawsino, The Big Fair & The Old Pub"
+              "title": "Rétroliens"
             }
           },
           {
-            "id": "1c3a1916fe956f5d",
+            "id": "cd410ff488d07bd1",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "outgoing-link",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-archive",
-              "title": "Toutes les propriétés"
+              "icon": "links-going-out",
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "e392fa989f9681ab",
+            "id": "3245ed0594b32155",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -193,52 +135,42 @@
             }
           },
           {
-            "id": "fe4dfd084b02edfb",
+            "id": "2de4cf26089f6d58",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
             }
           },
           {
-            "id": "676052c75ae69117",
+            "id": "bc8fc9f76207b002",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM",
+              "type": "outline",
               "state": {
-                "calendar": "ID_b808daab28da",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 1
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": ""
-                },
-                "id": "ID_caabca5b2819"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-list",
+              "title": "Plan"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "image-picker:Open Image Picker": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -251,57 +183,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "image-picker:Open Image Picker": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0ae44bc01d8d6c7a",
+  "active": "61175b1adbafa77a",
   "lastOpenFiles": [
-    "Projets/JDR/Jeu de rôle.md",
-    "Projets/Jeux Vidéos/The Clawsino, The Big Fair & The Old Pub.md",
-    "Projets/Jeux Vidéos/Tower Defense.md",
-    "Projets/JDR/Campagnes/Campagne δ On a volé notre science !.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Chronologies/Chronologies.md",
+    "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
+    "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
+    "Projets/JDR/Campagnes/Campagne α",
+    "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
     "Projets/JDR/Règles/MJ - Livre du MJ.md",
-    "Chronologies/Ère 3.md",
-    "Races/Nakkard.md",
-    "Races/Aeter.md",
+    "Projets/JDR/Jeu de rôle.md",
+    "Idées non rangées.md",
     "Projets/Projets.md",
-    "Topologies/Topologies.md",
-    "Topologies/Continents/exsxv4dz.cyp~",
-    "ezr3qzzx.te3~",
-    "Chronologies/k3z0m2x5.urb~",
-    "Images/Topographie/logyum_noyau.png",
-    "Projets/JDR/Personnages Joueurs/C1 Personnages Joueurs",
-    "Projets/JDR/Classes",
-    "Images/Topographie/eneos_map_3d.png",
-    "Images/Topographie/eneos_map.png",
-    "Images/Race/ogahon_male.png",
-    "Images/Race/ogahon_fiche.png",
-    "Images/Race/ogahon_female.png",
-    "Images/Race/nokkardes_male.png",
-    "Images/Race/nokkardes_female.png",
-    "Images/Race/nokkardas_male.png",
-    "Images/Race/nokkardas_female.png",
-    "Cultures/Langues/Nevotien",
-    "Topologies/Nations/Nox Speita Domina",
-    "Topologies/Nations/Nevot",
-    "Sans titre.canvas"
+    "Projets/JDR/Classes/Spiritualiste.md",
+    "Projets/JDR/Classes/Agent.md",
+    "Projets/JDR/Classes/Mage.md",
+    "Projets/JDR/Classes/Ingénieur.md",
+    "Projets/JDR/Classes/Errant.md",
+    "Projets/JDR/Classes/Martiale.md"
   ]
 }

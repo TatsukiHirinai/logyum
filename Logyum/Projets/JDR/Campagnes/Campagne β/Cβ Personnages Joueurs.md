@@ -12,7 +12,7 @@ Meira est une nokkardas à poils roux clair. Son imposante grandeur de ses deux 
 ### Objectifs
 Réussir la mission confié coûte que coûte.
 ### Histoire
-Elle naît dans une famille fermière très pauvre, elle fut abandonnée auprès d’une serre de Lheiren. Un moine silvaren la trouva lors d’une de ses prières matinales, il l’emmena dans l’orphelinat d’Innomet où elle grandit jusqu’à sa majorité. Elle qui était devenue une sorte de grande sœur pour tout le monde comprit directement ce qu’elle devait faire dans sa vie : protéger les plus faibles. Elle rentra alors dans l’école de paladins la plus réputée d’Innomet, et malgré de nombreuses remises à l’ordre, elle est devenue une grande paladine.
+Elle naît dans une famille fermière très pauvre, elle fut abandonnée auprès d’une serre de Lheiren. Un moine silvaren la trouva alors qu'il s'apprêtait à faire ses prières matinales. Il l’emmena dans l’orphelinat d’Innomet où elle grandit jusqu’à sa majorité. Elle qui était devenue une sorte de grande sœur pour tout le monde, comprit directement ce qu’elle devait faire dans sa vie : protéger les plus faibles. Elle rentra alors dans l’école de paladins la plus réputée d’Innomet, et malgré de nombreuses remises à l’ordre dû à son nombreuses insubordinations, elle est devenue une grande paladine.
 ### Statistiques
 - FOR : 24 = 8 paliers
 - DEX : 12 = 4 paliers
@@ -36,7 +36,7 @@ Tarnel est un nokkardes d’un roux foncé, il atteint presque les deux mètres 
 ### Objectifs
 Prendre la place de sa cheffe par tous les moyens, même en la piégeant ou en l’engageant dans des mauvaises décisions.
 ### Histoire
-Il naît dans une famille aristocrate de Rhisst mais passait son temps dans les rues à faire sa loi. Lorsqu’il atteint sa majorité, ses parents, énervés qu’il traîne dans les rues, l’envoyèrent dans une école de paladins de Rhisst. Malgré sa personnalité forte, il se fit harceler par ses camarades car il était plus faible physiquement que tout le monde. Il développa alors une aigreur et une haine envers tout le monde, son seul but fut alors de devenir un paladin de haut rang pour se venger.
+Il naît dans une famille aristocrate de Rhisst mais passait son temps dans les rues à faire sa loi. Lorsqu’il atteint sa majorité, ses parents, énervés qu’il traîne dehors, l’envoyèrent dans une école de paladins de Rhisst. Malgré sa personnalité forte, il se fit harceler par ses camarades car il était plus faible physiquement que tout le monde. Il développa alors une aigreur et une haine envers tout le monde, son seul but fut alors de devenir un paladin de haut rang pour se venger.
 ### Statistiques
 - FOR : 15 = 4 paliers
 - DEX : 15 = 5 paliers

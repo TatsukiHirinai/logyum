@@ -10,10 +10,10 @@ Autres : chef de quête
 
 ---
 **#2 Galanor le sage**
-Civilité : nokkardas, 51r, masc.
-Description physique : Galanor n'est pas si grand pour un nokkardas, il atteint à peine les 1m70. Il est assez embonpoint, voire obèse, et son énorme ventre proéminent est d'ailleurs son plus grand atout. Son poil roux n'est pas très épais, il a même une zone sans poils au niveau de son dos. Il n'est vraiment pas élégant et son style vestimentaire particulier ne l'aide pas à avoir de la prestance. Il porte, la plupart du temps, une longue robe verte brodée de fil d'argent mais avec des motifs étranges et farfelus.
-Description mentale : Galanor n'est pas un combattant, il est plutôt du style érudit. Mais même dans ce domaine il est médiocre, ce qui l'a réussi, c'est d'être né dans une famille du haut clergé. Rejoindre le Culte de la Sève fut pour lui une opportunité de montrer à ses détracteurs qu'il est un nakkard puissant et intelligent. Très prétentieux, cela ne le réussit pas, mais grâce à l'argent et à la notoriété, il obtient tout ce qu'il désire.
-Autres : le chef cultiste recherché (boss final de la quête)
+<u>Civilité :</u> nokkardas, 51r, masc.
+<u>Description physique :</u> Galanor n'est pas si grand pour un nokkardas, il atteint à peine les 1m70. Il est assez embonpoint, voire obèse, et son énorme ventre proéminent est d'ailleurs son plus grand atout. Son poil roux n'est pas très épais, il a même une zone sans poils au niveau de son dos. Il n'est vraiment pas élégant et son style vestimentaire particulier ne l'aide pas à avoir de la prestance. Il porte, la plupart du temps, une longue robe verte brodée de fil d'argent mais avec des motifs étranges et farfelus.
+<u>Description mentale :</u> Galanor n'est pas un combattant, il est plutôt du style érudit. Mais même dans ce domaine il est médiocre, ce qui l'a réussi, c'est d'être né dans une famille du haut clergé. Rejoindre le Culte de la Sève fut pour lui une opportunité de montrer à ses détracteurs qu'il est un nakkard puissant et intelligent. Très prétentieux, cela ne le réussit pas, mais grâce à l'argent et à la notoriété, il obtient tout ce qu'il désire.
+<u>Autres :</u> le chef cultiste recherché (boss final de la quête)
 
 ---
 **#3 Bhessa Moel**

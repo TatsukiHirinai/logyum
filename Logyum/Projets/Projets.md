@@ -1,10 +1,11 @@
-﻿# Projets
+# Projets
 [Jeu de rôle](Jeu%20de%20rôle.md)
 [Une dernière goutte](Une%20dernière%20goutte.md)
 # Jeux
 - Nakkard
 	- Total War Shogun
-- Ombr[The Clawsino, The Big Fair & The Old Pub](The%20Clawsino,%20The%20Big%20Fair%20&%20The%20Old%20Pub.md)))))))
+- Ombros
+	- [The Clawsino, The Big Fair & The Old Pub](The%20Clawsino,%20The%20Big%20Fair%20&%20The%20Old%20Pub.md)
 	- Styx/Thief
 - Ogahon
 	- Potion craft

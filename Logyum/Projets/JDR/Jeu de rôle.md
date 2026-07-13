@@ -4,33 +4,33 @@
 Pour créer une fiche de personnage il faut réunir les informations suivantes :
 
 - Basique :
-- Nom / Prénom
-- Âge
-- Race
-- Classe
-- Caractéristiques physique
-- Taille / Poids
-- Caractéristiques psychiques
-- Personnalité
-- Idéaux / rêves
-- Qualités / Défauts
-- Langues connus (parlé et/ou écrit)
+	- Nom / Prénom
+	- Âge
+	- Race
+	- Classe
+	- Caractéristiques physique
+	- Taille / Poids
+- Caractéristiques psychiques :
+	- Personnalité
+	- Idéaux / rêves
+	- Qualités / Défauts
+	- Langues connus (parlé et/ou écrit)
 - Histoire
-- Stats
-- Force
-- Dextérité
-- Constitution
-- Sagesse
-- Intelligence
-- Charisme
-- Magie
-- Sorts
-- Équipements
-- Arme(s)
-- Armure(s)
-- Outil(s)
-- Autre(s)
+- Statistiques :
+	- Force
+	- Dextérité
+	- Constitution
+	- Sagesse
+	- Intelligence
+	- Charisme
+- Magie :
+	- Sorts
 - Maîtrises
+- Équipements :
+	- Arme(s)
+	- Armure(s)
+	- Outil(s)
+	- Autre(s)
 
 ## Races
 Les races communes de Logyum sont disponibles, seuls les [[aeter]], les [[arrint]], les [[horloger]] (ainsi que leurs sous-races) et les [[ombros]] ne sont pas disponibles au jeu, étant des races disparu, mythiques ou éteinte. Chacune des races jouables profite de caractéristiques physiques, magiques et psychiques uniques.
