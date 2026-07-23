@@ -1,10 +1,10 @@
-# Meira Solkan (Indra)
+# Meira Solkan (Indra) ()
 ### Informations générales
 Race : Nokkardas
 Sexe : Femme
 Âge : 32 rayons
 ### Classe
-Paladin lvl 5
+Martiale - Paladin lvl 6
 ### Caractère
 Meira est la cheffe de ce groupe, sa capacité à gérer vient surtout de sa personnalité. Elle n’est pas du tout stricte et est ouverte à toutes les propositions, ce qui fait que les gens la suivent souvent sans se poser de questions. À cause de cette philosophie, il lui arrive très fréquemment de faire des erreurs ou des conneries. Mais rien ne l’arrête, son objectif restera toujours de réussir sa mission. Ayant grandi dans un orphelinat silvaren, la religion fait partie d’elle. Quand elle apprit l’existence du Culte de la sève, un énorme sentiment de dégoût et de haine apparut envers ces cultistes.
 ### Description physique
@@ -22,13 +22,13 @@ Elle naît dans une famille fermière très pauvre, elle fut abandonnée auprès
 - CHA : 24 = 8 paliers
 Niveau générale : 16 (33 paliers/2)
 
-# Tarnel Vhoran (Émilien)
+# Tarnel Vhoran (Émilien) (k0nkorde)
 ### Informations générales
 Race : Nokkardes
 Sexe : Homme
 Âge : 23 rayons
 ### Classe
-Paladin (jr.) lvl 2
+Martiale lvl 4
 ### Caractère
 Tarnel n’est pas la personne la plus sympa que vous croiserez. Son caractère hautain le rend irritable pour beaucoup. Très souvent trop sûr de lui, il se met dans des situations complexes, qui, avec de la chance, se résolvent sans lui. Habile des coups bas, il est prêt à tout pour monter en rang et se faire mousser par ses supérieurs. Au quotidien, il dépend beaucoup des autres, ne faisant très peu de choses par lui-même.
 ### Description physique
@@ -46,7 +46,7 @@ Il naît dans une famille aristocrate de Rhisst mais passait son temps dans les 
 - CHA : 22 = 7 paliers
 Niveau générale : 14 (28 paliers/2)
 
-# Kelmar Inoth (Paul)
+# Kelmar Inoth (Paul) (k0nkorde)
 ### Informations générales
 Race : Nakkardas
 Sexe : Homme
@@ -70,7 +70,7 @@ Il grandit dans une famille silvaren. Une enfance plutôt bénigne, des parents 
 - CHA : 14 = 4 paliers
 Niveau générale : 14 (28 paliers/2)
 
-# Raiven Tolmak (Julien)
+# Raiven Tolmak (Julien) (nikaruryu)
 ### Informations générales
 Race : Nakkardas
 Sexe : Homme
