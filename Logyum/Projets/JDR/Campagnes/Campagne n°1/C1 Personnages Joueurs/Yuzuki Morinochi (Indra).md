@@ -1,4 +1,4 @@
-﻿### Informations générales
+### Informations générales
 Race : [[Ogahon]]
 Sexe : Femme
 Âge : 20 rayons

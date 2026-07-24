@@ -1,4 +1,4 @@
-﻿### Informations générales
+### Informations générales
 Race : 
 Sexe : 
 Âge : 

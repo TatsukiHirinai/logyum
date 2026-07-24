@@ -1,12 +1,12 @@
-﻿### Personnage non joueur important
+### Personnage non joueur important
 Nakata Hokai : présidente des guildes d’aventurier de Cipt, ogahon installé depuis 30 ans dans la région.
 Chaaks Mani : nakkard d’une vingtaine d'années qui essaie d’être en paix intérieur.
 Henri Dupieux : marcadur le plus influent dans la région, il gère la grande majorité des caravanes à Cipt.
 ### Personnage joueur
-[Yuzuki Morinochi](Yuzuki%20Morinochi.md)
-[Theral Vomaiien](Theral%20Vomaiien.md)
+[Yuzuki Morinochi (](Yuzuki%20Morinochi%20(.md)
+[Theral Vomaiien (Julien)](Theral%20Vomaiien%20(Julien).md)
 [Paul](Paul.md)
-[Lheiraan Velnor](Lheiraan%20Velnor.md)
+[Lheiraan Velnor (Émilien)](Lheiraan%20Velnor%20(Émilien).md)
 ### Résumé
 Durant le 6ème Soleil, lorsque les esprits nous ont envahis, des groupes d’aventuriers se sont formés afin de défaire les portails ouverts sur le plan des morts et de protéger les civils. Cette catastrophe s’est produite à cause d'un groupe de paria Ogahon, les Sans-Cornes. “La course aux esprits” est une courte période dans l’ère, un rayon après le début de la catastrophe, où le nouveau gouvernement de Moorhi offrait une récompense à chaque individu qui avait renvoyé ou tué un esprit.
 Les personnages joueurs sont dans une guilde d’aventuriers de Cipt, ou sont au minimum dans la région. Cipt est la région la plus touchée par les événements, empêchant la bonne tenue de nombreux champs ce qui provoque des famines. Cela commence en (S6) 12R 5H E8.

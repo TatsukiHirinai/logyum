@@ -1,4 +1,4 @@
-﻿### Informations générales
+### Informations générales
 Race : [[Nakkard]] ⇒ Nokkardes
 Sexe : homme
 Âge : 23 rayons

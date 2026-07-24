@@ -1,4 +1,4 @@
-﻿## Histoire de la Campagne α : Ca vole pas une île !
+## Histoire de la Campagne α : Ca vole pas une île !
 ### Personnage joueur
 Jean Polmier : Marcadur, homme, garde, frère de Julie, 23 rayons, se chamaille très régulièrement avec sa sœur, le plus con de la bande, est secrètement amoureux d’une femme Marcadur qui habite en dehors de la ville, elle attend d’ailleurs un bébé.
 Stats : Str 15, Dex 12, Con 11, Int 13, Wis 9, Cha 14
