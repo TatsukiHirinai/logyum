@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bed32a06dc7ea939",
+        "id": "1c9748590df81f20",
         "type": "tabs",
         "children": [
           {
-            "id": "f69cac4866687443",
+            "id": "61175b1adbafa77a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Résumés/Religions-fusionné.md",
+                "file": "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Theral Vomaiien (Julien).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Religions-fusionné"
+              "title": "Theral Vomaiien (Julien)"
+            }
+          },
+          {
+            "id": "c98357a3a7fb973f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Nakkard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nakkard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,35 +202,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "be9065e06de1d61f",
+  "active": "c98357a3a7fb973f",
   "lastOpenFiles": [
+    "Résumés/logyum_projets.md",
+    "Résumés/logyum_lore.md",
     "Résumés/Topologie-fusionné.md",
-    "Résumés/Artefacts-fusionné.md",
-    "Résumés/Projets-fusionné.md",
-    "Meta.md",
     "Résumés/Religions-fusionné.md",
     "Résumés/Races-fusionné.md",
-    "Résumés/logyum_projets.md",
+    "Résumés/Projets-fusionné.md",
     "Résumés/Nature-fusionné.md",
-    "Images-fusionné.md",
     "Résumés/Histoires-fusionné.md",
     "Résumés/Glossaire-fusionné.md",
     "Résumés/Cultures-fusionné.md",
     "Résumés/Cosmologie-fusionné.md",
     "Résumés/Chronologie-fusionné.md",
-    "Résumés/logyum_lore.md",
+    "Résumés/Artefacts-fusionné.md",
     "Résumés",
-    "Projets/JDR/Règles/MJ - Livre du MJ.md",
-    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
-    "Projets/JDR/Classes/Martiale.md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Yuzuki Morinochi.md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Theral Vomaiien.md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Lheiraan Velnor.md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Theral Vomaiien (Julien).md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Yuzuki Morinochi (Indra).md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Paul.md",
+    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Lheiraan Velnor (Émilien).md",
+    "Projets/JDR/Campagnes/Campagne n°1/Campagne n°1 La terre des esprits.md",
     "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
-    "Projets/JDR/Classes/Spiritualiste.md",
-    "Projets/Projets.md",
-    "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
-    "Projets/JDR/Campagnes/Campagne ε Une nouvelle chance.md",
+    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
     "Races/Nakkard.md",
-    "Projets/JDR/Campagnes/Campagne α",
-    "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
-    "Projets/JDR/Jeu de rôle.md"
+    "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
+    "Nature/Flore/NAD1.md",
+    "Projets/JDR/Campagnes/Campagne α"
   ]
 }
