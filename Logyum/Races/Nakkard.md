@@ -1,4 +1,4 @@
-﻿> [!info]
+> [!info]
 > ![[illustration_race.png|220]]
 > ###### Nakkard
 > **Nom endonyme :** Nakkard
@@ -42,7 +42,7 @@ L’artefact Aeter qui a été donné aux nakkard est une graine de lumière, l�
 ## Langues
 ## Religion
 ## Croyances
-Les nakkard forgent leurs armes dans d’archaïque forge avec leur talent de dompteur d'acier. Ils sont une nation de forgeron car seul eux peuvent maîtriser parfaitement la chaleur avec la lumière et donc permet au métal qu’ils utilisent d’arriver au point de fusion. De plus, sur leurs territoires, beaucoup de gisements de fer sont présents.
+Les nakkard forgent leurs armes dans d’archaïque forge avec leur talent de dompteur d'acier. Ils sont une nation de forgeron car seul eux peuvent maîtriser parfaitement la chaleur avec la lumière et donc permet au métal qu’ils utilisent d’arriver au point de fusion. De plus, sur leurs territoires, beaucoup de gisements de fer sont présents. ils sont nuls
 
 La Graine de Lumière, artefact donnée par les [[aeter]] durant l’[[ère 3]], s’est transformée en un gigantesque arbre. Celui-ci est devenu sacré de par sa beauté et sa grandeur. Depuis le début de son évolution, l’arbre, de part ses racines, fait prospérer la nation de Moorhi avec sa lumière. Le chlorolux désigne la sève de l’arbre sacrée.
 
