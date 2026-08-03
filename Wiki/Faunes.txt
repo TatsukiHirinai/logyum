@@ -1,0 +1,172 @@
+{{Faune
+| Nom_original = XXX
+| Nom_specis = XXX
+| Nom_moorhien = Garnok
+}}
+
+=== Description ===
+Petit mammifère forestier, trapu, au pelage épais et aux os particulièrement denses. Il est réputé pour sa capacité à survivre dans les climats rudes. Le Garnok est vu comme un esprit de résilience.
+=== Habitat ===
+Originaire du continent, il a été introduit dans les îles [[Storz Vulkano]] par les [[manhund]].
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = XXX
+| Nom_specis = XXX
+| Nom_moorhien = Irion
+}}
+
+=== Description ===
+Les Irions se déplacent en groupe de 5, ils sont toujours composés de 2 petits, 2 femelles et d'un grand mâle. Celles-ci possèdent deux cornes aux niveaux de la mâchoire inférieure, elles leur permettent de gratter la terre pour dénicher leur nourriture. Quant au mâle, ils n'en possèdent qu'une sur le front, qu'ils leur permettent de se battre contre d'autres groupes.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = XXX
+| Nom_specis = XXX
+| Nom_moorhien = Liftrap
+}}
+
+=== Description ===
+Liftrap, serpent à l'apparence de racine, il est un grand prédateur des herbivores des forêts du Grand Continent. Se camouflant au pied des arbres, il attend et guette sa proie qui viendrait à se nourrir de racines. Il mesure dans les 2 mètres de longueur, les plus grand de cette espèce font vers 3 mètres. Sa principale source de nourritures est l'Irion, une petite créature, se nourrissant de racines mortes.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = Mange-gravats
+| Nom_specis = XXX
+| Nom_moorhien = Garnok
+}}
+
+=== Description ===
+espèce de lézard qui se déplace dans le sol et saute sur ses victimes.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = XXX
+| Nom_specis = XXX
+| Nom_moorhien = Mitnar
+}}
+
+=== Description ===
+Le mitnar est un oiseau migrateur, présent en grande quantité en hiver, il se loge sur les cheminés des maisons pour se réchauffer et couvée ses œufs. Il est apprécié des marcadur dans des plats traditionnel. Son goût très fort rend son appréciation très insulaire, les étrangers ayant l'honneur depouvoir en goûter reparte la plupart du temps avec un mauvais souvenir et une bouche a rincer.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = NAD1
+| Nom_specis = NAD1
+| Nom_moorhien = NAD1
+}}
+
+=== Description ===
+Une souris avec des nageoires, une souris amphibie ?
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = NAD2
+| Nom_specis = NAD2
+| Nom_moorhien = NAD2
+}}
+
+=== Description ===
+Mammifère qui s'enterre dans le sol, des racines poussent sur son dos et remontent jusqu'à la surface. Les racines se forment en piège, lorsque quelque chose marche dessus, cela se referme et l'emporte lentement dans le sol.
+=== Habitat ===
+=== Notes et références ===
+![[nom_a_determiner_2.png]]
+
+---
+
+{{Faune
+| Nom_original = NAD3
+| Nom_specis = NAD3
+| Nom_moorhien = NAD3
+}}
+
+=== Description ===
+Rhinocéros avec une cheminée à la place de la corne. Son corps est fait de magma et de pierre rocheuse. Il est passif et se trouve dans la région des îles manhund.
+=== Habitat ===
+=== Notes et références ===
+![[nom_a_determiner_3.png]]
+
+---
+
+{{Faune
+| Nom_original = NAD4
+| Nom_specis = NAD4
+| Nom_moorhien = NAD4
+}}
+
+=== Description ===
+Petite chenille que l'on trouve un peu partout. Cette chenille ronge les métaux. On peut savoir son âge avec le pourcentage de rouille qu'il y a sur son corps. Elle possède des mandibules en obsidienne ce qui lui permet de résister plus facilement au cassage. On la retrouve le plus souvent sur des armures, armes abandonnées par des aventuriers. Sur son ventre il y a une grosse ventouse qui lui permet de s'accrocher plus facilement. Sur son dos ce sont des écailles de fer, presque impossible à détacher de son corps
+=== Habitat ===
+=== Notes et références ===
+![[nom_a_determiner_4.png]]
+
+---
+
+{{Faune
+| Nom_original = NAD5
+| Nom_specis = NAD5
+| Nom_moorhien = NAD5
+}}
+
+=== Description ===
+Grâce à Karnaa, une espèce presque disparu pu se développer car il fut protégé par la nation. C’est un gros mammifère d’alpage. Une sorte de vache à poil ras et avec des cornes sur les “joues”. Les cornes de sont pas très pointu et servent plus de moyen de creuser le sol pour l’accouplement.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = NAD6
+| Nom_specis = NAD6
+| Nom_moorhien = NAD6
+}}
+
+=== Description ===
+Un loup qui a plein de mousse (comme celle sur le sol dans les forêts) sur lui, ce qui lui permet de se cacher dans les buissons.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = XXX
+| Nom_specis = XXX
+| Nom_moorhien = Prom
+}}
+
+=== Description ===
+Nommé d'après leurs cris étranges, les proms sont des petits mammifères terriens herbivores. À l'âge adulte, les femelles pèsent dans les 15 kilos tandis que les mâles dans les 30. Les deux sexes sont aussi grands qu'un bébé nakkard, les femelles sont différentes de par leurs finesses, les mâles sont plus larges et "imposant". Leurs fourrures sont plutôt dans les teintes marrons pour pouvoir se camoufler parmi les arbres. Elles sont très légères et ont des poils courts et denses. Leurs viandes sont plutôt fortes et de mauvais goûts mais elles ne sont pas mauvaises pour votre santé. Ils vivent et se nourrissent dans les forêts denses, les femelles creusent des petits terriers pendant la période de reproduction et les mâles, ne pouvant pas y rentrer, gardent l'entrée. Ils se nourrissent de diverses plantes, comme de racines d'arbres fruitiers.
+=== Habitat ===
+=== Notes et références ===
+
+---
+
+{{Faune
+| Nom_original = XXX
+| Nom_specis = XXX
+| Nom_moorhien = Pruya
+}}
+
+=== Description ===
+Le Pruya est un gros mammifère d'élevage, les femelles produisent du lait et les mâles sont tués au bout de 2 Rayons. C'est une viande très commune et très goûteuse. Ils se nourrissent d'herbes et de foin. Leur corpulence est 3 fois celle d'un nakkard. Les gros mâles faisant presque le poids d'une dizaine de lingots. Ils possèdent 4 grosses cornes au niveau de la tête. Leurs pelages sont très souvent épais et bouclés.
+En dehors d’un élevage, jusqu’à 14 rayons. En élevage, jusqu’à 5 rayons.
+=== Habitat ===
+Ils sont élevés dans des plaines.
+=== Notes et références ===
