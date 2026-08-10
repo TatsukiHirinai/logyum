@@ -1,0 +1,4 @@
+L'Atlas est un artefact Dominium reçu par les felire.
+## Description visuelle
+L'Atlas est un épais bouquin. Sa tranche et sa couverture sont remplis de dorrure et de symboles incompréhensible. Deux couleurs ressortent le plus, un bleu aussi profond que l'océan et un marron assez clair. En terme de taille, il est immense. D'une longueur d'1m20 pour une largeur de 85cm il est considéré comme le plus gros livre du monde.
+Ses pages semblent infini, elles ne sont pas lisses, mais légèrement granuleuses. Écrire sur les pages n'est pas chose aisé, elles n'acceptent qu'une sorte d'encre, les alternatives semblant s'effacer sur celles-ci.
