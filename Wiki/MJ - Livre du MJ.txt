@@ -3,7 +3,7 @@
 == 1. Structure d’une fiche de personnage ==
 Une fiche de personnage Logyum doit obligatoirement contenir les informations suivantes.
 
-== 1.1 Informations basiques
+== 1.1 Informations basiques ==
 * Nom / Prénom
 * Âge
 * Race
@@ -65,18 +65,18 @@ Les races jouables disposent de caractéristiques physiques, magiques et psychiq
 == 2. Affinités élémentaires (répartition des sensibilités) ==
 Les éléments suivants indiquent quelles races possèdent une affinité ou une résistance naturelle :
 
-- '''Acide''' : Ogahon, Felire, (Manhund)
-- '''Poison''' : Ogahon, Felire, (Manhund)
-- '''Electricité''' : Ogahon, Felire
-- '''Feu''' : Ogahon, Felire, (Nakkard)
-- '''Gel''' : Ogahon, Felire
-- '''Lumière''' : Nakkard, (Felire)
-- '''Nécrotique''' : Ogahon, Felire, (Manhund)
-- '''Psychique''' : Ogahon, Marcadur
-- '''Soin''' : Felire, Marcadur, (Ogahon)
-- '''Air''' : Felire, Ogahon
-- '''Force''' : Felire, Ogahon, Manhund, Nakkard, Marcadur
-- '''Énergie''' : Felire, Ogahon, Manhund, Nakkard, Marcadur
+* '''Acide''' : Ogahon, Felire, (Manhund)
+* '''Poison''' : Ogahon, Felire, (Manhund)
+* '''Electricité''' : Ogahon, Felire
+* '''Feu''' : Ogahon, Felire, (Nakkard)
+* '''Gel''' : Ogahon, Felire
+* '''Lumière''' : Nakkard, (Felire)
+* '''Nécrotique''' : Ogahon, Felire, (Manhund)
+* '''Psychique''' : Ogahon, Marcadur
+* '''Soin''' : Felire, Marcadur, (Ogahon)
+* '''Air''' : Felire, Ogahon
+* '''Force''' : Felire, Ogahon, Manhund, Nakkard, Marcadur
+* '''Énergie''' : Felire, Ogahon, Manhund, Nakkard, Marcadur
 
 Ces affinités influencent uniquement les interactions avec la magie, les capacités raciales ou les résistances narratives.
 
@@ -85,7 +85,7 @@ Ces affinités influencent uniquement les interactions avec la magie, les capaci
 === 3.1 Nakkard ===
 Les [[nakkard]] sont le peuple central de Logyum. Ils sont organisés en plusieurs morphotypes et clans, chacun influençant leurs aptitudes.
 
-==== 3.1.1 Bonus raciaux ===
+==== 3.1.1 Bonus raciaux ====
 * '''Nokkardas'''
 	* +1 Constitution
 	* Armure lourde/moyenne : –1 Dextérité
@@ -98,12 +98,12 @@ Les [[nakkard]] sont le peuple central de Logyum. Ils sont organisés en plusieu
 * '''Nakkardas'''
 	* +1 Dextérité
 
-==== 3.1.2 Traits raciaux ===
+==== 3.1.2 Traits raciaux ====
 * Vision dans le noir
 * "Pas de renard" : déplacements silencieux
 * "Lumière aveuglante" : flash aveuglant court (capacité raciale)
 
-==== 3.1.3 Clans ===
+==== 3.1.3 Clans ====
 Chaque clan reflète une branche magique :
 * '''Greimorien''' : ''Lumière intérieure'', augmentation physique, accélération, force amplifiée.
 * '''Rhisstor''' : ''Lumière explosive'', feu, impact, projections.
@@ -113,16 +113,16 @@ Chaque clan reflète une branche magique :
 === 3.2 Ogahon ===
 Les [[ogahon]] sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur les clans spirituels.
 
-==== 3.2.1 Bonus raciaux ===
+==== 3.2.1 Bonus raciaux ====
 * '''+2 Sagesse'''
 * '''+1 Intelligence'''
 
-==== 3.2.2 Clans ===
+==== 3.2.2 Clans ====
 * '''Duperie''' : illusions, influence psychique
 * '''Contrôle''' : possession, domination spirituelle
 * '''Portail''' : utilisation du plan des esprits animaux
 
-==== 3.2.3 Traits raciaux ===
+==== 3.2.3 Traits raciaux ====
 * Endurance élevée (bonus fonctionnel de Constitution)
 
 === 3.3 Marcadur ===
@@ -150,7 +150,7 @@ Le joueur choisit un axe scientifique :
 * Vision dans le noir
 * Griffes acérées (+2 dégâts, main nue)
 
-=== 3.5 Manhund ====
+=== 3.5 Manhund ===
 Les [[manhund]] sont de fières guerriers robustes liés à la Sanguimancie.
 
 ==== 3.5.1 Bonus raciaux ====
@@ -226,25 +226,43 @@ Réserve principale : '''PM'''.
 === 2.3 Spécificités ===
 
 ==== 2.3.1 Clerc ====
-* '''6 – Domaine''' : Choix (Vie, Mémoire, Lumière utile, Mort sacrée).
-* '''7 – Liturgie majeure''' : Tu obtiens un bonus aux sauvegardes spirituelles (+1).
+Le clerc est une spécificité qui se concentre sur la foi et sur la représentation de celle-ci.
+* '''6 – Domaine''' : Tu choisis un domaine (ex. Vie, Mémoire, Lheiren/Lumière, Mort sacrée) : Tu gagnes 1 Bénédiction (action bonus, 2 PM, 1 min) liée au domaine (ex. : Vie : +1d4 aux soins reçus ; Mémoire : Avantage pour se souvenir/identifier runes ; Lumière : +1d4 contre cécité/aveuglement ; Mort sacrée (Shinseishi) : immunité au terror d’esprits mineurs).
+* '''7 – Liturgie majeure''' : Tu apprends 1 prière (2 PM) : tu canalises un halo autour de toi, dans un rayon de 3m donnant +1 aux jets de sauvegarde aux alliés se trouvant dedans.
 * '''8 – Reliquaire''' : Tu obtiens un talisman améliorant tes rituels (+1).
 * '''9 – Intercession''' : Tu annules un effet spirituel corrompu.
-* '''10 – Épiphanie''' : Tu obtiens une manifestation sacrée majeure.
+* '''10 – Épiphanie''' : Tu obtiens une manifestation sacrée majeure. Quand tu déclenches Transe Hiérophante, choisis :
+	* Ascèse de Lheiren : tous les alliés dans 6 m gagnent résistance 1d6 aux dégâts spirituels et +1 aux jets de foi (SAG)
+	* Passeur Shinseishi : tu guéris 1 état mental sévère ou libères 1 âme liée sans test si les conditions rituelles sont remplies.
 
 ==== 2.3.2 Moine ====
-* '''6 – Kata du souffle''' : techniques économiques en PM.
+Le moine est une spécificité qui se concentre sur l'utilisation de la foi pour le combat.
+* '''6 – Kata du souffle''' : Tu gagnes Techniques sacrées (coût 1 PM chacune) :
+	* Paume du Sceau : prochaine attaque inflige Silence (1 tour) à une entité spirituelle/lanterne-âme.
+	* Marche Gravée : déplacement +3 m et pas éthéré jusqu’à la fin du tour (traverser 1 créature/obstacle petit).
 * '''7 – Corps-mantra''' : Tu obtiens un bonus défensif de +1 tant que ton nombre de PM est supérieur ou égale à 1.
 * '''8 – Sceau vivant''' : Tu renvois les attaques spirituelles vers leur lanceur pour 3PM.
 * '''9 – Chapelet de fer''' : Tes attaques non armées deviennent “spirituelles”, tu appliques donc ton bonus de SAG.
-* '''10 – Ascèse parfaite''' : immunités, déplacements exaltés.
+* '''10 – Ascèse parfaite''' : En Transe Hiérophante, tu gagnes pour 1 min : immunité à peur/charme spirituels, pas éthéré (1/ tour, 3 m), et une fois, tu peux anéantir un effet de contrôle d’âme sur toi/allié (action).
 
 ==== 2.3.3 Pactiste ====
-* '''6 – Lien pactuel''' : Tu obtiens un lien avec un compagnon spirituel.
-* '''7 – Clause de secours''' : Lorsque tu tombe à 0 PV, tu reviens à 1 PV, se déclenche 1 fois par long repos.
-* '''8 – Fusion d’âme''' : bonus physiques/magiques.
-* '''9 – Clause révélée''' : pouvoir évolué du compagnon.
-* '''10 – Totem majeur''' : transformation 1 minute.
+Le pactiste est une spécificité qui a réalisé un pacte avec un esprit, un mage puissant ou une entité magique.
+* '''6 – Lien pactuel''' : Tu conclus un pacte avec une entité spirituelle liée aux plans X ou Y. Tu obtiens un compagnon spirituel qui t'accompagne en permanence. Celui-ci est invisible aux créatures ordinaires, peut communiquer avec toi mentalement et réaliser des actions simples définies avec le MJ.
+* '''7 – Clause de secours''' : Lorsque tu tombes à 0 PV, ton compagnon spirituel intervient pour préserver ton âme. Tu remontes immédiatement à 1 PV et tu peux te déplacer de la moitié de ta vitesse sans provoquer d'attaque d'opportunité. Cet effet se déclenche une fois par repos long.
+* '''8 – Fusion d’âme''' : En dépensant 2 PM, tu fusionnes partiellement avec ton compagnon pendant 1 minute. Durant cette période, tu obtiens :
+	* +1 à tes jets de magie.
+	* +1 à ta défense.
+	* Vision spirituelle active en permanence.
+* '''9 – Clause révélée''' : La véritable nature du pacte se révèle. Choisis l'un des avantages suivants :
+	* '''Protecteur''' : ton compagnon peut intercepter une attaque te visant et réduire les dégâts de 1d8.
+	* '''Guide''' : tu obtiens +2 aux tests de Perception et d'Intuition.
+	* '''Prédateur''' : une fois par tour, tu infliges +1d6 dégâts spirituels supplémentaires à une cible affectée par l'une de tes capacités.
+Cet effet est permanent.
+* '''10 – Totem majeur''' : En dépensant 4 PM, tu fusionnes totalement avec ton compagnon pendant 1 minute. Tu obtiens :
+	* +2 aux jets de magie.
+	* Résistance aux dégâts spirituels, psychiques et nécrotiques.
+	* Une capacité spéciale liée à la nature de ton compagnon.
+	* Tes capacités de Spiritualiste gagnent +1d6 à leurs effets.
 
 == 3. Agent ==
 
@@ -267,6 +285,7 @@ Réserve principale : '''EN'''.
 === 3.3 Spécificités ===
 
 ==== 3.3.1 Voleur ====
+Cette spécificité de l'Agent se porte sur la discrétion et le recelle. En tant que voleur vous gagnez de la discrétion, de l'agilité ainsi que la possibilité de voler plus facilement.
 * '''6 – Mains fantômes''' : Tu obtiens +2 aux tests de Crochetage et de Manipulation délicate. L'utilisation d'un outil de voleur est considérée comme une action bonus lorsque la situation le permet.
 * '''7 – Frappe précise +1d8''' : Le bonus de dégâts de Frappe précise passe de +1d6 à +1d8.
 * '''8 – Disparition instantanée''' : Lorsque tu réussis une action de Discrétion, tu peux immédiatement te déplacer de la moitié de ta vitesse sans rompre ton camouflage.
@@ -274,6 +293,7 @@ Réserve principale : '''EN'''.
 * '''10 – Ombre vivante''' : Tant que tu es partiellement dissimulé, les créatures doivent réussir un test de Perception opposé pour te cibler directement.
 
 ==== 3.3.2 Rôdeur ====
+Cette spécificité de l'Agent se porte sur la nature et les animaux. En tant que rôdeur tu es plus proche de la nature, la comprends mieux et est plus à l'aide dedans.
 * '''6 – Terrain de chasse''' : Tu choisis un type de créature (bête, humanoïde, aberration, mort-vivant, etc.). Tu obtiens +1 aux jets contre cette catégorie.
 * '''7 – Prédateur silencieux''' : Lorsque tu attaques une cible sans avoir été détecté, tu ajoutes +1d6 dégâts supplémentaires à l'attaque.
 * '''8 – Lecture des traces''' : Tu peux identifier l'âge, la direction, le nombre approximatif et l'état physique d'une piste après quelques minutes d'observation.
@@ -281,6 +301,7 @@ Réserve principale : '''EN'''.
 * '''10 – Chasseur alpha''' : Toi et ton compagnon obtenez +1 aux jets d'attaque tant que vous ciblez la même créature.
 
 ==== 3.3.3 Saboteur ====
+Cette spécificité de l'Agent se porte sur les pièges et les explosifs. En tant que saboteur tu es habile de tes mains saboter, tu as des connaissances approfondis dans les explosifs et dans les pièges.
 * '''6 – Expert en mécanismes''' : Tu obtiens +2 aux tests d'Analyse liés aux pièges, serrures, machines et mécanismes complexes.
 * '''7 – Bombe artisanale''' : Tu apprends à fabriquer rapidement des explosifs rudimentaires. Une fois par repos court, tu peux créer une bombe infligeant 2d6 dégâts dans une zone de 3m de rayon.
 * '''8 – Court‑circuit''' : Tu peux désactiver temporairement un mécanisme, une protection ou un dispositif alimenté par une source magique ou technique mineure.
@@ -394,6 +415,7 @@ Réserve principale : '''EN'''.
 === 6.3 Spécificités ===
 
 ==== 6.3.1 Alchimiste ====
+L'Alchimiste est l'ingénieur de la chimie, mélange chimique et poudre exotique n'ont pas de secret pour lui.
 * '''6 – Réactifs améliorés''' : Les bombes, poisons, acides et autres créations alchimiques que tu fabriques gagnent +1d6 à leur effet principal.
 * '''7 – Mélanges expérimentaux''' : Lorsque tu prépares une création alchimique, tu peux lui ajouter un effet secondaire mineur bénéfique déterminé par le MJ.
 * '''8 – Élixir supérieur''' : À chaque repos long, tu peux préparer un élixir puissant produisant un effet amélioré par rapport à une création classique.
@@ -401,6 +423,7 @@ Réserve principale : '''EN'''.
 * '''10 – Maître chimiste''' : Lorsque tu utilises une création alchimique, tu peux choisir d'augmenter sa portée, sa durée ou ses dégâts de +1d6.
 
 ==== 6.3.2 Artificier ====
+L'artificier est l'ingénieur pure, il est celui qui créé et modifie des machines.
 * '''6 – Modification d'équipement''' : À chaque repos long, tu peux améliorer une arme ou une armure. L'objet obtient un bonus de +1 à une caractéristique appropriée jusqu'au prochain repos long.
 * '''7 – Déploiement rapide''' : Installer, désinstaller ou activer une création mécanique devient une action bonus lorsque cela est possible.
 * '''8 – Construction autonome''' : Tu peux fabriquer un dispositif autonome simple (tourelle, piège, balise, générateur de lumière ou équivalent).
@@ -408,11 +431,12 @@ Réserve principale : '''EN'''.
 * '''10 – Maître constructeur''' : Tu peux maintenir simultanément deux dispositifs autonomes actifs.
 
 ==== 6.3.3 Technomancien ====
+Le Technomancien est l'ingénierie au profit de la Magie, il connaît les runes comme sa poche, et avec de la maîtrise il peut en utiliser.
 * '''6 – Interface runique''' : Tu peux intégrer des runes ou des sources magiques simples dans tes créations techniques.
 * '''7 – Batterie énergétique''' : Tu obtiens +2 PM maximum. Ces PM ne peuvent être utilisés que pour alimenter des créations technomagiques.
 * '''8 – Conversion énergétique''' : Une fois par combat, tu peux convertir 2 EN en 1 PM ou 1 PM en 2 EN.
 * '''9 – Relais arcanotechnique''' : Tu peux transmettre jusqu'à 2 PM à une créature alliée située à moins de 10 mètres.
-* '''10 – Noyau technomagique''' : Tu installes un noyau avancé dans l'une de tes créations. Celle-ci obtient +1d6 à tous ses effets et peut fonctionner sans alimentation durant une scène entière.
+* '''10 – Noyau technomagique''' : Tu installes un noyau avancé dans l'une de tes créations. Celle-ci obtient +1d6 à tous ses effets et peut fonctionner sans alimentation durant une journée entière.
 
 == 7. Errant ==
 
@@ -439,6 +463,9 @@ Le bonus reste actif jusqu'au prochain repos long.
 === 7.3 Spécificités ===
 
 ==== 7.3.1 Technique ====
+La spécificité "Technique" de l'Errant fait en sorte que le personnage a des facilités avec la force physique au sens propre.
+Cette spécificité rend difficile l'apprentissage de compétences et l'amélioration de statistiques liés à la Magie. Le gain d'XP lors d'un jet réussi sur une compétence qui joue sur INT, SAG ou CHA est réduit à +0.5xp. Le gain d'XP sur un jet échoué sur une une compétence qui joue sur INT, SAG ou CHA est nul.
+
 * '''6 – Touche-à-tout''' : Tu obtiens une maîtrise de compétence supplémentaire et une maîtrise d'outil supplémentaire.
 * '''7 – Apprentissage rapide''' : Lorsque tu observes une technique physique ou un dispositif simple pendant au moins une minute, tu obtiens +1 aux tests liés à son utilisation jusqu'au prochain repos long.
 * '''8 – Technique copiée''' : Tu choisis une capacité de niveau 1 à 5 appartenant à une classe utilisant principalement l'EN. Tu obtiens cette capacité.
@@ -446,6 +473,9 @@ Le bonus reste actif jusqu'au prochain repos long.
 * '''10 – Maître improvisateur''' : Une fois par repos long, tu peux utiliser une capacité empruntée sans payer son coût en EN.
 
 ==== 7.3.2 Magique ====
+La spécificité "Magique" de l'Errant fait en sorte que le personnage a des facilités avec la Magie au sens propre. Il peut lancer des sorts, les contrer, les détecter, etc.
+Cette spécificité rend difficile l'apprentissage de compétences et l'amélioration de statistiques liés à la force physique. Le gain d'XP lors d'un jet réussi sur une compétence qui joue sur FOR, DEX ou CON est réduit à +0.5xp. Le gain d'XP sur un jet échoué sur une une compétence qui joue sur FOR, DEX ou CON est nul.
+
 * '''6 – Initiation ésotérique''' : Tu apprends un sort ou un rituel supplémentaire compatible avec ta race et tes branches de magie.
 * '''7 – Réserve accrue''' : Tu obtiens +2 PM maximum.
 * '''8 – Sort emprunté''' : Tu choisis une capacité magique ou spirituelle de niveau 1 à 5 appartenant à une autre classe. Tu obtiens cette capacité.
