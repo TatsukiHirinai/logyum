@@ -1,4 +1,4 @@
-﻿> [!info]
+> [!info]
 > ![[illustration_race.png|220]]
 > ###### Ogahon
 > **Nom endonyme :** Ogahon
@@ -50,7 +50,7 @@ L'Éclat d'Ombre céder aux ogahon fit un lien entre eux et les [[arrint]].
 
 Les Sans-Cornes sont un clan ogahon, les membres de ce clan se scient les cornes afin de montrer leur appartenance. Leur objectif est de maîtriser la Magie “noire”, pour cela ils organisent de nombreuses expéditions dans les anciennes terres [[ombros]], afin d’y récolter des cristaux de corruption.
 
-Malgré l’adoption du système Moorhien pour leur calendrier, un évènement annuel semble être encore présent dans leur culture. Cette évènement est une ouverture sur le plan des esprits animal. L’ouverture se fait grâce à Charyx, créature maudite et régente des plans des morts. Cet événement est festive, les esprits d’animaux disparaissant aux bouts de quelques heures. Les bruits provoqué par l’ouverture sur le plan rappellent aussi des feux d’artifices, ceux-ci sont alors lancé en même temps que l’ouverture.
+Malgré l’adoption du système Moorhien pour leur calendrier, un évènement annuel semble être encore présent dans leur culture. Cette évènement est une ouverture sur le Shizenmashi. L’ouverture se fait grâce à Charyx, créature maudite et régente d'Ansokumashi. Cet événement est festive, les esprits d’animaux disparaissant aux bouts de quelques heures. Les bruits provoqué par l’ouverture sur le plan rappellent aussi des feux d’artifices, ceux-ci sont alors lancé en même temps que l’ouverture.
 
 Ils maîtrisent la Magie des âmes. Leur évolution technologique s'arrête à peu près à celle du Moyen-Âge, ceux-ci effectuent des rituels et produisent beaucoup de parchemins magiques. Ils sont les premiers dans le marché de la Magie, employé souvent comme soigneur ainsi que magicien dans les guildes d'aventuriers.
 
@@ -58,7 +58,7 @@ Différents clans d’anemomancie ont vu le jour :
 
 - Le clan de la Duperie : ce clan est le plus commun parmi les ogahon, il se sert des âmes pour créer des illusions, voir même influencer certaines pensé ou acte.
 - Le clan du Contrôle : ce clan est assez rare mais il permet de contrôler les gens grâce à leurs âmes. Une sorte d’apprentissage rapide des compétences commencent à se faire remarquer parmi ces disciples. Ils ne leurs faudraient que quelques observations de quelconque compétence pour pouvoir la reproduire à la perfection. Leur point faible st qu’il ne retienne pas forcément très longtemps ces dites compétences.
-- Le clan du Portail : ce nouveau clan permet à ses disciples d’ouvrir de mini portail sur le plan des esprits animal afin de faire passer à travers ce portail des action d’animaux (ex: jet d’acide, coup de cornes, peau dur, etc). Elle n’est apparu que récemment car la sacralité des esprits animal disparaît de jour en jour.
+- Le clan du Portail : ce nouveau clan permet à ses disciples d’ouvrir de mini portail sur le Shizenmashi afin de faire passer à travers ce portail des action d’animaux (ex: jet d’acide, coup de cornes, peau dur, etc). Elle n’est apparu que récemment car la sacralité des esprits animal disparaît de jour en jour.
 
 Le plupart des ogahon vivent dans le royaume de [[Seimori]].
 

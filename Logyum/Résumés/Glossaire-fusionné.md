@@ -49,7 +49,7 @@
 # Charyx le maudit
 
 <font color="#4f81bd">nom propre</font>
-1. Créature régissant les plans des esprits. Il a été maudit et se doit de frapper régulièrement les parois du plan des esprits.
+1. Créature régissant l'Ansokumashi, le Shizenmashi et l'Interstice. Il a été maudit et se doit de frapper régulièrement les parois du plan des esprits.
 
 ---
 # chlorolux
@@ -690,7 +690,7 @@
 # Tabouret d’Argent
 
 <font color="#4f81bd">nom propre</font>
-1. <font color="#a5a5a5"><i>(nom propre)</i></font> Petite assise unique permettant de se connecter aux plans des esprits, fait en argent.
+1. <font color="#a5a5a5"><i>(nom propre)</i></font> Petite assise unique permettant de se connecter à Ansokumashi et à Shizenmashi, fait en argent.
 
 ---
 # voile

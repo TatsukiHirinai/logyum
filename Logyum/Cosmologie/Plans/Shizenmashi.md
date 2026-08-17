@@ -1,0 +1,1 @@
+Le Shizenmashi est une étendu infini de tout les environnements naturel possible. Ce plan accueille les âmes des animaux, ainsi que de toute autre âmes considérés comme non intelligente par Charyx. Ce plan est assez spéciale car il est très proche du plan des Corps. 

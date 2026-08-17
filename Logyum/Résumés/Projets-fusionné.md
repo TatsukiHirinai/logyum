@@ -70,7 +70,7 @@ retour sur le combat des esprits, un portail avec une main immense sort et attra
 ####C1 Personnages Joueurs
 
 
-##### Lheiraan Velnor
+##### Lheiraan Velnor (Émilien)
 
 ### Informations générales
 Race : [[Nakkard]] ⇒ Nakkardas
@@ -112,7 +112,7 @@ POUR LES STATS ON UTILISE LE SYSTEME DE POINT BUY (27)
 ### Histoire
 
 
-##### Theral Vomaiien
+##### Theral Vomaiien (Julien)
 
 ### Informations générales
 Race : [[Nakkard]] ⇒ Nokkardes
@@ -136,7 +136,7 @@ Envoyé en mission dans la guilde pour vérifier des rumeurs à propos d'une tau
 Theral est le fils de Bort Vomaiien et de Idriss (/*idrish*/) Tarmal, deux soldats de la garde proche du gouvernement de Moorhi. Avec le changement d'ère et les événements qui l'ont déclenché, il n'a pas vu ses parents depuis ses 12 rayons. Néanmoins il rêve depuis petit de rejoindre les paladins de la sève, comme son grand-père avant lui. Pour rejoindre ces paladins, de multiples épreuves ainsi qu'un rite l'attendaient. Il y a de ça 6 rayons, Theral réussit à triompher avec brio des épreuves. Cependant, le grand paladin supposé réalisé le rite, mourut durant un combat contre des sans-cornes.. Seul le grand paladin qui avait fait passer les épreuves à Theral pouvait réaliser le rite. Oublié par ses pairs, il dû alors attendre 5 rayons entier. Durant ce temps il s'entraînait et apprenait tout les jours dans le temple de la sève. C'est alors qu'il se fait approcher par un grand paladin, ayant perdu son élève dans une guilde des esprits, il demande à Theral d'enquêter dessus. S'il réussissait alors il pourrait directement accéder au rang de paladin sans passer par la case "junior".
 
 
-##### Yuzuki Morinochi
+##### Yuzuki Morinochi (Indra)
 
 ### Informations générales
 Race : [[Ogahon]]
@@ -171,17 +171,17 @@ Nakata Hokai : présidente des guildes d’aventurier de Cipt, ogahon installé 
 Chaaks Mani : nakkard d’une vingtaine d'années qui essaie d’être en paix intérieur.
 Henri Dupieux : marcadur le plus influent dans la région, il gère la grande majorité des caravanes à Cipt.
 ### Personnage joueur
-[Yuzuki Morinochi](Yuzuki%20Morinochi.md)
-[Theral Vomaiien](Theral%20Vomaiien.md)
+[Yuzuki Morinochi (](Yuzuki%20Morinochi%20(.md)
+[Theral Vomaiien (Julien)](Theral%20Vomaiien%20(Julien).md)
 [Paul](Paul.md)
-[Lheiraan Velnor](Lheiraan%20Velnor.md)
+[Lheiraan Velnor (Émilien)](Lheiraan%20Velnor%20(Émilien).md)
 ### Résumé
-Durant le 6ème Soleil, lorsque les esprits nous ont envahis, des groupes d’aventuriers se sont formés afin de défaire les portails ouverts sur le plan des morts et de protéger les civils. Cette catastrophe s’est produite à cause d'un groupe de paria Ogahon, les Sans-Cornes. “La course aux esprits” est une courte période dans l’ère, un rayon après le début de la catastrophe, où le nouveau gouvernement de Moorhi offrait une récompense à chaque individu qui avait renvoyé ou tué un esprit.
+Durant le 6ème Soleil, lorsque les esprits nous ont envahis, des groupes d’aventuriers se sont formés afin de défaire les portails ouverts sur l'Ansokumashi et de protéger les civils. Cette catastrophe s’est produite à cause d'un groupe de paria Ogahon, les Sans-Cornes. “La course aux esprits” est une courte période dans l’ère, un rayon après le début de la catastrophe, où le nouveau gouvernement de Moorhi offrait une récompense à chaque individu qui avait renvoyé ou tué un esprit.
 Les personnages joueurs sont dans une guilde d’aventuriers de Cipt, ou sont au minimum dans la région. Cipt est la région la plus touchée par les événements, empêchant la bonne tenue de nombreux champs ce qui provoque des famines. Cela commence en (S6) 12R 5H E8.
 ### Quête principale
 La quête principale s’articule autour de la guilde et de ses missions. Après avoir réalisé une mission piégé par l’un des organisateurs, ils se doivent de se racheter auprès de la guilde et de sa présidente.
 Néanmoins, juste avant que la dette soit réglée, une dernière mission les incombe. La présidente a été enlevée par un groupe nommé “Les Sans-Cornes”, une fois mis en quête de ce sauvetage les joueurs se retrouvent face au groupe, ils sont au porte du territoire de Seimori, encore quelques kilomètres et leur poursuite devra s’arrêter là.
-Le grand final est ce dernier combat, on y apprend donc que la présidente va en fait très bien et qu’elle fait partie de ce groupe. Ce groupe a pour but de libérer les esprits enfermé dans le plan des esprits. Pour eux, ce plan n’est qu’une prison et ils n’auraient que leurs véritables places avec nous sur notre plan.
+Le grand final est ce dernier combat, on y apprend donc que la présidente va en fait très bien et qu’elle fait partie de ce groupe. Ce groupe a pour but de libérer les esprits enfermé dans l'Ansokumashi. Pour eux, ce plan n’est qu’une prison et ils n’auraient que leurs véritables places avec nous sur le plan des Corps.
 ### Partie 1
 Les joueurs se rencontrent dans la taverne de la guilde. Lorsqu’un vieux monsieur nakkard quémande de l’aide mais que personne ne lui réponds le groupe vient le voir. Il fait part alors de sa quête pour être libéré d’esprits logeant sur ses champs. Le groupe accepte alors la quête. Seulement, les esprits sont bénin, en les tuant ils deviennent des criminelles. En revenant à la guilde pour demander leurs récompenses, la dame de l’accueil fait venir Nakata Hokai, la présidente des guildes d'aventurier de Cipt, une ogahon venu il y a de ça une trentaine de rayons. Nakata les punit, au nom de la loi de la région, à des travaux forcés. Il doivent réussir 5 annonces de guildes, les cinq annonces seront de l'ordre de libérer un village d'esprits en les capturant, battre des "bandits", ramené des cristaux d'une mine envahi de faune et flore dangereuse, participer à la chasse aux esprits (évènement mensuelle où plusieurs groupe d'aventuriers nettoient des champs où des esprits se sont installé) et capturent l'esprit passeur, récupérer le tabouret d’argent volé des ogahon (ça mène à un combat contre un “bébé” Arrint qui protégeait ce vol, enchaîné/enfermé depuis la fissure il n’a pas pu se développer, mais il se fait release par les voleurs pour qu’il les protège (ça ne réussit pas) combat très dur mais l'Arrint a juste de la force physique et beaucoup de PV, il ne maîtrise pas encore la Magie.
 ### Partie 2
@@ -199,7 +199,7 @@ Avant :
 début dans la taverne de la guilde, tout le monde se présente et on forme le groupe
 ⇒ 1ère quête proposé par un fermier qui n’arrête pas de quémander de l’aide auprès de tout le monde. le fermier veut que son champ soit libéré des esprits qui y logent
 ⇒ c’est pas très loin, 3 esprits dont un esprit portail, quand les trois sont morts retour à la taverne pour récupérer récompense
-⇒ lorsque demande de récompense, pétage de câble de la part de Nakata car esprits étaient bénin et quête était non officiel, elle les punit au nom de la loi locale à plusieurs quête non payé. les esprits étaient enfaite bénin et était sensé être capturé pour être ramener en paix dans le plan des esprits.
+⇒ lorsque demande de récompense, pétage de câble de la part de Nakata car esprits étaient bénin et quête était non officiel, elle les punit au nom de la loi locale à plusieurs quête non payé. les esprits étaient enfaite bénin et était sensé être capturé pour être ramener en paix dans l'Ansokumashi.
 
 
 ###Campagne α
@@ -1049,7 +1049,7 @@ Le Spiritualiste est une classe se basant sur les divinités et sur la foi.
 
 Plusieurs bonus se gagnent en fonction du niveau de la classe Spritualiste :
 Niv. Spritualiste 1 :
-	Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient du plan X ou Y.
+	Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient de l'Ansokumashi ou Y.
 Niv. Spritualiste 2 : 
 	Tu apprends 2 rituels mineurs au choix (action rituelle, coût 1 PM) :
 		- Apaisement (esprit non hostile : neutralise peur mineure / -1d4 dégâts psychiques 1 tour)
@@ -1070,7 +1070,7 @@ Niv. Spritualiste 8 :
 		- Voile funèbre (dissimule le groupe des esprits/ombres, 1 min)
 		- Relâchement (libère une âme d’un sceau non‑divin, test opposé)
 Niv. Spritualiste 9 :
-	Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans X/Y et des vivants (RP fort, enquêtes).
+	Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité du Ansokumashi, du Shinzenmashi et du plan des Corps (RP fort, enquêtes).
 Niv. Spritualiste 10 :
 	Tu entres en transe liturgique : +2 à tes jets de magie, tes rituels d’âme gagnent +1d6 d’effet, vision parfaite à travers illusions/éthéré/ombres.
 	En fin de transe, tu peux apaiser définitivement un esprit tourmenté (bannissement pacifié).
@@ -1130,7 +1130,7 @@ Niv. Spritualiste 10 :
 Fondation lore & mécanique (rappel)
 
 Ancrage sur la Magie des Âmes (Anemomancie), la projection planique et les rites funéraires ogahon (Shinseishi).
-Interaction contrôlée avec les plans X/Y, sans franchir la ligne de la Corruptomancie (pratiques Sans‑Cornes) : le Spiritualiste apaise, guide, négocie — il ne brise pas.
+Interaction contrôlée avec les plans Ansokumashi, Shizenmashi et le plan des Corps, sans franchir la ligne de la Corruptomancie (pratiques Sans‑Cornes) : le Spiritualiste apaise, guide, négocie — il ne brise pas.
 
 Caracs clés : SAG (canalisation/rites), INT (savoir runique), CHA (représentation/culte).
 Ressource : PM (comme le Mage). Surcharge possible (+2 PM = +1 dé) selon tes règles globales.
@@ -1222,7 +1222,7 @@ darkvision, pas de renard (peu de bruit avantage discrétion), lumière aveuglan
 Plusieurs clan différents avec “école” de sous-magie différentes mais qui tourne autour de l'âme
 - Clan de la duperie : pouvoir faire des illusions et influencer les âmes
 - Clan du contrôle : pouvoir contrôler les âmes (possessions)
-- Clan du portail : pouvoir utiliser le plan des esprits animaux (tout les sorts qui peuvent venir d’un animal)
+- Clan du portail : pouvoir utiliser le Shizenmashi (tout les sorts qui peuvent venir d’un animal)
 
 traits raciaux :
 endurance d’ogahon (plus de constitution), 
@@ -1616,7 +1616,7 @@ Chaque clan reflète une branche magique :
 *Lumière matérialisée* : formes lumineuses offensives/défensives.
 
 ### 3.2 Ogahon
-Les Ogahon sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur les clans spirituels.
+Les Ogahon sont liés à l’âme et aux plans Ansokumashi et Shizenmashi. Leur culture est fondée sur les clans spirituels.
 
 #### 3.2.1 Bonus raciaux
 - **+2 Sagesse**
@@ -1625,7 +1625,7 @@ Les Ogahon sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur
 #### 3.2.2 Clans
 - **Duperie** : illusions, influence psychique
 - **Contrôle** : possession, domination spirituelle
-- **Portail** : utilisation du plan des esprits animaux
+- **Portail** : utilisation de Shizenmashi
 
 #### 3.2.3 Traits raciaux
 - Endurance élevée (bonus fonctionnel de Constitution)
@@ -1704,7 +1704,7 @@ Exemples :
 ## 2. Spiritualiste
 
 ### 2.1 Identité générale
-Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans X/Y).
+Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans Ansokumashi, Shizenmashi).
 Sa magie dépend souvent de :
 - la spiritualité nakkard (Lheiren),
 - la culture ogahon (âme, illusions, portails),
@@ -1713,7 +1713,7 @@ Sa magie dépend souvent de :
 Réserve principale : **PM**.
 
 ### 2.2 Progression (Niv. 1 → 10)
-- **1 – Initié** : Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient du plan X ou Y.
+- **1 – Initié** : Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient de l'Ansokumashi ou Y.
 - **2 – Liturgie mineure** : Tu apprends 2 rituels mineurs au choix (action rituelle, coût 1 PM) :
 	- Apaisement (esprit non hostile : neutralise peur mineure / -1d4 dégâts psychiques 1 tour)
 	- Fil de voix (chuchoter au défunt : 1 question factuelle courte)
@@ -1726,7 +1726,7 @@ Réserve principale : **PM**.
 	- Ancrage sacré (bloque portails/teleports spirituels mineurs dans 9 m, 10 min)
 	- Voile funèbre (dissimule le groupe des esprits/ombres, 1 min)
 	- Relâchement (libère une âme d’un sceau non‑divin, test opposé)
-- **9 – Double-Voix** : Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans X/Y et des vivants (RP fort, enquêtes).
+- **9 – Double-Voix** : Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans Ansokumashi et Shizenmashi et des Corps (RP fort, enquêtes).
 - **10 – Transe hiérophante** : Tu entres en transe liturgique : +2 à tes jets de magie, tes rituels d’âme gagnent +1d6 d’effet, vision parfaite à travers illusions/éthéré/ombres. En fin de transe, tu peux apaiser définitivement un esprit tourmenté (bannissement pacifié).
 
 ### 2.3 Spécificités
@@ -2696,7 +2696,7 @@ Toutes appliquent également le bonus :
 #### 3.4.1 Sous‑branches
 - **Duperie** : illusions spirituelles, tromperie d’âme
 - **Contrôle** : possession, influence profonde
-- **Portail** : accès au plan Y (animaux)
+- **Portail** : accès au Shizenmashi
 
 #### 3.4.2 Effets typiques
 - nécessité d’un état mental stable,

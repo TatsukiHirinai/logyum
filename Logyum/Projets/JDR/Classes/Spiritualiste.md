@@ -2,7 +2,7 @@ Le Spiritualiste est une classe se basant sur les divinités et sur la foi.
 
 Plusieurs bonus se gagnent en fonction du niveau de la classe Spritualiste :
 Niv. Spritualiste 1 :
-	Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient du plan X ou Y.
+	Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient de l'Ansokumashi ou Y.
 Niv. Spritualiste 2 : 
 	Tu apprends 2 rituels mineurs au choix (action rituelle, coût 1 PM) :
 		- Apaisement (esprit non hostile : neutralise peur mineure / -1d4 dégâts psychiques 1 tour)
@@ -23,7 +23,7 @@ Niv. Spritualiste 8 :
 		- Voile funèbre (dissimule le groupe des esprits/ombres, 1 min)
 		- Relâchement (libère une âme d’un sceau non‑divin, test opposé)
 Niv. Spritualiste 9 :
-	Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans X/Y et des vivants (RP fort, enquêtes).
+	Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité du Ansokumashi, du Shinzenmashi et du plan des Corps (RP fort, enquêtes).
 Niv. Spritualiste 10 :
 	Tu entres en transe liturgique : +2 à tes jets de magie, tes rituels d’âme gagnent +1d6 d’effet, vision parfaite à travers illusions/éthéré/ombres.
 	En fin de transe, tu peux apaiser définitivement un esprit tourmenté (bannissement pacifié).
@@ -83,7 +83,7 @@ Niv. Spritualiste 10 :
 Fondation lore & mécanique (rappel)
 
 Ancrage sur la Magie des Âmes (Anemomancie), la projection planique et les rites funéraires ogahon (Shinseishi).
-Interaction contrôlée avec les plans X/Y, sans franchir la ligne de la Corruptomancie (pratiques Sans‑Cornes) : le Spiritualiste apaise, guide, négocie — il ne brise pas.
+Interaction contrôlée avec les plans Ansokumashi, Shizenmashi et le plan des Corps, sans franchir la ligne de la Corruptomancie (pratiques Sans‑Cornes) : le Spiritualiste apaise, guide, négocie — il ne brise pas.
 
 Caracs clés : SAG (canalisation/rites), INT (savoir runique), CHA (représentation/culte).
 Ressource : PM (comme le Mage). Surcharge possible (+2 PM = +1 dé) selon tes règles globales.

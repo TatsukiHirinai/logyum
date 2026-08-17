@@ -1,0 +1,2 @@
+L'Interstice est un monde vide, où le temps semble lent et infini, où l'espace et les repères ne sont plus. La plupart des âmes perdent la raison et se font effacer par les Récolteurs.
+Lorsqu'une âme perd sa raison, ou lorsque plus rien ne l'a rattache au plan des Corps, alors les Récolteurs viennent l'effacer.

@@ -10,6 +10,15 @@ Charyx est une créature maudite, qui doit frapper en boucle un mur dans le roya
 ### Designs
 
 
+## Golem-Chevalier
+
+### Description
+Un golem chevalier, à déterminer.
+### Habitat
+### Longévité
+### Designs
+
+
 ##Les Gardiens
 
 
@@ -107,15 +116,6 @@ Il est un fennec, d'une taille approximativement normale, il a de grandes oreill
 ### Designs
 
 
-## NAD1
-
-### Description
-Un golem chevalier, à déterminer.
-### Habitat
-### Longévité
-### Designs
-
-
 #Faune
 
 
@@ -133,6 +133,24 @@ Petit mammifère forestier, trapu, au pelage épais et aux os particulièrement 
 
 ### Habitat
 Originaire du continent, il a été introduit dans les îles [[Storz Vulkano]] par les [[manhund]].
+
+### Notes et références
+
+
+
+## Hokarn
+
+> [!info]
+> ![[image_faune.png|220]]
+> ###### Présentation
+> **Nom original :** Hokarn
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Grâce à Karnaa, une espèce presque disparu pu se développer car il fut protégé par la nation. C’est un gros mammifère d’alpage. Une sorte de vache à poil ras et avec des cornes sur les “joues”. Les cornes de sont pas très pointu et servent plus de moyen de creuser le sol pour l’accouplement.
+
+### Habitat
 
 ### Notes et références
 
@@ -174,6 +192,24 @@ Liftrap, serpent à l'apparence de racine, il est un grand prédateur des herbiv
 
 
 
+## Lupullis
+
+> [!info]
+> ![[image_faune.png|220]]
+> ###### Présentation
+> **Nom original :** Lupullis
+> **Nom specis :** Lupullis
+> **Nom moorhien :** nom commun
+
+### Description
+Un loup qui a plein de mousse (comme celle sur le sol dans les forêts) sur lui, ce qui lui permet de se cacher dans les buissons.
+
+### Habitat
+
+### Notes et références
+
+
+
 ## Mange-gravats
 
 > [!info]
@@ -203,115 +239,6 @@ espèce de lézard qui se déplace dans le sol et saute sur ses victimes.
 
 ### Description
 Le mitnar est un oiseau migrateur, présent en grande quantité en hiver, il se loge sur les cheminés des maisons pour se réchauffer et couvée ses œufs. Il est apprécié des marcadur dans des plats traditionnel. Son goût très fort rend son appréciation très insulaire, les étrangers ayant l'honneur depouvoir en goûter reparte la plupart du temps avec un mauvais souvenir et une bouche a rincer.
-
-### Habitat
-
-### Notes et références
-
-
-
-## NAD1
-
-> [!info]
-> ![[image_faune.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Une souris avec des nageoires, une souris amphibie ?
-
-### Habitat
-
-### Notes et références
-
-
-
-## NAD2
-
-> [!info]
-> ![[image_faune.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Mammifère qui s'enterre dans le sol, des racines poussent sur son dos et remontent jusqu'à la surface. Les racines se forment en piège, lorsque quelque chose marche dessus, cela se referme et l'emporte lentement dans le sol.
-
-### Habitat
-
-### Notes et références
-![[nom_a_determiner_2.png]]
-
-
-## NAD3
-
-> [!info]
-> ![[image_faune.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Rhinocéros avec une cheminée à la place de la corne. Son corps est fait de magma et de pierre rocheuse. Il est passif et se trouve dans la région des îles manhund.
-
-### Habitat
-
-### Notes et références
-![[nom_a_determiner_3.png]]
-
-
-## NAD4
-
-> [!info]
-> ![[image_faune.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Petite chenille que l'on trouve un peu partout. Cette chenille ronge les métaux. On peut savoir son âge avec le pourcentage de rouille qu'il y a sur son corps. Elle possède des mandibules en obsidienne ce qui lui permet de résister plus facilement au cassage. On la retrouve le plus souvent sur des armures, armes abandonnées par des aventuriers. Sur son ventre il y a une grosse ventouse qui lui permet de s'accrocher plus facilement. Sur son dos ce sont des écailles de fer, presque impossible à détacher de son corps
-
-### Habitat
-
-### Notes et références
-![[nom_a_determiner_4.png]]
-
-
-
-## NAD5
-
-> [!info]
-> ![[image_faune.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Grâce à Karnaa, une espèce presque disparu pu se développer car il fut protégé par la nation. C’est un gros mammifère d’alpage. Une sorte de vache à poil ras et avec des cornes sur les “joues”. Les cornes de sont pas très pointu et servent plus de moyen de creuser le sol pour l’accouplement.
-
-### Habitat
-
-### Notes et références
-
-
-
-## NAD6
-
-> [!info]
-> ![[image_faune.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Un loup qui a plein de mousse (comme celle sur le sol dans les forêts) sur lui, ce qui lui permet de se cacher dans les buissons.
 
 ### Habitat
 
@@ -357,7 +284,166 @@ Ils sont élevés dans des plaines.
 
 
 
+## Ratnaj
+
+> [!info]
+> ![[image_faune.png|220]]
+> ###### Présentation
+> **Nom original :** Ratnaj
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Une souris avec des nageoires, une souris amphibie ?
+découverte marcadur
+
+### Habitat
+
+### Notes et références
+
+
+
+## Skoshöttad
+
+> [!info]
+> ![[image_faune.png|220]]
+> ###### Présentation
+> **Nom original :** Skoshöttad
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Rhinocéros avec une cheminée à la place de la corne. Son corps est fait de magma et de pierre rocheuse. Il est passif et se trouve dans la région des îles manhund.
+découverte manhund
+
+### Habitat
+
+### Notes et références
+![[nom_a_determiner_3.png]]
+
+
+## Suce-rouille
+
+> [!info]
+> ![[image_faune.png|220]]
+> ###### Présentation
+> **Nom original :** Suce-rouille
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Petite chenille que l'on trouve un peu partout. Cette chenille ronge les métaux. On peut savoir son âge avec le pourcentage de rouille qu'il y a sur son corps. Elle possède des mandibules en obsidienne ce qui lui permet de résister plus facilement au cassage. On la retrouve le plus souvent sur des armures, armes abandonnées par des aventuriers. Sur son ventre il y a une grosse ventouse qui lui permet de s'accrocher plus facilement. Sur son dos ce sont des écailles de fer, presque impossible à détacher de son corps
+découverte marcadur
+
+### Habitat
+
+### Notes et références
+![[nom_a_determiner_4.png]]
+
+
+
+## Tumuj
+
+> [!info]
+> ![[image_faune.png|220]]
+> ###### Présentation
+> **Nom original :** Tumuj
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Mammifère qui s'enterre dans le sol, des racines poussent sur son dos et remontent jusqu'à la surface. Les racines se forment en piège, lorsque quelque chose marche dessus, cela se referme et l'emporte lentement dans le sol.
+découverte manhund
+
+### Habitat
+
+### Notes et références
+![[nom_a_determiner_2.png]]
+
+
 #Flore
+
+
+## Arbotoque
+
+> [!info]
+> ![[image_flore.png|220]]
+> ###### Présentation
+> **Nom original :** Arbotoque
+> **Nom specis :** Arbotoque
+> **Nom moorhien :** nom commun
+
+### Description
+Un arbre tortillon, il est commun dans la région de Speita. Il mesure en moyenne 8 mètres. L'écorce est d'un marron terre, les feuilles d'un vert kaki et la sève couleur miel. Le tronc est "étoilé", il a tendance à faire comme une spirale sur sa cime, ses branches tout autant étoilées, ne possèdent des feuilles qu'à leur bout. Sa sève, très intense en sucre, provoque des crises glycémiques sur les petits mammifères.
+
+### Habitat
+
+### Biologie
+
+### Notes et références
+
+
+
+## Dödsporer
+
+> [!info]
+> ![[image_flore.png|220]]
+> ###### Présentation
+> **Nom original :** Dödsporer
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Plante carnivore, elle ne produit qu'une fleur dans sa vie. Lors de l'éclosion de celle-ci, elle envoie des spores toxiques, tuant tout animal l'ayant inspiré. Pour attirer ses victimes, la plante produit un fruit qui apparaît au niveau de son tronc. Les victimes s'approchent alors et meurent lorsqu'elle respire ses spores. La plante est une grande tige verte foncée d'une dizaine de mètres de haut, avec en son bout, une fleur bleue. Les fruits sont d'un bleu très clair, attirant alors l'œil des victimes.
+
+### Habitat
+
+### Biologie
+
+### Notes et références
+![[fl_nom_a_determiner_2.png]]
+
+
+
+## Falhei
+
+> [!info]
+> ![[image_flore.png|220]]
+> ###### Présentation
+> **Nom original :** Falhei
+> **Nom specis :** nom scientifique (felire)
+> **Nom moorhien :** nom commun
+
+### Description
+Un arbre fait de cristal blanc, voire transparent, trouvé dans les cavernes de Huji, dans les terres de Moorhi, elle est endémiques de cette caverne. Ses feuilles ne tombent jamais et sont phosphorescentes. En moyenne cette espèce d'arbre mesure dans les 8m de hauteur et dans les 2 m de circonférence. Elle ne produit pas de fruits.
+
+### Habitat
+
+### Biologie
+
+### Notes et références
+
+
+
+## Grafilix
+
+> [!info]
+> ![[image_flore.png|220]]
+> ###### Présentation
+> **Nom original :** Grafilix
+> **Nom specis :** Grafilix
+> **Nom moorhien :** nom commun
+
+### Description
+→ Durant l'Ère 7, une plante à Seimori.
+une fougère en plus grand et en plus spiraleux
+
+### Habitat
+
+### Biologie
+
+### Notes et références
+
 
 
 ## Lheiren
@@ -385,99 +471,17 @@ Moorhi
 
 
 
-## NAD1
+## Refumalium
 
 > [!info]
 > ![[image_flore.png|220]]
 > ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Un arbre fait de cristal blanc, voire transparent, trouvé dans les cavernes de Huji, dans les terres de Moorhi, elle est endémiques de cette caverne. Ses feuilles ne tombent jamais et sont phosphorescentes. En moyenne cette espèce d'arbre mesure dans les 8m de hauteur et dans les 2 m de circonférence. Elle ne produit pas de fruits.
-
-### Habitat
-
-### Biologie
-
-### Notes et références
-
-
-
-## NAD2
-
-> [!info]
-> ![[image_flore.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Plante carnivore, elle ne produit qu'une fleur dans sa vie. Lors de l'éclosion de celle-ci, elle envoie des spores toxiques, tuant tout animal l'ayant inspiré. Pour attirer ses victimes, la plante produit un fruit qui apparaît au niveau de son tronc. Les victimes s'approchent alors et meurent lorsqu'elle respire ses spores. La plante est une grande tige verte foncée d'une dizaine de mètres de haut, avec en son bout, une fleur bleue. Les fruits sont d'un bleu très clair, attirant alors l'œil des victimes.
-
-### Habitat
-
-### Biologie
-
-### Notes et références
-![[fl_nom_a_determiner_2.png]]
-
-
-
-## NAD3
-
-> [!info]
-> ![[image_flore.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
+> **Nom original :** Refumalium
 > **Nom specis :** nom scientifique (felire)
 > **Nom moorhien :** nom commun
 
 ### Description
 Speita est aride, du moins, il y a très peu de vert. Une famille fait office d’exception, ses couleurs verdoyantes en font pâlir plus d’un. Cet famille de plante est l’or des riches. Il s’agit d’une plante buisson ayant de un à trois branches fleuris sortant de son centre. On le considère comme une famille de plante car il y a beaucoup de variantes. Ces plantes sont des réservoir d’eau et des refuges pour petit animal.
-
-### Habitat
-
-### Biologie
-
-### Notes et références
-
-
-
-## NAD4
-
-> [!info]
-> ![[image_flore.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-→ Durant l'Ère 7, une plante à Seimori.
-une fougère en plus grand et en plus spiraleux
-
-### Habitat
-
-### Biologie
-
-### Notes et références
-
-
-
-## NAD5
-
-> [!info]
-> ![[image_flore.png|220]]
-> ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
-> **Nom specis :** nom scientifique (felire)
-> **Nom moorhien :** nom commun
-
-### Description
-Un arbre tortillon, il est commun dans la région de Speita. Il mesure en moyenne 8 mètres. L'écorce est d'un marron terre, les feuilles d'un vert kaki et la sève couleur miel. Le tronc est "étoilé", il a tendance à faire comme une spirale sur sa cime, ses branches tout autant étoilées, ne possèdent des feuilles qu'à leur bout. Sa sève, très intense en sucre, provoque des crises glycémiques sur les petits mammifères.
 
 ### Habitat
 

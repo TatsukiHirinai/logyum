@@ -1,1 +1,1 @@
-﻿langue scientifique originaire de speita et parlé par les felire
+langue scientifique originaire de Speita et parlé par les felire

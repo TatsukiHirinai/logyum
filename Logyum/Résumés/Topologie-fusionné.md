@@ -957,7 +957,7 @@ Ce continent est similaire au continent A, des régions tempérés, une petite r
 Ce continent est très forestier, il alterne entre les forêts tempéré et les forêts humides. Lorsqu'il y a moins d'arbre, ce sont des marais qui les remplace. Ce continent est considéré comme l'un des plus désagréable à explorer.
 [[Continent D]]
 ### Continent E
-Ce continent est le plus proche de la Scissionn. Il est même le seul continent possédant un contact terrestre avec le continent M. Sa géographie est plutôt simple, une chaines de montagnes scident le continent en deux. La zone nord est une zone de tundra, et la zone sud est une zone froide mais habitable.
+Ce continent est le plus proche de la Scission. Il est même le seul continent possédant un contact terrestre avec le continent M. Sa géographie est plutôt simple, une chaines de montagnes scindent le continent en deux. La zone nord est une zone de toundra, et la zone sud est une zone froide mais habitable.
 [[Continent E]]
 ### Continent F
 Continent beaucoup d'eau / marais / lac

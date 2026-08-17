@@ -72,20 +72,36 @@ Le 4ème Soleil avec son 85ème Rayon et ses 8 Halos nous offre son 32ème Écla
 
 ## Morihon
 
-Langue de seimori
+Langue de Seimori
 
 
 ## Nevotien
 
-langue officielle de Nevot, mélange de trois langues : le Moorhien, le Monayeur et le Speilin. Son apprentissage est simple est il devient très vite la norme dans les Nov-Isel. Il se rapproche du français (irl). Pendant l'ère 11 il remplace officielement le Moorhien en tant que langue internationale officiel.
+langue officielle de Nevot, mélange de trois langues : le Moorhien, le Monayeur et le Speilin. Son apprentissage est simple est il devient très vite la norme dans les Nov-Isel. Il se rapproche du français (irl). Pendant l'ère 11 il remplace officiellement le Moorhien en tant que langue internationale officiel.
 
 
 ## Speilin
 
-langue scientifique originaire de speita et parlé par les felire
+langue scientifique originaire de Speita et parlé par les felire
 
 
 #Recettes
+
+
+## Champignollette
+
+---
+Régime: Carnivore
+Temps: Ère 6
+Ingrédients:
+  - Viande
+  - Champignons
+Race:
+  - Felire
+Géographie:
+  - Speita
+---
+Pour récupérer des forces facilement et optimalement il existe les plats [[felire]]. La plupart sont composé à 70% de viande. Comme ce plat, le “Champignollette”, où la viande à mijoter pendant au moins 24h dans une sauce champignons. Une fois le mijotage, la viande est effiloché dans des petits pots puis y est rempli de sauce avec un gélifiant. Une fois reposé, on obtient une rillette/pâté felire. La viande choisi n’a que peu d’importance, il faut néanmoins qu’elle soit forte en fer car c’est ce que cherche les felire dans ce plat.
 
 
 ## Mitnar farci aux champignons
@@ -112,22 +128,6 @@ tourte aux mitnars farci aux champignons :
 -Avant d’enfourner, poser le chapeau et frotter le avec de l’ail
 -Enfourner 15min à moyenne flamme, puis sortir et creuser une petite cheminée.
 -Servir 10min après.
-
-
-## NAD1
-
----
-Régime: Carnivore
-Temps: Ère 6
-Ingrédients:
-  - Viande
-  - Champignons
-Race:
-  - Felire
-Géographie:
-  - Speita
----
-Pour récupérer des forces facilement et optimalement il existe les plats [[felire]]. La plupart sont composé à 70% de viande. Comme ce plat, le “”, où la viande à mijoter pendant au moins 24h dans une sauce champignons. Une fois le mijotage, la viande est effiloché dans des petits pots puis y est rempli de sauce avec un gélifiant. Une fois reposé, on obtient une rillette/pâté felire. La viande choisi n’a que peu d’importance, il faut néanmoins qu’elle soit forte en fer car c’est ce que cherche les felire dans ce plat.
 
 
 ## Pruya des bois

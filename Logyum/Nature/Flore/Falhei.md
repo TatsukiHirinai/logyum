@@ -1,7 +1,7 @@
 > [!info]
 > ![[image_flore.png|220]]
 > ###### Présentation
-> **Nom original :** nom dans la langue du découvreur
+> **Nom original :** Falhei
 > **Nom specis :** nom scientifique (felire)
 > **Nom moorhien :** nom commun
 

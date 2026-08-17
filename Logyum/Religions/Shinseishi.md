@@ -18,7 +18,7 @@
 > **Date d’apparition :** XXXXXX
 > **Lieu d’origine :** [[Seimori]]
 > **Air de pratique actuelle :** XXXXXX
-> **Nombre de pratiquants actuel :** La totalité des Ogahons
+> **Nombre de pratiquants actuel :** La totalité des Ogahon
 > **Principaux rites :** XXXXXX
 > **Clergé :** XXXXXX
 

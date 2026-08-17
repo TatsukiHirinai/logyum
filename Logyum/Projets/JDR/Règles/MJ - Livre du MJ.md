@@ -119,7 +119,7 @@ Chaque clan reflète une branche magique :
 *Lumière matérialisée* : formes lumineuses offensives/défensives.
 
 ### 3.2 Ogahon
-Les Ogahon sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur les clans spirituels.
+Les Ogahon sont liés à l’âme et aux plans Ansokumashi et Shizenmashi. Leur culture est fondée sur les clans spirituels.
 
 #### 3.2.1 Bonus raciaux
 - **+2 Sagesse**
@@ -128,7 +128,7 @@ Les Ogahon sont liés à l’âme et aux plans X/Y. Leur culture est fondée sur
 #### 3.2.2 Clans
 - **Duperie** : illusions, influence psychique
 - **Contrôle** : possession, domination spirituelle
-- **Portail** : utilisation du plan des esprits animaux
+- **Portail** : utilisation de Shizenmashi
 
 #### 3.2.3 Traits raciaux
 - Endurance élevée (bonus fonctionnel de Constitution)
@@ -207,7 +207,7 @@ Exemples :
 ## 2. Spiritualiste
 
 ### 2.1 Identité générale
-Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans X/Y).
+Le Spiritualiste canalise foi, rituels, prières, discipline, et interactions avec les entités spirituelles (plans Ansokumashi, Shizenmashi).
 Sa magie dépend souvent de :
 - la spiritualité nakkard (Lheiren),
 - la culture ogahon (âme, illusions, portails),
@@ -216,7 +216,7 @@ Sa magie dépend souvent de :
 Réserve principale : **PM**.
 
 ### 2.2 Progression (Niv. 1 → 10)
-- **1 – Initié** : Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient du plan X ou Y.
+- **1 – Initié** : Tu perçois les rémanences d’âmes et de rituels dans 10 m : Perception des âmes (test SAG) et Avantage pour identifier si un effet vient de l'Ansokumashi ou Y.
 - **2 – Liturgie mineure** : Tu apprends 2 rituels mineurs au choix (action rituelle, coût 1 PM) :
 	- Apaisement (esprit non hostile : neutralise peur mineure / -1d4 dégâts psychiques 1 tour)
 	- Fil de voix (chuchoter au défunt : 1 question factuelle courte)
@@ -229,7 +229,7 @@ Réserve principale : **PM**.
 	- Ancrage sacré (bloque portails/teleports spirituels mineurs dans 9 m, 10 min)
 	- Voile funèbre (dissimule le groupe des esprits/ombres, 1 min)
 	- Relâchement (libère une âme d’un sceau non‑divin, test opposé)
-- **9 – Double-Voix** : Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans X/Y et des vivants (RP fort, enquêtes).
+- **9 – Double-Voix** : Tous tes rituels d’âme coûtent –1 PM (min. 1). Tu peux converser simultanément avec une entité des plans Ansokumashi et Shizenmashi et des Corps (RP fort, enquêtes).
 - **10 – Transe hiérophante** : Tu entres en transe liturgique : +2 à tes jets de magie, tes rituels d’âme gagnent +1d6 d’effet, vision parfaite à travers illusions/éthéré/ombres. En fin de transe, tu peux apaiser définitivement un esprit tourmenté (bannissement pacifié).
 
 ### 2.3 Spécificités
@@ -1199,7 +1199,7 @@ Toutes appliquent également le bonus :
 #### 3.4.1 Sous‑branches
 - **Duperie** : illusions spirituelles, tromperie d’âme
 - **Contrôle** : possession, influence profonde
-- **Portail** : accès au plan Y (animaux)
+- **Portail** : accès au Shizenmashi
 
 #### 3.4.2 Effets typiques
 - nécessité d’un état mental stable,

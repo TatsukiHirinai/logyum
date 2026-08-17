@@ -1,1 +1,1 @@
-﻿Langue de seimori
+Langue de Seimori

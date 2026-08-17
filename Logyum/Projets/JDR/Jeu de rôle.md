@@ -78,7 +78,7 @@ darkvision, pas de renard (peu de bruit avantage discrétion), lumière aveuglan
 Plusieurs clan différents avec “école” de sous-magie différentes mais qui tourne autour de l'âme
 - Clan de la duperie : pouvoir faire des illusions et influencer les âmes
 - Clan du contrôle : pouvoir contrôler les âmes (possessions)
-- Clan du portail : pouvoir utiliser le plan des esprits animaux (tout les sorts qui peuvent venir d’un animal)
+- Clan du portail : pouvoir utiliser le Shizenmashi (tout les sorts qui peuvent venir d’un animal)
 
 traits raciaux :
 endurance d’ogahon (plus de constitution), 

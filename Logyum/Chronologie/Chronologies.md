@@ -46,7 +46,7 @@ Le royaume de [[Sol-Or]] fut détruit est emporté dans le ciel par le Cercle de
 
 ## Ère 6
 ### Déclenchement
-Les Sans-Cornes, groupe de paria ogahon, ouvrent une multitude de portail sur le plan des morts. Cet évènement provoque une invasion d’esprits sur le plan des vivants. De nombreux territoires sont attaqués et certains royaumes tombent. Des villes et villages sont détruits, la civilisation recule d’un pas.
+Les Sans-Cornes, groupe de paria ogahon, ouvrent une multitude de portail sur l'Ansokumashi. Cet évènement provoque une invasion d’esprits sur le plan des Corps. De nombreux territoires sont attaqués et certains royaumes tombent. Des villes et villages sont détruits, la civilisation recule d’un pas.
 ### Dates
 1429 - 1892 (464 ans)
 ### Détails

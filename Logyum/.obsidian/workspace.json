@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c9748590df81f20",
+        "id": "e6aa3fad9f243650",
         "type": "tabs",
         "children": [
           {
-            "id": "61175b1adbafa77a",
+            "id": "1c0c06b56eb1ed55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topologie/Topologies.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Topologies"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -55,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,35 +185,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "61175b1adbafa77a",
+  "active": "1c0c06b56eb1ed55",
   "lastOpenFiles": [
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Theral Vomaiien (Julien).md",
-    "Races/Nakkard.md",
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Yuzuki Morinochi (Indra).md",
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Lheiraan Velnor (Émilien).md",
-    "Résumés/logyum_projets.md",
-    "Résumés/logyum_lore.md",
+    "Résumés/Artefacts-fusionné.md",
+    "Résumés/Projets-fusionné 1.md",
+    "Résumés/Meta.md",
+    "Résumés/Glossaire-fusionné.md",
+    "Résumés/Science et Magie.md",
+    "Résumés/Idées non rangées.md",
+    "Idées non rangées.md",
+    "Chronologie/Chronologies.md",
     "Résumés/Topologie-fusionné.md",
     "Résumés/Religions-fusionné.md",
     "Résumés/Races-fusionné.md",
     "Résumés/Projets-fusionné.md",
     "Résumés/Nature-fusionné.md",
     "Résumés/Histoires-fusionné.md",
-    "Résumés/Glossaire-fusionné.md",
     "Résumés/Cultures-fusionné.md",
     "Résumés/Cosmologie-fusionné.md",
+    "Chronologie/Ère 15.md",
+    "Science et Magie.md",
     "Résumés/Chronologie-fusionné.md",
-    "Résumés/Artefacts-fusionné.md",
+    "Cosmologie/Plans/Plan des Corps.md",
+    "Cosmologie/Soene.md",
+    "Cosmologie/Le Noyau.md",
+    "Cosmologie/Eneos.md",
+    "Cosmologie/Plans/Shizenmashi.md",
+    "Cosmologie/Plans/L'Interstice.md",
+    "Cosmologie/Plans/Ansokumashi.md",
+    "Sans titre.canvas",
     "Résumés",
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Yuzuki Morinochi.md",
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Theral Vomaiien.md",
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Lheiraan Velnor.md",
-    "Projets/JDR/Campagnes/Campagne n°1/C1 Personnages Joueurs/Paul.md",
-    "Projets/JDR/Campagnes/Campagne n°1/Campagne n°1 La terre des esprits.md",
-    "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
-    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
-    "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
-    "Nature/Flore/NAD1.md",
     "Projets/JDR/Campagnes/Campagne α"
   ]
 }

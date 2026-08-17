@@ -48,7 +48,7 @@ Le royaume de [[Sol-Or]] fut détruit est emporté dans le ciel par le Cercle de
 
 ## Ère 6
 ### Déclenchement
-Les Sans-Cornes, groupe de paria ogahon, ouvrent une multitude de portail sur le plan des morts. Cet évènement provoque une invasion d’esprits sur le plan des vivants. De nombreux territoires sont attaqués et certains royaumes tombent. Des villes et villages sont détruits, la civilisation recule d’un pas.
+Les Sans-Cornes, groupe de paria ogahon, ouvrent une multitude de portail sur l'Ansokumashi. Cet évènement provoque une invasion d’esprits sur le plan des Corps. De nombreux territoires sont attaqués et certains royaumes tombent. Des villes et villages sont détruits, la civilisation recule d’un pas.
 ### Dates
 1429 - 1892 (464 ans)
 ### Détails
@@ -449,7 +449,7 @@ Des scientifiques tentèrent de créer une race hybride en laboratoire, mélange
 
 → domination de Nox Speita Domina
 
-[[Nox Speita Domina]], cette renaissance de la nation de [[Speita]] fut redoutable. Après la découverte des runes utilisé par les artefacts ancestraux, des soldats surpuissant maîtrisant la lumière, l’esprit et le sang furent créé. 100 soldats mirent à terre Karnaa et 200 soldats détruirent l’armée Seimorienne, faisant tomber le gouvernement. NSD prit alors contrôle de ces deux nations, imposant un nouveau régime et une sécurité très contraignante. (NSD ressemble à 1984, de la surveillance de partout). NSD s’arrêta aux frontières des autres nations, une tension immense apparut entre les nations libre et NSD). Les soldats avait une durée de vie très courte, moins de 2 rayons. Il développait des corruptions interne qui les rendaient fous et incontrôlable, forçant alors l’armée de les exécuté.
+[[Nox Speita Domina]], cette renaissance de la nation de [[Speita]] fut redoutable. Après la découverte des runes utilisé par les artefacts ancestraux, des soldats surpuissant maîtrisant la lumière, l’esprit et le sang furent créé. 100 soldats mirent à terre Karnaa et 200 soldats détruisirent l’armée Seimorienne, faisant tomber le gouvernement. NSD prit alors contrôle de ces deux nations, imposant un nouveau régime et une sécurité très contraignante. (NSD ressemble à 1984, de la surveillance de partout). NSD s’arrêta aux frontières des autres nations, une tension immense apparut entre les nations libre et NSD). Les soldats avait une durée de vie très courte, moins de 2 rayons. Il développait des corruptions interne qui les rendaient fous et incontrôlable, forçant alors l’armée de les exécuté.
 
 Après plus de 70 rayons de répression, NSD tomba en une nuit sous les révoltes des peuples, une faille avait été découverte dans les runes des soldats par les scientifiques de [[Moorhi]] et de Nevot. Aidée par Nevot et Moorhi des groupes de résistants apparurent un peu partout dans les terres de NSD, l’attaque de tout un peuple dans la capital de NSD fit tomber cette nation dans les rebuts. Les dirigeants et leurs familles furent arrêté, les scientifiques important furent jugés et partagé entre les nations pour leur savoir. Les nations de Seimori et de Karnaa réapparurent sous le nom de Shinmori et Nov-Karnaa. NSD quand à elle fut mise sous tutelle Moorhienne et fut interdite de posséder des armes et une armée. Moorhi obligea NSD à se renommer Speita.
 
