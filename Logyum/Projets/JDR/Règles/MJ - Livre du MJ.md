@@ -32,7 +32,7 @@ Les six caractéristiques fondamentales d’un personnage sont :
 - **INT** — Intelligence
 - **CHA** — Charisme
 
-Chaque caractéristique possède **30 niveaux**, influencés exclusivement par l’utilisation en jeu.
+Chaque caractéristique possède **36 niveaux**, influencés exclusivement par l’utilisation en jeu.
 
 ## 1.3 Magie
 Le personnage liste ici :
@@ -605,7 +605,7 @@ Le système est conçu pour :
 Ce bloc regroupe toutes les mécaniques fondamentales du système Logyum.
 Il couvre :
 - Le système de tests
-- Les caractéristiques (1→30)
+- Les caractéristiques (1→36)
 - La progression par XP
 - Le niveau général
 - La magie (PM)
@@ -616,25 +616,23 @@ Il couvre :
 ## 1. Système de tests
 
 ### 1.1 Jet de compétence
-Un test de compétence se résout avec un **jet sur 30**, obtenu via :
-
-**d20 + d10**
-
-Valeur finale : 1 → 30.
+Un test de compétence se résout avec un **jet sur 36**, obtenu via une roulette européenne ou 1d36 (numérique). La valeur finale obtenu et attendu est entre 0 et 36 inclus.
+Le système de test est le **roll under**. Il faut donc que le joueur réalise un jet en dessous ou égale à sa statistique. Des bonus ou malus peuvent être appliqués à cette statistique pour augmenter les probabilités de réussir son test.
 
 #### 1.1.1 Seuils
-- **Réussite** : jet ≥ seuil défini par le MJ
-- **Échec** : jet < seuil
+- **Réussite** : jet ≤ statistique (+bonus) (-malus)
+- **Échec** : jet > statistique (+bonus) (-malus)
 
 #### 1.1.2 Critiques
-- **1–2** → Échec critique
-- **29–30** → Réussite critique
+- **35,36** → Échec critique
+- **1,2** → Réussite critique
+- **0** → bonus du MJ ! (bonbon, point de chance, ce que le MJ veut)
 
 Le MJ applique les conséquences selon contexte :
 - Perte d’avantage, casse d’objet, aggravation, rebond, etc.
 
 ## 2. Caractéristiques (FOR, DEX, CON, SAG, INT, CHA)
-Chaque caractéristique possède **30 niveaux**.
+Chaque caractéristique possède **36 niveaux**.
 
 Elles déterminent :
 - la puissance brute du personnage,
@@ -642,14 +640,14 @@ Elles déterminent :
 - ses capacités physiques ou psychiques,
 - et participent au calcul final du **niveau général**.
 
-Ces caractéristiques apporte aussi une idée des appétences du personnage dans un domaine. On peut le généraliser de cette manière ;
-0-5 : Nourisson, aucune compétence ni aucune connaissance du domaine.
-5-10 : Enfant, acquises par imitation ou instruction simple.
-10-15 : Initié du domaine, quelques compétences et connaissances basique du domaine.
-15-20 : Confirmé du domaine, des compétences et connaissances classiques et moyenne du domaine.
-20-25 : Expérimenté du domaine, comprend les subtilités, anticipe les erreurs courantes et recconu par ses pairs.
-25-28 : Maître du domaine, référence vivante, capable d’enseigner, d’innover et de repousser les limites connues.
-28-30 : Pilier du domaine, parmi les meilleurs jamais existé.
+Ces caractéristiques apporte aussi une idée des appétences du personnage dans un domaine. On peut le généraliser de cette manière :
+**0-5 :** Nourrisson, aucune compétence ni aucune connaissance du domaine.
+**6-12 :** Enfant, acquises par imitation ou instruction simple.
+**12-17 :** Initié du domaine, quelques compétences et connaissances basique du domaine.
+**18-24 :** Confirmé du domaine, des compétences et connaissances classiques et moyenne du domaine.
+**24-29 :** Expérimenté du domaine, comprend les subtilités, anticipe les erreurs courantes et reconnu par ses pairs.
+**30-33 :** Maître du domaine, référence vivante, capable d’enseigner, d’innover et de repousser les limites connues.
+**34-36 :** Pilier du domaine, parmi les meilleurs jamais existé.
 
 ## 3. Gain d’XP (caractéristiques)
 Chaque action augmente l’XP de la **caractéristique utilisée**.
@@ -657,12 +655,12 @@ Chaque action augmente l’XP de la **caractéristique utilisée**.
 ### 3.1 Table d’XP par test
 - Réussite : **+1 XP**
 - Échec : **+0,5 XP**
-- Compétence maîtrisée :
- - Réussite : **+2 XP**
- - Échec : **+1 XP**
+Compétence maîtrisée :
+- Réussite : **+2 XP**
+- Échec : **+1 XP**
 
 **Important :**
-L’XP ne monte qu’une **seule caractéristique**, celle liée à la compétence testée.
+L’XP ne monte qu’**une seule caractéristique**, celle liée à la compétence testée.
 Exemple :
 - Crochetage → DEX
 - Analyse → INT
@@ -674,7 +672,7 @@ Exemple :
 Les **paliers** définissent la montée en puissance du niveau général.
 
 ### 4.1 Paliers officiels
-Caractéristique atteignant ou dépassant : **2, 5, 8, 11, 14, 17, 20, 23, 26, 29**
+Caractéristique atteignant ou dépassant : **3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36**
 Chaque palier compte pour 1 point.
 
 ## 5. Niveau général (calcul)
@@ -693,41 +691,48 @@ Personnage : Ferhin
 | INT | 12 | 4 |
 | CHA | 19 | 6 |
 
-Total paliers = 30 → Niveau général = 30 / 2 = **15**
+Total paliers = 36 → Niveau général = 36 / 2 = **15**
 
-## 6. Progression en caractéristiques : Niveaux 1 → 30
-| Niveau | XP nécessaire | Cumul d’XP | XP Magie | Cumul d’XP Magie |
-| --- | --- | --- | --- | --- |
-| Niveau 1 | 4 | 4 | 12 | 12 |
-| Niveau 2 | 5 | 9 | 15 | 27 |
-| Niveau 3 | 6 | 15 | 18 | 45 |
-| Niveau 4 | 7 | 22 | 21 | 66 |
-| Niveau 5 | 8 | 30 | 24 | 90 |
-| Niveau 6 | 9 | 39 | 27 | 117 |
-| Niveau 7 | 10 | 49 | 30 | 147 |
-| Niveau 8 | 11 | 60 |||
-| Niveau 9 | 12 | 72 |||
-| Niveau 10 | 15 | 87 |||
-| Niveau 11 | 16 | 103 |||
-| Niveau 12 | 17 | 120 |||
-| Niveau 13 | 18 | 138 |||
-| Niveau 14 | 19 | 157 |||
-| Niveau 15 | 20 | 177 |||
-| Niveau 16 | 21 | 198 |||
-| Niveau 17 | 22 | 220 |||
-| Niveau 18 | 23 | 243 |||
-| Niveau 19 | 24 | 267 |||
-| Niveau 20 | 27 | 294 |||
-| Niveau 21 | 28 | 322 |||
-| Niveau 22 | 29 | 351 |||
-| Niveau 23 | 30 | 381 |||
-| Niveau 24 | 31 | 412 |||
-| Niveau 25 | 32 | 444 |||
-| Niveau 26 | 33 | 477 |||
-| Niveau 27 | 34 | 511 |||
-| Niveau 28 | 35 | 546 |||
-| Niveau 29 | 36 | 582 |||
-| Niveau 30 | 37 | 619 |||
+## 6. Progression en caractéristiques : Niveaux 1 → 36
+
+| Niveau    | XP nécessaire | Cumul d’XP | XP Magie | Cumul d’XP Magie |
+| --------- | ------------- | ---------- | -------- | ---------------- |
+| Niveau 1  | 4             | 4          | 12       | 12               |
+| Niveau 2  | 5             | 9          | 15       | 27               |
+| Niveau 3  | 6             | 15         | 18       | 45               |
+| Niveau 4  | 7             | 22         | 21       | 66               |
+| Niveau 5  | 8             | 30         | 24       | 90               |
+| Niveau 6  | 9             | 39         | 27       | 117              |
+| Niveau 7  | 10            | 49         | 30       | 147              |
+| Niveau 8  | 11            | 60         |          |                  |
+| Niveau 9  | 12            | 72         |          |                  |
+| Niveau 10 | 15            | 87         |          |                  |
+| Niveau 11 | 16            | 103        |          |                  |
+| Niveau 12 | 17            | 120        |          |                  |
+| Niveau 13 | 18            | 138        |          |                  |
+| Niveau 14 | 19            | 157        |          |                  |
+| Niveau 15 | 20            | 177        |          |                  |
+| Niveau 16 | 21            | 198        |          |                  |
+| Niveau 17 | 22            | 220        |          |                  |
+| Niveau 18 | 23            | 243        |          |                  |
+| Niveau 19 | 24            | 267        |          |                  |
+| Niveau 20 | 27            | 294        |          |                  |
+| Niveau 21 | 28            | 322        |          |                  |
+| Niveau 22 | 29            | 351        |          |                  |
+| Niveau 23 | 30            | 381        |          |                  |
+| Niveau 24 | 31            | 412        |          |                  |
+| Niveau 25 | 32            | 444        |          |                  |
+| Niveau 26 | 33            | 477        |          |                  |
+| Niveau 27 | 34            | 511        |          |                  |
+| Niveau 28 | 35            | 546        |          |                  |
+| Niveau 29 | 36            | 582        |          |                  |
+| Niveau 30 | 37            | 619        |          |                  |
+| Niveau 31 | 38            | 657        |          |                  |
+| Niveau 32 | 39            | 696        |          |                  |
+| Niveau 33 | 40            | 736        |          |                  |
+| Niveau 34 | 41            | 747        |          |                  |
+| Niveau 35 | 43            | 790        |          |                  |
+| Niveau 36 | 44            | 834        |          |                  |
 
 ## 7. Magie (PM)
 
@@ -822,9 +827,6 @@ Max : +3.
 → restrictions magiques,
 → technicités physiques,
 → cohérence PM / EN / Adaptation.
-
----
-
 # VI. Compétences — Version MJ 
 
 ## 1. Structure générale des compétences
@@ -833,7 +835,7 @@ FOR, DEX, CON, INT, SAG, CHA.
 
 Chaque compétence est associée à :
 - une **caractéristique principale**,
-- un **jet sur d20 + d10**,
+- un **jet sur 36**,
 - une **maîtrise** éventuelle (+XP),
 - une **utilisation en situation** (mécanique ou narrative).
 
@@ -848,15 +850,15 @@ Les compétences servent à résoudre :
 
 ## 2. Règles générales des compétences
 
-### 2.1 Jet standard (d20 + d10)
-Un test de compétence génère un résultat **entre 2 et 30**.
+### 2.1 Jet standard (roulette européenne ou d36)
+Un test de compétence génère un résultat **entre 0 et 36**.
 
 #### 2.1.1 Interprétation des valeurs
-- **1–2** → Échec critique
-- **3–28** → Résultat normal
-- **29–30** → Réussite critique
+- **0** →  bonus du MJ ! (bonbon, point de chance, ce que le MJ veut)
+- **1–2** → Réussite critique
+- **35,36**→ Échec critique
 
-Le seuil de réussite est déterminé par le MJ en fonction de :
+Les malus de stats est déterminé par le MJ en fonction de :
 - difficulté,
 - contexte,
 - matériel utilisé,
@@ -864,10 +866,10 @@ Le seuil de réussite est déterminé par le MJ en fonction de :
 
 ### 2.2 Réussites et échecs
 #### 2.2.1 Réussite
-Le personnage atteint ou dépasse le seuil → action réussie.
+Le personnage a un jet égale ou inférieur à sa statistique → action réussie.
 
 #### 2.2.2 Échec
-Le personnage n’atteint pas le seuil → action échouée.
+Le personnage a un jet supérieur à sa statistique → action échouée.
 
 #### 2.2.3 Échec critique
 L’action échoue **avec complication** :

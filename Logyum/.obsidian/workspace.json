@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6aa3fad9f243650",
+        "id": "118e4f990ff25b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1c0c06b56eb1ed55",
+            "id": "b46a4085c778c723",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "MJ - Livre du MJ"
             }
           }
         ]
@@ -185,8 +189,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1c0c06b56eb1ed55",
+  "active": "b46a4085c778c723",
   "lastOpenFiles": [
+    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
     "Résumés/Artefacts-fusionné.md",
     "Résumés/Projets-fusionné 1.md",
     "Résumés/Meta.md",
@@ -212,7 +217,6 @@
     "Cosmologie/Eneos.md",
     "Cosmologie/Plans/Shizenmashi.md",
     "Cosmologie/Plans/L'Interstice.md",
-    "Cosmologie/Plans/Ansokumashi.md",
     "Sans titre.canvas",
     "Résumés",
     "Projets/JDR/Campagnes/Campagne α"
