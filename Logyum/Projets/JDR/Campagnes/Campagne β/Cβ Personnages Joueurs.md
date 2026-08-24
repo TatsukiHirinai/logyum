@@ -14,13 +14,12 @@ Réussir la mission confié coûte que coûte.
 ### Histoire
 Elle naît dans une famille fermière très pauvre, elle fut abandonnée auprès d’une serre de Lheiren. Un moine silvaren la trouva alors qu'il s'apprêtait à faire ses prières matinales. Il l’emmena dans l’orphelinat d’Innomet où elle grandit jusqu’à sa majorité. Elle qui était devenue une sorte de grande sœur pour tout le monde, comprit directement ce qu’elle devait faire dans sa vie : protéger les plus faibles. Elle rentra alors dans l’école de paladins la plus réputée d’Innomet, et malgré de nombreuses remises à l’ordre dû à son nombreuses insubordinations, elle est devenue une grande paladine.
 ### Statistiques
-- FOR : 24 = 8 paliers
-- DEX : 12 = 4 paliers
-- CON : 23 = 7 paliers
-- SAG : 7  = 2 paliers
-- INT : 11 = 4 paliers
-- CHA : 24 = 8 paliers
-Niveau générale : 16 (33 paliers/2)
+- FOR : 29
+- DEX : 14
+- CON : 28
+- SAG : 9
+- INT : 13
+- CHA : 29
 
 # Tarnel Vhoran (Émilien) (k0nkorde)
 ### Informations générales
@@ -38,13 +37,12 @@ Prendre la place de sa cheffe par tous les moyens, même en la piégeant ou en l
 ### Histoire
 Il naît dans une famille aristocrate de Rhisst mais passait son temps dans les rues à faire sa loi. Lorsqu’il atteint sa majorité, ses parents, énervés qu’il traîne dehors, l’envoyèrent dans une école de paladins de Rhisst. Malgré sa personnalité forte, il se fit harceler par ses camarades car il était plus faible physiquement que tout le monde. Il développa alors une aigreur et une haine envers tout le monde, son seul but fut alors de devenir un paladin de haut rang pour se venger.
 ### Statistiques
-- FOR : 15 = 4 paliers
-- DEX : 15 = 5 paliers
-- CON : 12 = 3 paliers
-- SAG : 10 = 3 paliers
-- INT : 18 = 6 paliers
-- CHA : 22 = 7 paliers
-Niveau générale : 14 (28 paliers/2)
+- FOR : 18
+- DEX : 18
+- CON : 14
+- SAG : 12
+- INT : 22
+- CHA : 26
 
 # Kelmar Inoth (Paul) (k0nkorde)
 ### Informations générales
@@ -62,13 +60,12 @@ Prendre contact avec des supérieurs du Culte de la sève pour s'y intégrer.
 ### Histoire
 Il grandit dans une famille silvaren. Une enfance plutôt bénigne, des parents aimant et un frère avec qui il s’entendait bien. Vers ses 10 rayons, son frère disparut dans un pillage Manhund, la famille fut dévastée, le père tomba dans l’alcool triste, sa mère se ferma et lui se tourna vers la religion. Il essayait de trouver un réconfort et une sagesse par la religion silvaren. À sa majorité, il partit dans un monastère silvaren pour se concentrer sur sa foi. Au fil des ans et des relations nouées dans cet environnement de foi, il devint l’un des sept moines de la ville. Malgré sa profonde foi, il est en désaccord avec la haute sphère silvaren et la direction vers laquelle se tourne la religion. Avec les récentes découvertes qu’il a fait sur la corruption de la haute sphère, il remet en cause l’autorité de celle-ci. En accord avec les idées du Culte de la Sève, il pactise secrètement avec eux. Néanmoins, il n’aime pas la façon dont sont exécutées les idées du Culte, d’où son objectif de les intégrer pour diriger le culte vers un meilleur avenir.
 ### Statistiques
-- FOR : 14 = 4 paliers
-- DEX : 16 = 5 paliers
-- CON : 14 = 4 paliers
-- SAG : 16 = 5 paliers
-- INT : 17 = 6 paliers
-- CHA : 14 = 4 paliers
-Niveau générale : 14 (28 paliers/2)
+- FOR : 17
+- DEX : 19
+- CON : 17
+- SAG : 19
+- INT : 20
+- CHA : 17
 
 # Raiven Tolmak (Julien) (nikaruryu)
 ### Informations générales
@@ -86,10 +83,9 @@ Finir la mission qui lui a été confié et trouver un métier qui lui convient.
 ### Histoire
 Raiven était un enfant très discret, il ne disait rien et ne faisait rien qui ne lui avait pas été demandé. Sa discrétion lui valut de se faire envoyer dans une caserne par ses parents, pour l’endurcir un peu. Cela eut l’effet inverse, il devint hypocondriaque et l’inculcation de propreté dans les chambres le rendit maniaque. Il n’est pas un bon guerrier, et ses supérieurs ne savent pas quoi faire de lui, alors ils essayent de l’envoyer dans des missions sur lesquelles il ne ferait rien de mal. En réalité, Raiven est quelqu’un de très malin. Il n’a juste pas encore eu l’occasion de trouver quelque chose qui le passionne. Cette mission est un peu sa dernière mission, s’il ne réussit pas à la faire et/ou à se démarquer pendant, il sera renvoyé de la caserne, mais ça ne le dérange pas tant que ça.
 ### Statistiques
-- FOR : 15 = 4 paliers
-- DEX : 14 = 4 paliers
-- CON : 14 = 4 paliers
-- SAG : 13 = 4 paliers
-- INT : 18 = 6 paliers
-- CHA : 12 = 3 paliers
-Niveau générale : 12 (25 paliers/2)
+- FOR : 18
+- DEX : 17
+- CON : 17
+- SAG : 16
+- INT : 22
+- CHA : 14
