@@ -616,9 +616,9 @@ Il couvre :
 ## 1. Système de tests
 
 ### 1.1 Jet de compétence
-Un test de compétence se résout avec un **jet sur 36**, obtenu via une roulette européenne ou 1d36 (numérique). La valeur finale obtenu et attendu est entre 0 et 36 inclus.
+Un test de compétence se résout avec un **jet sur 36**, obtenu via une roulette européenne ou 1d36 (numérique) ou 2d6 (avec pour correspondance la table de 6). La valeur finale obtenu et attendu est entre 1 et 36 inclus.
 Le système de test est le **roll under**. Il faut donc que le joueur réalise un jet en dessous ou égale à sa statistique. Des bonus ou malus peuvent être appliqués à cette statistique pour augmenter les probabilités de réussir son test.
-
+![[{C998D2A3-DC9A-44F9-A570-CAB7B31CBE1B}.png]]
 #### 1.1.1 Seuils
 - **Réussite** : jet ≤ statistique (+bonus) (-malus)
 - **Échec** : jet > statistique (+bonus) (-malus)
@@ -851,7 +851,7 @@ Les compétences servent à résoudre :
 ## 2. Règles générales des compétences
 
 ### 2.1 Jet standard (roulette européenne ou d36)
-Un test de compétence génère un résultat **entre 0 et 36**.
+Un test de compétence génère un résultat **entre 1 et 36**.
 
 #### 2.1.1 Interprétation des valeurs
 - **0** →  bonus du MJ ! (bonbon, point de chance, ce que le MJ veut)
