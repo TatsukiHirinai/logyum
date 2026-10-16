@@ -1,0 +1,363 @@
+{
+  "format": 1,
+  "id": "6238914b-2184-4877-a4bb-4a48c1599af8",
+  "name": "Logyum",
+  "builtIn": false,
+  "rules": {
+    "gridDefaults": {
+      "unitType": "meters",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "diagonalRule": "equidistant",
+      "coneAngle": 53.13,
+      "abstractRangeBands": []
+    },
+    "conditions": [
+      {
+        "id": "dnd5e-blinded",
+        "name": "Blinded",
+        "color": "#475569",
+        "icon": "blindfold",
+        "effect": "blinded"
+      },
+      {
+        "id": "dnd5e-charmed",
+        "name": "Charmed",
+        "color": "#db2777",
+        "icon": "heart"
+      },
+      {
+        "id": "dnd5e-deafened",
+        "name": "Deafened",
+        "color": "#0891b2",
+        "icon": "hearing-disabled"
+      },
+      {
+        "id": "dnd5e-exhaustion",
+        "name": "Exhaustion",
+        "color": "#92400e",
+        "icon": "tired-eye",
+        "valued": true
+      },
+      {
+        "id": "dnd5e-frightened",
+        "name": "Frightened",
+        "color": "#7c3aed",
+        "icon": "terror"
+      },
+      {
+        "id": "dnd5e-grappled",
+        "name": "Grappled",
+        "color": "#ea580c",
+        "icon": "grab"
+      },
+      {
+        "id": "dnd5e-incapacitated",
+        "name": "Incapacitated",
+        "color": "#b91c1c",
+        "icon": "knockout"
+      },
+      {
+        "id": "dnd5e-invisible",
+        "name": "Invisible",
+        "color": "#c7d2fe",
+        "icon": "invisible",
+        "effect": "invisible"
+      },
+      {
+        "id": "dnd5e-paralyzed",
+        "name": "Paralyzed",
+        "color": "#38bdf8",
+        "icon": "frozen-body"
+      },
+      {
+        "id": "dnd5e-petrified",
+        "name": "Petrified",
+        "color": "#78716c",
+        "icon": "stoned-skull"
+      },
+      {
+        "id": "dnd5e-poisoned",
+        "name": "Poisoned",
+        "color": "#16a34a",
+        "icon": "poison"
+      },
+      {
+        "id": "dnd5e-prone",
+        "name": "Prone",
+        "color": "#d97706",
+        "icon": "foot-trip"
+      },
+      {
+        "id": "dnd5e-restrained",
+        "name": "Restrained",
+        "color": "#0d9488",
+        "icon": "imprisoned"
+      },
+      {
+        "id": "dnd5e-stunned",
+        "name": "Stunned",
+        "color": "#facc15",
+        "icon": "knocked-out-stars"
+      },
+      {
+        "id": "dnd5e-unconscious",
+        "name": "Unconscious",
+        "color": "#1e3a8a",
+        "icon": "sleepy"
+      }
+    ],
+    "defaultWidgets": {
+      "hpBar": true,
+      "stressBar": false
+    },
+    "diceSetId": "fb399a9d-2195-4d93-80c6-5ef1312ae41c",
+    "initiative": {
+      "mode": "turn-order",
+      "roll": "1d20",
+      "firstSide": "players",
+      "modifier": {
+        "field": "initiative"
+      },
+      "modifierFallback": {
+        "field": "stats.1",
+        "abilityScore": true
+      }
+    },
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false
+      }
+    ],
+    "senses": [
+      {
+        "id": "dnd5e-darkvision",
+        "name": "Darkvision",
+        "description": "Sees dim light as bright and darkness as dim within its range, in shades of grey.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-dim",
+          "magicalDark": "none"
+        },
+        "look": "monochrome",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": false,
+        "worksWhileBlinded": false,
+        "range": "required",
+        "defaultRange": 60,
+        "role": "darkvision"
+      },
+      {
+        "id": "dnd5e-blindsight",
+        "name": "Blindsight",
+        "description": "Perceives everything within its range without light, invisible creatures too. Walls stop it.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": true,
+        "worksWhileBlinded": true,
+        "range": "required",
+        "defaultRange": 60
+      },
+      {
+        "id": "dnd5e-tremorsense",
+        "name": "Tremorsense",
+        "description": "Feels creatures on the ground within its range, through walls. They show as outlines.",
+        "lineOfSight": false,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "creatures",
+        "precise": false,
+        "seesInvisible": true,
+        "worksWhileBlinded": true,
+        "range": "required",
+        "defaultRange": 60,
+        "ignores": "airborne",
+        "role": "tremorsense"
+      },
+      {
+        "id": "dnd5e-truesight",
+        "name": "Truesight",
+        "description": "Sees in darkness, magical darkness too, and invisible creatures within its range.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": true,
+        "worksWhileBlinded": false,
+        "range": "required",
+        "defaultRange": 120
+      },
+      {
+        "id": "dnd5e-devils-sight",
+        "name": "Devil's Sight",
+        "description": "Sees normally in darkness and magical darkness within its range.",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "normal",
+          "dim": "as-bright",
+          "dark": "as-bright",
+          "magicalDark": "as-bright"
+        },
+        "look": "colour",
+        "reveals": "all",
+        "precise": true,
+        "seesInvisible": false,
+        "worksWhileBlinded": false,
+        "range": "required",
+        "defaultRange": 120
+      },
+      {
+        "id": "dnd5e-see-invisibility",
+        "name": "See Invisibility",
+        "description": "Sees invisible creatures wherever its eyes see.",
+        "grants": "see-invisible",
+        "lineOfSight": true,
+        "sees": {
+          "bright": "none",
+          "dim": "none",
+          "dark": "none",
+          "magicalDark": "none"
+        },
+        "look": "colour",
+        "reveals": "creatures",
+        "precise": false,
+        "seesInvisible": false,
+        "worksWhileBlinded": false,
+        "range": "unlimited"
+      }
+    ],
+    "lightPresets": [
+      {
+        "id": "dnd5e-candle",
+        "unit": "feet",
+        "name": "Candle",
+        "bright": 5,
+        "dim": 10,
+        "color": "#ffb347",
+        "animation": "candle",
+        "kind": "candle",
+        "sourceRadius": 1,
+        "intensity": 0.9
+      },
+      {
+        "id": "dnd5e-torch",
+        "unit": "feet",
+        "name": "Torch",
+        "bright": 20,
+        "dim": 40,
+        "color": "#ff9a3c",
+        "animation": "torch",
+        "kind": "torch",
+        "sourceRadius": 2
+      },
+      {
+        "id": "dnd5e-hooded-lantern",
+        "unit": "feet",
+        "name": "Hooded lantern",
+        "bright": 30,
+        "dim": 60,
+        "color": "#ffd28a",
+        "animation": "none",
+        "kind": "lantern",
+        "sourceRadius": 1.5
+      },
+      {
+        "id": "dnd5e-light",
+        "unit": "feet",
+        "name": "Light",
+        "bright": 20,
+        "dim": 40,
+        "color": "#8fb8ff",
+        "animation": "magic",
+        "kind": "magical",
+        "sourceRadius": 2.5
+      },
+      {
+        "id": "dnd5e-lamp",
+        "unit": "feet",
+        "name": "Lamp",
+        "bright": 15,
+        "dim": 45,
+        "color": "#ffc46b",
+        "animation": "none",
+        "kind": "lantern",
+        "sourceRadius": 1
+      },
+      {
+        "id": "dnd5e-continual-flame",
+        "unit": "feet",
+        "name": "Continual Flame",
+        "bright": 20,
+        "dim": 40,
+        "color": "#ffc46b",
+        "animation": "none",
+        "kind": "magical",
+        "sourceRadius": 2
+      },
+      {
+        "id": "dnd5e-daylight",
+        "unit": "feet",
+        "name": "Daylight",
+        "bright": 60,
+        "dim": 120,
+        "color": "#fff1d6",
+        "animation": "none",
+        "kind": "magical",
+        "sourceRadius": 4,
+        "priority": 1
+      },
+      {
+        "id": "dnd5e-darkness",
+        "unit": "feet",
+        "name": "Darkness",
+        "dim": 15,
+        "bright": 0,
+        "color": "#8f7cf0",
+        "animation": "none",
+        "kind": "darkness",
+        "sourceRadius": 1,
+        "darkness": true
+      },
+      {
+        "id": "dnd5e-bullseye-lantern",
+        "unit": "feet",
+        "name": "Bullseye lantern",
+        "bright": 60,
+        "dim": 120,
+        "color": "#ffd28a",
+        "animation": "none",
+        "kind": "lantern",
+        "sourceRadius": 1.5,
+        "angle": 53
+      }
+    ]
+  }
+}

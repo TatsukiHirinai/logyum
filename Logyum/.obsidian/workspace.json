@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "118e4f990ff25b6f",
+        "id": "041b8cd72fee1317",
         "type": "tabs",
         "children": [
           {
-            "id": "b46a4085c778c723",
+            "id": "de0017940b748089",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Campagne β Lheiren, l’arbre sacrée"
+              "type": "atlas-vtt-dashboard",
+              "state": {},
+              "icon": "home",
+              "title": "Atlas dashboard"
             }
           },
           {
-            "id": "6ae4bf3f8987fd52",
+            "id": "224f7e41ba3fa0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projets/JDR/Règles/MJ - Livre du MJ.md",
+                "file": "atlas-vtt/campaigns/Campagne β Lheiren/quests/Principale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MJ - Livre du MJ"
+              "title": "Principale"
             }
           }
         ],
@@ -95,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "940a944e102d379f",
@@ -188,52 +184,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "templates:Insérer le modèle": false,
+      "graph:Ouvrir la vue graphique": true,
+      "templates:Insérer le modèle": true,
       "command-palette:Ouvrir la palette de commandes": false,
-      "markdown-importer:Ouvrir l'importateur Markdown": false,
-      "publish:Publier les modifications": false,
-      "bases:Créer une nouvelle base": false,
-      "templater-obsidian:Templater": false,
+      "publish:Publier les modifications": true,
+      "bases:Créer une nouvelle base": true,
+      "templater-obsidian:Templater": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "image-picker:Open Image Picker": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "image-picker:Open Image Picker": true,
+      "atlas-vtt:Display image on player view": false,
+      "calendarium:Open Calendarium": true
     }
   },
-  "active": "6ae4bf3f8987fd52",
+  "active": "224f7e41ba3fa0d1",
   "lastOpenFiles": [
-    "{C998D2A3-DC9A-44F9-A570-CAB7B31CBE1B}.png",
-    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
-    "Projets/JDR/Règles/MJ - Livre du MJ.md",
+    "atlas-vtt/collections/Campagne β Lheiren/scenes/LACOUR arrière plan visio clair.atlasmap",
+    "atlas-vtt/collections/Campagne β Lheiren/scenes/LACOUR arrière plan visio clair.thumb.jpg",
+    "atlas-vtt/campaigns/Campagne β Lheiren/quests/Principale.md",
+    "atlas-vtt/collections/Campagne β Lheiren/scenes/scene-1792155392423-4sr2u7.json",
+    "atlas-vtt/collections/Campagne β Lheiren/maps/map-1792155358549-vas8by.json",
+    "atlas-vtt/assets/thumbnails/LACOUR_arri_re_plan_visio_clair_1792155358534_djdrz0-bb1ecf35.webp",
+    "atlas-vtt/assets/LACOUR_arri_re_plan_visio_clair_1792155358534_djdrz0.png",
+    "atlas-vtt/collections/Campagne β Lheiren/collection.json",
+    "atlas-vtt/collections/Campagne β Lheiren/players",
+    "atlas-vtt/collections/Campagne β Lheiren/encounters",
+    "atlas-vtt/collections/Campagne β Lheiren/scenes",
+    "atlas-vtt/collections/Campagne β Lheiren/characters",
+    "atlas-vtt/collections/Campagne β Lheiren/maps",
+    "atlas-vtt/collections/Campagne β Lheiren/statblocks",
+    "atlas-vtt/assets/thumbnails/Occultist_1792068915046_knbscb-90f0e3c7.webp",
+    "atlas-vtt/assets/thumbnails/Assassin_1792068915030_ofg41n-a2f339db.webp",
+    "atlas-vtt/assets/thumbnails/Knight_1792068915018_cdsaaj-21ad9006.webp",
+    "atlas-vtt/assets/thumbnails/Wizard_1792068915005_ldtghc-c5a3ec82.webp",
+    "atlas-vtt/assets/thumbnails/Warlock_1792068914991_k8isrg-d28c5d5b.webp",
+    "atlas-vtt/assets/thumbnails/Rogue_1792068914981_1aenol-f6a38417.webp",
+    "atlas-vtt/assets/thumbnails/Ranger_1792068914965_rp3nt7-899d3636.webp",
     "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
-    "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
-    "Projets/JDR/Campagnes/Campagne ζ Les grottes bleus.md",
-    "Projets/JDR/Campagnes/Campagne ε Une nouvelle chance.md",
-    "Projets/JDR/Campagnes/Campagne δ On a volé notre science !.md",
-    "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
-    "Projets/Jeux Vidéos/PremierJeuGodot.md",
-    "Projets/Jeux Vidéos/Match-3 Logyum.md",
-    "Résumés/Artefacts-fusionné.md",
-    "Résumés/Projets-fusionné 1.md",
-    "Résumés/Meta.md",
-    "Résumés/Glossaire-fusionné.md",
-    "Résumés/Science et Magie.md",
-    "Résumés/Idées non rangées.md",
-    "Idées non rangées.md",
-    "Chronologie/Chronologies.md",
-    "Résumés/Topologie-fusionné.md",
-    "Résumés/Religions-fusionné.md",
-    "Résumés/Races-fusionné.md",
-    "Résumés/Projets-fusionné.md",
-    "Résumés/Nature-fusionné.md",
-    "Résumés/Histoires-fusionné.md",
-    "Résumés/Cultures-fusionné.md",
     "Sans titre.canvas",
-    "Résumés",
-    "Projets/JDR/Campagnes/Campagne α"
+    "Idées non rangées.md",
+    "Meta.md",
+    "Histoires/Histoire random n°4, Famille Hirinai.md",
+    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
+    "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
+    "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
+    "Projets/Projets.md",
+    "Religions/Divinité/Vulpine.md",
+    "Religions/Divinité/Corvo.md",
+    "Glossaire/GlossaireWiki.md",
+    "Glossaire/Glossaire.md",
+    "Artefacts/Magique/Pierre Sanguinaire.md",
+    "Artefacts/Magique/Éclat de Magie.md",
+    "Artefacts/Magique/Anneau de Corruption.md",
+    "Artefacts/Dominium/Œil de Cristal.md",
+    "Artefacts/Dominium/Graine de Lumière.md",
+    "Artefacts/Dominium/Atlas.md",
+    "Races/Horloger/Scribe.md",
+    "Races/Horloger/Reliquaire.md",
+    "Races/Horloger/Prophète.md",
+    "Science et Magie.md",
+    "Projets/JDR/Jeu de rôle.md",
+    "Projets/JDR/Classes/Mage.md"
   ]
 }

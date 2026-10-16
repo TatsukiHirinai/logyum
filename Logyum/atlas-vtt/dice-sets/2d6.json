@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "id": "661eacbe-2dbb-4b5f-ae52-c9d239245e07",
+  "name": "2d6",
+  "dice": [
+    {
+      "count": 2,
+      "sides": 6
+    }
+  ],
+  "crit": "roll-under",
+  "advantage": {
+    "kind": "keep"
+  },
+  "disadvantage": {
+    "kind": "keep"
+  }
+}

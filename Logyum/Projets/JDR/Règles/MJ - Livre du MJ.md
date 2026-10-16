@@ -225,7 +225,7 @@ Réserve principale : **PM**.
 - **5 – Psychopompe mineur** : Tu dialogues avec une âme non hostile (1/ repos) pendant 10 min.
 - **6 – Spécificité** : Clerc, Moine, Pactiste.
 - **7 – Aura spirituelle** : Réduction 1d6 dégâts spirituels/psychiques. Tu obtiens une résistance (réduction 1d6) aux dégâts nécrotiques/spirituels/psychiques et un Avantage contre la peur d’origine spirituelle. (Foi comme armure)
-- **8 – Grand rituel** : Tu apprends 1 grand rituel (coût 3 PM, 1 action rituelle prolongée) au choix :
+- **8 – Aura spirituelle** : Tu apprends 1 grand rituel (coût 3 PM, 1 action rituelle prolongée) au choix :
 	- Ancrage sacré (bloque portails/teleports spirituels mineurs dans 9 m, 10 min)
 	- Voile funèbre (dissimule le groupe des esprits/ombres, 1 min)
 	- Relâchement (libère une âme d’un sceau non‑divin, test opposé)

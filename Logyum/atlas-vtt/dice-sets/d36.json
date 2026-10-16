@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "id": "fb399a9d-2195-4d93-80c6-5ef1312ae41c",
+  "name": "d36",
+  "dice": [
+    {
+      "count": 1,
+      "sides": 36
+    }
+  ],
+  "crit": "roll-under",
+  "advantage": {
+    "kind": "keep"
+  },
+  "disadvantage": {
+    "kind": "keep"
+  }
+}

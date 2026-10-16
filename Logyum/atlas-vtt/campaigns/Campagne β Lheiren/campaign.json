@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "id": "a4e6f4d9-7c6c-4a3e-a355-132846d1837f",
+  "name": "Campagne β Lheiren",
+  "createdAt": 1792154331849,
+  "system": {
+    "gridDefaults": {
+      "unitType": "meters",
+      "unitDistance": 1.5,
+      "measurementMode": "metric",
+      "diagonalRule": "equidistant",
+      "coneAngle": 53.13,
+      "abstractRangeBands": []
+    },
+    "conditions": [
+      {
+        "id": "dnd5e-blinded",
+        "name": "Blinded",
+        "color": "#475569",
+        "icon": "blindfold",
+        "effect": "blinded"
+      },
+      {
+        "id": "dnd5e-charmed",
+        "name": "Charmed",
+        "color": "#db2777",
+        "icon": "heart"
+      },
+      {
+        "id": "dnd5e-deafened",
+        "name": "Deafened",
+        "color": "#0891b2",
+        "icon": "hearing-disabled"
+      },
+      {
+        "id": "dnd5e-exhaustion",
+        "name": "Exhaustion",
+        "color": "#92400e",
+        "icon": "tired-eye",
+        "valued": true
+      },
+      {
+        "id": "dnd5e-frightened",
+        "name": "Frightened",
+        "color": "#7c3aed",
+        "icon": "terror"
+      },
+      {
+        "id": "dnd5e-grappled",
+        "name": "Grappled",
+        "color": "#ea580c",
+        "icon": "grab"
+      },
+      {
+        "id": "dnd5e-incapacitated",
+        "name": "Incapacitated",
+        "color": "#b91c1c",
+        "icon": "knockout"
+      },
+      {
+        "id": "dnd5e-invisible",
+        "name": "Invisible",
+        "color": "#c7d2fe",
+        "icon": "invisible",
+        "effect": "invisible"
+      },
+      {
+        "id": "dnd5e-paralyzed",
+        "name": "Paralyzed",
+        "color": "#38bdf8",
+        "icon": "frozen-body"
+      },
+      {
+        "id": "dnd5e-petrified",
+        "name": "Petrified",
+        "color": "#78716c",
+        "icon": "stoned-skull"
+      },
+      {
+        "id": "dnd5e-poisoned",
+        "name": "Poisoned",
+        "color": "#16a34a",
+        "icon": "poison"
+      },
+      {
+        "id": "dnd5e-prone",
+        "name": "Prone",
+        "color": "#d97706",
+        "icon": "foot-trip"
+      },
+      {
+        "id": "dnd5e-restrained",
+        "name": "Restrained",
+        "color": "#0d9488",
+        "icon": "imprisoned"
+      },
+      {
+        "id": "dnd5e-stunned",
+        "name": "Stunned",
+        "color": "#facc15",
+        "icon": "knocked-out-stars"
+      },
+      {
+        "id": "dnd5e-unconscious",
+        "name": "Unconscious",
+        "color": "#1e3a8a",
+        "icon": "sleepy"
+      }
+    ],
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false,
+        "slot": 0
+      },
+      {
+        "key": "en",
+        "name": "EN",
+        "field": "EN",
+        "direction": "drains",
+        "color": "#f59e0b",
+        "visibleToPlayers": false,
+        "slot": 2
+      },
+      {
+        "key": "pm",
+        "name": "PM",
+        "field": "PM",
+        "direction": "drains",
+        "color": "#3b82f6",
+        "visibleToPlayers": false,
+        "slot": 4
+      }
+    ],
+    "diceSetId": "fb399a9d-2195-4d93-80c6-5ef1312ae41c",
+    "systemPresetId": "6238914b-2184-4877-a4bb-4a48c1599af8",
+    "initiative": {
+      "mode": "turn-order",
+      "roll": "1d36",
+      "firstSide": "players",
+      "modifier": {
+        "field": "initiative",
+        "abilityScore": true
+      },
+      "modifierFallback": {
+        "field": "stats.1",
+        "abilityScore": true
+      }
+    }
+  }
+}
