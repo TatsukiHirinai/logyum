@@ -16,23 +16,8 @@
               "icon": "home",
               "title": "Atlas dashboard"
             }
-          },
-          {
-            "id": "224f7e41ba3fa0d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atlas-vtt/campaigns/Campagne β Lheiren/quests/Principale.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Principale"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,14 +182,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "image-picker:Open Image Picker": true,
       "atlas-vtt:Display image on player view": false,
-      "calendarium:Open Calendarium": true
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "224f7e41ba3fa0d1",
+  "active": "de0017940b748089",
   "lastOpenFiles": [
+    "Images/Race/nakkard_fiche.png",
+    "Images/Race/nokkardas_male.png",
+    "Images/Race/nokkardas_female.png",
+    "Projets/JDR/Classes/Errant.md",
+    "Projets/JDR/Classes/Agent.md",
+    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
+    "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
+    "atlas-vtt/campaigns/Campagne β Lheiren/quests/Principale.md",
     "atlas-vtt/collections/Campagne β Lheiren/scenes/LACOUR arrière plan visio clair.atlasmap",
     "atlas-vtt/collections/Campagne β Lheiren/scenes/LACOUR arrière plan visio clair.thumb.jpg",
-    "atlas-vtt/campaigns/Campagne β Lheiren/quests/Principale.md",
     "atlas-vtt/collections/Campagne β Lheiren/scenes/scene-1792155392423-4sr2u7.json",
     "atlas-vtt/collections/Campagne β Lheiren/maps/map-1792155358549-vas8by.json",
     "atlas-vtt/assets/thumbnails/LACOUR_arri_re_plan_visio_clair_1792155358534_djdrz0-bb1ecf35.webp",
@@ -221,14 +213,10 @@
     "atlas-vtt/assets/thumbnails/Knight_1792068915018_cdsaaj-21ad9006.webp",
     "atlas-vtt/assets/thumbnails/Wizard_1792068915005_ldtghc-c5a3ec82.webp",
     "atlas-vtt/assets/thumbnails/Warlock_1792068914991_k8isrg-d28c5d5b.webp",
-    "atlas-vtt/assets/thumbnails/Rogue_1792068914981_1aenol-f6a38417.webp",
-    "atlas-vtt/assets/thumbnails/Ranger_1792068914965_rp3nt7-899d3636.webp",
-    "Projets/JDR/Campagnes/Campagne β/Campagne β Lheiren, l’arbre sacrée.md",
     "Sans titre.canvas",
     "Idées non rangées.md",
     "Meta.md",
     "Histoires/Histoire random n°4, Famille Hirinai.md",
-    "Projets/JDR/Campagnes/Campagne β/Cβ Personnages Joueurs.md",
     "Projets/JDR/Campagnes/Campagne γ La guerre du bois.md",
     "Projets/JDR/Campagnes/Campagne α/Campagne α ça vole pas une ville !.md",
     "Projets/Projets.md",
@@ -245,8 +233,6 @@
     "Races/Horloger/Scribe.md",
     "Races/Horloger/Reliquaire.md",
     "Races/Horloger/Prophète.md",
-    "Science et Magie.md",
-    "Projets/JDR/Jeu de rôle.md",
-    "Projets/JDR/Classes/Mage.md"
+    "Science et Magie.md"
   ]
 }

@@ -10,3 +10,19 @@ Logyum/.vs
 *.sln.docstates
 .vscode/
 ``
+
+# Obsidian : etat local de l'interface
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache
+.obsidian/cache/
+.obsidian/workspace
+
+# Systeme
+.DS_Store
+Thumbs.db
+
+# Atlas VTT (si genere automatiquement)
+*.db
+*.sqlite
