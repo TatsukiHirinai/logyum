@@ -1,1 +1,0 @@
-langue officielle de Nevot, mélange de trois langues : le Moorhien, le Monayeur et le Speilin. Son apprentissage est simple est il devient très vite la norme dans les Nov-Isel. Il se rapproche du français (irl). Pendant l'ère 11 il remplace officiellement le Moorhien en tant que langue internationale officiel.

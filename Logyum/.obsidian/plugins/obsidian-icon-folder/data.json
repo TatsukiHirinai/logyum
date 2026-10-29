@@ -34,23 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Archives": "LiArchive",
   "Chronologies": "LiAlarmClock",
-  "Cultures": "LiPaintbrush",
-  "Histoires": "LiBookText",
-  "Nature": "LiTrees",
-  "Races": "LiStar",
-  "Religions": "LiScrollText",
   "Topologies": "LiMap",
-  "Meta.md": "LiBookmark",
-  "Idées non rangées.md": "LiNotebookText",
   "Images": "LiImages",
   "Projets": "LiBoxes",
-  "Template": "LiLayoutTemplate",
-  "Glossaire": "LiBookA",
-  "Science et Magie.md": "LiAnvil",
-  "Projets/Projets.md": "LiBoxes",
-  "Nature/Flore": "LiTreePine",
-  "Nature/Faune": "LiCat",
-  "Nature/Créature mythique": "LiBug"
+  "Template": "LiLayoutTemplate"
 }

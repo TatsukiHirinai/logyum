@@ -1,1 +1,0 @@
-langue des manhund, beaucoup de sous dialecte rendant son apprentissage très dur

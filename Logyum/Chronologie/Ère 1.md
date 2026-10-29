@@ -1,1 +1,0 @@
-Eneos fut séparé en deux, une moitié contrôlé par les nakkard, l’autre par les ombros.
